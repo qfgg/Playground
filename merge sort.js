@@ -15,13 +15,12 @@ function merge(arr, s, m, e) {
 }
 
 function sort(arr, start, end) {
-  if (start === end) {
-    return;
+  if (start < end) {
+    var mid = Math.ceil((end + start) / 2);
+    sort(arr, start, mid - 1);
+    sort(arr, mid, end);
+    merge(arr, start, mid, end);
   }
-  var mid = Math.ceil((end + start) / 2);
-  sort(arr, start, mid - 1);
-  sort(arr, mid, end);
-  merge(arr, start, mid, end);
 }
 
 function mergeSort(input) {
