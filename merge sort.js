@@ -1,4 +1,4 @@
-function merge1(arr, s, m, e) {
+function merge(arr, s, m, e) {
   var i = s;
   var j = m;
   while(i < j && j <= e) {
@@ -14,16 +14,16 @@ function merge1(arr, s, m, e) {
   }
 }
 
-function sort1(arr, start, end) {
+function sort(arr, start, end) {
   if (start < end) {
     var mid = Math.ceil((end + start) / 2);
-    sort1(arr, start, mid - 1);
-    sort1(arr, mid, end);
-    merge1(arr, start, mid, end);
+    sort(arr, start, mid - 1);
+    sort(arr, mid, end);
+    merge(arr, start, mid, end);
   }
 }
 
-function merge(arr, s, m, e) {
+function mergeo(arr, s, m, e) {
   var l = [];
   var r = [];
   var tmp = [];
@@ -46,17 +46,17 @@ function merge(arr, s, m, e) {
   }
 }
 
-function sort(arr, start, end) {
+function sorto(arr, start, end) {
   if (start < end) {
     var mid = Math.ceil((end + start) / 2);
-    sort(arr, start, mid - 1);
-    sort(arr, mid, end);
-    merge(arr, start, mid, end);
+    sorto(arr, start, mid - 1);
+    sorto(arr, mid, end);
+    mergeo(arr, start, mid, end);
   }
 }
 
-function mergeSort1(input) {
-  sort1(input, 0, input.length - 1);
+function mergeSorto(input) {
+  sorto(input, 0, input.length - 1);
 }
 
 function mergeSort(input) {
