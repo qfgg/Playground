@@ -1,4 +1,4 @@
-function merge(arr, s, m, e) {
+function merge1(arr, s, m, e) {
   var i = s;
   var j = m;
   while(i < j && j <= e) {
@@ -14,6 +14,38 @@ function merge(arr, s, m, e) {
   }
 }
 
+function sort1(arr, start, end) {
+  if (start < end) {
+    var mid = Math.ceil((end + start) / 2);
+    sort1(arr, start, mid - 1);
+    sort1(arr, mid, end);
+    merge1(arr, start, mid, end);
+  }
+}
+
+function merge(arr, s, m, e) {
+  var l = [];
+  var r = [];
+  var tmp = [];
+  for (var i = 0; i < m - s; i++) {
+    l[i] = arr[i + s];
+  }
+  for (var j = 0; j <= e - m; j++) {
+    r[j] = arr[j + m];
+  }
+  i = 0;
+  j = 0;
+  for (var k = 0; k <= e - s; k++) {
+    if ((l[i] !== undefined && r[j] === undefined) || l[i] < r[j]) {
+      arr[k + s] = l[i];
+      i++;
+    } else if ((l[i] === undefined && r[j] !== undefined) || l[i] >= r[j]) {
+      arr[k + s] = r[j];
+      j++;
+    }
+  }
+}
+
 function sort(arr, start, end) {
   if (start < end) {
     var mid = Math.ceil((end + start) / 2);
@@ -23,8 +55,10 @@ function sort(arr, start, end) {
   }
 }
 
+function mergeSort1(input) {
+  sort1(input, 0, input.length - 1);
+}
+
 function mergeSort(input) {
-  var output = input.slice();
-  sort(output, 0, output.length - 1);
-  return output;
+  sort(input, 0, input.length - 1);
 }
