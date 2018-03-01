@@ -2,19 +2,30 @@
 var js = document.createElement('script');
 js.src = 'merge sort.js';
 document.body.appendChild(js);
+// var js1 = document.createElement('script');
+// js1.src = 'insert sort.js';
+// document.body.appendChild(js1);
 
 // after script has been loaded, run test code
 window.onload = function() {
-  var a1 = [21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0];
-  var a2 = [21, 20, 19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0];
+  var a1 = [], a2 = [], a3 = [];
+  for (var i = 10000; i > 0; i--) {
+    a1[i] = Math.round(Math.random() * 10000);
+  }
+  // a2 = a1.slice();
+  // a3 = a1.slice();
+  // console.log(a1);
+  // console.log(a2);
+  // console.log(a3);
   var t1 = new Date().getTime();
-  for (var i = 0; i < 1000; i++) {
-    mergeSort(a1);
-  }
+  mergeSort(a1);
   var t2 = new Date().getTime();
-  for (var i = 0; i < 1000; i++) {
-    mergeSorto(a2);
-  }
-  var t3 = new Date().getTime();
-  console.log(t2 - t1, t3 - t2);
+  // mergeSorto(a2);
+  // var t3 = new Date().getTime();
+  // insertSort(a3);
+  // var t4 = new Date().getTime();
+  console.log(t2 - t1);
+  // console.log(a1);
+  // console.log(a2);
+  // console.log(a3);
 };
