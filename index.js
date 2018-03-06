@@ -1,6 +1,6 @@
 // dynamically import algorithm
 var js = document.createElement('script');
-js.src = 'merge sort.js';
+js.src = 'selection sort.js';
 document.body.appendChild(js);
 // var js1 = document.createElement('script');
 // js1.src = 'insert sort.js';
@@ -9,7 +9,7 @@ document.body.appendChild(js);
 // after script has been loaded, run test code
 window.onload = function() {
   var a1 = [], a2 = [], a3 = [];
-  for (var i = 10000; i > 0; i--) {
+  for (var i = 0; i < 10000; i++) {
     a1[i] = Math.round(Math.random() * 10000);
   }
   // a2 = a1.slice();
@@ -17,14 +17,16 @@ window.onload = function() {
   // console.log(a1);
   // console.log(a2);
   // console.log(a3);
-  var t1 = new Date().getTime();
-  mergeSort(a1);
-  var t2 = new Date().getTime();
+  console.log(a1);
+  // var t1 = new Date().getTime();
+  selectionSort(a1);
+  // var t2 = new Date().getTime();
   // mergeSorto(a2);
   // var t3 = new Date().getTime();
   // insertSort(a3);
   // var t4 = new Date().getTime();
-  console.log(t2 - t1);
+  console.log(a1);
+  // console.log(t2 - t1);
   // console.log(a1);
   // console.log(a2);
   // console.log(a3);
