@@ -1,15 +1,15 @@
-function VM(obj) {
-    var keys = Object.keys(obj.data);
+function VM(option) {
+    var keys = Object.keys(option.data);
     var context = this;
     keys.forEach(function(key) {
-        proxy(context, key, obj.data);
+        proxy(context, key, option.data);
     });
-    var mKeys = Object.keys(obj.methods);
+    var mKeys = Object.keys(option.methods);
     mKeys.forEach(function(key) {
-        proxy(context, key, obj.methods);
+        proxy(context, key, option.methods);
     });
-    observe(obj.data);
-    compile(obj.el, obj.data, this);
+    observe(option.data);
+    compile(option.el, option.data, this);
 }
 
 function proxy(target, key, source) {
