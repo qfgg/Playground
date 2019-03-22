@@ -20,5 +20,7 @@ function proxy(target, key, source) {
         set: function(newValue){
             source[key] = newValue;
         },
+        enumerable : true,
+        configurable : false
     })
 }
