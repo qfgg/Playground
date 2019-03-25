@@ -1,11 +1,12 @@
 function VM(option) {
     var keys = Object.keys(option.data);
+    var context = this;
     keys.forEach(function(key) {
-        proxy(this, key, option.data);
+        proxy(context, key, option.data);
     });
     var mKeys = Object.keys(option.methods);
     mKeys.forEach(function(key) {
-        proxy(this, key, option.methods);
+        proxy(context, key, option.methods);
     });
     observe(option.data);
     compile(option.el, option.data, this);
