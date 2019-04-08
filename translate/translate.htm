@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="user-scalable=0; charset=UTF-8" name="viewport" />
+    <title>test</title>
+    <script type="text/javascript">
+        function getClientHeight()
+        {
+            var clientHeight=0;
+            if(document.body.clientHeight&&document.documentElement.clientHeight)
+            {
+                var clientHeight = (document.body.clientHeight<document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
+            }
+            else
+            {
+                var clientHeight = (document.body.clientHeight>document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
+            }
+            return clientHeight;
+        }
+        function heredoc(fn) {
+            return fn.toString().split('\n').slice(1, -1).join('\n') + '\n';
+        }
+        var cn = '';
+        var en = '';
+        var c = [];
+        var e = [];
+        var sinput;
+        var cnRow;
+        var enRow;
+        var cntxt;
+        var entxt;
+        var cnIdx;
+        var enIdx;
+        var cnMax;
+        var enMax;
+        var endCn;
+        var endEn;
+        var cndiv;
+        var endiv;
+        var console;
+        var cnhasMove = false;
+        var enhasMove = false;
+        window.onload = function() {
+            console = document.getElementById('console');
+            c = [document.getElementById('c1'), document.getElementById('c2'), document.getElementById('c3')];
+            e = [document.getElementById('e1'), document.getElementById('e2'), document.getElementById('e3')];
+            sinput = document.getElementById('sinput');
+            cntxt = document.getElementById('cntxt');
+            entxt = document.getElementById('entxt');
+            var lineHeight = getClientHeight() * 0.9 / 12;
+            var fontSize = lineHeight * 0.5 + 'px';
+            lineHeight += 'px';
+            cntxt.style.lineHeight = lineHeight;
+            cntxt.style.fontSize = fontSize;
+            entxt.style.lineHeight = lineHeight;
+            entxt.style.fontSize = fontSize;
+
+            en = heredoc(textEn).replace(/Generatedby ABC Amber LIT Converter, http:\/\/www.processtext.com\/abclit.html/g, ' ').replace(/\r|\n/g, ' ');
+            cn = heredoc(textCn).replace(/\r|\n/g, '');
+            cnMax = cn.length - 1;
+            enMax = en.length - 1;
+            cnRow = Number(localStorage.getItem('cnrow'));
+            setHeight(c, cnRow);
+            enRow = Number(localStorage.getItem('enrow'));
+            setHeight(e, enRow);
+
+            cnIdx = Number(localStorage.getItem('cnidx'));
+            endCn = cnIdx;
+            enIdx = Number(localStorage.getItem('enidx'));
+            endEn = enIdx;
+            console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
+            cntxt.innerText = cn.slice(cnIdx);
+            entxt.innerText = en.slice(enIdx);
+
+            cndiv = document.getElementById('cnzone');
+            endiv = document.getElementById('enzone');
+            cndiv.addEventListener('touchstart', cntouchstart);
+            cndiv.addEventListener('touchend', cntouchend);
+            cndiv.addEventListener('touchmove', cntouchmove);
+            endiv.addEventListener('touchstart', entouchstart);
+            endiv.addEventListener('touchend', entouchend);
+            endiv.addEventListener('touchmove', entouchmove);
+        }
+        var cnstartX;
+        var cnstartY;
+        var enstartX;
+        var enstartY;
+        function cntouchstart(event) {
+            cnstartX = event.changedTouches[0].pageX;
+            cnstartY = event.changedTouches[0].pageY;
+        }
+        function cntouchend(event) {
+            if (cnhasMove) {
+                cnhasMove = false;
+                cnIdx = Math.round(endCn);
+                localStorage.setItem('cnidx', cnIdx);
+                console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
+            }
+        }
+        function cntouchmove(event) {
+            event.preventDefault();
+            var spanX = event.changedTouches[0].pageX - cnstartX;
+            var spanY = event.changedTouches[0].pageY - cnstartY;
+            if (Math.abs(spanX) > Math.abs(spanY)) {      //认定为水平方向滑动
+                if (!cnhasMove) {
+                    cnhasMove = true;
+                }
+                endCn = Math.round(cnIdx - spanX / 30);
+                if (endCn < 0) {
+                    endCn = 0;
+                } else if (endCn > cnMax) {
+                    endCn = cnMax;
+                }
+                cntxt.innerText = cn.slice(endCn);
+            }
+            // else { //认定为垂直方向滑动
+            //     if (spanY > 0) {
+            //         //向下
+            //     } else if (spanY < 0) {
+            //         //向上
+            //     }
+            // }
+        }
+        function entouchstart(event) {
+            enstartX = event.changedTouches[0].pageX;
+            enstartY = event.changedTouches[0].pageY;
+        }
+        function entouchend(event) {
+            if (enhasMove) {
+                enhasMove = false;
+                enIdx = Math.round(endEn);
+                localStorage.setItem('enidx', enIdx);
+                console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
+            }
+        }
+        function entouchmove(event) {
+            event.preventDefault();
+            var spanX = event.changedTouches[0].pageX - enstartX;
+            var spanY = event.changedTouches[0].pageY - enstartY;
+            if (Math.abs(spanX) > Math.abs(spanY)) {      //认定为水平方向滑动
+                if (!enhasMove) {
+                    enhasMove = true;
+                }
+                endEn = Math.round(enIdx - spanX / 20);
+                if (endEn < 0) {
+                    endEn = 0;
+                } else if (endEn > enMax) {
+                    endEn = enMax;
+                }
+                entxt.innerText = en.slice(endEn);
+            }
+        }
+        function search() {
+            var key = sinput.value.replace(/^\s+|\s+$/g, '');
+            if (key === '') {
+                cnIdx = 0;
+                enIdx = 0;
+                localStorage.clear();
+                cntxt.innerText = cn;
+                entxt.innerText = en;
+            }
+            var pos;
+            if (/[a-zA-Z]/.test(key[0])) {
+                pos = en.indexOf(key);
+                if (pos !== -1) {
+                    entxt.innerText = en.slice(pos);
+                    localStorage.setItem('enidx', pos);
+                    enIdx = pos;
+                    sinput.value = '';
+                }
+            } else {
+                pos = cn.indexOf(key);
+                if (pos !== -1) {
+                    cntxt.innerText = cn.slice(pos);
+                    localStorage.setItem('cnidx', pos);
+                    cnIdx = pos;
+                    sinput.value = '';
+                }
+            }
+        }
+        function go(event) {
+            if(event.keyCode === 13) {
+                search();
+            }
+        }
+        function setHeight(arr, cn) {
+            var h = 100 * (cn + 1) / 6;
+            if (arr === c) {
+                cntxt.style.height = h + '%';
+            } else if (arr === e) {
+                entxt.style.height = h + '%';
+            }
+        }
+        function setCnRow(num) {
+            var newRow = cnRow + num;
+            if (newRow >= 0 && newRow < 6) {
+                cnRow = newRow;
+                localStorage.setItem('cnrow', newRow);
+                setHeight(c, newRow);
+            }
+        }
+        function setEnRow(num) {
+            var newRow = enRow + num;
+            if (newRow >= -1 && newRow < 6) {
+                enRow = newRow;
+                localStorage.setItem('enrow', newRow);
+                setHeight(e, newRow);
+            }
+        }
+    </script>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            box-sizing: border-box;
+        }
+        .content{
+            box-sizing: border-box;
+            width: 100%;
+            height: 90%;
+            font-weight: bold;
+        }
+        .cn{
+            box-sizing: border-box;
+            height: 50%;
+            border-bottom: 5px solid #fff;
+        }
+        .en{
+            box-sizing: border-box;
+            height: 50%;
+        }
+        #cntxt, #entxt{
+            box-sizing: border-box;
+            background-color: #209E85;
+            overflow: hidden;
+        }
+        .control {
+            box-sizing: border-box;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 10%;
+        }
+        .btn {
+            color: #fff;
+            background-color: #87CEFA;
+            border: 1px solid #fff;
+            border-radius: 5px;
+            font-size: 50px;
+            font-weight: bold;
+            width: 15%;
+            height: 100%;
+        }
+        .btn.search {
+            background-color: #e94f4f;
+        }
+        .btn.active {
+            background-color: #108ee9;
+            border: 1px solid #108ee9;
+        }
+        #sinput {
+            border-radius: 5px;
+            width: 24%;
+            font-size: 48px;
+            font-weight: bold;
+            vertical-align: top;
+            height: 100%;
+        }
+        #console {
+            font-size: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <div id="cnzone" class="cn">
+            <div id="cntxt"></div>
+        </div>
+        <div id="enzone" class="en">
+            <div id="entxt"></div>
+            <div id="console"></div>
+        </div>
+    </div>
+    <div class="control">
+        <button type="button" class="btn" onclick="setCnRow(1)">
+            c+
+        </button><button type="button" class="btn" onclick="setCnRow(-1)">
+            c-
+        </button><button type="button" class="btn" onclick="setEnRow(1)">
+            e+
+        </button><button type="button" class="btn" onclick="setEnRow(-1)">
+            e-
+        </button><input type="text" id="sinput" onkeypress="go(event)" /><button type="button" class="btn search" onclick="search()">
+            Go
+        </button>
+    </div>
+
+    <script type="text/javascript" src="cn.js"></script>
+    <script type="text/javascript" src="en.js"></script>
+</body>
+<html>
