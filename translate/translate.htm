@@ -56,7 +56,7 @@
             entxt.style.fontSize = fontSize;
 
             en = heredoc(textEn).replace(/Generatedby ABC Amber LIT Converter, http:\/\/www.processtext.com\/abclit.html/g, ' ').replace(/\r|\n/g, ' ');
-            cn = heredoc(textCn).replace(/\r|\n/g, '');
+            cn = heredoc(textCn).replace(/\r|\n/g, ' ');
             cnMax = cn.length - 1;
             enMax = en.length - 1;
             cnRow = Number(localStorage.getItem('cnrow'));
