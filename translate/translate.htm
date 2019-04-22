@@ -37,11 +37,11 @@
         var endEn;
         var cndiv;
         var endiv;
-        var console;
+        var consoleDiv;
         var cnhasMove = false;
         var enhasMove = false;
         window.onload = function() {
-            console = document.getElementById('console');
+            consoleDiv = document.getElementById('console');
             c = [document.getElementById('c1'), document.getElementById('c2'), document.getElementById('c3')];
             e = [document.getElementById('e1'), document.getElementById('e2'), document.getElementById('e3')];
             sinput = document.getElementById('sinput');
@@ -54,9 +54,10 @@
             cntxt.style.fontSize = fontSize;
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
+            var splitStr = '-------------------------------------------------';
 
-            en = heredoc(textEn).replace(/Generatedby ABC Amber LIT Converter, http:\/\/www.processtext.com\/abclit.html/g, ' ').replace(/\r|\n/g, ' ');
-            cn = heredoc(textCn).replace(/\r|\n/g, ' ');
+            en = heredoc(textEn).replace(/(\r|\n)+/g, splitStr);
+            cn = heredoc(textCn).replace(/(\r|\n)+/g, splitStr);
             cnMax = cn.length - 1;
             enMax = en.length - 1;
             cnRow = Number(localStorage.getItem('cnrow'));
@@ -68,9 +69,9 @@
             endCn = cnIdx;
             enIdx = Number(localStorage.getItem('enidx'));
             endEn = enIdx;
-            console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
-            cntxt.innerText = cn.slice(cnIdx);
-            entxt.innerText = en.slice(enIdx);
+            consoleDiv.innerHTML = 'Chinese: ' + String(cnIdx)+' English: '+ String(enIdx) + ' / '+ en.length;
+            cntxt.innerHTML = cn.slice(cnIdx);
+            entxt.innerHTML = en.slice(enIdx);
 
             cndiv = document.getElementById('cnzone');
             endiv = document.getElementById('enzone');
@@ -94,7 +95,7 @@
                 cnhasMove = false;
                 cnIdx = Math.round(endCn);
                 localStorage.setItem('cnidx', cnIdx);
-                console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
+                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
         function cntouchmove(event) {
@@ -111,7 +112,7 @@
                 } else if (endCn > cnMax) {
                     endCn = cnMax;
                 }
-                cntxt.innerText = cn.slice(endCn);
+                cntxt.innerHTML = cn.slice(endCn);
             }
             // else { //认定为垂直方向滑动
             //     if (spanY > 0) {
@@ -130,7 +131,7 @@
                 enhasMove = false;
                 enIdx = Math.round(endEn);
                 localStorage.setItem('enidx', enIdx);
-                console.innerText = 'Chinese: ' + localStorage.getItem('cnidx')+' English: '+localStorage.getItem('enidx');
+                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
         function entouchmove(event) {
@@ -147,7 +148,7 @@
                 } else if (endEn > enMax) {
                     endEn = enMax;
                 }
-                entxt.innerText = en.slice(endEn);
+                entxt.innerHTML = en.slice(endEn);
             }
         }
         function search() {
@@ -156,14 +157,15 @@
                 cnIdx = 0;
                 enIdx = 0;
                 localStorage.clear();
-                cntxt.innerText = cn;
-                entxt.innerText = en;
+                cntxt.innerHTML = cn;
+                entxt.innerHTML = en;
+                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
             var pos;
             if (/[a-zA-Z]/.test(key[0])) {
                 pos = en.indexOf(key);
                 if (pos !== -1) {
-                    entxt.innerText = en.slice(pos);
+                    entxt.innerHTML = en.slice(pos);
                     localStorage.setItem('enidx', pos);
                     enIdx = pos;
                     sinput.value = '';
@@ -171,7 +173,7 @@
             } else {
                 pos = cn.indexOf(key);
                 if (pos !== -1) {
-                    cntxt.innerText = cn.slice(pos);
+                    cntxt.innerHTML = cn.slice(pos);
                     localStorage.setItem('cnidx', pos);
                     cnIdx = pos;
                     sinput.value = '';
@@ -272,6 +274,7 @@
             font-size: 40px;
         }
     </style>
+    <script src="en.js"></script>
 </head>
 <body>
     <div class="content">
