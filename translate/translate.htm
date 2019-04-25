@@ -4,6 +4,23 @@
     <meta http-equiv="Content-Type" content="user-scalable=0; charset=UTF-8" name="viewport" />
     <title>test</title>
     <script type="text/javascript">
+        function IsPC() {
+            var userAgentInfo = navigator.userAgent;
+            var Agents = ["Android", "iPhone",
+                        "SymbianOS", "Windows Phone",
+                        "iPad", "iPod"];
+            var flag = true;
+            for (var v = 0; v < Agents.length; v++) {
+                if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                    flag = false;
+                    break;
+                }
+            }
+            return flag;
+        }
+     
+        var isPC = IsPC(); //true为PC端，false为手机端
+
         function getClientHeight()
         {
             var clientHeight=0;
@@ -54,7 +71,7 @@
             cntxt.style.fontSize = fontSize;
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
-            var splitStr = '-------------------------------------------------';
+            var splitStr = '________________';
 
             en = heredoc(textEn).replace(/(\r|\n)+/g, splitStr);
             cn = heredoc(textCn).replace(/(\r|\n)+/g, splitStr);
@@ -81,6 +98,14 @@
             endiv.addEventListener('touchstart', entouchstart);
             endiv.addEventListener('touchend', entouchend);
             endiv.addEventListener('touchmove', entouchmove);
+            cndiv.addEventListener('mousedown', cnmousedown);
+            endiv.addEventListener('mousedown', enmousedown);
+            if (isPC) {
+                cndiv.style['user-select'] = 'none';
+                cndiv.style.cursor = 'pointer';
+                endiv.style['user-select'] = 'none';
+                endiv.style.cursor = 'pointer';
+            }
         }
         var cnstartX;
         var cnstartY;
@@ -150,6 +175,50 @@
                 }
                 entxt.innerHTML = en.slice(endEn);
             }
+        }
+        var cnPCx;
+        function cnmousedown(event) {
+            cnPCx = event.pageX;
+            document.addEventListener('mousemove', cnmousemove);
+            document.addEventListener('mouseup', cnmouseup);
+        }
+        function cnmousemove(event) {
+            endCn = Math.round(cnIdx - (event.pageX - cnPCx) / 20);
+            if (endCn < 0) {
+                endCn = 0;
+            } else if (endCn > cnMax) {
+                endCn = cnMax;
+            }
+            cntxt.innerHTML = cn.slice(endCn);
+        }
+        function cnmouseup(event) {
+            document.removeEventListener('mousemove', cnmousemove);
+            document.removeEventListener('mouseup', cnmouseup);
+            cnIdx = Math.round(endCn);
+            localStorage.setItem('cnidx', cnIdx);
+            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+        }
+        var enPCx;
+        function enmousedown(event) {
+            enPCx = event.pageX;
+            document.addEventListener('mousemove', enmousemove);
+            document.addEventListener('mouseup', enmouseup);
+        }
+        function enmousemove(event) {
+            endEn = Math.round(enIdx - (event.pageX - enPCx) / 20);
+            if (endEn < 0) {
+                endEn = 0;
+            } else if (endEn > enMax) {
+                endEn = enMax;
+            }
+            entxt.innerHTML = en.slice(endEn);
+        }
+        function enmouseup(event) {
+            document.removeEventListener('mousemove', enmousemove);
+            document.removeEventListener('mouseup', enmouseup);
+            enIdx = Math.round(endEn);
+            localStorage.setItem('enidx', enIdx);
+            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
         }
         function search() {
             var key = sinput.value.replace(/^\s+|\s+$/g, '');
