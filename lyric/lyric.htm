@@ -56,9 +56,9 @@
             while (i <= max) {
                 var line = readLine(txt, 0);
                 if (/[\u4e00-\u9fa5]/.test(line)) {
-                    cn += line + '\n';
+                    cn += line + '----------------------------------------';
                 } else if (/[a-zA-Z]/.test(line)) {
-                    en += line + '\n';
+                    en += line + '----------------------------------------';
                 }
             }
             return [en, cn];
@@ -99,12 +99,10 @@
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
             consoleDiv.style.fontSize = fontSize;
-            var splitStr = '----------------------------------------';
 
             sub = devideSub(heredoc(text));
-
-            en = sub[0].replace(/(\r|\n)+/g, splitStr);
-            cn = sub[1].replace(/(\r|\n)+/g, splitStr);
+            en = sub[0];
+            cn = sub[1];
             cnMax = cn.length - 1;
             enMax = en.length - 1;
             cnRow = Number(localStorage.getItem('cnrow'));
