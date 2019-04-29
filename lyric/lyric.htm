@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="UTF-8" http-equiv="Content-Type" content="user-scalable=0" name="viewport" />
-    <title>writing training</title>
+    <title>speaking training</title>
     <script type="text/javascript">
         function IsPC() {
             var userAgentInfo = navigator.userAgent;
@@ -21,8 +21,7 @@
      
         var isPC = IsPC(); //true为PC端，false为手机端
 
-        function getClientHeight()
-        {
+        function getClientHeight() {
             var clientHeight=0;
             if(document.body.clientHeight&&document.documentElement.clientHeight)
             {
@@ -37,6 +36,34 @@
         function heredoc(fn) {
             return fn.toString().split('\n').slice(1, -1).join('\n') + '\n';
         }
+        function devideSub(txt) {
+            var cn = '';
+            var en = '';
+            var i = 0;
+            var num = 0;
+            var max = txt.length - 1;
+            function readLine(p) {
+                var str = '';
+                while (i <= max && /\r|\n/.test(p[i])) {
+                    i++;
+                }
+                while (i <= max && /[^\r\n]/.test(p[i])) {
+                    str += p[i];
+                    i++;
+                }
+                return str;
+            }
+            while (i <= max) {
+                var line = readLine(txt, 0);
+                if (/[\u4e00-\u9fa5]/.test(line)) {
+                    cn += line + '\n';
+                } else if (/[a-zA-Z]/.test(line)) {
+                    en += line + '\n';
+                }
+            }
+            return [en, cn];
+        }
+        var sub = '';
         var cn = '';
         var en = '';
         var c = [];
@@ -72,10 +99,12 @@
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
             consoleDiv.style.fontSize = fontSize;
-            var splitStr = '--------------------';
+            var splitStr = '----------------------------------------';
 
-            en = heredoc(textEn).replace(/(\r|\n)+/g, splitStr);
-            cn = heredoc(textCn).replace(/(\r|\n)+/g, splitStr);
+            sub = devideSub(heredoc(text));
+
+            en = sub[0].replace(/(\r|\n)+/g, splitStr);
+            cn = sub[1].replace(/(\r|\n)+/g, splitStr);
             cnMax = cn.length - 1;
             enMax = en.length - 1;
             cnRow = Number(localStorage.getItem('cnrow'));
@@ -366,7 +395,6 @@
         </button>
     </div>
 
-    <script type="text/javascript" src="cn.js"></script>
-    <script type="text/javascript" src="en.js"></script>
+    <script type="text/javascript" src="sub.js"></script>
 </body>
 </html>

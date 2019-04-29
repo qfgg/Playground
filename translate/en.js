@@ -1,94 +1,78 @@
 var textEn = function() {/*
 
-The border guards you can’t win over with a smile
-Governments are testing artificial intelligence to reduce queues at passport control, spot potentially dangerous travellers and detect smuggled goods at their borders, but can this technology be trusted?
+German dorms are so pricey, students are building their own
+Students in many of the country's university towns can’t afford the rents – so one enterprising group has proposed a constructive solution.
 
-International travel is increasing at a rapid rate. In 2017, a record 1.4 billion tourists visited other countries last year and that number is expected to reach 1.8 billion by 2030.
+Tucked away in the grounds of a former US military hospital, on the outskirts of the German city of Heidelberg, stands a huge wooden box. Complete with windows and furniture, this 14 sq m structure looks, at first glance, more garden shed than home.
 
-This swelling number of globe trotters also means growing queues at passport control. The vast majority of people who are detained by border agents don’t present a threat, which slows down the already often lengthy process of crossing an international border. Border crossing agents have a tough job. They have to make hundreds of judgement-calls every hour about whether someone should be allowed to enter a country. With the looming threat of terrorist attacks, people trafficking and smuggling, there is a lot of pressure to get it right.
+But this is the prototype for a four-storey student dormitory – an attempt to provide relief for young people caught up in Germany’s housing shortage.
 
-Although they may have some additional intelligence on their computer system, when border guards examine most travellers, they’re relying on their own hunches and experience. And for many border control officers, that experience may not amount to much – it’s a position with a high turnover rate; border guards in the US quit at double the rate of other law enforcement positions.
+You may also like:
 
-You might also like:
+- Secrets of the high-potential personality
+- What we just don’t understand about the 1%
+- What would happen if we all took smart drugs?
 
-* The new weapon in the war against crime
-* Do we finally understand consciousness? 
-* How your voice betrays a doomed romance
+Like many cities around the world, Heidelberg is struggling to house a rapid influx of young professionals and students. This has created a lucrative rental market and driven a housing shortage. Since 2010, rents in the university town have increased by almost a quarter. For students, who often live in shared apartments, prices average at around 437 euros ($492) per month. 
 
-Anyone who has been stopped from entering a country at immigration, even briefly, will know what an upsetting and stressful experience it can be. Staring into the hard eyes of a border guard as they examine your passport is always a nerve-wracking experience.
+Since 2010, rents in the university town have increased by almost a quarter
 
-But there could soon be another, unseen border agent with a hand in these decisions – one that cannot be reasoned with or softened with a smile.
+In a bid to boost supply to ease the national housing crisis, German Chancellor Angela Merkel’s government has pledged to build 1.5 million new flats nationwide before the end of her fourth term in office in 2021.
 
-A number of governments around the world are now funding research on systems powered by artificial intelligence that can help to assess travellers at border crossings.
+Faced with sky-rocketing rents in the southwestern city, one group of 25 university students has taken matters into their own hands and decided to build their own student dorms: Collegium Academicum.
 
-One of these is being developed by US technology firm Unisys, a company that began working with US Customs and Border Patrol following the 9/11 terrorist attacks in 2001, to develop technology for identifying dangerous passengers long before they board a flight. Their threat assessment system, called LineSight, slurps up data about travellers from different government agencies and other sources to give them a mathematical risk evaluation.
+"We want to create affordable living space, where students can live together and learn together," 22-year-old psychology student and member of the dormitory project Ina Kuhn told BBC Capital.
 
-They have since expanded its capability to look for other types of traveller or cargo that might be of concern to border officials. John Kendall, director of the border and national security program at Unisys, uses an example of two fictional travellers to illustrate how LineSight works.
+Rents at Collegium Academicum will average at 300 euros ($338) per month, with the hope of dropping even lower in the future, once the bank loan has been paid off.
 
-Romain and Sandra are ticketed passengers who have valid passports and valid visas. They would pass through most security systems unquestioned, but LineSight’s algorithm picks up something fishy about Romain’s travel patterns – she’s visited the country several times over the past few years with a number children who had different last names, something predictive analytics associates with human trafficking.
+A draw for international students
 
-“Romain also purchased her ticket using a credit card from a bank associated with a sex trafficking ring in Eastern Europe,” says Kendall. LineSight is able to obtain this information from the airline Romain is flying with and cross check it with law enforcement databases.
+Founded in 1386, Heidelberg University is Germany's most ancient university and ranked among the top three in the country and 47th in the world – attracting increasing numbers every year. Currently, some 39,000 of the city’s 160,000 citizens are students.
 
-“All of this information can be gathered and sent to a customs official before Romain and Sandra check in for their flight,” adds Kendall. “We collect data from multiple sources. Different governments collect different information, whether it’s from their own databases, from travel agencies. It’s not neat.”
+Its picturesque, toy-town landscape is also proving a lure for foreigners. According to the city’s administration, most of Heidelberg’s newest arrivals in recent years came from China, Italy, Romania, India and Poland – often aged between 18 and 30.
 
-The system can take a similar approach to analysing cargo shipments, helping to pull together relevant information that might identify potential cases of smuggling.
+Compared to university students in the US and the UK, however, German students have a significant financial advantage. In 2014, all 16 German states abolished university tuition fees for undergraduate students, meaning both domestic and international undergraduates at public universities in Germany can study for free. Most students pay a small fee per semester to cover their administration costs.
 
-The power of Unisys’s AI approach is the ability to ingest and assess a huge amount of data in a very short amount of time – it takes just two seconds for LineSight to process all of the relevant data and complete a threat assessment..
+More demand than supply
 
-Algorithms trained to recognise patterns or behavior with historic data sets can reflect the biases that exist in that information
+The winter semester is particularly difficult for students searching for housing though, says Studierendenwerk, Heidelberg’s university student services, which provides advice and limited accommodation in purpose-built dormitories.
 
-But there are concerns about using AI to analyse data in this way. Algorithms trained to recognise patterns or behavior with historic data sets can reflect the biases that exist in that information. Algorithms trained on data from the US legal system, for example, were found to replicate an unfair bias against black defendants, who were incorrectly identified as likely reoffend at nearly twice the rate as white criminals. The algorithm was replicating the human bias that existed in the US justice system.
+“At that time, there are often more students trying to find a place to live than there is accommodation – especially affordable accommodation,” says Tanja Modrow, head of Studierendenwerk Heidelberg.
 
-Erica Posey of the Brennan Center for Justice fears similar biases could creep into algorithms used to make immigration decisions.
+Therefore, many students either have to live farther out of town, or deal with the higher living costs. Heidelberg’s “green” appeal has also seen more graduates staying in the university town to start their careers and families, putting further strain on housing supply. In the state of Baden-Württemberg, where Heidelberg lies, Germany’s environmentalist Green Party is currently topping opinion polls with 32%.
 
-“Any predictive algorithm trained on existing data sets about who has been prevented from traveling in the past will almost certainly rely heavily on proxies to replicate past patterns,” she says.
+Sustainable housing
 
-According to Kendall, Unisys hope to deal with this by allowing its algorithm learn from its mistakes.
+On the land of the former US military hospital, purchased from the city, the 25 students behind Collegium Academicum hope to ease the demand for Heidelberg by providing space for 226 dorms in 46 shared apartments.
 
-“If they stop somebody, and it turns out there was nothing wrong, that automatically updates the algorithm,” he says. “So every time we do an assessment the algorithm gets smarter. It’s not based on intuition, it’s not based on my bias – it’s based on the full population of travellers that come through.”
+Sustainability is also a key goal of the project. The land itself was purchased from the city. Fitted with triple-glazed windows and built entirely out of wood, Collegium Academicum will be the biggest building in Germany without metal supports. An onsite workshop will also allow tenants to carry out small repairs. But with a hefty price tag of 16 million euros ($18 million), the sustainable project doesn’t come cheap.
 
-The company also says LineSight doesn’t assign one piece of data more weight than another, instead presenting all the relevant information to the border and customs officers.
+Most of the money has been provided by means of a bank loan, grants from the state and Germany’s credit institute for redevelopment. But 2 million euros of the total cost was needed in equity capital to get the project off the ground.
 
-There are some who hope that artificial intelligence might be better at picking up signs of deception
+"This was the building block of the project," says Kuhn adding that six years of seeking out donations and support was no easy feat. Much of the financial support came from local individuals.
 
-But there are other teams that are looking to go even further by allowing machines to make judgements about whether travellers can be trusted. Human border officers make decisions about this based on a person’s body language and the way they answer their questions. There are some who hope that artificial intelligence might be better at picking up signs of deception.
+"We were also often at the weekly market in Heidelberg with our information stand, to seek out support from people who are interested in sustainable projects,” she says.
 
-Aaron Elkins, a computer scientist at San Diego State University, points out that humans are typically only able to spot deception in other people 54% of the time. By comparison, AI-powered machine vision systems  have been able to achieve an accuracy of over 80% in multiple studies. Infrared cameras that can pick up on changes in blood flow and pattern recognition systems capable of detecting subtle ticks have all been used.
+The rising tide of ‘Wohnungsnot’
 
-Elkins himself is one of the inventors behind Avatar (Automated Virtual Agent for Truth Assessments in Real Time), a screening system that could soon be working with real-life border agents. Avatar uses a display that features a virtual border agent that asks travellers questions while the machine scrutinises the subject’s posture, eye movements, and changes in their voice.
+Heidelberg students aren't alone in their struggle to find affordable housing in Germany. The German Economic Institute's latest price index shows that rent prices for students in German university towns have risen from between 9.9% and 67.3% since 2010. In April, thousands of people took to the streets of Berlin to demand more action from the government. The German capital of Berlin, which has become one of the world’s fastest-growing real estate markets, will soon hold a referendum on mass expropriation of property by the city.
 
-After experiments of tens of thousands of subjects lying in a laboratory setting, the Avatar team believes they have managed to teach the system to pick up on the physical manifestations of deception.
+Students under pressure worldwide
 
-Another system, called iBorder Ctrl is to be tested at three land border crossings in Hungary, Greece and Latvia. It too features an automated interviewer that will interrogate travellers and has been trained on videos of people either telling the truth or lying.
+Housing shortages and unaffordable rents are an all-too-familiar problem for students in other university towns.
 
-There is an ongoing debate about whether such AI “lie detectors” actually work
+In Hobart on the island state of Tasmania in Australia, the University of Tasmania recently purchased a three-star hotel in a bid to help students who have found themselves struggling to find affordable living space. A growing number of tourists and the expansion of Airbnb have reportedly played a significant role in the city's housing shortage.
 
-Keeley Crocket, an expert in computational intelligence at Manchester Metropolitan University in the UK, who is one of those developing iBorder Ctrl, says the system looks for micro-gestures – subtle nonverbal facial cues that include blushing as well as subtle backward and forward movement. Crocket has high hopes for this first phase of field tests, saying the team are hoping the system will “obtain 85% accuracy” in the field tests.
+Meanwhile, on the US West Coast, at the University of California, Berkeley, a new programme is pairing graduate students with retirees who have an extra room. In return for place to call home, students provide pensioners with social interaction, help around the house, as well as a monthly rent of less than $1,000 – less than a third of the average prices for apartments around Berkeley.
 
-“Until we have completed this [phase of testing], we will not know for sure,” she cautions.
+Back in Heidelberg, construction is due to begin within the coming weeks, with the first tenants hoping to move in by the beginning of 2021.
 
-But there is an ongoing debate about whether such AI “lie detectors” actually work.
+Applicants to the dormitories will go through a so-called casting process, as is the norm across most student house shares in Germany, known colloquially as “WGs”.
 
-Vera Wild, a lie detection researcher and vocal critic of the iBorder Ctrl technology, points out that science has yet to prove a definitive link between our outward behaviour and deception, which is precisely why polygraph tests are not admissible in court.
+"We want a mix of ideas and backgrounds,” says Kuhn. “We want people from different fields of study and different political ideas.”
 
-“There is no unique ‘lie response’ to detect,” she says.
+By the time the building and the renovations are finished, many of the founders of Collegium Academicum will have graduated.
 
-Even if such a link could achieve scientific certainty, the use of such technology at a border crossing raises tricky legal questions. Judith Edersheim, co-director of the Massachusetts General Hospital Center for Law, Brain and Behavior (CLBB), has suggested that lie-detection technology could constitute an illegal search and seizure.
-
-“Compulsory screening is a seizure of your thoughts, a search of your mind,” she says. This would require a warrant in the US. And there could be similar problems in Europe too. Article 22 of the General Data and Protection Regulation protects EU citizens against profiling. Can the iBorder Ctrl ever be transparent enough to prove it hasn’t used some element of profiling?
-
-It’s important to note that at this stage, travellers testing out iBorder Ctrl will be volunteers and will still face a human border agent before they enter the countries where it is being tested. The system will give the human border officers a risk assessment score determined by the iBorder Ctrl’s AI.
-
-And it seems likely that AI will never completely replace humans altogether when it comes to border control. The Unisys, Avatar, and iBorder Ctrl teams all agree that no matter how sophisticated the technology becomes, they’ll still rely heavily on humans to interpret the information.
-
-But a reliance on machines to make judgements about a traveller’s right to enter a country still raises significant concerns among human rights and privacy advocates. If a traveller is determined to be a high risk, will a border patrol agency provide them information about why?
-
-“We need transparency as to how the algorithm itself is developed and implemented, how different types of data will be weighted in algorithmic calculations, how human decision-makers are trained to interpret AI conclusions, and how the system is audited,” says Posey.  “And fundamentally, we also need transparency as to the impact on individuals and the system as a whole.”
-
-Kendall, however, believes AI may be an essential tool in dealing with the challenges facing international borders.
-
-“It’s a complex set of threats,” he says. “The threats we face today will be different from the threats in a couple of years’ time.”
-
-The success of AI border-guards will depend not only on their ability to stay one step ahead of those who pose these threats, but also if they can make travelling easier for the 1.8 billion of us who want to see a bit more of the world.
+"This is a project made to last," Kuhn adds. "This is about building for the future and making sure that other students have affordable housing too."
 
 .*/};
