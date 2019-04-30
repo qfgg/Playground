@@ -54,7 +54,7 @@
                 return str;
             }
             while (i <= max) {
-                var line = readLine(txt, 0);
+                var line = readLine(txt, 0);console.log(line);
                 if (/[\u4e00-\u9fa5]/.test(line)) {
                     cn += line + '----------------------------------------';
                 } else if (/[a-zA-Z]/.test(line)) {
@@ -266,6 +266,7 @@
                     localStorage.setItem('enidx', pos);
                     enIdx = pos;
                     sinput.value = '';
+                    consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ pos + ' / '+ en.length;
                 }
             } else {
                 pos = cn.indexOf(key);
@@ -274,6 +275,7 @@
                     localStorage.setItem('cnidx', pos);
                     cnIdx = pos;
                     sinput.value = '';
+                    consoleDiv.innerHTML = 'Chinese: ' + pos + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
                 }
             }
         }
