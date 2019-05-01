@@ -1,78 +1,79 @@
 var textEn = function() {/*
 
-German dorms are so pricey, students are building their own
-Students in many of the country's university towns can’t afford the rents – so one enterprising group has proposed a constructive solution.
+The ancient memories trapped in the world’s glaciers
+The tongues of ice on the world’s highest mountains are melting away, but we might be able to save the precious archive of information trapped within them before global warming causes it to disappear forever.
 
-Tucked away in the grounds of a former US military hospital, on the outskirts of the German city of Heidelberg, stands a huge wooden box. Complete with windows and furniture, this 14 sq m structure looks, at first glance, more garden shed than home.
+Speaking over a cacophony of humming machines in a crammed Swiss laboratory, Fran?ois Burgay talks about the quiet, open skies above Mont Blanc. "At 4,200m above the sea, you'd never expect the night to be so bright," he says. It's the lack of light pollution from Earth that gives the sky its unique milky quality.
 
-But this is the prototype for a four-storey student dormitory – an attempt to provide relief for young people caught up in Germany’s housing shortage.
+"I think I can speak for many of my peers when I say that to do this job you need to be an explorer at heart," he smiles.
 
-You may also like:
+Burgay, a glaciologist with the Ca' Foscari University of Venice in Italy, camped on the iconic peak separating France and Italy for a week in August 2016, the first field mission of his career. As part of the project Ice Memory, he was there to collect ice cores from the Col du Dome glacier, which were then flown downhill and stored in the lab in Grenoble. One day, the researchers hope, part of these ice cores will travel all the way down to Antarctica, where a bespoke vault built out of snow will preserve the knowledge it contains for centuries ahead.
 
-- Secrets of the high-potential personality
-- What we just don’t understand about the 1%
-- What would happen if we all took smart drugs?
+You might also like:
+? The young minds solving climate change
+? The cities that need a warning label
+? How air pollution messes with your mind 
 
-Like many cities around the world, Heidelberg is struggling to house a rapid influx of young professionals and students. This has created a lucrative rental market and driven a housing shortage. Since 2010, rents in the university town have increased by almost a quarter. For students, who often live in shared apartments, prices average at around 437 euros ($492) per month. 
+Following this first mission, the team braved the Illimani mountain in Bolivia, this time reaching a glacier on the side of a 6,300m-high (20,669ft) peak, and collecting cores that had to carried down by foot, as helicopters were not available. Kilimanjaro in Tanzania is next on the list, with an expedition planned for later this year, and more endangered glaciers will follow as new international partners join the Italian-French initiative.
 
-Since 2010, rents in the university town have increased by almost a quarter
+Research shows the world's glaciers have been dramatically shrinking for some time now, likely due to human-made climate change. The United Nation’s Intergovernmental Panel on Climate Change estimates that if global warming continues unabated, we could lose most of the planet's ice cover by the end of the century, with the exception of Greenland’s and Antarctica’s ice sheets.
 
-In a bid to boost supply to ease the national housing crisis, German Chancellor Angela Merkel’s government has pledged to build 1.5 million new flats nationwide before the end of her fourth term in office in 2021.
+"The world's glaciers are literally disappearing from under our feet," says Carlo Barbante, a paleoclimatologist also at Ca' Foscari University and one of the founders of the Ice Memory project. For the 1.5 billion people who rely on glaciers for drinking water and irrigation, it is a disastrous situation. But the ice in the glaciers area also a wealth of information.
 
-Faced with sky-rocketing rents in the southwestern city, one group of 25 university students has taken matters into their own hands and decided to build their own student dorms: Collegium Academicum.
+The world’s glaciers are literally disappearing from under our feet – Carlo Barbante
 
-"We want to create affordable living space, where students can live together and learn together," 22-year-old psychology student and member of the dormitory project Ina Kuhn told BBC Capital.
+"We often focus on the immediate threats brought by ice melt, such as lack of water in vulnerable areas like the sub-Indian continent,” says Barbante. “But as scientists who study ice like an archive, we realise we are also losing vital information. We felt we had to do something about it."
 
-Rents at Collegium Academicum will average at 300 euros ($338) per month, with the hope of dropping even lower in the future, once the bank loan has been paid off.
+Together with French climatologists and glaciologists, Barbante and his team set out to rescue samples of ice from the world's glaciers. Each core of ice represents a precious archive from history that stretches thousands of years into the past. Trapped in the ice are tiny bubbles of gas, particles of dust, pollen and even tiny organisms which can provide a vital window onto events that happened before human records began.
 
-A draw for international students
+Currently, the ice cores are extracted one metre at a time, drilling the glacier's surface, performing a first visual analysis of the core before they are prepared for shipping in containers that are usually 10cm (4in) wide. This process is repeated hundreds of times as the researchers drill deeper and deeper to capture older ice layers, sometimes reaching extreme depths of 900m (2,953ft). As the researchers dig deeper, each metre of ice has been more compressed by the weight of the layers above, meaning they store chemicals and other particles accumulated across a longer period.
 
-Founded in 1386, Heidelberg University is Germany's most ancient university and ranked among the top three in the country and 47th in the world – attracting increasing numbers every year. Currently, some 39,000 of the city’s 160,000 citizens are students.
+Once in the lab, the cores are then cleaned and samples are slowly melted in a controlled environment, so the glaciologists can analyse the water to identify metals or gases such as carbon dioxide.
 
-Its picturesque, toy-town landscape is also proving a lure for foreigners. According to the city’s administration, most of Heidelberg’s newest arrivals in recent years came from China, Italy, Romania, India and Poland – often aged between 18 and 30.
+Each core of ice represents a precious archive from history that stretches thousands of years into the past
 
-Compared to university students in the US and the UK, however, German students have a significant financial advantage. In 2014, all 16 German states abolished university tuition fees for undergraduate students, meaning both domestic and international undergraduates at public universities in Germany can study for free. Most students pay a small fee per semester to cover their administration costs.
+“The ice also works as a paleothermometer,” says Burgay. “It records the temperatures of the environment where a certain snow cover fell at any point in time.”
 
-More demand than supply
+Using this information, the researchers can reconstruct the evolution of the Earth's climate over millennia, providing valuable information that can be used by scientists to model climate change. The machines in Burgay's lab, for example, are currently looking for iron traces in 6,000-year-old ice from a core extracted in Greenland. The minute levels of metal can provide clues about ancient volcanic activity that spewed metallic dust into the atmosphere.
 
-The winter semester is particularly difficult for students searching for housing though, says Studierendenwerk, Heidelberg’s university student services, which provides advice and limited accommodation in purpose-built dormitories.
+After cleaning, the remaining cores are prepared for long term storage in the repository.
 
-“At that time, there are often more students trying to find a place to live than there is accommodation – especially affordable accommodation,” says Tanja Modrow, head of Studierendenwerk Heidelberg.
+"One may argue that ice cores would be safe in a commercial fridge in Venice or Paris," Barbante says. "But we are not thinking short term. We can't predict whether 200 years down the line somebody will still be able to pay for the electricity bill." History shows how conflict, shifting research priorities and natural disasters make it difficult to predict the future of any long-term scientific endeavour, he says.
 
-Therefore, many students either have to live farther out of town, or deal with the higher living costs. Heidelberg’s “green” appeal has also seen more graduates staying in the university town to start their careers and families, putting further strain on housing supply. In the state of Baden-Württemberg, where Heidelberg lies, Germany’s environmentalist Green Party is currently topping opinion polls with 32%.
+It has led the scientists to look for a more permanent solution.
 
-Sustainable housing
+"Antarctica is the safest place to store the samples," says Barbante, "First, because it's a natural fridge, with annual average temperatures hovering around -50C, and also because it doesn't belong to any given country. It's the only region designated to peaceful scientific endeavours."
 
-On the land of the former US military hospital, purchased from the city, the 25 students behind Collegium Academicum hope to ease the demand for Heidelberg by providing space for 226 dorms in 46 shared apartments.
+Creating a sanctuary for today's disappearing ice could also deliver benefits that are unimaginable today
 
-Sustainability is also a key goal of the project. The land itself was purchased from the city. Fitted with triple-glazed windows and built entirely out of wood, Collegium Academicum will be the biggest building in Germany without metal supports. An onsite workshop will also allow tenants to carry out small repairs. But with a hefty price tag of 16 million euros ($18 million), the sustainable project doesn’t come cheap.
+Signed in 1959 and entered into force in 1961, the Antarctic Treaty brings together 53 countries active in the region, stipulating that the territory ‘shall be used for peaceful purposes only’ and ‘scientific observations and results from Antarctica shall be exchanged and made freely available.’
 
-Most of the money has been provided by means of a bank loan, grants from the state and Germany’s credit institute for redevelopment. But 2 million euros of the total cost was needed in equity capital to get the project off the ground.
+For as long as the treaty stands, says Bess Koffmann, a geologist at the University of Maine in the US, Antarctica will remain a safe place. But the treaty is up for renegotiation in 30 years time. (Read more about how archaeological discoveries could shape the continent’s future).
 
-"This was the building block of the project," says Kuhn adding that six years of seeking out donations and support was no easy feat. Much of the financial support came from local individuals.
+"There is always the risk that one country might refuse to sign the agreement in order to take advantage of the region's untapped resources, such as coal and other minerals," warns Koffmann.
 
-"We were also often at the weekly market in Heidelberg with our information stand, to seek out support from people who are interested in sustainable projects,” she says.
+Creating a sanctuary for today's disappearing ice could also deliver benefits that are unimaginable today. As new tools and technologies become available, it might enable scientists to unlock new windows into our planet’s past, and perhaps even study ancient virus and bacteria preserved in ice.
 
-The rising tide of ‘Wohnungsnot’
+"Technologies have evolved rapidly over the past few decades, and we are now making measurements that we didn't even dream of 30 or 40 years ago," says Koffmann.
 
-Heidelberg students aren't alone in their struggle to find affordable housing in Germany. The German Economic Institute's latest price index shows that rent prices for students in German university towns have risen from between 9.9% and 67.3% since 2010. In April, thousands of people took to the streets of Berlin to demand more action from the government. The German capital of Berlin, which has become one of the world’s fastest-growing real estate markets, will soon hold a referendum on mass expropriation of property by the city.
+We are losing our glaciers very rapidly, and without archiving the information they contain, we’re simply not giving ourselves the chance to understand changes that may happen in the future – Emma Smith
 
-Students under pressure worldwide
+One day, Barbante says, imaging techniques will be so advanced that "we will be able to analyse the cores without even touching them”.
 
-Housing shortages and unaffordable rents are an all-too-familiar problem for students in other university towns.
+But in order to get to this point it's essential to build repository while we still can, says Emma Smith, a glaciologist and geophysicist at the Alfred Wegener Institute in Bremerhaven, Germany. "We are losing our glaciers very rapidly, and without archiving the information they contain, we're simply not giving ourselves the chance to understand changes that may happen in the future."
 
-In Hobart on the island state of Tasmania in Australia, the University of Tasmania recently purchased a three-star hotel in a bid to help students who have found themselves struggling to find affordable living space. A growing number of tourists and the expansion of Airbnb have reportedly played a significant role in the city's housing shortage.
+Scientists often focus on polar ice because that's where they can uncover the oldest records, Smith says. "But if you look at regional ice cores from smaller glaciers you can observe changes on a much smaller scale." This means creating a detailed picture of local climates that would be missed by analysing polar ice alone.
 
-Meanwhile, on the US West Coast, at the University of California, Berkeley, a new programme is pairing graduate students with retirees who have an extra room. In return for place to call home, students provide pensioners with social interaction, help around the house, as well as a monthly rent of less than $1,000 – less than a third of the average prices for apartments around Berkeley.
+The Ice Memory team hope to have a wide range of samples ready to be stored in Antarctica by 2020, in a bespoke vault built near the French-Italian research station Concordia. The researchers plan to employ a method that has been successfully trialled in Greenland, which involves digging a trench and inserting an inflatable balloon that will be used as a mould for the cave.
 
-Back in Heidelberg, construction is due to begin within the coming weeks, with the first tenants hoping to move in by the beginning of 2021.
+"We then blow the snow we previously removed to create the trench back onto the structure, and wait for it to harden over a few days," Barbante explains. At that point, the balloon is deflated and can be easily removed. "This way we create a natural structure that is low cost and has no environmental impact."
 
-Applicants to the dormitories will go through a so-called casting process, as is the norm across most student house shares in Germany, known colloquially as “WGs”.
+Barbante concedes that after one or two decades the structure is likely to subside under the weight of further snow falling on top of it. "But the cores can be moved relatively easily to a new structure built the same way", he adds.
 
-"We want a mix of ideas and backgrounds,” says Kuhn. “We want people from different fields of study and different political ideas.”
+The project has already gained the support of Unesco, and Barbante says that an increasing number of teams, including those from Russia, the US and China are already collecting extra material during their independent expeditions, so they will be able to contribute to the project in future.
 
-By the time the building and the renovations are finished, many of the founders of Collegium Academicum will have graduated.
+According to current projections, no matter what we do now to curb global emissions, many of the world’s glaciers have little hope of surviving beyond a few human generations, with some losing a third of their ice over the next century. Soon, these few hundreds of metres of ice cores may be all that’s left of many ancient tongues of ice.
 
-"This is a project made to last," Kuhn adds. "This is about building for the future and making sure that other students have affordable housing too."
+The efforts of a few intrepid explorers venturing into the mountains to collect these cores are helping to ensure the secrets they contain will be available for future generations to unlock.
 
 .*/};
