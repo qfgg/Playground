@@ -78,7 +78,7 @@
             cn = heredoc(textCn).replace(/(\r|\n)+/g, splitStr);
             cnMax = cn.length - 1;
             enMax = en.length - 1;
-            cnRow = Number(localStorage.getItem('cnrow'));
+            cnRow = 5;
             setHeight(c, cnRow);
             enRow = Number(localStorage.getItem('enrow'));
             setHeight(e, enRow);
@@ -199,6 +199,8 @@
                 entxt.innerHTML = en.slice(endEn);
             }
         }
+        var cnPCMove = false;
+        var enPCMove = false;
         var cnPCx;
         function cnmousedown(event) {
             cnPCx = event.pageX;
@@ -206,20 +208,27 @@
             document.addEventListener('mouseup', cnmouseup);
         }
         function cnmousemove(event) {
-            endCn = Math.round(cnIdx - (event.pageX - cnPCx) / 20);
-            if (endCn < 0) {
-                endCn = 0;
-            } else if (endCn > cnMax) {
-                endCn = cnMax;
+            if (Math.round((event.pageX - cnPCx) / 20) !== 0) {
+                cnPCMove = true;
+                endCn = Math.round(cnIdx - (event.pageX - cnPCx) / 20);
+                if (endCn < 0) {
+                    endCn = 0;
+                } else if (endCn > cnMax) {
+                    endCn = cnMax;
+                }
+                cntxt.innerHTML = cn.slice(endCn);
             }
-            cntxt.innerHTML = cn.slice(endCn);
         }
         function cnmouseup(event) {
             document.removeEventListener('mousemove', cnmousemove);
             document.removeEventListener('mouseup', cnmouseup);
-            cnIdx = Math.round(endCn);
-            localStorage.setItem('cnidx', cnIdx);
-            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+            if (cnPCMove) {
+                cnPCMove = false;
+                cnIdx = Math.round(endCn);
+                localStorage.setItem('cnidx', cnIdx);
+                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+            }
+            
         }
         var enPCx;
         function enmousedown(event) {
@@ -228,20 +237,26 @@
             document.addEventListener('mouseup', enmouseup);
         }
         function enmousemove(event) {
-            endEn = Math.round(enIdx - (event.pageX - enPCx) / 20);
-            if (endEn < 0) {
-                endEn = 0;
-            } else if (endEn > enMax) {
-                endEn = enMax;
+            if (Math.round((event.pageX - enPCx) / 20) !== 0) {
+                enPCMove = true;
+                endEn = Math.round(enIdx - (event.pageX - enPCx) / 20);
+                if (endEn < 0) {
+                    endEn = 0;
+                } else if (endEn > enMax) {
+                    endEn = enMax;
+                }
+                entxt.innerHTML = en.slice(endEn);
             }
-            entxt.innerHTML = en.slice(endEn);
         }
         function enmouseup(event) {
             document.removeEventListener('mousemove', enmousemove);
             document.removeEventListener('mouseup', enmouseup);
-            enIdx = Math.round(endEn);
-            localStorage.setItem('enidx', enIdx);
-            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+            if (enPCMove) {
+                enPCMove = false;
+                enIdx = Math.round(endEn);
+                localStorage.setItem('enidx', enIdx);
+                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+            }
         }
 
         function scrollCnFunc(e) {  
@@ -310,7 +325,8 @@
             if (key === '') {
                 cnIdx = 0;
                 enIdx = 0;
-                localStorage.clear();
+                localStorage.setItem('cnidx', 0);
+                localStorage.setItem('enidx', 0);
                 cntxt.innerHTML = cn;
                 entxt.innerHTML = en;
                 consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;

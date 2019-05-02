@@ -1,79 +1,75 @@
 var textEn = function() {/*
 
-The ancient memories trapped in the world’s glaciers
-The tongues of ice on the world’s highest mountains are melting away, but we might be able to save the precious archive of information trapped within them before global warming causes it to disappear forever.
+The French region with a new currency
+French Basque Country has its own micro-currency – and it’s hitting the big time. Now other European communities are hoping to replicate its success.
 
-Speaking over a cacophony of humming machines in a crammed Swiss laboratory, Fran?ois Burgay talks about the quiet, open skies above Mont Blanc. "At 4,200m above the sea, you'd never expect the night to be so bright," he says. It's the lack of light pollution from Earth that gives the sky its unique milky quality.
+By Justin Calderon
+19 April 2019
+It didn’t take long after my arrival in Bayonne, France, to realise that this riverside town of meandering medieval alleyways flanked by narrow wooden-framed homes is a different kind of Basque Country.
 
-"I think I can speak for many of my peers when I say that to do this job you need to be an explorer at heart," he smiles.
+French Basque Country counts a population of just less than 300,000, compared to more than two million Spanish Basques, with whom they share a language and culture. Besides being dwarfed by their relatives just 40km to the south, here in south-west France, the ikurri?a, as the Basque flag is called, is flown noticeably less frequently. Even the ubiquitous jamón, beloved on both sides of the border, takes on a look and taste all its own. Shop names, restaurant menus and road signs are overwhelmingly written in French rather than Euskara (the Basque language), which, unlike in Spain, is not officially recognised in France. I sensed in Bayonne that the ‘Frenchness’ of the place overpowers any Basque patriotism that may lie beneath.
 
-Burgay, a glaciologist with the Ca' Foscari University of Venice in Italy, camped on the iconic peak separating France and Italy for a week in August 2016, the first field mission of his career. As part of the project Ice Memory, he was there to collect ice cores from the Col du Dome glacier, which were then flown downhill and stored in the lab in Grenoble. One day, the researchers hope, part of these ice cores will travel all the way down to Antarctica, where a bespoke vault built out of snow will preserve the knowledge it contains for centuries ahead.
+You may also be interested in:
+? The mysterious origins of Europe’s oldest language
+? The criminal who inspired a new currency
+? The tiny island with human-sized money
 
-You might also like:
-? The young minds solving climate change
-? The cities that need a warning label
-? How air pollution messes with your mind 
+“Our language is about to disappear here. Everybody speaks French,” lamented Bayonne local Dante Edme-Sanjurjo. “The young people are learning Basque at private and public schools, but the problem is that they don’t use it. There is a shame of being Basque; it is a private language that they don’t share in public.”
 
-Following this first mission, the team braved the Illimani mountain in Bolivia, this time reaching a glacier on the side of a 6,300m-high (20,669ft) peak, and collecting cores that had to carried down by foot, as helicopters were not available. Kilimanjaro in Tanzania is next on the list, with an expedition planned for later this year, and more endangered glaciers will follow as new international partners join the Italian-French initiative.
+Inspired to bring Basque pride back to the region, in 2013 Edme-Sanjurjo and about a dozen volunteers launched a euro-equivalent micro-currency. Their aim was to reinvigorate enthusiasm for their cultural and linguistic roots and keep money within the French-Basque region by supporting local businesses. Flash forward to October 2018, and their micro-currency, coined the eusko (pronounced ‘you-s-ko’), reached the equivalent of €1 million in circulation, making it the most successful of such monetary experiments in Europe, according to The Local.
 
-Research shows the world's glaciers have been dramatically shrinking for some time now, likely due to human-made climate change. The United Nation’s Intergovernmental Panel on Climate Change estimates that if global warming continues unabated, we could lose most of the planet's ice cover by the end of the century, with the exception of Greenland’s and Antarctica’s ice sheets.
+Today, 17 municipal governments and 820 local shops, businesses and associations in the French Basque Country accept the eusko as legal tender. Euskal Moneta – the organisation headed by Edme-Sanjurjo that manages and prints the currency – says two to three new eusko accounts are being opened daily with them.
 
-"The world's glaciers are literally disappearing from under our feet," says Carlo Barbante, a paleoclimatologist also at Ca' Foscari University and one of the founders of the Ice Memory project. For the 1.5 billion people who rely on glaciers for drinking water and irrigation, it is a disastrous situation. But the ice in the glaciers area also a wealth of information.
+Participating businesses are encouraged to make their shops bilingual. “We encourage business owners to learn a few greeting words in Basque and/or have as many Basque-language signs in the shop as possible, and we provide the translation for free thanks to public subsidies,” Edme-Sanjurjo said. “This allows young people to see Basque in public life and not be ashamed anymore.”
 
-The world’s glaciers are literally disappearing from under our feet – Carlo Barbante
+While the idea of printing your own money might seem radical, the concept of micro-currencies is far from novel. Indeed, Euskal Moneta was inspired by the Chiemgauer, a micro-currency that has been available in Chiemgau region in Upper Bavaria, Germany, since 2003. Today, there are as many as 10,000 to 15,000 micro-currencies operating worldwide, including about 60 in France, which legalised them in 2014.
 
-"We often focus on the immediate threats brought by ice melt, such as lack of water in vulnerable areas like the sub-Indian continent,” says Barbante. “But as scientists who study ice like an archive, we realise we are also losing vital information. We felt we had to do something about it."
+Most of the local currencies active in Europe are available only on a very small scale – so small that even some locals might not know they exist. For example, there is the Brixton pound in South London and the recently launched Parisian pêche (peach). Spanish Basque Country also has several local currencies in operation, such as the ekhi, but nothing sizeable enough to rival the eusko has emerged yet.
 
-Together with French climatologists and glaciologists, Barbante and his team set out to rescue samples of ice from the world's glaciers. Each core of ice represents a precious archive from history that stretches thousands of years into the past. Trapped in the ice are tiny bubbles of gas, particles of dust, pollen and even tiny organisms which can provide a vital window onto events that happened before human records began.
+This allows young people to see Basque in public life and not be ashamed anymore
 
-Currently, the ice cores are extracted one metre at a time, drilling the glacier's surface, performing a first visual analysis of the core before they are prepared for shipping in containers that are usually 10cm (4in) wide. This process is repeated hundreds of times as the researchers drill deeper and deeper to capture older ice layers, sometimes reaching extreme depths of 900m (2,953ft). As the researchers dig deeper, each metre of ice has been more compressed by the weight of the layers above, meaning they store chemicals and other particles accumulated across a longer period.
+What seems to set the eusko apart is its adaptability. When eusko online accounts were launched in 2017 – making it the first French local currency to offer both digital and physical notes, according to Edme-Sanjurjo – the pace of adoption accelerated. Today, 60,000 eusko are now being exchanged from euro each month, according to Euskal Moneta, which has garnered attention from other European communities hoping to replicate the French Basque’s micro-currency success.
 
-Once in the lab, the cores are then cleaned and samples are slowly melted in a controlled environment, so the glaciologists can analyse the water to identify metals or gases such as carbon dioxide.
+“The Institute of the Circular Economy of Wales is preparing a report for the Welsh Government. The Belgian federation of alternative finance, which supports more than 20 Belgian local currencies, is also in contact with Euskal Moneta. And we are regularly contacted about local currency projects from throughout Spain,” Jean-René Etchegaray, mayor of Bayonne and president of the Basque Municipal Community, told me.
 
-Each core of ice represents a precious archive from history that stretches thousands of years into the past
+But establishing a new micro-currency is far from easy to pull off, and, as Edme-Sanjurjo explained, it can take a lot of work to persuade a sceptical public.  
 
-“The ice also works as a paleothermometer,” says Burgay. “It records the temperatures of the environment where a certain snow cover fell at any point in time.”
+“At first it [introducing the eusko] was quite difficult,” Edme-Sanjurjo recalled. “Nobody knew about local currencies. They said, ‘Hey, you want me to take another currency? Thanks to the euro, we ended with the franc and the peseta, and now you want to change again?’ It was strange and not very welcome at first sight.”
 
-Using this information, the researchers can reconstruct the evolution of the Earth's climate over millennia, providing valuable information that can be used by scientists to model climate change. The machines in Burgay's lab, for example, are currently looking for iron traces in 6,000-year-old ice from a core extracted in Greenland. The minute levels of metal can provide clues about ancient volcanic activity that spewed metallic dust into the atmosphere.
+But the eusko hit critical mass quickly, achieving a relatively large circulation in the small-size world of micro-currencies. “Within the first six months of its launch, the eusko became the most developed local currency in France,” Edme-Sanjurjo recalled.
 
-After cleaning, the remaining cores are prepared for long term storage in the repository.
+Although the majority of shop signs are still in French, visitors arriving in Bayonne may also see green signs in French and Euskara: ‘We accept eusko here’. I learned that there are two ways to obtain eusko. First, you can open an account with Euskal Moneta, paying a minimum annual €12 fee and choosing a local association to support, such as a business, the Basque language school or a kids’ football club. Then, whenever the new member exchanges euro for eusko, the selected association gets a 3% bonus of the amount exchanged, what Edme-Sanjurjo calls a “collective benefit”. 
 
-"One may argue that ice cores would be safe in a commercial fridge in Venice or Paris," Barbante says. "But we are not thinking short term. We can't predict whether 200 years down the line somebody will still be able to pay for the electricity bill." History shows how conflict, shifting research priorities and natural disasters make it difficult to predict the future of any long-term scientific endeavour, he says.
+I chose to exchange my euro for eusko at the Bayonne Office of Tourism in Grand Bayonne (travellers can also do this at a number of other sites) for a €2 fee. The notes were handed over with a list of participating stores and a small Basque dictionary. 
 
-It has led the scientists to look for a more permanent solution.
+Handling the eusko gave rise to that old and unfortunate ‘Monopoly money’ metaphor. It was the only time I’ve seen a dot-org website address on a banknote, and the notes felt more like paper than any other currency I’ve handled. This doesn’t mean the eusko isn’t authentic, however. There are several security features, including fluorescent orange ink, a metal strip and, like government-printed currencies, a measure that is kept secret from the public to further thwart forgery.
 
-"Antarctica is the safest place to store the samples," says Barbante, "First, because it's a natural fridge, with annual average temperatures hovering around -50C, and also because it doesn't belong to any given country. It's the only region designated to peaceful scientific endeavours."
+That’s because securing the money will protect its value as an alternative economic asset, as well as the benefits that it provides the community. At Poloko Hiriondo Ikastola, Bayonne’s immersive Euskara school, 19 out of 58 families now pay their dues with eusko. For a small school of 82 children, the impact is real: benefits from the eusko program amount to €1,000 a year, which is put towards buying books, stationery and healthier meals for students.
 
-Creating a sanctuary for today's disappearing ice could also deliver benefits that are unimaginable today
+“The eusko is an important tool to support culture,” headmaster Maia Duhalde told me. “It encourages society to learn Euskara outside of schools. This better visibility of Euskara thus encourages everyone to learn it, or for those who already know it, to practice it more.”
 
-Signed in 1959 and entered into force in 1961, the Antarctic Treaty brings together 53 countries active in the region, stipulating that the territory ‘shall be used for peaceful purposes only’ and ‘scientific observations and results from Antarctica shall be exchanged and made freely available.’
+The eusko is an important tool to support culture
 
-For as long as the treaty stands, says Bess Koffmann, a geologist at the University of Maine in the US, Antarctica will remain a safe place. But the treaty is up for renegotiation in 30 years time. (Read more about how archaeological discoveries could shape the continent’s future).
+As happens with other local currencies, Euskal Moneta has programmed the system to encourage holding on to or spending euskos – the eusko can be traded back to euro at a 5% fee, which incentivises holders to keep money in the local economy.
 
-"There is always the risk that one country might refuse to sign the agreement in order to take advantage of the region's untapped resources, such as coal and other minerals," warns Koffmann.
+“About 84% of businesses have never changed eusko [back] to euro. They always find a way to use them with other local eusko businesses,” Edme-Sanjurjo told me, sitting next to the River Nive on a cloudless Bayonne day. “In France and in the Basque Country, we believe in ‘vivre et travailler au pays’ – the right to live and work where you are born. In our area, there are no factories or large universities, so we have to develop activities for people so that they don’t have to leave to work somewhere else,” he said, his thick, black eyebrows sinking in exasperation as his spoke.
 
-Creating a sanctuary for today's disappearing ice could also deliver benefits that are unimaginable today. As new tools and technologies become available, it might enable scientists to unlock new windows into our planet’s past, and perhaps even study ancient virus and bacteria preserved in ice.
+All the eusko-accepting shop owners in Bayonne who I spoke to said that their primary reason for adopting the eusko was the financial benefits it provides. I sat around a low ceramic table on a commercial street on the newer side of Bayonne across the River Adour, a rushing waterway that empties out into the Atlantic, with Christelle Ksouri Perez, owner of L’Ambre Bleu, a shop filled with decorative art pieces. She began accepting the eusko just 15 days before we met, saying that she did so to “support local merchants and for the redistribution of the local market”.
 
-"Technologies have evolved rapidly over the past few decades, and we are now making measurements that we didn't even dream of 30 or 40 years ago," says Koffmann.
+Sitting across from her, Serge Lamiscarre, the owner of vintage shop Intramuros Bayonne, said he joined the eusko a year ago to “exit the capitalist system and offer something different”.
 
-We are losing our glaciers very rapidly, and without archiving the information they contain, we’re simply not giving ourselves the chance to understand changes that may happen in the future – Emma Smith
+“It creates a community and new links between people,” he added.
 
-One day, Barbante says, imaging techniques will be so advanced that "we will be able to analyse the cores without even touching them”.
+I couldn’t leave without better understanding their feelings about separatism, always the elephant in the room in Basque Country. “Do either of you want to achieve an independent Basque state?” I asked.
 
-But in order to get to this point it's essential to build repository while we still can, says Emma Smith, a glaciologist and geophysicist at the Alfred Wegener Institute in Bremerhaven, Germany. "We are losing our glaciers very rapidly, and without archiving the information they contain, we're simply not giving ourselves the chance to understand changes that may happen in the future."
+Just then, as if on cue, rifle fire thundered out from a hillside behind us. It was coming from a National French Army base, doubtless a group of soldiers practicing at a firing range.
 
-Scientists often focus on polar ice because that's where they can uncover the oldest records, Smith says. "But if you look at regional ice cores from smaller glaciers you can observe changes on a much smaller scale." This means creating a detailed picture of local climates that would be missed by analysing polar ice alone.
+Everyone laughed nervously. “I do not support independence,” Ksouri Perez eked out a response. “I am not ready for it now,” Lamiscarre added.
 
-The Ice Memory team hope to have a wide range of samples ready to be stored in Antarctica by 2020, in a bespoke vault built near the French-Italian research station Concordia. The researchers plan to employ a method that has been successfully trialled in Greenland, which involves digging a trench and inserting an inflatable balloon that will be used as a mould for the cave.
+It creates a community and new links between people
 
-"We then blow the snow we previously removed to create the trench back onto the structure, and wait for it to harden over a few days," Barbante explains. At that point, the balloon is deflated and can be easily removed. "This way we create a natural structure that is low cost and has no environmental impact."
+Sitting across from Lamiscarre and Ksouri Perez, I realised that, despite the changes the eusko has brought, life here is still overwhelmingly French and much more would need to be done to revive any lingering Basque spirit that may lie beneath.
 
-Barbante concedes that after one or two decades the structure is likely to subside under the weight of further snow falling on top of it. "But the cores can be moved relatively easily to a new structure built the same way", he adds.
-
-The project has already gained the support of Unesco, and Barbante says that an increasing number of teams, including those from Russia, the US and China are already collecting extra material during their independent expeditions, so they will be able to contribute to the project in future.
-
-According to current projections, no matter what we do now to curb global emissions, many of the world’s glaciers have little hope of surviving beyond a few human generations, with some losing a third of their ice over the next century. Soon, these few hundreds of metres of ice cores may be all that’s left of many ancient tongues of ice.
-
-The efforts of a few intrepid explorers venturing into the mountains to collect these cores are helping to ensure the secrets they contain will be available for future generations to unlock.
+“We are starting to hear more Euskara in the everyday life, but it's far from enough,” Edme-Sanjurjo later told me. “We have to make people proud of speaking Basque, and motivate newcomers to learn and have it taught to their children. That’s the way they do it in Catalunya. It will take a few decades, but we will work hard to do it.”
 
 .*/};
