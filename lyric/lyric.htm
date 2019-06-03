@@ -2,156 +2,134 @@
 <html>
 <head>
     <meta charset="UTF-8" http-equiv="Content-Type" content="user-scalable=0" name="viewport" />
-    <title>speaking training</title>
+    <title>Dedicated to Na</title>
     <script type="text/javascript">
-        function IsPC() {
-            var userAgentInfo = navigator.userAgent;
-            var Agents = ["Android", "iPhone",
-                        "SymbianOS", "Windows Phone",
-                        "iPad", "iPod"];
-            var flag = true;
-            for (var v = 0; v < Agents.length; v++) {
-                if (userAgentInfo.indexOf(Agents[v]) > 0) {
-                    flag = false;
-                    break;
-                }
-            }
-            return flag;
-        }
-     
-        var isPC = IsPC(); //true为PC端，false为手机端
-
+        // get the height of the screen
         function getClientHeight() {
             var clientHeight=0;
             if(document.body.clientHeight&&document.documentElement.clientHeight)
             {
-                var clientHeight = (document.body.clientHeight<document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
+                clientHeight = (document.body.clientHeight<document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
             }
             else
             {
-                var clientHeight = (document.body.clientHeight>document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
+                clientHeight = (document.body.clientHeight>document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
             }
             return clientHeight;
         }
         function heredoc(fn) {
             return fn.toString().split('\n').slice(1, -1).join('\n') + '\n';
         }
-        function devideSub(txt) {
-            var cn = '';
-            var en = '';
-            var i = 0;
-            var num = 0;
-            var max = txt.length - 1;
-            function readLine(p) {
-                var str = '';
-                while (i <= max && /\r|\n/.test(p[i])) {
-                    i++;
-                }
-                while (i <= max && /[^\r\n]/.test(p[i])) {
-                    str += p[i];
-                    i++;
-                }
-                return str;
-            }
-            while (i <= max) {
-                var line = readLine(txt, 0);
-                if (/[\u4e00-\u9fa5]/.test(line)) {
-                    cn += line + '----------------------------------------';
-                } else if (/[a-zA-Z]/.test(line)) {
-                    en += line + '----------------------------------------';
-                }
-            }
-            return [en, cn];
-        }
+
         var sub = '';
-        var cn = '';
-        var en = '';
-        var c = [];
-        var e = [];
-        var sinput;
-        var cnRow;
-        var enRow;
+        var cn = [];
+        var en = [];
+        var max = 0;
+        var i = 0;
+        // get a line text
+        function getLine(p) {
+            var str = '';
+            while (i <= max && (p[i] === '\r' || p[i] === '\n' || p[i] === '\t' || p[i] === ' ')) {
+                i++;
+            }
+            while (i <= max && p[i] !== '\r' && p[i] !== '\n') {
+                str += p[i];
+                i++;
+            }
+            return str;
+        }
+        // get a block which normally includes 1 english and 1 chinese
+        function getBlock(p) {
+            // the 1st line is number
+            getLine(p);
+            // the 2nd line is time stamp
+            getLine(p);
+            var ct = '';
+            var et = '';
+            var line = '';
+            // subtitle begins
+            do {
+                line = getLine(p);
+                if (/[\u4e00-\u9fa5]/.test(line)) {
+                    if (ct !== '') {
+                        ct += ' - ';
+                    }
+                    ct += line;
+                } else if (/[a-zA-Z]/.test(line)) {
+                    if (et !== '') {
+                        et += ' - ';
+                    }
+                    et += line;
+                }
+                // p[i], p[i + 1] === \r\n && p[i + 2], p[i + 3] === \r\n
+                // means the end of a block
+            } while (i < max && p[i + 2] !== '\r' && p[i + 2] !== '\n');
+            // drop this block when english or chinese is missing
+            if (ct && et) {
+                cn.push(ct);
+                en.push(et);
+            }
+        }
+        function processTxt(p) {
+            max = p.length - 1;
+            while(i <= max) {
+                getBlock(p);
+            }
+        }
+
         var cntxt;
         var entxt;
         var cnIdx;
-        var enIdx;
         var cnMax;
-        var enMax;
         var endCn;
-        var endEn;
-        var cndiv;
-        var endiv;
-        var consoleDiv;
+
         var cnhasMove = false;
         var enhasMove = false;
         window.onload = function() {
-            consoleDiv = document.getElementById('console');
-            c = [document.getElementById('c1'), document.getElementById('c2'), document.getElementById('c3')];
-            e = [document.getElementById('e1'), document.getElementById('e2'), document.getElementById('e3')];
-            sinput = document.getElementById('sinput');
             cntxt = document.getElementById('cntxt');
             entxt = document.getElementById('entxt');
-            var lineHeight = getClientHeight() * 0.9 / 12;
-            var fontSize = lineHeight * 0.5 + 'px';
+            var lineHeight = getClientHeight() * 0.9 / 16;
+            var fontSize = lineHeight * 0.43 + 'px';
             lineHeight += 'px';
             cntxt.style.lineHeight = lineHeight;
             cntxt.style.fontSize = fontSize;
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
-            consoleDiv.style.fontSize = fontSize;
 
-            sub = devideSub(heredoc(text));
-            en = sub[0];
-            cn = sub[1];
+            // read subtitle
+            sub = heredoc(text);
+            // store english and chinese subs separately
+            processTxt(sub);
+
+            // total number of titles
             cnMax = cn.length - 1;
-            enMax = en.length - 1;
-            cnRow = Number(localStorage.getItem('cnrow'));
-            setHeight(c, cnRow);
-            enRow = Number(localStorage.getItem('enrow'));
-            setHeight(e, enRow);
-
             cnIdx = Number(localStorage.getItem('cnidx'));
             endCn = cnIdx;
-            enIdx = Number(localStorage.getItem('enidx'));
-            endEn = enIdx;
-            consoleDiv.innerHTML = 'Chinese: ' + String(cnIdx)+' English: '+ String(enIdx) + ' / '+ en.length;
-            cntxt.innerHTML = cn.slice(cnIdx);
-            entxt.innerHTML = en.slice(enIdx);
 
-            cndiv = document.getElementById('cnzone');
-            endiv = document.getElementById('enzone');
-            cndiv.addEventListener('touchstart', cntouchstart);
-            cndiv.addEventListener('touchend', cntouchend);
-            cndiv.addEventListener('touchmove', cntouchmove);
-            endiv.addEventListener('touchstart', entouchstart);
-            endiv.addEventListener('touchend', entouchend);
-            endiv.addEventListener('touchmove', entouchmove);
-            cndiv.addEventListener('mousedown', cnmousedown);
-            endiv.addEventListener('mousedown', enmousedown);
-            if (isPC) {
-                cndiv.style['user-select'] = 'none';
-                cndiv.style.cursor = 'pointer';
-                endiv.style['user-select'] = 'none';
-                endiv.style.cursor = 'pointer';
-            }
+            cntxt.innerHTML = cn[cnIdx];
+
+            document.addEventListener('touchstart', touchstart);
+            document.addEventListener('touchend', touchend);
+            document.addEventListener('touchmove', touchmove);
+
+            document.addEventListener('keydown', keydown);
         }
         var cnstartX;
         var cnstartY;
         var enstartX;
         var enstartY;
-        function cntouchstart(event) {
+        function touchstart(event) {
             cnstartX = event.changedTouches[0].pageX;
             cnstartY = event.changedTouches[0].pageY;
         }
-        function cntouchend(event) {
+        function touchend(event) {
             if (cnhasMove) {
                 cnhasMove = false;
                 cnIdx = Math.round(endCn);
                 localStorage.setItem('cnidx', cnIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
-        function cntouchmove(event) {
+        function touchmove(event) {
             event.preventDefault();
             var spanX = event.changedTouches[0].pageX - cnstartX;
             var spanY = event.changedTouches[0].pageY - cnstartY;
@@ -175,137 +153,32 @@
             //     }
             // }
         }
-        function entouchstart(event) {
-            enstartX = event.changedTouches[0].pageX;
-            enstartY = event.changedTouches[0].pageY;
-        }
-        function entouchend(event) {
-            if (enhasMove) {
-                enhasMove = false;
-                enIdx = Math.round(endEn);
-                localStorage.setItem('enidx', enIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+
+        function prev() {
+            if (entxt.innerHTML) {
+                entxt.innerHTML = '';
+            } else if (cnIdx > 0) {
+                cnIdx--;
+                localStorage.setItem('cnidx', cnIdx);
+                cntxt.innerHTML = cn[cnIdx];
+                entxt.innerHTML = en[cnIdx];
             }
         }
-        function entouchmove(event) {
-            event.preventDefault();
-            var spanX = event.changedTouches[0].pageX - enstartX;
-            var spanY = event.changedTouches[0].pageY - enstartY;
-            if (Math.abs(spanX) > Math.abs(spanY)) {      //认定为水平方向滑动
-                if (!enhasMove) {
-                    enhasMove = true;
-                }
-                endEn = Math.round(enIdx - spanX / 20);
-                if (endEn < 0) {
-                    endEn = 0;
-                } else if (endEn > enMax) {
-                    endEn = enMax;
-                }
-                entxt.innerHTML = en.slice(endEn);
+        function next() {
+            if (!entxt.innerHTML) {
+                entxt.innerHTML = en[cnIdx];
+            } else if (cnIdx < cnMax) {
+                cnIdx++;
+                localStorage.setItem('cnidx', cnIdx);
+                cntxt.innerHTML = cn[cnIdx];
+                entxt.innerHTML = '';
             }
         }
-        var cnPCx;
-        function cnmousedown(event) {
-            cnPCx = event.pageX;
-            document.addEventListener('mousemove', cnmousemove);
-            document.addEventListener('mouseup', cnmouseup);
-        }
-        function cnmousemove(event) {
-            endCn = Math.round(cnIdx - (event.pageX - cnPCx) / 20);
-            if (endCn < 0) {
-                endCn = 0;
-            } else if (endCn > cnMax) {
-                endCn = cnMax;
-            }
-            cntxt.innerHTML = cn.slice(endCn);
-        }
-        function cnmouseup(event) {
-            document.removeEventListener('mousemove', cnmousemove);
-            document.removeEventListener('mouseup', cnmouseup);
-            cnIdx = Math.round(endCn);
-            localStorage.setItem('cnidx', cnIdx);
-            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
-        }
-        var enPCx;
-        function enmousedown(event) {
-            enPCx = event.pageX;
-            document.addEventListener('mousemove', enmousemove);
-            document.addEventListener('mouseup', enmouseup);
-        }
-        function enmousemove(event) {
-            endEn = Math.round(enIdx - (event.pageX - enPCx) / 20);
-            if (endEn < 0) {
-                endEn = 0;
-            } else if (endEn > enMax) {
-                endEn = enMax;
-            }
-            entxt.innerHTML = en.slice(endEn);
-        }
-        function enmouseup(event) {
-            document.removeEventListener('mousemove', enmousemove);
-            document.removeEventListener('mouseup', enmouseup);
-            enIdx = Math.round(endEn);
-            localStorage.setItem('enidx', enIdx);
-            consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
-        }
-        function search() {
-            var key = sinput.value.replace(/^\s+|\s+$/g, '');
-            if (key === '') {
-                cnIdx = 0;
-                enIdx = 0;
-                localStorage.clear();
-                cntxt.innerHTML = cn;
-                entxt.innerHTML = en;
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
-            }
-            var pos;
-            if (/[a-zA-Z]/.test(key[0])) {
-                pos = en.indexOf(key);
-                if (pos !== -1) {
-                    entxt.innerHTML = en.slice(pos);
-                    localStorage.setItem('enidx', pos);
-                    enIdx = pos;
-                    sinput.value = '';
-                    consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ pos + ' / '+ en.length;
-                }
-            } else {
-                pos = cn.indexOf(key);
-                if (pos !== -1) {
-                    cntxt.innerHTML = cn.slice(pos);
-                    localStorage.setItem('cnidx', pos);
-                    cnIdx = pos;
-                    sinput.value = '';
-                    consoleDiv.innerHTML = 'Chinese: ' + pos + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
-                }
-            }
-        }
-        function go(event) {
-            if(event.keyCode === 13) {
-                search();
-            }
-        }
-        function setHeight(arr, cn) {
-            var h = 100 * (cn + 1) / 6;
-            if (arr === c) {
-                cntxt.style.height = h + '%';
-            } else if (arr === e) {
-                entxt.style.height = h + '%';
-            }
-        }
-        function setCnRow(num) {
-            var newRow = cnRow + num;
-            if (newRow >= 0 && newRow < 6) {
-                cnRow = newRow;
-                localStorage.setItem('cnrow', newRow);
-                setHeight(c, newRow);
-            }
-        }
-        function setEnRow(num) {
-            var newRow = enRow + num;
-            if (newRow >= -1 && newRow < 6) {
-                enRow = newRow;
-                localStorage.setItem('enrow', newRow);
-                setHeight(e, newRow);
+        function keydown(e) {
+            if (e && e.keyCode === 37) { //左
+                prev();
+            } else if (e && e.keyCode === 39){ //右
+                next();
             }
         }
     </script>
@@ -320,79 +193,62 @@
         .content{
             box-sizing: border-box;
             width: 100%;
-            height: 90%;
+            height: 94%;
             font-weight: bold;
         }
         .cn{
-            box-sizing: border-box;
-            height: 50%;
             border-bottom: 5px solid #fff;
-        }
-        .en{
-            box-sizing: border-box;
-            height: 50%;
         }
         #cntxt, #entxt{
             box-sizing: border-box;
             background-color: #209E85;
             overflow: hidden;
+            height: 50%;
+            padding-left: 5%;
+            padding-right: 5%;
         }
         .control {
             box-sizing: border-box;
-            position: absolute;
-            bottom: 0;
             width: 100%;
-            height: 10%;
+            height: 6%;
+            background: #FAFAFA;
+            box-shadow: inset 0 1px 1px #f0f0f0;
         }
         .btn {
-            color: #fff;
-            background-color: #87CEFA;
-            border: 1px solid #fff;
-            border-radius: 5px;
-            font-size: 50px;
-            font-weight: bold;
             width: 15%;
             height: 100%;
         }
         .btn.search {
-            background-color: #e94f4f;
+            position: relative;
+            z-index: 1;
+            border: 5px solid #D9D9D9;
+            border-radius: 15%;
+            background: #FFF;
+            cursor: default;
+            box-shadow: inset 0 0 5px #FFF, inset 0 5px 10px #EBEBEB, 0 10px 20px -15px #BBB;
         }
-        .btn.active {
-            background-color: #108ee9;
-            border: 1px solid #108ee9;
+        .search:before, .search:after {
+            content: "";
+            display: block;
+            position: absolute;
+            height: 70%;
+            width: 2%;
+            background: #E8E7E6;
+            left: 40%;
+            top: 15%;
         }
-        #sinput {
-            border-radius: 5px;
-            width: 24%;
-            font-size: 48px;
-            font-weight: bold;
-            vertical-align: top;
-            height: 100%;
+        .search:after {
+            left: 60%;
         }
     </style>
 </head>
 <body>
-    <div class="content">
-        <div id="cnzone" class="cn">
-            <div id="cntxt"></div>
-        </div>
-        <div id="enzone" class="en">
-            <div id="entxt"></div>
-            <div id="console"></div>
-        </div>
-    </div>
     <div class="control">
-        <button type="button" class="btn" onclick="setCnRow(1)">
-            c+
-        </button><button type="button" class="btn" onclick="setCnRow(-1)">
-            c-
-        </button><button type="button" class="btn" onclick="setEnRow(1)">
-            e+
-        </button><button type="button" class="btn" onclick="setEnRow(-1)">
-            e-
-        </button><input type="text" id="sinput" onkeypress="go(event)" /><button type="button" class="btn search" onclick="search()">
-            Go
-        </button>
+        <button type="button" class="btn search"></button>
+    </div>
+    <div class="content">
+        <div id="cntxt" class="cn"></div>
+        <div id="entxt" class="en"></div>
     </div>
 
     <script type="text/javascript" src="sub.js"></script>
