@@ -4,7 +4,7 @@
     <meta charset="UTF-8" http-equiv="Content-Type" content="user-scalable=0" name="viewport" />
     <title>Dedicated to Na</title>
     <script type="text/javascript">
-        // get the height of the screen
+        // get the height of the window
         function getClientHeight() {
             var clientHeight=0;
             if(document.body.clientHeight&&document.documentElement.clientHeight)
@@ -16,6 +16,19 @@
                 clientHeight = (document.body.clientHeight>document.documentElement.clientHeight)?document.body.clientHeight:document.documentElement.clientHeight;
             }
             return clientHeight;
+        }
+        // get the width of the window
+        function getClientWidth() {
+            // 通过深入 Document 内部对 body 进行检测，获取窗口大小
+            if (document.documentElement && document.documentElement.clientWidth) {
+                return document.documentElement.clientWidth;
+            }
+            if (document.body && document.body.clientWidth) {
+                return document.body.clientWidth;
+            }
+            if (window.innerWidth) {
+                return window.innerWidth;
+            }
         }
         function heredoc(fn) {
             return fn.toString().split('\n').slice(1, -1).join('\n') + '\n';
@@ -72,8 +85,45 @@
         }
         function processTxt(p) {
             max = p.length - 1;
-            while(i <= max) {
-                getBlock(p);
+            if (p.indexOf('[Script Info]') !== -1) {
+                // ass subtitle
+                i = p.indexOf('Dialogue');
+                while(i <= max) {
+                    var cl = '';
+                    var el = '';
+                    while (i <= max && p[i] !== '}') {
+                        i++;
+                    }
+                    i++;
+                    while (i <= max && p[i] !== '\\' && p[i] !== '{') {
+                        el += p[i];
+                        i++;
+                    }
+                    if (p[i + 1] === '\\' && p[i + 2] === 'r') {
+                        i = i + 4;
+                    }
+                    while (i <= max && p[i] !== '}') {
+                        i++;
+                    }
+                    i++;
+                    while (i <= max && p[i] !== '\\' && p[i] !== '{') {
+                        cl += p[i];
+                        i++;
+                    }
+                    while (i <= max && p[i] !== '\n') {
+                        i++;
+                    }
+                    i++;
+                    if (cl && el && /[\u4e00-\u9fa5]/.test(cl) && /[a-zA-Z]/.test(el)) {
+                        cn.push(cl);
+                        en.push(el);
+                    }
+                }
+            } else {
+                // srt subtitle
+                while(i <= max) {
+                    getBlock(p);
+                }
             }
         }
 
@@ -81,20 +131,27 @@
         var entxt;
         var cnIdx;
         var cnMax;
-        var endCn;
-
-        var cnhasMove = false;
-        var enhasMove = false;
+        var ratio;
+        var posBtn;
+        var wholeWidth;
+        
         window.onload = function() {
             cntxt = document.getElementById('cntxt');
             entxt = document.getElementById('entxt');
-            var lineHeight = getClientHeight() * 0.9 / 16;
-            var fontSize = lineHeight * 0.43 + 'px';
-            lineHeight += 'px';
+            content = document.getElementById('content');
+            ratio = document.getElementById('ratio');
+            posBtn = document.getElementById('pos');
+            var lh = getClientHeight() * 0.9 / 16;
+            var fontSize = lh * 0.43 + 'px';
+            var lineHeight = lh + 'px';
             cntxt.style.lineHeight = lineHeight;
             cntxt.style.fontSize = fontSize;
             entxt.style.lineHeight = lineHeight;
             entxt.style.fontSize = fontSize;
+            ratio.style.fontSize = fontSize;
+            ratio.style.height = lh * 2 + 'px';
+            ratio.style.lineHeight = lineHeight;
+            wholeWidth = getClientWidth() * 0.85;
 
             // read subtitle
             sub = heredoc(text);
@@ -103,47 +160,61 @@
 
             // total number of titles
             cnMax = cn.length - 1;
-            cnIdx = Number(localStorage.getItem('cnidx'));
-            endCn = cnIdx;
+            cnIdx = Number(localStorage.getItem('subidx'));
+            ratio.innerHTML = cnIdx + ' out of ' + cnMax;
 
             cntxt.innerHTML = cn[cnIdx];
 
-            document.addEventListener('touchstart', touchstart);
-            document.addEventListener('touchend', touchend);
-            document.addEventListener('touchmove', touchmove);
+            content.addEventListener('touchstart', touchstart);
+            content.addEventListener('touchend', touchend);
+            content.addEventListener('touchmove', touchmove);
 
+            posBtn.addEventListener('touchstart', btnTouchstart);
+            posBtn.addEventListener('touchend', btnTouchend);
+            posBtn.addEventListener('touchmove', btnTouchmove);
+
+            posBtn.addEventListener('mousedown', mousedown);
+
+            /*IE、Opera注册事件*/
+            if(content.attachEvent){
+                content.attachEvent('onmousewheel',scrollFunc);
+         
+            }
+            //Firefox使用addEventListener添加滚轮事件  
+            if (content.addEventListener) {//firefox  
+                content.addEventListener('DOMMouseScroll', scrollFunc, false);  
+            }  
+            //Safari与Chrome属于同一类型
+            content.onmousewheel = content.onmousewheel = scrollFunc;
             document.addEventListener('keydown', keydown);
         }
-        var cnstartX;
-        var cnstartY;
-        var enstartX;
-        var enstartY;
+
+        var startX;
+        var startY;
+        var hasMove = false;
+
         function touchstart(event) {
-            cnstartX = event.changedTouches[0].pageX;
-            cnstartY = event.changedTouches[0].pageY;
+            startX = event.changedTouches[0].pageX;
+            startY = event.changedTouches[0].pageY;
         }
         function touchend(event) {
-            if (cnhasMove) {
-                cnhasMove = false;
-                cnIdx = Math.round(endCn);
-                localStorage.setItem('cnidx', cnIdx);
+            if (hasMove) {
+                hasMove = false;
+                if (event.changedTouches[0].pageX - startX > 0) {
+                    next();
+                } else if (event.changedTouches[0].pageX - startX < 0) {
+                    prev();
+                }
             }
         }
         function touchmove(event) {
             event.preventDefault();
-            var spanX = event.changedTouches[0].pageX - cnstartX;
-            var spanY = event.changedTouches[0].pageY - cnstartY;
+            var spanX = event.changedTouches[0].pageX - startX;
+            var spanY = event.changedTouches[0].pageY - startY;
             if (Math.abs(spanX) > Math.abs(spanY)) {      //认定为水平方向滑动
-                if (!cnhasMove) {
-                    cnhasMove = true;
+                if (!hasMove) {
+                    hasMove = true;
                 }
-                endCn = Math.round(cnIdx - spanX / 30);
-                if (endCn < 0) {
-                    endCn = 0;
-                } else if (endCn > cnMax) {
-                    endCn = cnMax;
-                }
-                cntxt.innerHTML = cn.slice(endCn);
             }
             // else { //认定为垂直方向滑动
             //     if (spanY > 0) {
@@ -159,9 +230,11 @@
                 entxt.innerHTML = '';
             } else if (cnIdx > 0) {
                 cnIdx--;
-                localStorage.setItem('cnidx', cnIdx);
+                localStorage.setItem('subidx', cnIdx);
+                ratio.innerHTML = cnIdx + ' out of ' + cnMax;
                 cntxt.innerHTML = cn[cnIdx];
                 entxt.innerHTML = en[cnIdx];
+                setBtnPos();
             }
         }
         function next() {
@@ -169,9 +242,11 @@
                 entxt.innerHTML = en[cnIdx];
             } else if (cnIdx < cnMax) {
                 cnIdx++;
-                localStorage.setItem('cnidx', cnIdx);
+                localStorage.setItem('subidx', cnIdx);
+                ratio.innerHTML = cnIdx + ' out of ' + cnMax;
                 cntxt.innerHTML = cn[cnIdx];
                 entxt.innerHTML = '';
+                setBtnPos();
             }
         }
         function keydown(e) {
@@ -180,6 +255,88 @@
             } else if (e && e.keyCode === 39){ //右
                 next();
             }
+        }
+        function scrollFunc(e) {  
+            e = e || window.event;  
+            if (e.wheelDelta) {  //判断浏览器IE，谷歌滑轮事件                
+                if (e.wheelDelta > 0) {
+                    prev();
+                } else {
+                    next();
+                }
+            } else if (e.detail) {  //Firefox滑轮事件  
+                if (e.detail < 0) {
+                    prev();
+                } else {
+                    next();
+                }
+            }  
+        }
+        function setBtnPos() {
+            posBtn.style.left = wholeWidth * cnIdx / cnMax + 'px';
+        }
+        function setIdx() {
+            cnIdx = Math.round(Number(posBtn.style.left.replace('px', '')) / wholeWidth * cnMax);
+            localStorage.setItem('subidx', cnIdx);
+            ratio.innerHTML = cnIdx + ' out of ' + cnMax;
+            cntxt.innerHTML = cn[cnIdx];
+            entxt.innerHTML = '';
+        }
+        var btnstartX;
+        var btnstartY;
+        var startLeft;
+        
+        function btnTouchstart(event) {
+            btnstartX = event.changedTouches[0].pageX;
+            btnstartY = event.changedTouches[0].pageY;
+            startLeft = Number(posBtn.style.left.replace('px', ''));
+        }
+        function btnTouchend(event) {
+        }
+        function btnTouchmove(event) {
+            event.preventDefault();
+            var spanX = event.changedTouches[0].pageX - btnstartX;
+            var spanY = event.changedTouches[0].pageY - btnstartY;
+            if (Math.abs(spanX) > Math.abs(spanY)) {      //认定为水平方向滑动
+                var end = startLeft + spanX;
+                if (end < 0) {
+                    posBtn.style.left = 0;
+                    setIdx();
+                } else if (end > wholeWidth) {
+                    posBtn.style.left = wholeWidth;
+                    setIdx();
+                } else {
+                    posBtn.style.left = end;
+                    setIdx();
+                }
+            }
+        }
+        var mouseMove = false;
+        var mouseStartX;
+        var mouseLeft;
+        function mousedown(event) {
+            mouseStartX = event.pageX;
+            mouseLeft = Number(posBtn.style.left.replace('px', ''));
+            document.addEventListener('mousemove', mousemove);
+            document.addEventListener('mouseup', mouseup);
+        }
+        function mousemove(event) {
+            var spanX = event.pageX - mouseStartX;
+            var end = mouseLeft + spanX;
+            if (end < 0) {
+                posBtn.style.left = 0;
+                setIdx();
+            } else if (end > wholeWidth) {
+                posBtn.style.left = wholeWidth;
+                setIdx();
+            } else {
+                posBtn.style.left = end;
+                setIdx();
+            }
+        }
+        function mouseup(event) {
+            document.removeEventListener('mousemove', mousemove);
+            document.removeEventListener('mouseup', mouseup);
         }
     </script>
     <style>
@@ -191,6 +348,7 @@
             box-sizing: border-box;
         }
         .content{
+            position: relative;
             box-sizing: border-box;
             width: 100%;
             height: 94%;
@@ -204,10 +362,11 @@
             background-color: #209E85;
             overflow: hidden;
             height: 50%;
-            padding-left: 5%;
-            padding-right: 5%;
+            padding-left: 3%;
+            padding-right: 3%;
         }
         .control {
+            position: relative;
             box-sizing: border-box;
             width: 100%;
             height: 6%;
@@ -219,13 +378,15 @@
             height: 100%;
         }
         .btn.search {
-            position: relative;
+            position: absolute;
             z-index: 1;
             border: 5px solid #D9D9D9;
             border-radius: 15%;
             background: #FFF;
             cursor: default;
             box-shadow: inset 0 0 5px #FFF, inset 0 5px 10px #EBEBEB, 0 10px 20px -15px #BBB;
+            outline: none;
+            cursor: pointer;
         }
         .search:before, .search:after {
             content: "";
@@ -240,15 +401,24 @@
         .search:after {
             left: 60%;
         }
+        .ratio {
+            position: absolute;
+            color: rgba(255, 255, 255, 0.3);
+            top: 0;
+            bottom: 0;
+            left: 0;
+            margin: auto;
+        }
     </style>
 </head>
 <body>
     <div class="control">
-        <button type="button" class="btn search"></button>
+        <button type="button" class="btn search" id="pos"></button>
     </div>
-    <div class="content">
+    <div class="content" id="content">
         <div id="cntxt" class="cn"></div>
         <div id="entxt" class="en"></div>
+        <div id="ratio" class="ratio"></div>
     </div>
 
     <script type="text/javascript" src="sub.js"></script>

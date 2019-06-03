@@ -273,7 +273,7 @@
                 localStorage.setItem('cnidx', cnIdx);
                 consoleDiv.innerHTML = 'Chinese: ' + cnIdx +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length; 
             } else if (e.detail) {  //Firefox滑轮事件  
-                endCn = cnIdx + e.wheelDelta / 3;
+                endCn = cnIdx + e.detail / 3;
                 if (endCn < 0) {
                     endCn = 0;
                 } else if (endCn > cnMax) {
