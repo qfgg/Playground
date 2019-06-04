@@ -28,7 +28,7 @@ Style: Default,verdana,25,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,1
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.09,0:00:01.89,Default,,0000,0000,0000,,{\fad(0,1500)\fn楷体_GB2312\b6\bord0\shad1\fs24\pos(310,200)\K40}☆独家制作☆\N\N{\fn楷体_GB2312\b8\fs26\shad2\4a&H50&\1c&HFFFFFF&\3c&HFF8080&\4c&HFF8000&\K30}喜马拉雅主播:美国青少年英语\N\N{\c&H26F4FF&\fn楷体_GB2312\K30}{\fs22\K30}仅供交流学习  禁止商用盈利{\c&H26F4FF&\fnKaiTi\K30}
-Dialogue: 0,0:00:00.42,0:00:05.25,Default,,0000,0000,0000,,{\fs22\bord2\3c&HFF8000&}The One Where Monica Gets A New Roommate{\r}\N{\fn楷体_GB2312\fs18\bord1\3c&HFF8000&}六人行 第1季 第01集 莫妮卡的新室友{\r}
+Dialogue: 0,0:00:00.42,0:00:05.25,Default,,0000,0000,0000,,{\fs22\bord2\3c&HFF8000&}The One Where Monica Gets A New Roommate See 'cause I promised myself that I would make it through at least one of your weddings.See 'cause I promised myself that I would make it through at least one of your weddings.{\r}\N{\fn楷体_GB2312\fs18\bord1\3c&HFF8000&}六人行 第1季 第01集 莫妮卡的新室友{\r}
 Dialogue: 0,0:00:06.70,0:00:11.23,Default,,0000,0000,0000,,{\fs22\bord2\3c&HFF8000&}♪ So no one told you life was gonna be this way ♪{\r}\N{\fn楷体_GB2312\fs18\bord1\3c&HFF8000&}♪ 没有人告诉你活着有多累 ♪{\r}
 Dialogue: 0,0:00:11.77,0:00:15.94,Default,,0000,0000,0000,,{\fs22\bord2\3c&HFF8000&}♪ Your job's a joke, you're broke, your love life's D.O.A. ♪{\r}\N{\fn楷体_GB2312\fs18\bord1\3c&HFF8000&}♪ 上班受罪  口袋空空  爱情变累赘 ♪{\r}
 Dialogue: 0,0:00:14.79,0:00:16.24,Default,,0000,0000,0000,,{\fn楷体_GB2312\fs18\bord1\3c&HFF8000&}（主演：詹妮弗·安妮斯顿）{\r}

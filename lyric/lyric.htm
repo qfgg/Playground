@@ -134,6 +134,7 @@
         var ratio;
         var posBtn;
         var wholeWidth;
+        var content;
         
         window.onload = function() {
             cntxt = document.getElementById('cntxt');
@@ -142,7 +143,7 @@
             ratio = document.getElementById('ratio');
             posBtn = document.getElementById('pos');
             var lh = getClientHeight() * 0.9 / 16;
-            var fontSize = lh * 0.43 + 'px';
+            var fontSize = lh * 0.5 + 'px';
             var lineHeight = lh + 'px';
             cntxt.style.lineHeight = lineHeight;
             cntxt.style.fontSize = fontSize;
@@ -162,6 +163,7 @@
             cnMax = cn.length - 1;
             cnIdx = Number(localStorage.getItem('subidx'));
             ratio.innerHTML = cnIdx + ' out of ' + cnMax;
+            setBtnPos();
 
             cntxt.innerHTML = cn[cnIdx];
 
@@ -410,6 +412,7 @@
             margin: auto;
         }
     </style>
+    <script src="sub.js"></script>
 </head>
 <body>
     <div class="control">
