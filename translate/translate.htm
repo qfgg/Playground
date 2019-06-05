@@ -87,16 +87,20 @@
             endCn = cnIdx;
             enIdx = Number(localStorage.getItem('enidx'));
             endEn = enIdx;
-            if (cnIdx > cnMax) {
+            var lastCnMax = Number(localStorage.getItem('cnmax'));
+            var lastEnMax = Number(localStorage.getItem('enmax'));
+            if (cnIdx > cnMax || cnMax !== lastCnMax) {
                 localStorage.setItem('cnidx', 0);
+                localStorage.setItem('cnmax', cnMax);
                 cnIdx = 0;
                 endCn = 0;
 
                 cnRow = 5;
                 setHeight(c, cnRow);
             }
-            if (enIdx > enMax) {
+            if (enIdx > enMax || enMax !== lastEnMax) {
                 localStorage.setItem('enidx', 0);
+                localStorage.setItem('enmax', enMax);
                 enIdx = 0;
                 endEn = 0;
 

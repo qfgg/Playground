@@ -184,9 +184,11 @@
 
             // total number of titles
             cnMax = cn.length - 1;
+            var lastMax = Number(localStorage.getItem('submax'));
             cnIdx = Number(localStorage.getItem('subidx'));
-            if (cnIdx > cnMax) {
+            if (cnMax !== lastMax || cnIdx > cnMax) {
                 localStorage.setItem('subidx', 0);
+                localStorage.setItem('submax', cnMax);
                 cnIdx = 0;
             }
             ratio.innerHTML = cnIdx + ' out of ' + cnMax;
