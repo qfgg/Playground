@@ -83,47 +83,70 @@
                 en.push(et);
             }
         }
+        function processSRT(p) {
+            while(i <= max) {
+                getBlock(p);
+            }
+        }
+        function filterBraces(p) {
+            while (i <= max) {
+                if (p[i] === '\\' && p[i + 1] === 'N') {
+                    i = i + 2;
+                } else if (p[i] === '{') {
+                    i++;
+                    while (p[i] !== '}') {
+                        i++;
+                    }
+                    i++;
+                } else {
+                    break;
+                }
+            }
+        }
+        function processSSA(p) {
+            i = p.indexOf('Dialogue:');
+            while(i <= max) {
+                var cl = '';
+                var el = '';
+                // filter head ending with '0000,0000,0000,,'
+                while (i <= max && (p.slice(i, i + 16) !== '0000,0000,0000,,')) {
+                    i++;
+                }
+                i = i + 16;
+                filterBraces(p);
+                while (i <= max && p[i] !== '\\' && p[i] !== '{' && p[i] !== '\r') {
+                    el += p[i];
+                    i++;
+                }
+                filterBraces(p);
+                while (i <= max && p[i] !== '\\' && p[i] !== '{' && p[i] !== '\r') {
+                    cl += p[i];
+                    i++;
+                }
+                filterBraces(p);
+                while (i <= max && p[i] !== '\n') {
+                    i++;
+                }
+                i++;
+                if (cl && el) {
+                    if (/[\u4e00-\u9fa5]/.test(cl) && /[a-zA-Z]/.test(el)) {
+                        cn.push(cl);
+                        en.push(el);
+                    } else if (/[a-zA-Z]/.test(cl) && /[\u4e00-\u9fa5]/.test(el)) {
+                        en.push(cl);
+                        cn.push(el);
+                    }
+                }
+            }
+        }
         function processTxt(p) {
             max = p.length - 1;
             if (p.indexOf('[Script Info]') !== -1) {
                 // ass subtitle
-                i = p.indexOf('Dialogue');
-                while(i <= max) {
-                    var cl = '';
-                    var el = '';
-                    while (i <= max && p[i] !== '}') {
-                        i++;
-                    }
-                    i++;
-                    while (i <= max && p[i] !== '\\' && p[i] !== '{') {
-                        el += p[i];
-                        i++;
-                    }
-                    if (p[i + 1] === '\\' && p[i + 2] === 'r') {
-                        i = i + 4;
-                    }
-                    while (i <= max && p[i] !== '}') {
-                        i++;
-                    }
-                    i++;
-                    while (i <= max && p[i] !== '\\' && p[i] !== '{') {
-                        cl += p[i];
-                        i++;
-                    }
-                    while (i <= max && p[i] !== '\n') {
-                        i++;
-                    }
-                    i++;
-                    if (cl && el && /[\u4e00-\u9fa5]/.test(cl) && /[a-zA-Z]/.test(el)) {
-                        cn.push(cl);
-                        en.push(el);
-                    }
-                }
+                processSSA(p);
             } else {
                 // srt subtitle
-                while(i <= max) {
-                    getBlock(p);
-                }
+                processSRT(p);
             }
         }
 
@@ -162,6 +185,10 @@
             // total number of titles
             cnMax = cn.length - 1;
             cnIdx = Number(localStorage.getItem('subidx'));
+            if (cnIdx > cnMax) {
+                localStorage.setItem('subidx', 0);
+                cnIdx = 0;
+            }
             ratio.innerHTML = cnIdx + ' out of ' + cnMax;
             setBtnPos();
 

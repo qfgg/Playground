@@ -87,6 +87,22 @@
             endCn = cnIdx;
             enIdx = Number(localStorage.getItem('enidx'));
             endEn = enIdx;
+            if (cnIdx > cnMax) {
+                localStorage.setItem('cnidx', 0);
+                cnIdx = 0;
+                endCn = 0;
+
+                cnRow = 5;
+                setHeight(c, cnRow);
+            }
+            if (enIdx > enMax) {
+                localStorage.setItem('enidx', 0);
+                enIdx = 0;
+                endEn = 0;
+
+                enRow = -1;
+                setHeight(e, enRow);
+            }
             consoleDiv.innerHTML = 'Chinese: ' + String(cnIdx)+' English: '+ String(enIdx) + ' / '+ en.length;
             cntxt.innerHTML = cn.slice(cnIdx);
             entxt.innerHTML = en.slice(enIdx);
@@ -327,6 +343,10 @@
                 enIdx = 0;
                 localStorage.setItem('cnidx', 0);
                 localStorage.setItem('enidx', 0);
+                cnRow = 5;
+                setHeight(c, cnRow);
+                enRow = -1;
+                setHeight(e, enRow);
                 cntxt.innerHTML = cn;
                 entxt.innerHTML = en;
                 consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
