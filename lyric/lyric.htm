@@ -108,11 +108,11 @@
             while(i <= max) {
                 var cl = '';
                 var el = '';
-                // filter head ending with '0000,0000,0000,,'
-                while (i <= max && (p.slice(i, i + 16) !== '0000,0000,0000,,')) {
+                // filter head ending with '0,,'
+                while (i <= max && (p.slice(i, i + 3) !== '0,,')) {
                     i++;
                 }
-                i = i + 16;
+                i = i + 3;
                 filterBraces(p);
                 while (i <= max && p[i] !== '\\' && p[i] !== '{' && p[i] !== '\r') {
                     el += p[i];
