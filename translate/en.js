@@ -1,97 +1,90 @@
 var textEn = function() {/*
 
-As churches are demolished at home, Chinese Christians find religious freedom in Kenya
-But migrants embracing God in highly Christian Nairobi are often unaware of the atheist Communist Party’s war on religion
-CNN Digital Expansion 2017. Jenni Marsh
-By Jenni Marsh, CNN
+Stuck on the sidelines: A transgender powerlifter fights for the right to compete
+"It’s not fair to genetically eliminate an entire group of people," said JayCee Cooper, who was barred from USA Powerlifting competitions.
+Photograph of JayCee Cooper.
+USA Powerlifting told JayCee Cooper she couldn't compete in the women's division because she had a "competitive advantage" as a transgender person. Caroline Yang / for NBC News
+April 28, 2019, 4:11 PM GMT+8
+By Alex Berg
+The first time JayCee Cooper walked out onto the platform at a women’s powerlifting competition, everything else fell away: her years-long internal struggle over her gender identity, her decision to leave men’s sports when she began transitioning, her doubts that she would ever feel safe if she returned to competitions.
 
-Updated 0116 GMT (0916 HKT) April 29, 2019
+When she stepped out in front of a hundred people in the gym in Fort Collins, Colorado, last September, all she focused on was the barbell, which she hoisted off the ground. And then she heard the cheers of the crowd: "Come on JayCee!" She had found not only a sport, but also a home.
 
-Nairobi, Kenya (CNN)Every Sunday morning in an affluent suburb of Nairobi, Kenya, the soaring song of Chinese hymns fills the empty corridors of a Monday-to-Friday office block.
+“In a world that wants to take away our power and strength,” Cooper, 31, said recently by phone from her home in Minneapolis, “powerlifting is a way to gain that strength back and feel powerful and feel ownership of our own lives. It helps us find strength within ourselves and helps us find strength within our bodies.”
 
-Inside a small makeshift chapel, a kaleidoscopic congregation of Chinese migrants gather to pray. Among them are underwear importers, health workers and operators of the controversial new $3.8 billion Chinese-built railway that slices through Kenya, the country's biggest infrastructure project since independence -- and a sign of China's growing investment and footprint on the continent.
-Some have married Kenyans, others have Chinese children who speak Swahili as well as they do Mandarin.
-But they all share two things. Each person here has re-rooted their life from Communist China to Kenya, a leading African economy where 80% of the nearly 50 million people are Christian. And they have all decided to openly embrace God.
-Jonathon Chow, 43, a senior pastor  at the Bread of Life Church, delivers a sermon to the Nairobi congregation during a visit from Taiwan, where he is based and the church is headquartered. 
-Jonathon Chow, 43, a senior pastor at the Bread of Life Church, delivers a sermon to the Nairobi congregation during a visit from Taiwan, where he is based and the church is headquartered.
-Their religious awakening comes at a perilous moment for Christians in China, as the Communist Party government bans online sales of bibles, dynamites churches and arrests Christians for "inciting subversion of state power." The Communist Party sees any large group outside its dominion as a threat.
-"Publicly, it's dangerous to be a Christian in China right now," says Jonathon Chow, 43, a senior pastor at the Bread of Life Church, which is headquartered in Taiwan but has 500 ministries, including many in West Africa.
-Previously, the organization's churches in Africa tended to be run and attended by Africans, he says. But increasingly Bread of Life is seeing Chinese-led congregations forming across the continent, as more Chinese move to Africa and interact with local values.
-The Golden Lampstand Church, in China, was demolished with dynamite and heavy machinery in January 2018.
-Throughout the service, a middle-aged couple from Shandong province, who say they are new to Kenya and the ministry, post audio clips of hymns and photographs of readings onto WeChat, a social network closely monitored by the Chinese government.
-"Most of the congregation here got saved in Kenya," says Chow. "Unless they were a believer before they came, most don't know a lot about the Christian conditions in China."
-'The Kenyan wedding everyone is talking about'
-The first time Liang Yongyu met Karen Ngunjiri at the billboard advertising company where they both worked in Nairobi, he told her she would be his wife.
-Him being Chinese? Not a problem. But him not being a Christian, I thought that was going to be a big issue
+Cooper signed up for more competitions, but, to her astonishment, USA Powerlifting, the sport’s biggest federation, told her that she could not compete in the women’s division because of her gender identity.
 
-Karen Ngunjiri
+In an email, USA Powerlifting said she was denied because she had a “direct competitive advantage” over the other women who were competing.
 
-The pair dated for 6 months, then hit a roadblock that threatened to scupper his swaggering prediction. Liang, 33, was not a Christian.
-"That was a deal breaker for me," says Ngunjiri, 29, who spent four years studying Mandarin in Nanning, south-west China. "Him being Chinese? Not a problem. But him not being a Christian, I thought that was going to be a big issue. How would we bring up our children?"
-Liang had lived in Kenya for a "long time," could speak some Swahili and had been "hearing a lot about Christianity" from his Kenyan friends, Ngunjiri says. After some soul searching, he said he "was open to exploring what Christianity had to offer," she adds.
-Liang connected with a church in Nairobi that held services in Cantonese -- the language spoken in his home province of Guangdong, in southern China, and Hong Kong, where the pastors who founded the ministry were from.
-In December 2018, those Hong Kong pastors married the couple in a Christian ceremony in the shadow of Mount Kenya in front of 200 guests -- "a small wedding for Kenya," jokes Ngunjiri.
-Weeks later, a video of their wedding went viral on YouTube with the title: "THE KENYAN WEDDING EVERYONE IS TALKING ABOUT." Ngunjiri still doesn't know who uploaded it, but for months the newlyweds couldn't walk down the street in Nairobi without being recognized. The novelty of a Kenyan woman marrying a Chinese man had got people's attention.
-Liang Yongyu and Karen Ngunjiri were married near Mount Kenya after he converted to Christianity for her.
-Liang Yongyu and Karen Ngunjiri were married near Mount Kenya after he converted to Christianity for her.
-"Some of the comments (online) were horrible," she says, of the video that has since been taken down, but at its peak had nearly 300,000 views, according to Ngunjiri. "Especially from Kenyans. There's this idea that the Chinese are here to steal our jobs or colonize us. So the joke was now they're stealing our women."
-In 2017, China was Kenya's largest trading partner and, in 2014, the country was home to an estimated 40,000 Chinese migrants. But their relations with Kenyans have, at times, been tense.
-In 2015, a Chinese restaurateur reportedly banned African patrons after 5 p.m., last year a Chinese boss was deported from Kenya after being caught on video calling an employee a "monkey," and local media has claimed that Kenyan workers on the Chinese-built railway have been treated like second-class citizens by their foreign employers.
-Kenyans are also concerned about how much debt their country owes to China. Last year, in a seeming show of strength against Chinese dominance President Kenyatta Uhuru banned imports of cheap Chinese fish, amid claims it was squeezing out local produce. But his ban was soon reversed: Kenya does not produce enough fish to feed itself.
-Kenyan workers on the Standard Gauge Railway; Chinese supervisors on the platform in Nairobi; Kenyan staff man the modern terminal.
-The anti-Chinese commentators on Ngunjiri's wedding video, however, had perhaps missed the point.
-Rather than Ngunjiri being overpowered by Chinese culture, it was Liang who had changed his faith and agreed to a Christian African wedding with just 20 Chinese guests who didn't include his mother, embracing a new culture 5,300 miles from home.
-A new door opens
-An estimated 1 million Chinese have moved to the African continent in the 21st century, according to journalist Howard French's book "China's Second Continent," amid growing trade ties between the two regions. But what is perhaps unique about Kenya's Chinese population, and why it is embracing the country's religious culture, is its diversity. A 2015 study found the Chinese in Kenya are spread "across every sector in a significant way."
-This makes a difference. Employees of government-owned giants, shipped out to build roads in Uganda or airports in Zimbabwe, for example, are typically bused to and from work and must stay inside their compounds in the evenings and at weekends unless given approval to leave by a manager. But in Nairobi -- a vibrant city home to African tech giant M-Pesa, which revolutionized mobile banking in East Africa -- a younger generation of Chinese are working in the private sector, freer to explore new cultures and belief systems through their personal connections with local people.
-Annie Hu, 30, began attending church in Kenya; Chinese and Kenyan employees mix at a media company office; the China Center where many Chinese expats have businesses.
-Among them is Annie Hu, 30, who relocated to Kenya five years ago and works as East Africa region manager for a Chinese financial technology, or fintech, giant. She says the 9-to-5 "pole pole" (meaning "slowly slowly" in Swahili) lifestyle here is more attractive than the 9-9-6 grind -- working 9 a.m. to 9 p.m., six days a week -- at some of China's biggest technology companies in the country's Silicon Valley city of Shenzhen, where she relocated from.
-"Living in a developing country and international city you encounter different nationalities, races and lifestyles," Hu says. After frequently traveling for work to the Muslim majority city of Dar es Salaam, in Tanzania, she went to Lebanon and Jordan last year to learn more about Islamic culture. "It opened a totally new door for me," she says. Perhaps reflecting on how her own country treats Muslims, she diplomatically adds: "We need more understanding."
-Once we engage with the local community, it's inevitable we are invited to join the church
+"It took me aback,” Cooper said. “I didn’t want to put myself into a situation where I obviously wasn’t welcome.”
 
-Annie Hu, Nairobi resident
+Photograph of JayCee Cooper lifting.Cooper says powerlifting makes her feel connected to her strength. Caroline Yang / for NBC News
+Cooper’s story received national attention after she posted about it on Instagram in January. She drew support from fellow powerlifters and Rep. Ilhan Omar, D-Minn., who slammed the ban on transgender women competitors as “discriminatory” and “unscientific.”
 
-Hu's family is Buddhist but in Nairobi she began attending Christian churches, including Bread of Life and the Cantonese congregation joined by Liang, as well as a Maasai church. "Kenyans believe in God more than my Western friends," she says. "Once we engage with the local community it's inevitable we are invited to join the church. These people are very friendly and reliable and they try to build a supportive community for the Chines?e."
-Chow from Bread of Life agrees the church is an important social network for newcomers. "I also think the cultural differences and the hardship the Chinese experience here means they are more open to the gospel," he says.
-For Hu, flirting with various Christian communities hasn't yet resulted in a full conversion, although she doesn't rule it out. "It's brought more religion into my life," she says, "but I didn't get to the point where I want to be a Christian yet."
-The world's biggest Christian nation?
-It is not only the Chinese in Kenya who are embracing Christianity. Many Chinese students in America, Australia and the UK are returning home Christian, says Ian Johnson, author of "The Souls of China: The Return of Religion After Mao." Their conversion chimes with a broader trend at home: China itself is on track to be the world's biggest Christian nation by 2030, by some estimates.
-For much of the 20th century, Chinese citizens were taught to worship the founding father of the Communist Party, Mao Zedong, the revolutionary leader who destroyed much of the nation's Buddhist and Taoist religious infrastructure during the Cultural Revolution. "There used to be 900 temples in Beijing alone," says Johnson. "Now there are 20."
-Mao's death in 1976 left the Chinese searching for a new value system. Christianity seemed fresh and modern to the country's newly urban residents, Johnson says, although more people in China are still Buddhist.
-By 2017, there were between 93 million and 115 million Christians in China -- around 5% of the country's population -- but fewer than 30 million practice in official churches, according to Purdue University scholar Yang Fenggang. If those estimates pan out, there would now be almost as many Christians in China as there are members of the Communist Party, which had an estimated 90 million members in 2016.
-That has riled the government. Under President Xi Jinping rhetoric has grown on the need to "Sinicize" religions perceived to be Western, despite the fact many Christians in China do not feel "un-Chinese or foreign," says Johnson.
-The congregation is offered grape juice during Communion at the Bread of Life.
-The congregation is offered grape juice during Communion at the Bread of Life.
-Today, only state-sanctioned Christian organizations are legal in China. Overcrowded state churches run as many as 5 services a day and their pastors' wages are paid by the government, says Johnson. The alternatives are so-called house churches which operate illegally but can offer a more personal ministry, with pastors on first-name terms with their congregation.
-For years, such churches were tolerated in China but recently they have become a target of the authorities and their requests to register with the state are often rejected.
-In December 2018, one of China's best-known underground ministries, the Early Rain Covenant Church, in Chengdu, was raided. The pastor and his wife were charged with "inciting subversion," which can carry a 15-year prison sentence, and more than 100 worshipers were arrested.
-An underground church in Kenya
-Kenya is not a place you'd expect to find an underground church. Christianity is the lifeblood of the nation's politics and societal fabric, and is celebrated in huge, rambunctious services attended by thousands of dancing and singing worshipers.
-But, in the northern stretches of the sprawling, traffic-choked capital of 4 million people, an underground Chinese house church is exactly what May Li, wife of a Malaysian-Chinese pastor, helps to lead -- illustrating just how far the Communist Party's religious crackdown has traveled. Li and other Chinese Christians in this story did not want to use their real names for fear of being punished by the government when they return to China.
-The Chinese embassy in Nairobi has already reached out to the leaders of some Chinese Christian groups in the city and asked them to desist, says Li. Her service tries to stay below the radar.
-It's notable that the three main Christian churches in Nairobi are run by Chinese pastors from Taiwan, Hong Kong and Malaysia -- places outside mainland China where Chinese people enjoy more Christian religious freedom.
-A spokesperson for China's Ministry of Foreign Affairs (Mofa) in Beijing said it was "not aware" of this situation, adding that China does not have "so-called house churches."
-"The Chinese government respects its people's religious freedom and protects normal religious activities and legitimate rights of religious organizations, and manages religious issues pertaining to national and public interests in accordance with law," the spokesperson said via fax. "At the same time, we require all religions to obey national laws and carry out activities within the law."
-On Sunday afternoons, Li's underground church meets in a small basement room of a huge Kenyan church. No photography is allowed. No names of attendees can be revealed. No Chinese person here wants to be outed as a Christian.
-The Bread of Life service is held in a high-rise office tower, which is busy Monday to Friday but empty on Sundays apart from this church.
-The Bread of Life service is held in a high-rise office tower, which is busy Monday to Friday but empty on Sundays apart from this church.
-"These people will one day go back to China," says Li, explaining that this congregation is a transient group often working in Kenya for short stints. Most were Christian before they came and, if they belonged to a house church, are aware of some of the risks.
-Church translator Grace Zhang, from Hubei province, falls into that category. "Things are very difficult for my church in China right now," says Zhang, who did not want her real name used. She became a Christian with her mother in 2002 and relocated to Kenya to proselytize to Chinese abroad, as well as to Kenyans.
-Despite her work, Zhang hesitates to call herself a missionary -- "that's a sensitive word," she says. Chinese law bans missionary work in China. Instead, Zhang prefers the term "cultural mediator."
-Many Africans from Uganda, Burundi, Kenya and Sudan also attend the bilingual service, which is delivered in English and Mandarin, hoping to improve their language skills or learn more about China. "God gave them the burden of loving the Chinese," Zhang says.
-Through their interaction at the church, Zhang helps Africans and Chinese better understand each other. She explains to the Chinese, for example, that Kenyans place a high value on in-depth greetings, meaning that asking about the well-being of multiple family members is a cultural necessity. She warns Africans that many Chinese do not respond well to overly physical greetings.
-"We try to learn from both sides," she says.
-China vs God ... going home
-In Chinese state media, the clampdown on faith goes largely unreported and Christianity is "virtually invisible," says Johnson -- the government doesn't want to "encourage anyone to think about religion."
-That explains why worshipers at the Bread of Life church in Nairobi are open about sharing their Christianity. This is a more settled congregation. Having found religion abroad and been out of China for several years, in most cases, they often simply do not know the extent of their government's crackdown, says Chow -- although many have a sense the government is not enthusiastic about religion.
-When members want to repatriate, however, they have to be enlightened of the potential risks.
-Maggie Wong, 35, a pastor at Bread of Life, says the church tries to prepare them for what they will face and has a network of underground churches to connect them with. "It's very stressful," she says.
-A Chinese Christian reads a Bible at a church in Nairobi.
-A Chinese Christian reads a Bible at a church in Nairobi.
-"From a spiritual perspective, I think it's not easy for returnees to survive when they go back to their home country if they live overseas," says Zhang, from the underground church. "When they go back we keep in touch with them and even Skype for bible study."
-Some Christians in Kenya, however, who learn of the potential dangers that await them in China say it could be a deterrent from returning.
-Jimmy Hong Zhen Wu, 53, a trader from Guangdong province, became Christian during the decade he has spent living in Kenya, where his wife has given birth to two daughters now under 8 years old. He travels to China regularly for work and says he is conscious of the double life he would need to lead back home.
-"In public, in China we can't speak about our faith," says Wu, who did not want his real name used. "Only with friends and family can we say we are Christian."
-Whether his daughters, who have spent their lives in a proudly Christian society attending church every Sunday, will understand those confines if their family one day heads back to China remains to be seen. ??
+It was just the latest in a growing number of battles over the place of transgender women athletes in competitive sports.
+
+As transgender women have become more visible and sought to participate in women’s sports, athletic organizing bodies have grappled with how to respond, and critics of their inclusion have grown increasingly vocal, as well.
+
+In March, tennis legend Martina Navratilova apologized for calling trans women “cheats” in a Sunday Times op-ed in which she wrote that “letting men compete as women simply if they change their name and take hormones is unfair.” Weeks later, marathoner Paula Radcliffe told BBC Sport that it would be “naive” not to institute rules. In an interview with Sky News in April, Radcliffe said that if trans people were permitted to compete without regulations, it would be “the death of women’s sport.”
+
+Download the NBC News app for breaking news
+
+For transgender people watching this issue play out, the debate — often based more in bias and assumptions than in science — is dehumanizing. Those who seek to exclude transgender women from sports sometimes imply that the athletes are adopting their identity to gain an edge in competition, a suggestion many find offensive.
+
+Related
+
+NBC OUT
+Trans athletes make great gains, yet resentment still flares
+“They don't understand what it means to be a trans person,” Chris Mosier, a competitive runner and cycler and the first known transgender athlete to make a men’s U.S. national team, said.
+
+“The folks who are improperly reporting on this are making it seem like cis men are pretending to be women to dominate sports,” he added, referring to people who are assigned male at birth and identify as men. “I can say that the amount of discrimination, harassment and challenges trans people face in their everyday lives would never be offset by glory.”
+
+‘IT’S BEEN A ROLLER-COASTER’
+Before becoming a powerlifter, Cooper lifted weights as part of her training for other sports. As a teenager growing up in Clarkston, Michigan, she was on the U.S. junior national curling team, competed in track and field in high school and rowed in college.
+
+But she never felt fully comfortable on those all-boys teams.
+
+“It’s been a roller-coaster,” Cooper said. “One of the reasons I stepped away from curling was that I wasn’t being my authentic self, and I was super depressed, and I needed some time away to figure out what that meant for me.”
+
+Four years ago, she began hormone replacement therapy as part of her transition. She now identifies as transfeminine, which she sees as a more expansive identity than simply female.
+
+Cooper first came across powerlifting in high school, but didn’t decide to compete until last year while recuperating from a broken ankle, and she was struck by the sport’s simplicity and supportive atmosphere. In powerlifting, athletes are divided into categories by sex, age and weight, and they compete in three types of lifts: squat, bench press and deadlift. Each movement is a test of static strength, force and focus.
+
+Photograph of JayCee Cooper holding a lifting medal.Cooper holds a lifting medal. Caroline Yang / for NBC News
+“The barbell for me has been a very empowering way to be in my body, which is politicized every waking second, connect with it, and feel like I'm achieving something,” Cooper said.
+
+“It's a very almost spiritual feeling in the sense that I'm carrying all of this trauma with me and I'm literally focusing all of that into the barbell. In that moment, I get to control what's going on.”
+
+To lower her testosterone levels, Cooper takes spironolactone, a drug that is also used to treat high blood pressure and can mask steroid use.
+
+USA Powerlifting, which follows rules set by the World Anti-Doping Agency, requires athletes to apply for an exemption to compete while taking the drug. The group has granted exemptions to powerlifters who have taken spironolactone to treat acne or polycystic ovary syndrome, Larry Maile, USA Powerlifting’s president, said.
+
+As part of her medication exemption application, Cooper provided documentation that her testosterone levels have remained under the International Olympic Committee’s accepted limit for two years. (USA Powerlifting falls under the International Powerlifting Federation, which adopted the IOC’s guidelines that allow transgender women to compete in women’s divisions provided their testosterone is below 10 nmol/L for at least 12 months.)
+
+But in December, Cooper’s exemption request was denied. She was told she could not compete in the women’s division of powerlifting because she had a “competitive advantage” as a transgender woman, according to an email exchange obtained by NBC News between Cooper and Dr. Kristopher Hunt, the chair of USA Powerlifting’s committee that reviews applications for medical exemptions.
+
+"Male-to-female transgenders are not allowed to compete as females in our static strength sport as it is a direct competitive advantage,” Hunt said in one email to Cooper.
+
+Pressed for clarification, he wrote a follow-up. “The fact that transgender male to female individuals having gone through male puberty confer an unfair competitive advantage over non-transgender females,” he said.
+
+Photograph of JayCee Cooper lifting.Cooper hopes to someday compete in powerlifting again. Caroline Yang / for NBC News
+In a phone interview, Maile defended the decision and said the organization’s policy of barring transgender women — as well as transgender men who take testosterone — was not new, though it was not posted on USA Powerlifting’s website until this winter after Cooper applied for the exemption. Maile said that the IOC’s guidelines ultimately give organizations the discretion to make their own decisions about fair play. To reach the decision, he said USA Powerlifting researched the physical differences between men and women in terms of muscle density, connective tissue and frame shape.
+
+“We’ve been referred to as bigoted and transphobic and a whole lot of less kind things, but it’s not an issue of that for us,” Maile said. “It’s an issue that we have to consider dispassionately and make our best judgment collectively about what the impact on fair play is for us, and that’s the basis on which we’ve proceeded.”
+
+He added that powerlifting “is really unique, because we’re a high strength and low technique sport” — so the physiology of the competitors is particularly important.
+
+Cooper doesn’t buy that argument, noting that women’s bodies come in all shapes and sizes, which may confer advantages for different sports.
+
+“You look at a WNBA player, they’re pushing 6 feet versus someone doing gymnastics who’s 5 feet tall,” she said. “Their bodies are built completely differently. That’s what sports are about.”
+
+‘THE SCIENCE IS IN ITS INFANCY’
+The policies governing transgender athletes vary by sport.
+
+The NCAA has policies similar to the International Olympic Committee and does not require athletes to undergo gender-confirming surgery, while USA Gymnastics does require it under some circumstances, according to research compiled by TransAthlete, a database of professional, recreational, college and K-12 sports’ policies on trans athletes.
+
+Others aim to be more inclusive. USA Hockey, for example, offers options for nonbinary athletes who do not identify as male or female, as well as guidance for trans athletes.
+
+While opponents of inclusion point to the “bigger, faster, stronger” argument as the basis of their fear that transgender women are taking over women’s sports, there are few examples of trans women who’ve excelled at a national or world level, according to Cyd Zeigler, co-founder of OutSports, an outlet that reports on LGBTQ athletes.
 
 .*/};
