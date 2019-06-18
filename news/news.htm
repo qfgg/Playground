@@ -107,7 +107,7 @@
                 enRow = -1;
                 setHeight(e, enRow);
             }
-            consoleDiv.innerHTML = 'Chinese: ' + String(cnIdx)+' English: '+ String(enIdx) + ' / '+ en.length;
+            consoleDiv.innerHTML = 'Chi: ' + String(cnIdx)+' Eng: '+ String(enIdx) + ' / '+ en.length;
             cntxt.innerHTML = cn.slice(cnIdx);
             entxt.innerHTML = en.slice(enIdx);
 
@@ -163,7 +163,7 @@
                 cnhasMove = false;
                 cnIdx = Math.round(endCn);
                 localStorage.setItem('cnidx', cnIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
         function cntouchmove(event) {
@@ -199,7 +199,7 @@
                 enhasMove = false;
                 enIdx = Math.round(endEn);
                 localStorage.setItem('enidx', enIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
         function entouchmove(event) {
@@ -246,7 +246,7 @@
                 cnPCMove = false;
                 cnIdx = Math.round(endCn);
                 localStorage.setItem('cnidx', cnIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
             
         }
@@ -275,7 +275,7 @@
                 enPCMove = false;
                 enIdx = Math.round(endEn);
                 localStorage.setItem('enidx', enIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
             }
         }
 
@@ -291,7 +291,7 @@
                 cntxt.innerHTML = cn.slice(endCn);
                 cnIdx = endCn;
                 localStorage.setItem('cnidx', cnIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + cnIdx +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length; 
+                consoleDiv.innerHTML = 'Chi: ' + cnIdx +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length; 
             } else if (e.detail) {  //Firefox滑轮事件  
                 endCn = cnIdx + e.detail / 3;
                 if (endCn < 0) {
@@ -302,7 +302,7 @@
                 cntxt.innerHTML = cn.slice(endCn);
                 cnIdx = endCn;
                 localStorage.setItem('cnidx', cnIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + cnIdx +' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length; 
+                consoleDiv.innerHTML = 'Chi: ' + cnIdx +' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length; 
             }  
         }
         function scrollEnFunc(e) {  
@@ -317,7 +317,7 @@
                 entxt.innerHTML = en.slice(endEn);
                 enIdx = endEn;
                 localStorage.setItem('enidx', enIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ enIdx + ' / '+ en.length; 
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ enIdx + ' / '+ en.length; 
             } else if (e.detail) {  //Firefox滑轮事件  
                 endEn = enIdx + e.wheelDelta / 3;
                 if (endEn < 0) {
@@ -328,7 +328,7 @@
                 entxt.innerHTML = en.slice(endEn);
                 enIdx = endEn;
                 localStorage.setItem('enidx', enIdx);
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') +' English: '+ enIdx + ' / '+ en.length; 
+                consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') +' Eng: '+ enIdx + ' / '+ en.length; 
             }  
         } 
         /*
@@ -343,36 +343,51 @@
         function search() {
             var key = sinput.value.replace(/^\s+|\s+$/g, '');
             if (key === '') {
-                cnIdx = 0;
-                enIdx = 0;
-                localStorage.setItem('cnidx', 0);
-                localStorage.setItem('enidx', 0);
-                cnRow = 5;
-                setHeight(c, cnRow);
-                enRow = -1;
-                setHeight(e, enRow);
-                cntxt.innerHTML = cn;
-                entxt.innerHTML = en;
-                consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                return;
             }
-            var pos;
-            if (/[a-zA-Z]/.test(key[0])) {
-                pos = en.indexOf(key);
-                if (pos !== -1) {
-                    entxt.innerHTML = en.slice(pos);
-                    localStorage.setItem('enidx', pos);
-                    enIdx = pos;
-                    sinput.value = '';
-                    consoleDiv.innerHTML = 'Chinese: ' + (localStorage.getItem('cnidx') || '0') + ' English: '+ pos + ' / '+ en.length;
+
+            // number input means jump to a certain progress
+            var ctarget;
+            var etarget;
+            if (/^\d+$/.test(key)) {
+                etarget = Number(key);
+                if (key > enMax) {
+                    etarget = enMax;
                 }
-            } else {
+                ctarget = Math.round(etarget / enMax * cnMax);
+                cnIdx = ctarget;
+                enIdx = etarget;
+                localStorage.setItem('cnidx', ctarget);
+                localStorage.setItem('enidx', etarget);
+                cntxt.innerHTML = cn.slice(ctarget);
+                entxt.innerHTML = en.slice(etarget);
+                sinput.value = '';
+                consoleDiv.innerHTML = 'Chi: ' + ctarget + ' Eng: '+ etarget + ' / '+ en.length;
+                return;
+            }
+            // if Chinese character exists, search Chinese part
+            var pos;
+            var pat;
+            var match;
+            if (/[\u4e00-\u9fa5]/.test(key)) {
                 pos = cn.indexOf(key);
                 if (pos !== -1) {
                     cntxt.innerHTML = cn.slice(pos);
                     localStorage.setItem('cnidx', pos);
                     cnIdx = pos;
                     sinput.value = '';
-                    consoleDiv.innerHTML = 'Chinese: ' + pos + ' English: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                    consoleDiv.innerHTML = 'Chi: ' + pos + ' Eng: '+ (localStorage.getItem('enidx') || '0') + ' / '+ en.length;
+                }
+            } else if (/[a-zA-Z]/.test(key)) {
+                pat = new RegExp(key, "i");
+                match = en.match(pat);
+                if (match) {
+                    pos = match.index;
+                    entxt.innerHTML = en.slice(pos);
+                    localStorage.setItem('enidx', pos);
+                    enIdx = pos;
+                    sinput.value = '';
+                    consoleDiv.innerHTML = 'Chi: ' + (localStorage.getItem('cnidx') || '0') + ' Eng: '+ pos + ' / '+ en.length;
                 }
             }
         }
@@ -467,6 +482,7 @@
             height: 100%;
         }
     </style>
+    <script src="../sub/sub.js"></script>
 </head>
 <body>
     <div class="content">

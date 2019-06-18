@@ -379,7 +379,7 @@
         function setIdx() {
             cnIdx = Math.round(Number(posBtn.style.left.replace('px', '')) / wholeWidth * cnMax);
             localStorage.setItem('cnidx1', cnIdx);
-            let tmp = cnIdx > enMax ? enMax : cnIdx;
+            var tmp = cnIdx > enMax ? enMax : cnIdx;
             enIdx = tmp;
             localStorage.setItem('enidx1', tmp);
             ratio.innerHTML = 'Chi: ' + cnIdx + ' out of ' + cnMax;
