@@ -1,6034 +1,6582 @@
 var text = function() {/*
 
 1
-00:00:33,232 --> 00:00:35,166
-麦克风开了吗？ 开了
-{\fs10\shad2\1c&HC0C0C0&\b0}ls this on? That's fine.{\r}
+00:00:05,200 --> 00:00:10,200
+{\an3}{\pos(360,230)}翻译：艾瑞卡  回风舞雪兮  木浅薰
 
 2
-00:00:35,234 --> 00:00:37,498
-多厚的墙壁我都能撞破 我却不能...
-{\fs10\shad2\1c&HC0C0C0&\b0}l can break through walls, l just can't...{\r}
+00:00:10,200 --> 00:00:15,200
+{\an3}{\pos(360,230)}翻译：Reginamoon  小蛮腰
 
 3
-00:00:37,570 --> 00:00:40,038
-可以了 这玩意我却搞不定
-{\fs10\shad2\1c&HC0C0C0&\b0}That's fine. l can't get this on.{\r}
+00:00:15,200 --> 00:00:20,200
+{\an3}{\pos(360,230)}校对：珞珞  Panda
 
 4
-00:00:40,106 --> 00:00:41,539
-超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}So, Mr. lncredible... Do you have a secret identity?{\r}
+00:00:20,200 --> 00:00:25,200
+{\an3}{\pos(360,230)}总监：somehacker
 
 5
-00:00:41,607 --> 00:00:42,596
-超能先生 你有秘密身份吗？
+00:00:25,200 --> 00:00:30,200
+{\an3}{\pos(360,230)}后期：BOGLFT
 
 6
-00:00:42,675 --> 00:00:45,838
-每个超级英雄都有秘密身份
-{\fs10\shad2\1c&HC0C0C0&\b0}Every superhero has a secret identity.{\r}
+00:01:12,400 --> 00:01:14,740
+这里是博克岛
+This is Berk,
 
 7
-00:00:45,912 --> 00:00:47,903
-我不知道哪一个没有
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know a single one who doesn't.{\r}
+00:01:14,740 --> 00:01:17,870
+这里的神秘感可谓是
+the best kept secret this side of, well...
 
 8
-00:00:47,980 --> 00:00:50,744
-谁想成天都承受 当超级英雄的压力呀？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who wants the pressure of being super all the time?{\r}
+00:01:17,870 --> 00:01:19,770
+举世无双
+Anywhere.
 
 9
-00:00:52,785 --> 00:00:54,650
-我当然有秘密身份啰
-{\fs10\shad2\1c&HC0C0C0&\b0}Of course l have a secret identity.{\r}
+00:01:19,780 --> 00:01:21,510
+当然  可能看起来并不起眼
+Granted, it may not look like much,
 
 10
-00:00:54,721 --> 00:00:55,710
-弹力女超人
+00:01:21,510 --> 00:01:22,780
+但这潮湿的岩石群中
+but this wet heap of rock
 
 11
-00:00:55,788 --> 00:00:58,120
-打扮成这样能逛超市吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Can you see me in this at the supermarket? Come on.{\r}
+00:01:22,780 --> 00:01:25,010
+却藏着不少惊喜
+packs more than a few surprises.
 
 12
-00:00:58,191 --> 00:01:00,955
-当弹力女超人该怎么血拼呀？ 你明白吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who'd want to go shopping as Elastigirl, know what l mean?{\r}
+00:01:30,320 --> 00:01:32,750
+这里的生活精彩绝伦
+Life here is amazing,
 
 13
-00:01:02,995 --> 00:01:06,863
-女超人都喜欢 向我透露秘密身份
-{\fs10\shad2\1c&HC0C0C0&\b0}Superladies, they're always trying to tell you their secret identity.{\r}
+00:01:32,760 --> 00:01:35,620
+只是不适合胆小鬼们
+just not for the faint of heart.
 
 14
-00:01:06,933 --> 00:01:07,922
-酷冰侠
-{\fs10\shad2\1c&HC0C0C0&\b0}Think it'll strengthen the relationship or something.{\r}
+00:01:35,620 --> 00:01:38,630
+要知道  其他地方的人都喜欢削削木头
+You see, where most folks enjoy hobbies like whittling
 
 15
-00:01:08,000 --> 00:01:09,763
-她们以为这能让我定下来
+00:01:38,630 --> 00:01:41,800
+或者绣绣花什么的  而我们博克岛人则喜欢
+or needlepoint, we Berkians prefer...
 
 16
-00:01:09,836 --> 00:01:15,433
-我说：拜托 我才不想知道你温柔的一面
-{\fs10\shad2\1c&HC0C0C0&\b0}l said, ''Girl, l don't want to know about your mild-mannered alter ego.''{\r}
+00:01:43,470 --> 00:01:46,600
+一种小小的娱乐活动  名为
+a little something we like to call...
 
 17
-00:01:15,508 --> 00:01:20,070
-尽管向我展露 你超级霹雳劲爆的一面
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean, you tell me you're a super-mega-ultra-lightning-babe,{\r}
+00:01:48,540 --> 00:01:51,440
+赛龙
+dragon racing!
 
 18
-00:01:20,146 --> 00:01:24,173
-我反而比较喜欢 我最爱了，我超爱的
-{\fs10\shad2\1c&HC0C0C0&\b0}that's all right with me. l'm good. l'm good.{\r}
+00:02:04,790 --> 00:02:08,090
+抱歉啦  小鱼脚  你是想要这个吗
+I'm sorry, Fishlegs, did you want that?
 
 19
-00:01:24,251 --> 00:01:26,583
-不管你拯救世界多少次
-{\fs10\shad2\1c&HC0C0C0&\b0}No matter how many times you save the world,{\r}
+00:02:08,090 --> 00:02:11,830
+鼻涕唠  那是我的
+Oh, Snotlout, that was mine!
 
 20
-00:01:26,653 --> 00:01:29,952
-世界还是会再度陷入危机
-{\fs10\shad2\1c&HC0C0C0&\b0}it always manages to get back in jeopardy again.{\r}
+00:02:11,830 --> 00:02:13,430
+宝贝  给你
+Here you go, babe.
 
 21
-00:01:30,023 --> 00:01:33,481
-有时候我真希望它能真的安全
-{\fs10\shad2\1c&HC0C0C0&\b0}Sometimes l just want it to stay saved, you know?{\r}
+00:02:13,430 --> 00:02:15,330
+我有说过你今天看上去很美吗
+Did I tell you that you look amazing today?
 
 22
-00:01:33,560 --> 00:01:36,927
-只有一下子也好 我好像清洁女工，才打扫干净
-{\fs10\shad2\1c&HC0C0C0&\b0}For a little bit. l feel like the maid. ''l just cleaned up this mess.{\r}
+00:02:15,330 --> 00:02:16,460
+因为你真的很美
+Cause you do.
 
 23
-00:01:36,997 --> 00:01:39,522
-拜托能不能保持十分钟 别那么快就弄脏
-{\fs10\shad2\1c&HC0C0C0&\b0}Can we keep it clean for ten minutes?''{\r}
+00:02:16,470 --> 00:02:17,730
+走吧  喷喷
+Come on, Barf.
 
 24
-00:01:39,599 --> 00:01:41,226
-我懂你的意思 拜托...
-{\fs10\shad2\1c&HC0C0C0&\b0}l could get to that point. ''Please?''{\r}
+00:02:17,730 --> 00:02:19,470
+臭味都传到我这儿来了
+It's starting to stink around here.
 
 25
-00:01:41,301 --> 00:01:44,366
-等等，别站起来 访问还没结束
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't get up. We're not finished.{\r}
+00:02:19,470 --> 00:02:20,730
+放弃吧  她还是讨厌你
+Nope, still hates you.
 
 26
-00:01:44,437 --> 00:01:47,804
-有时候我只想单纯地过日子
-{\fs10\shad2\1c&HC0C0C0&\b0}Sometimes l think l'd just like the simple life, you know?{\r}
+00:02:20,740 --> 00:02:22,470
+让这里燃起来吧  吐吐
+Let's blow this place, Belch!
 
 27
-00:01:47,874 --> 00:01:50,365
-好好享受家庭生活
-{\fs10\shad2\1c&HC0C0C0&\b0}Relax a little and raise a family.{\r}
+00:02:23,740 --> 00:02:25,670
+走着
+All right!
 
 28
-00:01:50,443 --> 00:01:53,674
-定下来？别开玩笑了 我现在这么成功
-{\fs10\shad2\1c&HC0C0C0&\b0}Settle down? Are you kidding? l'm at the top of my game!{\r}
+00:02:25,670 --> 00:02:27,410
+加油
+Come on!
 
 29
-00:01:53,747 --> 00:01:56,341
-我是这行数一数二的高手 拜托
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm up there with the big dogs! Girls, come on.{\r}
+00:02:30,950 --> 00:02:32,580
+好样的
+Oh, yeah!
 
 30
-00:01:56,416 --> 00:01:59,817
-要我等着让男人拯救世界？ 我才不要呢!
-{\fs10\shad2\1c&HC0C0C0&\b0}Leave the saving of the world to the men? l don't think so.{\r}
+00:02:33,950 --> 00:02:36,020
+双胞胎得九分
+That's nine for the twins!
 
 31
-00:02:00,720 --> 00:02:02,381
-想都别想
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't think so.{\r}
+00:02:36,020 --> 00:02:38,350
+艾丝翠得三分紧随其后
+Astrid lags with three!
 
 32
-00:02:07,126 --> 00:02:11,722
-{\fs28\shad2\1c&HC0C0C0&\b0}超人特攻队
+00:02:38,350 --> 00:02:42,020
+小鱼脚和鼻涕唠各得零分垫底
+Fishlegs and Snotlout trail with none!
 
 33
-00:02:19,805 --> 00:02:21,773
-这是一则最新消息
-{\fs10\shad2\1c&HC0C0C0&\b0}We interrupt for an important bulletin.{\r}
+00:02:42,020 --> 00:02:43,890
+然后小嗝嗝
+And Hiccup is...
 
 34
-00:02:21,841 --> 00:02:25,436
-警方和持枪歹徒 正在圣巴罗大道
-{\fs10\shad2\1c&HC0C0C0&\b0}A deadly high-speed pursuit between police and armed gunmen is underway,{\r}
+00:02:43,890 --> 00:02:45,860
+还是不见踪影
+nowhere to be found.
 
 35
-00:02:25,511 --> 00:02:27,945
-展开一场惊险的飞车追逐
-{\fs10\shad2\1c&HC0C0C0&\b0}traveling northbound on San Pablo Ave.{\r}
+00:02:47,700 --> 00:02:51,400
+你的促膝谈心是不是吓到他了  史推克
+Scared him off with the big talk, didn't you, Stoick?
 
 36
-00:02:33,152 --> 00:02:35,184
-我还有时间
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah, l've got time.{\r}
+00:02:52,470 --> 00:02:54,130
+你在干什么  鼻涕唠
+What are you doing, Snotlout?
 
 37
-00:03:00,713 --> 00:03:02,806
-超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. lncredible.{\r}
+00:02:54,140 --> 00:02:55,840
+他们要赢了
+They're gonna win now.
 
 38
-00:03:07,019 --> 00:03:10,785
-什么事，女士？ 我的猫喵喵不肯下来
-{\fs10\shad2\1c&HC0C0C0&\b0}What is it, ma'am? My cat, Squeaker, won't come down.{\r}
+00:02:55,840 --> 00:02:58,510
+她是我的女神  她有求  我必应
+She's my princess... whatever she wants, she gets.
 
 39
-00:03:13,025 --> 00:03:16,358
-没问题，不过请你让开 可能会有危险
-{\fs10\shad2\1c&HC0C0C0&\b0}Certainly. l suggest you stand clear. There could be trouble.{\r}
+00:02:58,510 --> 00:03:01,410
+暴芙奈  她不是想把你活埋来着吗
+Ruffnut? Didn't she try to bury you alive?
 
 40
-00:03:16,428 --> 00:03:17,986
-不会啦，它很乖的
-{\fs10\shad2\1c&HC0C0C0&\b0}No, he's quite tame.{\r}
+00:03:01,410 --> 00:03:03,780
+也就埋了几个小时
+Only for a few hours.
 
 41
-00:03:31,710 --> 00:03:33,041
-快下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Let go now.{\r}
+00:03:03,780 --> 00:03:05,380
+快看他们  冲啊
+Look at 'em, go!
 
 42
-00:03:48,460 --> 00:03:51,088
-谢谢你，超能先生 你又帮了大忙
-{\fs10\shad2\1c&HC0C0C0&\b0}Thank you, Mr. lncredible. You've done it again.{\r}
+00:03:05,380 --> 00:03:06,750
+龙曾是这里的
+Now, dragons used to be
 
 43
-00:03:51,163 --> 00:03:53,324
-你最棒 我很乐意帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}You're the best. No, l'm just here to help.{\r}
+00:03:06,750 --> 00:03:08,380
+头号公敌
+a bit of a problem here,
 
 44
-00:03:53,399 --> 00:03:55,890
-请注意 发生游览车抢案
-{\fs10\shad2\1c&HC0C0C0&\b0}Attention all units. We have a tour bus robbery...{\r}
+00:03:08,380 --> 00:03:10,380
+但那都是五年前的事了
+but that was five years ago.
 
 45
-00:03:55,968 --> 00:03:58,493
-游览车抢案 我还有一点时间
-{\fs10\shad2\1c&HC0C0C0&\b0}Tour bus robbery. l've still got time.{\r}
+00:03:10,390 --> 00:03:12,520
+现在他们都在岛上定居了
+Now they've all moved in.
 
 46
-00:03:58,570 --> 00:04:00,800
-警察先生、女士、喵喵
-{\fs10\shad2\1c&HC0C0C0&\b0}Officers. Ma'am. Squeaker.{\r}
+00:03:12,520 --> 00:03:14,890
+说真的  他们有什么理由不搬来这呢
+And, really, why wouldn't they?
 
 47
-00:04:01,307 --> 00:04:03,605
-酷毙了，准备出发 搞什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Cool! Ready for take-off! What the...?{\r}
+00:03:14,890 --> 00:03:16,990
+我们有定制的龙舍
+We have custom stables,
 
 48
-00:04:03,676 --> 00:04:06,338
-你是什么人？ 我是超能小子呀
-{\fs10\shad2\1c&HC0C0C0&\b0}Who are you supposed to be? l'm lncrediBoy.{\r}
+00:03:16,990 --> 00:03:18,990
+全天供应的自助餐
+all-you-can-eat feeding stations,
 
 49
-00:04:06,412 --> 00:04:07,936
-什么？不对
-{\fs10\shad2\1c&HC0C0C0&\b0}What? No.{\r}
+00:03:18,990 --> 00:03:22,130
+全方位的龙浴服务
+a full-service dragon wash...
 
 50
-00:04:08,013 --> 00:04:10,243
-不对，你是我的小粉丝
-{\fs10\shad2\1c&HC0C0C0&\b0}You're that kid from the fan club.{\r}
+00:03:22,130 --> 00:03:24,160
+甚至还有最先进的火灾应对措施
+Even top-of-the-line fire prevention,
 
 51
-00:04:10,316 --> 00:04:13,251
-布丁...布德...巴迪!
-{\fs10\shad2\1c&HC0C0C0&\b0}Brophy. Brody. Buddy! Buddy!{\r}
+00:03:24,170 --> 00:03:26,600
+我这么自夸请别见怪
+if I do say so myself.
 
 52
-00:04:13,319 --> 00:04:15,184
-我的名字是超能小子
-{\fs10\shad2\1c&HC0C0C0&\b0}My name is lncrediBoy.{\r}
+00:03:28,000 --> 00:03:29,640
+是时候了  戈伯
+Ah, it's time, Gobber.
 
 53
-00:04:15,254 --> 00:04:17,347
-听好，我很有耐心跟你合照
-{\fs10\shad2\1c&HC0C0C0&\b0}l've been nice, l've stood for photos,{\r}
+00:03:29,640 --> 00:03:31,440
+好的  最后一轮
+Righty-ho. Last lap!
 
 54
-00:04:17,423 --> 00:04:20,017
-每次都帮你签名 可是这次太过份了...
-{\fs10\shad2\1c&HC0C0C0&\b0}signed every scrap of paper you pushed at me...{\r}
+00:03:35,680 --> 00:03:38,040
+是黑羊  上吧  风中飞
+The black sheep! Come on, Stormfly!
 
 55
-00:04:20,092 --> 00:04:22,720
-别担心，你不必训练我 你打击犯罪的每一个招式
-{\fs10\shad2\1c&HC0C0C0&\b0}No, don't worry about training me. l know your moves,{\r}
+00:03:38,050 --> 00:03:40,980
+我们还有机会赢得比赛
+We can still win this thing!
 
 56
-00:04:22,795 --> 00:04:25,764
-连你的口头禅我都会
-{\fs10\shad2\1c&HC0C0C0&\b0}crimefighting style, favorite catchphrases, everything!{\r}
+00:03:42,150 --> 00:03:43,720
+-来吧  喷喷  -我们走
+- Come on, Barf! -Let's go!
 
 57
-00:04:25,831 --> 00:04:27,560
-我是你的头号粉丝耶
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm your number one fan!{\r}
+00:03:44,720 --> 00:03:46,720
+上啊  肉球
+Go, Meatlug!
 
 58
-00:04:30,836 --> 00:04:32,667
-等一下
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey! Hey, wait!{\r}
+00:03:46,720 --> 00:03:49,590
+快飞  快飞
+Let's go, let's go!
 
 59
-00:04:41,647 --> 00:04:42,978
-你知道吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You know...{\r}
+00:03:49,590 --> 00:03:51,960
+该你上场了
+This is your big moment.
 
 60
-00:04:43,048 --> 00:04:47,041
-只要翻皮包就能了解一个女人
-{\fs10\shad2\1c&HC0C0C0&\b0}...you can tell a lot about a woman by the contents of her purse,{\r}
+00:03:51,960 --> 00:03:54,130
+祝你旅途愉快
+Have a nice flight.
 
 61
-00:04:47,119 --> 00:04:49,883
-不过你好像另有目的
-{\fs10\shad2\1c&HC0C0C0&\b0}but maybe that's not what you had in mind.{\r}
+00:03:57,500 --> 00:03:59,170
+往上  往上  往上
+Up! Up, up, up, up, up!
 
 62
-00:04:49,955 --> 00:04:51,252
-别这样
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, look...{\r}
+00:04:03,210 --> 00:04:05,740
+干得好  肉球
+Good job, Meatlug!
 
 63
-00:04:56,795 --> 00:04:58,057
-弹力女超人
-{\fs10\shad2\1c&HC0C0C0&\b0}Elastigirl.{\r}
+00:04:05,740 --> 00:04:08,140
+给你  亲爱的  我的这个值十分
+Here you go, darling. Mine's worth ten.
 
 64
-00:04:58,130 --> 00:05:00,189
-超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. lncredible.{\r}
+00:04:08,140 --> 00:04:10,140
+太好了  黑羊
+Yeah! The black sheep!
 
 65
-00:05:01,100 --> 00:05:03,933
-不用你操心，我会把他搞定 当然啰
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's all right. l've got him. Sure, you've got him.{\r}
+00:04:11,510 --> 00:04:14,010
+你们两个在争暴芙奈吗
+You guys are fighting for Ruffnut?
 
 66
-00:05:04,003 --> 00:05:06,198
-是我先把他撂倒了 才怪
-{\fs10\shad2\1c&HC0C0C0&\b0}l took him out for you. Sure, you did.{\r}
+00:04:14,020 --> 00:04:16,450
+-我赢定了  -是我们俩一起赢
+- I'm totally winning! - We're winning together.
 
 67
-00:05:06,271 --> 00:05:08,865
-那是因为他先被我吓到 我就趁这个机会完成任务
-{\fs10\shad2\1c&HC0C0C0&\b0}His attention was on me. A fact l exploited to do my job.{\r}
+00:04:17,650 --> 00:04:19,520
+不
+Oh, no!
 
 68
-00:05:08,941 --> 00:05:11,637
-这是我的任务 你只要说声谢谢就行了
-{\fs10\shad2\1c&HC0C0C0&\b0}My job. A simple thank you will suffice.{\r}
+00:04:21,120 --> 00:04:23,990
+-我现在无人可挡了  -除了我
+- Whoo! No one can stop me now! - Except for me.
 
 69
-00:05:11,710 --> 00:05:13,871
-谢了，不过我不需要帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}Thanks, but l don't need any help.{\r}
+00:04:23,990 --> 00:04:25,660
+我们是连在一起的  蠢材
+We're attached, genius.
 
 70
-00:05:13,946 --> 00:05:16,005
-你忘了女士优先吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Whatever happened to ''ladies first''?{\r}
+00:04:25,660 --> 00:04:29,190
+别想把我的荣耀偷走
+Quit trying to steal all my glory!
 
 71
-00:05:16,081 --> 00:05:18,208
-你忘了男女平等吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Whatever happened to equal treatment?{\r}
+00:04:29,770 --> 00:04:31,700
+-搞定他们  艾丝翠  -是我的荣耀
+- Get them, Astrid! - It's my glory!
 
 72
-00:05:18,283 --> 00:05:20,877
-讲句公道话，女超人先撂倒我
-{\fs10\shad2\1c&HC0C0C0&\b0}Look, the lady got me first.{\r}
+00:04:31,700 --> 00:04:34,200
+-成事不足败事有余  -没羊就没荣耀
+- Always ruining everything! - No sheep, no glory!
 
 73
-00:05:20,953 --> 00:05:24,150
-我们可以一起分享功劳 我习惯一个人
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, we could share, you know. l work alone.{\r}
+00:04:34,200 --> 00:04:36,840
+抓到了
+Gotcha! Ha-ha!
 
 74
-00:05:24,223 --> 00:05:26,714
-我觉得你最好学会...
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, l think you need to be more...{\r}
+00:04:36,840 --> 00:04:38,240
+艾丝翠
+Whoa! Astrid!
 
 75
-00:05:27,726 --> 00:05:28,852
-...有点弹性
-{\fs10\shad2\1c&HC0C0C0&\b0}...flexible.{\r}
+00:04:38,240 --> 00:04:39,710
+干得漂亮
+Well played!
 
 76
-00:05:28,927 --> 00:05:31,259
-你待会有没有空？
-{\fs10\shad2\1c&HC0C0C0&\b0}Are you doing anything later?{\r}
+00:04:40,910 --> 00:04:43,680
+那是我未来的儿媳妇
+That's my future daughter-in-law!
 
 77
-00:05:31,330 --> 00:05:33,730
-我已经有约了
-{\fs10\shad2\1c&HC0C0C0&\b0}l have a previous engagement.{\r}
+00:04:47,110 --> 00:04:48,680
+抱歉了
+Uh, excuse me.
 
 78
-00:05:45,477 --> 00:05:47,206
-乖乖待在这儿
-{\fs10\shad2\1c&HC0C0C0&\b0}Now, you just stay here.{\r}
+00:04:48,680 --> 00:04:49,920
+风中飞
+Stormfly!
 
 79
-00:05:47,279 --> 00:05:50,180
-一小时后他们会来收垃圾
-{\fs10\shad2\1c&HC0C0C0&\b0}They usually pick up the garbage in an hour.{\r}
+00:05:01,930 --> 00:05:03,230
+一共十三分
+That's 13!
 
 80
-00:05:50,249 --> 00:05:52,877
-超能先生 酷冰侠
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, lncredible! Hey, Frozone!{\r}
+00:05:03,230 --> 00:05:05,270
+艾丝翠赢得了比赛
+Astrid takes the game!
 
 81
-00:05:52,951 --> 00:05:56,387
-你怎么还不去准备？ 我还有时间
-{\fs10\shad2\1c&HC0C0C0&\b0}Shouldn't you be getting ready? l still got time.{\r}
+00:05:07,570 --> 00:05:09,700
+没错  博克岛堪称完美
+Yep, Berk is pretty much perfect.
 
 82
-00:05:58,157 --> 00:05:59,954
-他要跳楼自杀
-{\fs10\shad2\1c&HC0C0C0&\b0}He's gonna jump!{\r}
+00:05:09,710 --> 00:05:12,110
+我最终得偿所愿
+All of my hard work has paid off.
 
 83
-00:06:14,206 --> 00:06:16,231
-你害我摔断了骨头
-{\fs10\shad2\1c&HC0C0C0&\b0}l think you broke something.{\r}
+00:05:12,110 --> 00:05:13,940
+而且这也是件好事
+And it's a good thing, too,
 
 84
-00:06:16,308 --> 00:06:19,141
-等你接受心理辅导以后 就会原谅我
-{\fs10\shad2\1c&HC0C0C0&\b0}With counseling, l think you'll come to forgive me.{\r}
+00:05:13,940 --> 00:05:15,780
+维京人能驭龙翱翔之后
+because with Vikings on the backs of dragons...
 
 85
-00:06:19,478 --> 00:06:21,002
-等一下
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait a minute.{\r}
+00:05:17,110 --> 00:05:20,780
+世界也变得辽阔了许多
+...the world just got a whole lot bigger.
 
 86
-00:06:51,643 --> 00:06:53,110
-炸弹客
-{\fs10\shad2\1c&HC0C0C0&\b0}Bomb Voyage.{\r}
+00:05:35,630 --> 00:05:37,960
+好赞
+Yeah!
 
 87
-00:06:53,512 --> 00:06:55,002
-超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. lncredible...!{\r}
+00:06:19,840 --> 00:06:21,840
+怎么样  伙计
+So, what do you think, bud?
 
 88
-00:06:55,080 --> 00:06:56,240
-还有超能小子
-{\fs10\shad2\1c&HC0C0C0&\b0}And lncrediBoy!{\r}
+00:06:21,840 --> 00:06:23,880
+想再试一次吗
+You want to give this another shot?
 
 89
-00:06:57,583 --> 00:06:59,107
-超能小子？
-{\fs10\shad2\1c&HC0C0C0&\b0}lncrediBoy?{\r}
+00:06:25,050 --> 00:06:27,010
+没牙仔  不会有事的
+Toothless! It'll be fine.
 
 90
-00:07:00,185 --> 00:07:04,121
-你没想到我会这么快吧？ 瞧，我穿了火箭靴
-{\fs10\shad2\1c&HC0C0C0&\b0}Aren't you curious about how l get around so fast? l have rocket boots.{\r}
+00:06:30,320 --> 00:06:33,250
+准备好了吗
+Ready?
 
 91
-00:07:04,189 --> 00:07:05,781
-乖乖回家，快点 什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Go home, Buddy. Now. What?{\r}
+00:06:38,330 --> 00:06:40,690
+好耶
+Yeah!
 
 92
-00:07:05,924 --> 00:07:06,913
-麻烦的小鬼
-{\fs10\shad2\1c&HC0C0C0&\b0}Little oaf...!{\r}
+00:06:44,370 --> 00:06:46,030
+棒
+Yeah!
 
 93
-00:07:06,992 --> 00:07:08,254
-我们能不能谈谈？
-{\fs10\shad2\1c&HC0C0C0&\b0}Can we talk?{\r}
+00:07:25,010 --> 00:07:27,240
+这感觉太棒了
+This is amazing!
 
 94
-00:07:08,327 --> 00:07:10,454
-你老是说要忠于自我
-{\fs10\shad2\1c&HC0C0C0&\b0}You always say be true to yourself,{\r}
+00:07:27,240 --> 00:07:29,240
+现在不棒了
+No longer amazing.
 
 95
-00:07:10,529 --> 00:07:13,362
-却没说要忠于自我的哪个部份
-{\fs10\shad2\1c&HC0C0C0&\b0}but you never say which part to be true to.{\r}
+00:07:29,240 --> 00:07:30,280
+没牙仔
+Toothless!
 
 96
-00:07:13,432 --> 00:07:18,233
-我终于找到真正的自我 我是你的小跟班，超能小子
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, l've finally figured out who l am. l am your ward... lncrediBoy!{\r}
+00:07:33,010 --> 00:07:34,280
+不好
+Oh, no!
 
 97
-00:07:18,303 --> 00:07:21,363
-这次你真的做得太过分了
-{\fs10\shad2\1c&HC0C0C0&\b0}And now, you have officially carried it too far, Buddy.{\r}
+00:07:53,340 --> 00:07:55,800
+刚刚真是始料未及
+That really came out of nowhere.
 
 98
-00:07:21,440 --> 00:07:23,908
-你一定是嫌我没超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}This is because l don't have powers, isn't it?{\r}
+00:08:02,210 --> 00:08:05,710
+我们得再训练下你的单独滑行  伙计
+We-we got to work on your solo gliding there, bud.
 
 99
-00:07:23,976 --> 00:07:27,844
-你不一定要有超能力 没有超能力也能当超级英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}Not every superhero has powers, you know. You can be super without them.{\r}
+00:08:05,710 --> 00:08:07,750
+那个固定尾翼
+That, uh, locked-up tail
 
 100
-00:07:27,913 --> 00:07:31,405
-这是我发明的 我会飞，你会吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}l invented these. l can fly. Can you fly?{\r}
+00:08:07,750 --> 00:08:10,950
+真不方便进行救援行动  是吧
+makes for some pretty sloppy rescue maneuvers, hey?
 
 101
-00:07:31,483 --> 00:07:33,747
-飞回家吧，我习惯一个人
-{\fs10\shad2\1c&HC0C0C0&\b0}Fly home, Buddy. l work alone.{\r}
+00:08:28,970 --> 00:08:31,340
+看来我们又找到一处  伙计
+Looks like we found another one, bud.
 
 102
-00:07:33,819 --> 00:07:35,616
-你的超人装也超逊的
-{\fs10\shad2\1c&HC0C0C0&\b0}And your outfit is totally ridiculous!{\r}
+00:08:34,810 --> 00:08:37,380
+怎么  你想要我道歉吗
+Oh, what, do you want an apology?
 
 103
-00:07:35,687 --> 00:07:38,986
-给我一次机会 我证明给你看，我去找警察
-{\fs10\shad2\1c&HC0C0C0&\b0}Just give me one chance! l'll show you. l'll go get the police.{\r}
+00:08:38,780 --> 00:08:40,080
+就因为这个在生闷气吗
+Is that why you're pouting,
 
 104
-00:07:39,057 --> 00:07:41,548
-巴迪，别去 只要一下子
-{\fs10\shad2\1c&HC0C0C0&\b0}Buddy, don't! lt'll only take a second.{\r}
+00:08:40,080 --> 00:08:41,280
+小傻瓜
+big baby boo?
 
 105
-00:07:41,627 --> 00:07:43,492
-快回来，有枚炸弹
-{\fs10\shad2\1c&HC0C0C0&\b0}No, stop! There's a bomb!{\r}
+00:08:42,780 --> 00:08:44,120
+试试这个
+Well, try this on!
 
 106
-00:07:45,330 --> 00:07:47,730
-放手，你害我飞不动了
-{\fs10\shad2\1c&HC0C0C0&\b0}Let go, you're wrecking my flight pattern.{\r}
+00:08:45,450 --> 00:08:47,820
+感受到了吗
+Oh, you feeling it yet? Huh?
 
 107
-00:07:47,799 --> 00:07:50,666
-让我放手去做 快下来
-{\fs10\shad2\1c&HC0C0C0&\b0}l can do this if you let go! Will you just...?{\r}
+00:08:47,820 --> 00:08:50,260
+感受到我真诚的歉意了吗
+Picking up on all my heartfelt remorse?
 
 108
-00:07:50,802 --> 00:07:53,965
-我这是在帮你 放开我的披风
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm trying to help! Stop! Let go of my cape!{\r}
+00:08:51,790 --> 00:08:54,790
+好了  得了  别这样
+Ah. Yeah. Oh, come on, come on,
 
 109
-00:08:37,849 --> 00:08:41,842
-把这小鬼送回家 告诉他妈他做了什么好事
-{\fs10\shad2\1c&HC0C0C0&\b0}Take this one home. And make sure his mom knows what he's been doing.{\r}
+00:08:54,800 --> 00:08:57,160
+你不会想残害一个独腿的...
+you-you wouldn't hurt a one-legged...
 
 110
-00:08:41,920 --> 00:08:43,820
-我可以帮你，你犯了大错
-{\fs10\shad2\1c&HC0C0C0&\b0}l can help you. You're making a...{\r}
+00:08:58,470 --> 00:09:00,000
+你是对的  你是对的
+Y-you're right, you're right.
 
 111
-00:08:43,889 --> 00:08:45,982
-跳楼的家伙呢？ 你叫了救护车吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}The injured jumper. You sent paramedics?{\r}
+00:09:00,000 --> 00:09:01,500
+你赢了  你赢了
+You win. You win.
 
 112
-00:08:46,058 --> 00:08:47,047
-他们把他接走了
-{\fs10\shad2\1c&HC0C0C0&\b0}They picked him up.{\r}
+00:09:03,330 --> 00:09:04,340
+他倒下了
+He's down!
 
 113
-00:08:47,125 --> 00:08:49,889
-那场爆炸是炸弹客搞的鬼
-{\fs10\shad2\1c&HC0C0C0&\b0}The blast in that building was caused by Bomb Voyage{\r}
+00:09:04,340 --> 00:09:06,340
+一场恶斗
+And it's ugly!
 
 114
-00:08:49,962 --> 00:08:51,520
-我逮到他正在抢银行
-{\fs10\shad2\1c&HC0C0C0&\b0}who l caught robbing the vault.{\r}
+00:09:06,340 --> 00:09:07,940
+龙和维京人
+Dragons and vikings...
 
 115
-00:08:51,597 --> 00:08:53,827
-派警力包围这儿就能逮到他
-{\fs10\shad2\1c&HC0C0C0&\b0}We might nab him if we set up a perimeter.{\r}
+00:09:07,940 --> 00:09:09,340
+再次为敌
+Enemies again...
 
 116
-00:08:53,899 --> 00:08:55,867
-他逃走了 ？ 是啊
-{\fs10\shad2\1c&HC0C0C0&\b0}He got away? Well, yeah.{\r}
+00:09:09,340 --> 00:09:11,780
+战况愈演愈烈
+Locked in combat to the bitter...
 
 117
-00:08:55,934 --> 00:08:58,459
-都是这麻烦的小鬼害的 我是超能小子
-{\fs10\shad2\1c&HC0C0C0&\b0}Skippy here made sure of that. lncrediBoy.{\r}
+00:09:18,520 --> 00:09:21,220
+你知道口水洗不掉
+You know that doesn't wash out.
 
 118
-00:08:58,537 --> 00:09:01,768
-别冒用我的名号 惨了，我迟到了
-{\fs10\shad2\1c&HC0C0C0&\b0}You're not affiliated with me! Holy smokes, l'm late.{\r}
+00:09:46,350 --> 00:09:48,380
+我们给这里取什么名字好呢
+So, what should we name it?
 
 119
-00:09:01,840 --> 00:09:04,035
-我得赶去别的地方
-{\fs10\shad2\1c&HC0C0C0&\b0}Listen, l've gotta be somewhere.{\r}
+00:09:48,380 --> 00:09:51,020
+那就叫痒胳肢窝岛吧
+"Itchy armpit" It is.
 
 120
-00:09:05,110 --> 00:09:08,341
-炸弹客怎么办？ 我平常非追到他不可
-{\fs10\shad2\1c&HC0C0C0&\b0}What about Bomb Voyage? Any other night, l'd go after him,{\r}
+00:09:52,090 --> 00:09:53,520
+你觉得怎么样  伙计
+What do you reckon, bud?
 
 121
-00:09:08,413 --> 00:09:12,509
-不过我今天有事 放心，我们一定会逮到他
-{\fs10\shad2\1c&HC0C0C0&\b0}but l really gotta go. Don't worry. We'll get him! Eventually!{\r}
+00:09:53,520 --> 00:09:56,390
+也许能在树林里找到几只割木龙
+Think we might find a few Timberjacks in those woods?
 
 122
-00:09:18,590 --> 00:09:20,922
-时间还早吧？ 你差点就赶不及
-{\fs10\shad2\1c&HC0C0C0&\b0}ls the night still young? You're very late.{\r}
+00:09:56,390 --> 00:09:59,490
+或者在岩石群里找到些致命耳语龙
+The odd Whispering Death or two in the rocks?
 
 123
-00:09:20,993 --> 00:09:24,394
-我看起来帅不帅？ 等等，你的眼罩还没脱掉
-{\fs10\shad2\1c&HC0C0C0&\b0}How do l look? Good? The mask. You still got the mask.{\r}
+00:10:01,030 --> 00:10:04,130
+谁知道呢  或许我们最终能找到
+Who knows, maybe we'll finally track down
 
 124
-00:09:26,932 --> 00:09:28,797
-好戏上场
-{\fs10\shad2\1c&HC0C0C0&\b0}Showtime.{\r}
+00:10:04,130 --> 00:10:05,900
+第二只夜煞
+another Night Fury.
 
 125
-00:09:32,271 --> 00:09:36,207
-巴鲍伯，你愿意娶她为妻吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Robert Parr, will you have this woman to be your lawful wedded wife?{\r}
+00:10:07,040 --> 00:10:09,070
+那可真是大发现
+Wouldn't that be something.
 
 126
-00:09:36,275 --> 00:09:39,369
-你迟到了 我以为你刚才问我有没有空
-{\fs10\shad2\1c&HC0C0C0&\b0}You're late. When you asked if l was doing anything later,{\r}
+00:10:09,070 --> 00:10:11,100
+你觉得呢
+So, what do you say?
 
 127
-00:09:39,444 --> 00:09:42,038
-只是开玩笑，没想到你都忘了
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't realize you'd forgotten. l thought it was playful banter.{\r}
+00:10:11,110 --> 00:10:12,540
+我们继续前进
+Just keep going?
 
 128
-00:09:42,114 --> 00:09:45,248
-我是在开玩笑呀 你差点就赶不上
-{\fs10\shad2\1c&HC0C0C0&\b0}lt was. Cutting it close, don't you think?{\r}
+00:10:22,550 --> 00:10:24,280
+下午好  小姐
+Afternoon, milady.
 
 129
-00:09:45,317 --> 00:09:47,842
-你最好要有点...弹性
-{\fs10\shad2\1c&HC0C0C0&\b0}You need to be more... flexible.{\r}
+00:10:24,290 --> 00:10:28,290
+-你去哪了  -你好啊
+- Where have you been? - Hi.
 
 130
-00:09:47,919 --> 00:09:50,319
-我爱你，不过如果你想娶我
-{\fs10\shad2\1c&HC0C0C0&\b0}l love you, but if we're gonna make this work,{\r}
+00:10:28,290 --> 00:10:31,560
+赢了几场比赛  不然呢
+Oh, winning races. What else?
 
 131
-00:09:50,389 --> 00:09:52,584
-做的就要比超能先生更好
-{\fs10\shad2\1c&HC0C0C0&\b0}you've gotta be more than Mr. lncredible.{\r}
+00:10:31,560 --> 00:10:33,890
+真正该问的是
+The real question is,
 
 132
-00:09:52,658 --> 00:09:54,717
-你愿意吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You know that. Don't you?{\r}
+00:10:33,900 --> 00:10:35,200
+你都去哪了
+where have you been?
 
 133
-00:09:54,793 --> 00:09:57,284
-...永远互相扶持 我愿意
-{\fs10\shad2\1c&HC0C0C0&\b0}...so long as you both shall live? l do.{\r}
+00:10:35,200 --> 00:10:38,230
+-躲我爸爸  -不是吧  又怎么了
+- Avoiding my dad. - Oh, no. What happened now?
 
 134
-00:09:57,362 --> 00:10:00,388
-我宣布你们结为夫妻
-{\fs10\shad2\1c&HC0C0C0&\b0}l pronounce this couple husband and wife.{\r}
+00:10:38,230 --> 00:10:40,570
+你肯定爱听这段
+Oh, you're gonna... You're gonna love this.
 
 135
-00:10:03,001 --> 00:10:06,562
-我们要永远互相扶持 不管发生什么事
-{\fs10\shad2\1c&HC0C0C0&\b0}As long as we both shall live. No matter what happens.{\r}
+00:10:40,570 --> 00:10:42,600
+我一早醒来  阳光明媚
+I wake up, the sun's shining,
 
 136
-00:10:06,639 --> 00:10:10,803
-拜托，我们是超级英雄 会发生什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, come on. We're superheroes. What could happen?{\r}
+00:10:42,600 --> 00:10:44,240
+屋顶上有几只
+Terrible Terrors are
 
 137
-00:10:12,111 --> 00:10:13,169
-{\an6}超能先生吃上官司
+00:10:44,240 --> 00:10:45,410
+恐怖龙在唱歌
+singing on the rooftop,
 
 138
-00:10:12,711 --> 00:10:16,909
-超能先生 救了一个不想被救的人
-{\fs10\shad2\1c&HC0C0C0&\b0}In a stunning turn of events, a superhero is being sued{\r}
+00:10:45,410 --> 00:10:47,070
+我优哉游哉地下楼吃早饭
+I saunter down to breakfast
 
 139
-00:10:16,982 --> 00:10:19,246
-竟然被对方告上法庭
-{\fs10\shad2\1c&HC0C0C0&\b0}for saving someone who didn't want to be saved.{\r}
+00:10:47,080 --> 00:10:49,480
+想着世界上一切安好  结果我听到
+thinking all is right with the world, and I get:
 
 140
-00:10:19,318 --> 00:10:20,307
-救人行动变成司法战争
+00:10:49,480 --> 00:10:52,050
+儿子  我们得谈谈
+"Son, we need to talk."
 
 141
-00:10:20,386 --> 00:10:22,081
-原告桑奥佛
-{\fs10\shad2\1c&HC0C0C0&\b0}The plaintiff, Oliver Sansweet,{\r}
+00:10:52,050 --> 00:10:54,910
+现在不行  爸爸  我一整天
+"Not, now, dad. I got a whole day of goofing off
 
 142
-00:10:22,154 --> 00:10:25,681
-试图跳楼自杀时 被超能先生阻止
-{\fs10\shad2\1c&HC0C0C0&\b0}who was foiled in his attempted suicide by Mr. Incredible,{\r}
+00:10:54,920 --> 00:10:56,080
+都得忙着去瞎转悠呢
+to get started."
 
 143
-00:10:25,758 --> 00:10:29,785
-于是向这位超级英雄提出告诉
-{\fs10\shad2\1c&HC0C0C0&\b0}has filed suit against the famed superhero in Superior Court.{\r}
+00:10:56,080 --> 00:10:57,850
+好吧  首先
+Okay, first of all,
 
 144
-00:10:29,862 --> 00:10:33,229
-桑先生并没有要求被救 他也不想被救
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. Sansweet didn't ask to be saved. He didn't want to be saved.{\r}
+00:10:57,850 --> 00:11:00,450
+我说话声音才不那样  你到底在模仿谁
+I-I don't sound like that. What is this character?
 
 145
-00:10:33,298 --> 00:10:36,290
-超能先生的恶行恶状 害他受重伤
-{\fs10\shad2\1c&HC0C0C0&\b0}The injury received from Mr. lncredible's ''actions'',{\r}
+00:11:00,460 --> 00:11:02,460
+其次
+And-and second...
 
 146
-00:10:36,368 --> 00:10:38,700
-每天都痛得要命 我救了你这条小命耶
-{\fs10\shad2\1c&HC0C0C0&\b0}causes him daily pain. l saved your life!{\r}
+00:11:02,460 --> 00:11:04,890
+我才不会那样耸肩膀呢
+What is that thing you're doing with my shoulders?
 
 147
-00:10:38,771 --> 00:10:41,171
-才没有 你破坏了我寻死的好事
-{\fs10\shad2\1c&HC0C0C0&\b0}You didn't save my life! You ruined my death.{\r}
+00:11:04,890 --> 00:11:08,230
+这也太夸张吧
+Yeah, that's-that's a really flattering impersonation.
 
 148
-00:10:41,240 --> 00:10:42,832
-我的当事人无可奉告
-{\fs10\shad2\1c&HC0C0C0&\b0}My client has no further comment.{\r}
+00:11:08,230 --> 00:11:10,200
+言归正传啊  他说
+Anyway, he goes...
 
 149
-00:10:42,908 --> 00:10:47,242
-五天后，捷运意外的受害者 也向超能先生要求赔偿
-{\fs10\shad2\1c&HC0C0C0&\b0}Five days later, another suit was filed by the victims of the el train accident.{\r}
+00:11:10,200 --> 00:11:12,370
+你是博克岛的骄傲  儿子
+"You're the pride of Berk, son,
 
 150
-00:10:47,312 --> 00:10:50,748
-这些官司让政府付出数百万元
-{\fs10\shad2\1c&HC0C0C0&\b0}Incredible's court losses cost the government millions.{\r}
+00:11:12,370 --> 00:11:15,640
+-我也以你为荣  -谢谢  爸爸
+- and I couldn't be prouder." - "Aw, thanks, dad.
 
 151
-00:10:50,816 --> 00:10:55,185
-世界各地的超级英雄 也接二连三被告上法院
-{\fs10\shad2\1c&HC0C0C0&\b0}And opened the floodgates for dozens of superhero lawsuits the world over.{\r}
+00:11:15,640 --> 00:11:18,470
+我也觉得自己很厉害
+I'm pretty impressed with myself, too.
 
 152
-00:10:55,254 --> 00:11:00,214
-他们的秘密身份 应该成为他们唯一的身份
-{\fs10\shad2\1c&HC0C0C0&\b0}lt is time for their secret identity to become their only identity.{\r}
+00:11:18,470 --> 00:11:21,440
+我什么时候变得这么爱挥手了
+When have I ever done that with my hands?
 
 153
-00:11:00,292 --> 00:11:03,261
-他们不加入正常人的行列 就离我们越远越好
-{\fs10\shad2\1c&HC0C0C0&\b0}Time for them to join us, or go away.{\r}
+00:11:21,440 --> 00:11:23,080
+你刚刚还那么做呢
+You just did!
 
 154
-00:11:03,328 --> 00:11:06,263
-在强大的社会舆论 以及一连串求偿案件
-{\fs10\shad2\1c&HC0C0C0&\b0}Under tremendous pressure, and the crushing financial burden{\r}
+00:11:23,080 --> 00:11:25,010
+好吧  你就...
+Okay, just...
 
 155
-00:11:06,331 --> 00:11:08,799
-巨大的财务压力下
-{\fs10\shad2\1c&HC0C0C0&\b0}of an ever mounting series of lawsuits,{\r}
+00:11:25,010 --> 00:11:26,410
+先别动
+Hold... still.
 
 156
-00:11:08,867 --> 00:11:12,268
-政府悄悄展开 超级英雄迁居保护专案
-{\fs10\shad2\1c&HC0C0C0&\b0}the government quietly initiated the Superhero Relocation Program.{\r}
+00:11:27,650 --> 00:11:30,050
+很严肃的
+Very serious.
 
 157
-00:11:12,337 --> 00:11:13,326
-{\an6}政府藏匿超级英雄
+00:11:31,620 --> 00:11:33,620
+你也长大成人了
+"You're all grown up,
 
 158
-00:11:12,838 --> 00:11:16,470
-这些超级英雄 不必对过去的行为负责
-{\fs10\shad2\1c&HC0C0C0&\b0}The supers were granted amnesty from responsibility for past actions,{\r}
+00:11:33,620 --> 00:11:36,460
+既然你已经证明了自己能够委以重任
+and since no chief could ask for a better successor,
 
 159
-00:11:16,542 --> 00:11:20,911
-但是他们要保证 永远不再行侠仗义
-{\fs10\shad2\1c&HC0C0C0&\b0}in exchange for the promise to never again resume hero work.{\r}
+00:11:36,460 --> 00:11:39,130
+-我决定...  -让你当部落首领  老天
+- I've decided..." - To make you chief! Oh, my gods!
 
 160
-00:11:20,979 --> 00:11:22,674
-他们现在在哪里？
-{\fs10\shad2\1c&HC0C0C0&\b0}Where are they now?{\r}
+00:11:39,130 --> 00:11:41,290
+小嗝嗝  这太棒了
+Hiccup, that's amazing!
 
 161
-00:11:22,748 --> 00:11:27,048
-他们跟我们一起生活 平凡的老百姓，平凡的英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}They are living among us. Average citizens, average heroes.{\r}
+00:11:42,900 --> 00:11:45,200
+频繁使用弹簧圈会磨损
+Y-you're gonna wear out the spring coil.
 
 162
-00:11:27,119 --> 00:11:32,421
-为了维持世界安全与和平 隐姓埋名 、销声匿迹
-{\fs10\shad2\1c&HC0C0C0&\b0}Quietly and anonymously continuing to make the world a better place.{\r}
+00:11:45,200 --> 00:11:47,500
+很难校准的
+The calibration is very sensitive.
 
 163
-00:11:33,258 --> 00:11:36,386
-不批准？ 你拒绝支付保险金给我？
-{\fs10\shad2\1c&HC0C0C0&\b0}Denied? You're denying my claim?{\r}
+00:11:52,110 --> 00:11:55,110
+没错  这就是
+Yeah, so... this is
 
 164
-00:11:37,196 --> 00:11:40,065
-我不懂，我有全额保险耶
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't understand. l have full coverage.{\r}
+00:11:55,110 --> 00:11:56,980
+我现在头疼的事
+what I'm dealing with.
 
 165
-00:11:38,197 --> 00:11:41,600
-{\an6}十五年后
+00:11:56,980 --> 00:11:58,240
+你怎么答复他的
+What did you tell him?
 
 166
-00:11:40,065 --> 00:11:41,600
-很抱歉，何太太
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm sorry, Mrs. Hogenson,{\r}
+00:11:58,250 --> 00:11:59,610
+我没答复他
+I-I didn't.
 
 167
-00:11:41,600 --> 00:11:44,870
-不过您的保单上第17节
-{\fs10\shad2\1c&HC0C0C0&\b0}but our liability is spelled out in paragraph 17.{\r}
+00:11:59,610 --> 00:12:01,210
+等他转过身来  我已经跑了
+By the time he turned around, I was gone.
 
 168
-00:11:44,870 --> 00:11:47,771
-写得很明白 这笔费用我付不起
-{\fs10\shad2\1c&HC0C0C0&\b0}lt states clearly... l can't pay for this.{\r}
+00:12:02,380 --> 00:12:06,190
+好吧  你已经身负重任了
+Well... it's a lot of responsibility.
 
 169
-00:11:47,840 --> 00:11:49,637
-对不起 申报部，巴鲍伯
-{\fs10\shad2\1c&HC0C0C0&\b0}Excuse me. Claims, Bob Parr.{\r}
+00:12:06,190 --> 00:12:08,490
+画地图的事肯定得暂时搁置
+The map will have to wait, for sure,
 
 170
-00:11:49,708 --> 00:11:52,302
-今天要庆祝一个重要的日子
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm calling to celebrate a momentous occasion.{\r}
+00:12:08,490 --> 00:12:10,120
+如果以后你没有时间的话
+and... and I'll need
 
 171
-00:11:52,377 --> 00:11:54,675
-我们正式搬进来了
-{\fs10\shad2\1c&HC0C0C0&\b0}We're now officially moved in.{\r}
+00:12:10,130 --> 00:12:13,030
+就得由我来飞没牙仔  可是
+to fly Toothless, since you'll be too busy, but...
 
 172
-00:11:54,746 --> 00:11:56,543
-太好了，老婆
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah, well, that's great, honey.{\r}
+00:12:15,430 --> 00:12:18,530
+我无法胜任  艾丝翠
+I-it's not me, Astrid.
 
 173
-00:11:56,614 --> 00:11:58,479
-这三年为什么都不算呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}The last three years don't count because...{\r}
+00:12:18,530 --> 00:12:21,700
+那些演讲啊  规划啊  还有管理村庄
+All those speeches and planning and running the village,
 
 174
-00:11:58,550 --> 00:12:03,044
-因为最后一个箱子今天才拆封 现在才算正式搬进来
-{\fs10\shad2\1c&HC0C0C0&\b0}Because l finally unpacked the last box. Now, it's official.{\r}
+00:12:21,700 --> 00:12:23,340
+那是他的长项
+that's his thing.
 
 175
-00:12:03,121 --> 00:12:06,181
-家里怎么这么多垃圾？ 听好，我有客户
-{\fs10\shad2\1c&HC0C0C0&\b0}Why do we have so much junk? Listen, l've got a client.{\r}
+00:12:23,340 --> 00:12:25,540
+你没理解重点
+I think you're missing the point.
 
 176
-00:12:06,257 --> 00:12:09,283
-我明白了 你就去拯救需要保险的人吧
-{\fs10\shad2\1c&HC0C0C0&\b0}Say no more. Go save the world one policy at a time, honey.{\r}
+00:12:25,540 --> 00:12:27,140
+我是说  当首领
+I mean... chief.
 
 177
-00:12:09,360 --> 00:12:11,760
-我得去接孩子们下课了 晚上见
-{\fs10\shad2\1c&HC0C0C0&\b0}l gotta go pick up the kids. See you tonight.{\r}
+00:12:27,140 --> 00:12:28,570
+多么荣耀
+What an honor!
 
 178
-00:12:11,830 --> 00:12:14,993
-拜了，老婆 抱歉，我讲到哪儿？
-{\fs10\shad2\1c&HC0C0C0&\b0}Bye, honey. Excuse me. Where were we?{\r}
+00:12:28,580 --> 00:12:30,140
+换我肯定激动死了
+I'd be pretty excited.
 
 179
-00:12:15,066 --> 00:12:19,059
-我的收入有限，如果你不帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm on a fixed income, and if you can't help me,{\r}
+00:12:30,150 --> 00:12:33,050
+但我不像你
+I-I... I'm not like you.
 
 180
-00:12:19,137 --> 00:12:21,435
-我就不知道该怎么办
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know what l'll do.{\r}
+00:12:33,050 --> 00:12:35,320
+你一直知道自己想要的是什么
+You... know exactly who you are,
 
 181
-00:12:29,347 --> 00:12:32,510
-仔细听好 我很想帮你，可是我不能
-{\fs10\shad2\1c&HC0C0C0&\b0}Listen closely. l'd like to help you, but l can't.{\r}
+00:12:35,320 --> 00:12:37,650
+你一直都是  但是
+you always have, but...
 
 182
-00:12:32,584 --> 00:12:36,247
-我很想叫你把保单拿给魏诺玛
-{\fs10\shad2\1c&HC0C0C0&\b0}l'd like to say take a copy of your policy to Norma Wilcox on...{\r}
+00:12:37,650 --> 00:12:39,690
+我还在找寻自己的方向
+I'm still looking.
 
 183
-00:12:36,321 --> 00:12:41,623
-魏诺玛 她在三楼，不过我不能
-{\fs10\shad2\1c&HC0C0C0&\b0}Norma Wilcox. W-l-L-C-O-X. On the third floor. But l can't.{\r}
+00:12:39,690 --> 00:12:42,460
+我知道自己不会像父亲那样
+I know that I'm not my father,
 
 184
-00:12:41,693 --> 00:12:45,356
-我也不能建议你到二楼法律部
-{\fs10\shad2\1c&HC0C0C0&\b0}l also do not advise you to fill out and file a WS2475 form{\r}
+00:12:42,460 --> 00:12:45,490
+我也没见过我母亲
+and I never met my mother, so...
 
 185
-00:12:45,430 --> 00:12:47,796
-填一张WS-2475表格
-{\fs10\shad2\1c&HC0C0C0&\b0}with our legal department on the second floor.{\r}
+00:12:45,490 --> 00:12:47,630
+那我究竟该成为怎样的人呢
+What does that make me?
 
 186
-00:12:47,866 --> 00:12:50,994
-这件事也不会这么快就解决
-{\fs10\shad2\1c&HC0C0C0&\b0}l wouldn't expect someone to get back to you quickly to resolve the matter.{\r}
+00:12:53,430 --> 00:12:57,570
+你要找寻的并不在远方  小嗝嗝
+What you're searching for isn't out there, Hiccup...
 
 187
-00:12:51,069 --> 00:12:53,438
-我很想帮忙，但是我无能为力
-{\fs10\shad2\1c&HC0C0C0&\b0}l'd like to help, but there's nothing l can do.{\r}
+00:12:57,570 --> 00:13:00,140
+就在这里
+It's in here.
 
 188
-00:12:53,438 --> 00:12:57,772
-谢谢你，年轻人 很抱歉，你一定很难过
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, thank you, young man. l'm sorry, ma'am. l know you're upset!{\r}
+00:13:00,140 --> 00:13:03,280
+也许只是你还没认识到而已
+Maybe you just don't see it yet.
 
 189
-00:12:57,842 --> 00:12:59,935
-假装你很难过
-{\fs10\shad2\1c&HC0C0C0&\b0}Pretend to be upset.{\r}
+00:13:03,280 --> 00:13:05,310
+也许吧
+Maybe.
 
 190
-00:13:03,348 --> 00:13:05,213
-姓巴的
-{\fs10\shad2\1c&HC0C0C0&\b0}Parr!{\r}
+00:13:05,310 --> 00:13:07,110
+但是
+But, you know...
 
 191
-00:13:05,283 --> 00:13:07,751
-你批准华家的保险金给付？
-{\fs10\shad2\1c&HC0C0C0&\b0}You authorized payment on the Walker policy!{\r}
+00:13:07,120 --> 00:13:09,980
+远方好像有什么东西
+there is something out there.
 
 192
-00:13:07,819 --> 00:13:10,083
-他们家遭小偷，亨先生
-{\fs10\shad2\1c&HC0C0C0&\b0}Someone broke into their house, Mr. Huph.{\r}
+00:13:09,990 --> 00:13:11,680
+小嗝嗝
+Hiccup...
 
 193
-00:13:10,155 --> 00:13:13,090
-保单上明明说... 我不想知道
-{\fs10\shad2\1c&HC0C0C0&\b0}Their policy covers... l don't wanna know about it.{\r}
+00:13:46,190 --> 00:13:48,790
+跟紧我
+Stay close.
 
 194
-00:13:13,158 --> 00:13:16,992
-别跟我说，我只想知道 随便什么阿猫阿狗向你求情
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't tell me about it. Tell me how you're keeping lnsuricare in the black.{\r}
+00:13:59,600 --> 00:14:02,770
+这里发生了什么
+What happened here?
 
 195
-00:13:17,061 --> 00:13:19,621
-你就装好人答应要付钱给他们
-{\fs10\shad2\1c&HC0C0C0&\b0}Tell me how that's possible, with you writing checks{\r}
+00:14:07,610 --> 00:14:10,280
+好了  放松  伙计
+All right, e-easy, bud.
 
 196
-00:13:19,697 --> 00:13:23,724
-这样要怎么让公司赚钱呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}to every Harry Hardluck and Sally Sobstory that calls you.{\r}
+00:14:10,280 --> 00:14:11,640
+小嗝嗝
+Hiccup!
 
 197
-00:13:25,904 --> 00:13:28,896
-休息时间结束
-{\fs10\shad2\1c&HC0C0C0&\b0}Morning break is over. Morning break is over.{\r}
+00:14:11,650 --> 00:14:14,310
+-发射  -艾丝翠  小心
+- Fire! - Astrid, look out!
 
 198
-00:13:31,342 --> 00:13:32,969
-校长室
+00:14:17,520 --> 00:14:19,290
+小嗝嗝
+Aah! Hiccup!
 
 199
-00:13:33,044 --> 00:13:35,512
-巴太太，谢谢你赶来
-{\fs10\shad2\1c&HC0C0C0&\b0}l appreciate you coming down here, Mrs. Parr.{\r}
+00:14:24,130 --> 00:14:25,590
+小心尾巴
+Watch the tail!
 
 200
-00:13:36,247 --> 00:13:39,944
-发生什么事？ 小飞做错事吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What's this about? Has Dash done something wrong?{\r}
+00:14:27,260 --> 00:14:29,230
+把腿绑住
+Tie those legs up!
 
 201
-00:13:40,018 --> 00:13:44,182
-他是个坏榜样 他在全班同学面前让我出糗
-{\fs10\shad2\1c&HC0C0C0&\b0}He's a disruptive influence and he openly mocks me in front of the class.{\r}
+00:14:32,570 --> 00:14:35,640
+-那不会是真的吧  -住手
+- Is that what I think it is? - Stop!
 
 202
-00:13:44,255 --> 00:13:46,655
-他乱讲 我知道是你
-{\fs10\shad2\1c&HC0C0C0&\b0}He says. Look, l know it's you!{\r}
+00:14:35,640 --> 00:14:37,370
+风中飞
+Stormfly!
 
 203
-00:13:46,724 --> 00:13:49,784
-他在我椅子上放大头钉 你看到是他做的吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}He puts thumbtacks on my stool. You saw him do this?{\r}
+00:14:37,370 --> 00:14:38,810
+你们要干什么
+What are you doing?!
 
 204
-00:13:49,861 --> 00:13:52,659
-这个嘛...其实呢...
-{\fs10\shad2\1c&HC0C0C0&\b0}Well... not really. No.{\r}
+00:14:40,480 --> 00:14:42,640
+出现了
+Back again!
 
 205
-00:13:52,730 --> 00:13:53,856
-并没有
-{\fs10\shad2\1c&HC0C0C0&\b0}Actually, not.{\r}
+00:14:44,140 --> 00:14:46,580
+我的老天
+Soil my britches.
 
 206
-00:13:53,932 --> 00:13:55,991
-那你怎么知道是他？
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, then how do you know it was him?{\r}
+00:14:46,580 --> 00:14:49,380
+还真是一只夜煞
+That is a Night Fury.
 
 207
-00:13:56,067 --> 00:13:58,627
-我装了摄影机，这次逮到他了
-{\fs10\shad2\1c&HC0C0C0&\b0}l hid a camera. Yeah, and this time, l've got him.{\r}
+00:14:49,380 --> 00:14:51,480
+还以为他们都绝迹了
+Thought they were all gone for good.
 
 208
-00:14:05,043 --> 00:14:07,705
-瞧，你们看到吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}See? You see?{\r}
+00:14:51,490 --> 00:14:54,590
+看来我们交上好运了  伙计们
+Looks like our luck's had a turn for the better, lads!
 
 209
-00:14:07,779 --> 00:14:09,406
-你们没看到？
-{\fs10\shad2\1c&HC0C0C0&\b0}You don't see it?{\r}
+00:14:54,590 --> 00:14:56,560
+德拉戈的龙族大军里
+Don't think Drago has one of those...
 
 210
-00:14:11,416 --> 00:14:13,714
-他动了一下，那儿
-{\fs10\shad2\1c&HC0C0C0&\b0}He moves! Right there!{\r}
+00:14:56,560 --> 00:14:58,390
+肯定还没有夜煞呢
+in his dragon army.
 
 211
-00:14:13,785 --> 00:14:17,380
-等等，那儿
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait, wait! Right there!{\r}
+00:14:58,390 --> 00:14:59,690
+龙族大军
+Dragon army?
 
 212
-00:14:17,455 --> 00:14:19,150
-就在我坐下来的时候
-{\fs10\shad2\1c&HC0C0C0&\b0}Right as l'm sitting down!{\r}
+00:14:59,690 --> 00:15:01,690
+听着  我们不想惹麻烦
+Look, we don't want any trouble.
 
 213
-00:14:19,224 --> 00:14:20,987
-我不知道他怎么弄的
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know how he does it,{\r}
+00:15:01,700 --> 00:15:04,130
+你在偷走我们所有的龙
+Hah! You should have thought of that
 
 214
-00:14:21,059 --> 00:14:23,357
-不过他动之前没有大头针
-{\fs10\shad2\1c&HC0C0C0&\b0}but there's no tack before he moves{\r}
+00:15:04,130 --> 00:15:06,600
+并且摧毁我们的堡垒之前
+before you stole all of our dragons
 
 215
-00:14:23,428 --> 00:14:27,558
-之后就有大头针了 这是巧合吗？并不是
-{\fs10\shad2\1c&HC0C0C0&\b0}and after he moves, there's a tack. Coincidence? l think not!{\r}
+00:15:06,600 --> 00:15:08,170
+就该想到这点
+and blasted our fort to bits!
 
 216
-00:14:30,535 --> 00:14:33,231
-班尼 别叫我班尼
-{\fs10\shad2\1c&HC0C0C0&\b0}Bernie... Don't ''Bernie'' me.{\r}
+00:15:08,170 --> 00:15:09,870
+-没错  -对  你瞧瞧
+- That's right! - Yeah, look at it!
 
 217
-00:14:33,304 --> 00:14:35,397
-这个小鬼有罪
-{\fs10\shad2\1c&HC0C0C0&\b0}This little rat is guilty!{\r}
+00:15:09,870 --> 00:15:11,300
+等等
+Wait.
 
 218
-00:14:35,874 --> 00:14:39,935
-巴太太，你们可以走了 很抱歉麻烦你跑一趟
-{\fs10\shad2\1c&HC0C0C0&\b0}You and your son can go now, Mrs. Parr. l'm sorry for the trouble.{\r}
+00:15:11,310 --> 00:15:12,540
+你们在说什么
+What are you talking about?
 
 219
-00:14:40,011 --> 00:14:42,980
-你又要放他走？ 他明明有罪
-{\fs10\shad2\1c&HC0C0C0&\b0}You're letting him go again? He's guilty!{\r}
+00:15:12,540 --> 00:15:14,170
+你觉得这是我们干的吗
+You think we did this?
 
 220
-00:14:43,047 --> 00:14:46,676
-他一直在偷笑 他有罪，他有罪
-{\fs10\shad2\1c&HC0C0C0&\b0}You can see it on his smug little face. Guilty, l say, guilty!{\r}
+00:15:14,180 --> 00:15:17,780
+捕龙这活儿本身已经够困难了  
+Hah! Dragon trapping is hard enough work as it is
 
 221
-00:14:50,355 --> 00:14:55,190
-小飞，这是你今年 第三次被叫进校长室
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash, this is the third time this year you've been sent to the office.{\r}
+00:15:17,780 --> 00:15:20,210
+结果还遇上个行侠仗义的龙骑士
+without do-gooder dragon riders
 
 222
-00:14:55,693 --> 00:14:59,789
-你得找别的方法发泄情绪 更有建设性的发泄管道
-{\fs10\shad2\1c&HC0C0C0&\b0}We need to find a better outlet. A more... constructive outlet.{\r}
+00:15:20,220 --> 00:15:24,180
+-偷偷摸摸地救龙捣乱  -什么行侠仗义的...
+- sneaking in to rescue them. - What do-gooder...?
 
 223
-00:14:59,864 --> 00:15:02,856
-你只要让我参加运动比赛就行
-{\fs10\shad2\1c&HC0C0C0&\b0}Maybe l could, if you'd let me go out for sports.{\r}
+00:15:24,190 --> 00:15:26,850
+还有别的龙骑士吗
+There are other dragon riders?
 
 224
-00:15:02,934 --> 00:15:05,061
-你明明知道不行
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey, you know why we can't do that.{\r}
+00:15:26,860 --> 00:15:29,760
+除了你那个盗龙的朋友吗  你说呢
+You mean other than your thieving friend from last night? You tell me.
 
 225
-00:15:05,136 --> 00:15:09,766
-我答应会跑慢一点 我只会赢一点儿
-{\fs10\shad2\1c&HC0C0C0&\b0}l promise l'll slow up. l'll only be the best by a tiny bit.{\r}
+00:15:29,760 --> 00:15:32,860
+你也许有只能喷冰的龙给你撑腰
+You may have an ice-spitting dragon on your side,
 
 226
-00:15:09,841 --> 00:15:12,105
-巴小飞
-{\fs10\shad2\1c&HC0C0C0&\b0}Dashiell Robert Parr,{\r}
+00:15:32,860 --> 00:15:35,430
+但我们必须得完成我们的捕龙指标
+but we still have a quota to fill.
 
 227
-00:15:12,176 --> 00:15:15,339
-你的好胜心很强，也很爱现
-{\fs10\shad2\1c&HC0C0C0&\b0}you are an incredibly competitive boy. And a bit of a showoff.{\r}
+00:15:35,430 --> 00:15:37,660
+你要我们怎么跟德拉戈·布达威斯
+How do you suppose we explain this mess
 
 228
-00:15:15,413 --> 00:15:17,540
-你一定受不了诱惑
-{\fs10\shad2\1c&HC0C0C0&\b0}The last thing you need is temptation.{\r}
+00:15:37,670 --> 00:15:39,200
+解释这烂摊子
+to Drago Bludvist?
 
 229
-00:15:17,615 --> 00:15:21,016
-你老是叫我全力以赴 可是你都是在骗人
-{\fs10\shad2\1c&HC0C0C0&\b0}You always say, ''Do your best.'' But you don't really mean it.{\r}
+00:15:39,200 --> 00:15:40,700
+德拉戈什么
+Drago what-fist?
 
 230
-00:15:21,085 --> 00:15:23,315
-我为什么不能全力以赴？
-{\fs10\shad2\1c&HC0C0C0&\b0}Why can't l do the best that l can do?{\r}
+00:15:40,700 --> 00:15:42,700
+你说的这些都是什么意思
+Does anything you say make sense?
 
 231
-00:15:23,388 --> 00:15:28,519
-现在社会要我们当正常人 我们就得跟别人一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Right now, the world wants us to fit in, so we gotta be like everybody else.{\r}
+00:15:42,700 --> 00:15:44,540
+他正等着明天我们为他的龙族大军
+He's expecting a new shipment of dragons
 
 232
-00:15:28,593 --> 00:15:31,289
-爸说我们不应该 以我们的超能力为耻
-{\fs10\shad2\1c&HC0C0C0&\b0}Dad said our powers were nothing to be ashamed of.{\r}
+00:15:44,540 --> 00:15:46,740
+扩充一群新成员
+for his army by tomorrow.
 
 233
-00:15:31,362 --> 00:15:35,298
-超能力让我们特别 每个人都很特别，小飞
-{\fs10\shad2\1c&HC0C0C0&\b0}Our powers made us special. Everyone's special, Dash.{\r}
+00:15:46,740 --> 00:15:50,440
+德拉戈不喜欢听借口
+And Drago don't take well to excuses!
 
 234
-00:15:35,366 --> 00:15:37,994
-意思就是没有人是特别的
-{\fs10\shad2\1c&HC0C0C0&\b0}Which is another way of saying no one is.{\r}
+00:15:50,450 --> 00:15:52,280
+上回空手回去
+This is what he gave me
 
 235
-00:15:48,413 --> 00:15:50,005
-刘同学，你要去哪里？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Rydinger, where you headed?{\r}
+00:15:52,280 --> 00:15:54,650
+他就给了我这个
+last time I showed up empty-handed.
 
 236
-00:15:52,383 --> 00:15:54,647
-嗨，汤尼 嗨
-{\fs10\shad2\1c&HC0C0C0&\b0}Hi, Tony. Hey.{\r}
+00:15:54,650 --> 00:15:58,750
+他说以后就不会这么手下留情了
+He promised to be far less understanding in the future.
 
 237
-00:15:54,719 --> 00:15:57,847
-汤尼，让人家帮你拿书嘛 不好笑
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Tony, can l carry your books? That's kind of funny.{\r}
+00:15:58,750 --> 00:16:01,620
+好了  听着  我们没听过什么盗龙贼
+All right, look, we don't know anything about a dragon thief
 
 238
-00:15:58,556 --> 00:16:01,218
-汤尼，你想打球吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Tony, do you play football?{\r}
+00:16:01,620 --> 00:16:02,890
+什么喷冰龙
+or an ice-spitting dragon
 
 239
-00:16:03,861 --> 00:16:06,227
-汤尼，我们不是要 一起去游泳吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Tony, l thought we were gonna go swimming.{\r}
+00:16:02,890 --> 00:16:04,890
+或者你那个疯子老板
+or your lunatic boss
 
 240
-00:16:07,999 --> 00:16:09,967
-他看了我一眼
-{\fs10\shad2\1c&HC0C0C0&\b0}He looked at me.{\r}
+00:16:04,890 --> 00:16:07,330
+还有他的龙族大军  好吗
+and his dragon army, okay?
 
 241
-00:16:10,568 --> 00:16:13,230
-快点啦，小倩
-{\fs10\shad2\1c&HC0C0C0&\b0}Come on, Violet!{\r}
+00:16:07,330 --> 00:16:10,430
+只要把我们的龙还回来  我们就离开
+Just give us back our dragon, and we'll go...
 
 242
-00:16:37,228 --> 00:16:40,163
-讨厌的小鬼 老是在我的车道上玩
-{\fs10\shad2\1c&HC0C0C0&\b0}Darn kids. Sitting on the driveway...{\r}
+00:16:10,430 --> 00:16:13,230
+我们从没见过这么凶巴巴的怪人
+Strange, hostile person whom we've never met.
 
 243
-00:16:41,466 --> 00:16:43,593
-这下好了
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, great.{\r}
+00:16:13,230 --> 00:16:15,230
+我的礼貌都去哪了
+Oh, where are my manners?
 
 244
-00:17:19,804 --> 00:17:21,601
-妈？
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom.{\r}
+00:16:15,240 --> 00:16:16,640
+我叫艾瑞特
+I'm Eret...
 
 245
-00:17:22,740 --> 00:17:26,369
-你又在做鬼脸了 才没有
-{\fs10\shad2\1c&HC0C0C0&\b0}You're making weird faces again. No, l'm not.{\r}
+00:16:16,640 --> 00:16:19,440
+和我父亲同名
+Son of Eret.
 
 246
-00:17:26,444 --> 00:17:28,878
-你在做鬼脸，老婆
-{\fs10\shad2\1c&HC0C0C0&\b0}You make weird faces, honey.{\r}
+00:16:19,440 --> 00:16:21,710
+世上最好的捕龙猎手
+Finest dragon trapper alive.
 
 247
-00:17:28,946 --> 00:17:32,507
-你一定要看报吗？ 对
-{\fs10\shad2\1c&HC0C0C0&\b0}Do you have to read at the table? Yeah.{\r}
+00:16:21,710 --> 00:16:23,510
+毕竟
+After all...
 
 248
-00:17:32,583 --> 00:17:35,484
-小口一点，真是的
-{\fs10\shad2\1c&HC0C0C0&\b0}Smaller bites, Dash.{\r}
+00:16:23,510 --> 00:16:27,480
+夜煞不是人人都能抓到的
+it's not just anyone who can capture a Night Fury.
 
 249
-00:17:35,553 --> 00:17:38,454
-老公，帮这个肉食动物切肉
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob, could you help the carnivore cut his meat?{\r}
+00:16:27,480 --> 00:16:29,520
+他叫没牙仔
+And this is Toothless.
 
 250
-00:17:39,390 --> 00:17:44,020
-小飞 跟爸爸说你今天做了什么
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash, you have something you wanna tell your father about school?{\r}
+00:16:29,520 --> 00:16:31,780
+他说我们现在就离开
+He says we're going. Now.
 
 251
-00:17:44,095 --> 00:17:47,895
-我们在课堂上解剖青蛙 小飞又被叫到校长室
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, we dissected a frog. Dash got sent to the office again.{\r}
+00:16:32,920 --> 00:16:34,520
+我们也等不及了
+They all say that.
 
 252
-00:17:47,965 --> 00:17:50,525
-很好啊，很好 这并不好
-{\fs10\shad2\1c&HC0C0C0&\b0}Good. Good. No, Bob, that's bad.{\r}
+00:16:34,520 --> 00:16:35,790
+上  伙计们
+Rush 'em, lads!
 
 253
-00:17:50,601 --> 00:17:53,764
-什么？ 小飞又被叫到校长室
-{\fs10\shad2\1c&HC0C0C0&\b0}What? Dash got sent to the office again.{\r}
+00:16:41,700 --> 00:16:44,260
+风中飞  快
+Stormfly, come on!
 
 254
-00:17:53,838 --> 00:17:55,703
-为什么？ 没为什么
-{\fs10\shad2\1c&HC0C0C0&\b0}What?! What for? Nothing.{\r}
+00:16:44,270 --> 00:16:45,530
+撤  撤
+Go! Go!
 
 255
-00:17:55,773 --> 00:17:58,708
-他上课时 在老师椅子上放大头针
-{\fs10\shad2\1c&HC0C0C0&\b0}He put a tack on the teacher's chair... during class.{\r}
+00:16:48,540 --> 00:16:50,540
+那些龙
+You will
 
 256
-00:17:58,776 --> 00:18:01,438
-没有人看到 录影带上看不到我
-{\fs10\shad2\1c&HC0C0C0&\b0}Nobody saw me. You could barely see it on the tape.{\r}
+00:16:50,540 --> 00:16:52,410
+你是留不住的
+never hold on to those dragons!
 
 257
-00:18:01,512 --> 00:18:04,709
-你被拍到可是没被逮到？
-{\fs10\shad2\1c&HC0C0C0&\b0}They caught you on tape and you still got away with it?{\r}
+00:16:52,410 --> 00:16:53,710
+你听到了吗
+You hear me?!
 
 258
-00:18:04,782 --> 00:18:07,273
-你一定超快的，你有多快？
-{\fs10\shad2\1c&HC0C0C0&\b0}You must have been booking. How fast were you going?{\r}
+00:16:53,710 --> 00:16:56,480
+德拉戈会把它们全部抢走
+Drago is coming for them all!
 
 259
-00:18:07,351 --> 00:18:08,943
-请你别鼓励他
-{\fs10\shad2\1c&HC0C0C0&\b0}We are not encouraging this.{\r}
+00:16:58,980 --> 00:17:02,750
+快点  肉球
+Come on, Meatlug!
 
 260
-00:18:09,020 --> 00:18:11,113
-并没有啊，我只是问他多快
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not, l'm just asking how fast...{\r}
+00:17:11,390 --> 00:17:12,790
+-你好  史推克  -你好
+- Hey there, Stoick! - Hey, how are you?
 
 261
-00:18:11,189 --> 00:18:12,656
-老公
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey!{\r}
+00:17:12,820 --> 00:17:13,960
+天气真好
+Beautiful day.
 
 262
-00:18:15,159 --> 00:18:18,128
-太好了，先是车子 现在又这样
-{\fs10\shad2\1c&HC0C0C0&\b0}Great. First the car, now l gotta pay to fix the table...{\r}
+00:17:13,960 --> 00:17:16,260
+你好  嫉妒唠  比赛真棒
+Hello, Spitelout. Great race. Yeah...
 
 263
-00:18:18,196 --> 00:18:19,891
-车子？车子怎么了 ？
-{\fs10\shad2\1c&HC0C0C0&\b0}What happened to the car?{\r}
+00:17:16,260 --> 00:17:17,830
+抱歉  艾克夫人
+Oh! Sorry, Mrs. Ack.
 
 264
-00:18:21,132 --> 00:18:23,930
-我去拿新的盘子
-{\fs10\shad2\1c&HC0C0C0&\b0}Here. l'm getting a new plate.{\r}
+00:17:17,830 --> 00:17:20,530
+-有他的消息吗  -他现在可能已经
+- Any sign of him? - Eh! He's probably flown
 
 265
-00:18:25,236 --> 00:18:27,261
-你呢，小倩？学校还好吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}So, how about you, Vi? How was school?{\r}
+00:17:20,540 --> 00:17:22,840
+飞得无影无踪了
+off the edge of the world by now.
 
 266
-00:18:27,338 --> 00:18:30,136
-没什么特别的 你连一口都没有吃
-{\fs10\shad2\1c&HC0C0C0&\b0}Nothing to report. You've hardly touched your food.{\r}
+00:17:22,840 --> 00:17:25,300
+你确定想让那娃管理村庄吗
+You sure you want that kid running the village?
 
 267
-00:18:30,208 --> 00:18:33,871
-我不爱吃肉饼 今天吃剩菜
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not hungry for meatloaf. Well, it is leftover night.{\r}
+00:17:25,310 --> 00:17:27,410
+你还有机会延迟退休
+You can still delay your retirement.
 
 268
-00:18:33,945 --> 00:18:36,914
-有牛排和意大利面 你到底想要什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}We have steak, pasta... What are you hungry for?{\r}
+00:17:27,410 --> 00:17:29,980
+他准备好了  你会明白的
+Oh, he's ready. You'll see.
 
 269
-00:18:36,981 --> 00:18:39,711
-雷汤尼 闭嘴
-{\fs10\shad2\1c&HC0C0C0&\b0}Tony Rydinger. Shut up.{\r}
+00:17:29,980 --> 00:17:32,580
+他来了
+There he is!
 
 270
-00:18:39,784 --> 00:18:42,776
-是真的呀 我叫你闭嘴，小不点儿
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, you are. l said, shut up, you little insect.{\r}
+00:17:32,580 --> 00:17:35,250
+博克岛的骄傲
+Huh? The pride of Berk!
 
 271
-00:18:42,854 --> 00:18:45,379
-她真的很哈他 不要在餐桌上吵架
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, she is. Do not shout at the table.{\r}
+00:17:36,720 --> 00:17:39,850
+你总算决定回来工作了
+Who finally decided to show up for work. Yay.
 
 272
-00:18:45,456 --> 00:18:48,857
-老公？ 孩子们，听妈妈的话
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey! Kids! Listen to your mother.{\r}
+00:17:39,850 --> 00:17:41,620
+抱歉  耽搁了
+Sorry, got held up.
 
 273
-00:18:49,627 --> 00:18:52,619
-有雷汤尼在她什么都吃得下
-{\fs10\shad2\1c&HC0C0C0&\b0}She'd eat if we were having Tony loaf.{\r}
+00:17:41,620 --> 00:17:42,960
+爸爸  能跟你聊两句吗
+Hey, uh, dad, could I have a word?
 
 274
-00:18:52,697 --> 00:18:54,221
-我受够了
-{\fs10\shad2\1c&HC0C0C0&\b0}That's it!{\r}
+00:17:42,960 --> 00:17:44,620
+有什么事等不及要告诉我了吗
+Something you're itching to tell me?
 
 275
-00:18:54,298 --> 00:18:55,492
-别闹了
-{\fs10\shad2\1c&HC0C0C0&\b0}Stop it!{\r}
+00:17:44,630 --> 00:17:45,970
+不是你想的那件事
+Uh, not quite the itch you're thinking of,
 
 276
-00:18:56,334 --> 00:19:00,065
-你死定了 别在屋里跑来跑去
-{\fs10\shad2\1c&HC0C0C0&\b0}You're gonna be toast! Stop running in the house.{\r}
+00:17:45,980 --> 00:17:47,660
+不过  确实有事
+but, yes.
 
 277
-00:19:00,738 --> 00:19:01,966
-坐下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Sit down!{\r}
+00:17:47,660 --> 00:17:48,860
+好样的
+Oh, good man!
 
 278
-00:19:02,907 --> 00:19:05,603
-不准用防护罩 是你先惹我的
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, no force fields! You started it.{\r}
+00:17:48,860 --> 00:17:50,900
+第一课  首领第一要务
+Now, lesson one: A chief's first duty
 
 279
-00:19:05,676 --> 00:19:08,270
-给我坐好，坐下来
-{\fs10\shad2\1c&HC0C0C0&\b0}You sit down! You sit down!{\r}
+00:17:50,900 --> 00:17:52,270
+就是服务于人民
+is to his people,
 
 280
-00:19:08,346 --> 00:19:09,711
-小倩！
-{\fs10\shad2\1c&HC0C0C0&\b0}Violet!{\r}
+00:17:52,270 --> 00:17:53,600
+所以  四十一号
+so... 41!
 
 281
-00:19:16,753 --> 00:19:18,744
-帕赛门下落不明
-{\fs10\shad2\1c&HC0C0C0&\b0}Simon J. Paladino,{\r}
+00:17:53,600 --> 00:17:55,470
+我们能不能找个人少的地方聊聊
+Well, can we just talk in private for...
 
 282
-00:19:18,822 --> 00:19:20,119
-失踪人口
-{\fs10\shad2\1c&HC0C0C0&\b0}longtime advocate of superhero rights, is missing?{\r}
+00:17:55,470 --> 00:17:56,500
+-四十...  -是我
+- Forty... - That's me!
 
 283
-00:19:20,190 --> 00:19:22,784
-他长期为超级英雄争取权利
+00:17:56,500 --> 00:17:57,740
+是我  到我了
+That's me! I'm next!
 
 284
-00:19:23,193 --> 00:19:25,162
-激光侠 老公，快来啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Gazerbeam. Bob! lt's time to engage.{\r}
+00:17:57,740 --> 00:17:58,940
+我排在你前面
+Hey, I was ahead of you!
 
 285
-00:19:25,162 --> 00:19:27,596
-激光侠 老公，快来啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Gazerbeam. Bob! lt's time to engage.{\r}
+00:17:58,960 --> 00:18:00,310
+我们能不能谈...
+If we could just talk...
 
 286
-00:19:27,664 --> 00:19:30,030
-快想想办法 别光站在那儿
-{\fs10\shad2\1c&HC0C0C0&\b0}Do something! Don't just stand there!{\r}
+00:18:00,310 --> 00:18:02,380
+不好意思  我都在这儿等一天了
+Excuse me. I've been here all day.
 
 287
-00:19:30,100 --> 00:19:32,694
-快来帮忙呀 你要我帮忙？
-{\fs10\shad2\1c&HC0C0C0&\b0}l need you to intervene! You want me to intervene?{\r}
+00:18:02,380 --> 00:18:04,740
+我想要一个高龙鞍
+Okay, okay, I want one of those high seaters
 
 288
-00:19:32,769 --> 00:19:34,964
-好，我就来帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}Okay. l'm intervening!{\r}
+00:18:04,750 --> 00:18:08,010
+打满铁钉的那种  还要带一个大储物箱
+with lots of spikes and a big storage compartment!
 
 289
-00:19:36,506 --> 00:19:38,736
-小倩，把你弟弟放开
-{\fs10\shad2\1c&HC0C0C0&\b0}Violet, let go of your brother.{\r}
+00:18:08,020 --> 00:18:11,520
+-没问题  保证给你  -爸爸  我要说的事
+- Absolutely! You got it, sir. -Dad, this is actually
 
 290
-00:19:38,808 --> 00:19:40,366
-哈啰
-{\fs10\shad2\1c&HC0C0C0&\b0}Hello?{\r}
+00:18:11,520 --> 00:18:13,320
+比造龙鞍更重要
+a little more important than building saddles.
 
 291
-00:19:41,244 --> 00:19:42,973
-去开门
-{\fs10\shad2\1c&HC0C0C0&\b0}Get the door.{\r}
+00:18:13,320 --> 00:18:15,490
+第二课  为人民服务
+Ah, lesson two: No task is too small
 
 292
-00:19:43,513 --> 00:19:46,914
-酷冰侠叔叔 飞毛腿、荷莉 、小倩、小杰
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Lucius! Hey, Speedo. Helen, Vi, Jack-Jack.{\r}
+00:18:15,490 --> 00:18:17,390
+不论大事小事
+when it comes to serving your people.
 
 293
-00:19:46,983 --> 00:19:50,851
-今天什么冰把你吹来？ 这笑话有够冷
-{\fs10\shad2\1c&HC0C0C0&\b0}lce of you to drop by. Never heard that one before.{\r}
+00:18:17,390 --> 00:18:19,490
+-可是  爸爸  -抱歉  葛伦普
+- But, dad... - Oh, excuse us, Grump.
 
 294
-00:19:50,921 --> 00:19:52,650
-酷冰侠叔叔
-{\fs10\shad2\1c&HC0C0C0&\b0}Lucius!{\r}
+00:18:19,490 --> 00:18:21,790
+-我们能不能谈谈  -葛伦普
+- Can we just talk... - Yah! Grump!
 
 295
-00:19:58,695 --> 00:20:01,289
-我比较喜欢碎冰 我会晚点回来
-{\fs10\shad2\1c&HC0C0C0&\b0}l like it when it shatters. l'll be back later.{\r}
+00:18:21,800 --> 00:18:24,030
+你又让锻炉熄灭了
+You let the forge die down again!
 
 296
-00:20:01,364 --> 00:20:03,889
-你们要去哪儿？ 今天是礼拜三
-{\fs10\shad2\1c&HC0C0C0&\b0}Where are you two going? lt's Wednesday.{\r}
+00:18:29,870 --> 00:18:32,030
+我受够了  葛伦普  你就等着被别人领养吧
+That's it, Grump! You're going up for adoption.
 
 297
-00:20:03,967 --> 00:20:07,198
-保龄球夜 路易，替我跟大嫂问好
-{\fs10\shad2\1c&HC0C0C0&\b0}Bowling night. Say hello to Honey for me, Lucius.{\r}
+00:18:32,060 --> 00:18:33,510
+-好的  -给你
+- Okay, uh... - There you go.
 
 298
-00:20:07,270 --> 00:20:09,966
-好，晚安，荷莉 晚安，孩子们
-{\fs10\shad2\1c&HC0C0C0&\b0}Will do. Good night, Helen. Good night, kids.{\r}
+00:18:33,510 --> 00:18:35,780
+-爸爸  -动手吧
+- Dad... - Go on. Have away.
 
 299
-00:20:13,310 --> 00:20:17,041
-别以为你被叫到校长室 这件事就这样算了
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't think you've avoided talking about the principal's office.{\r}
+00:18:35,780 --> 00:18:37,040
+说真的  我必须
+Yeah, but seriously, I really need to
 
 300
-00:20:17,113 --> 00:20:19,343
-我会跟你爸商量该怎么处罚你
-{\fs10\shad2\1c&HC0C0C0&\b0}Your father and l are still gonna discuss it.{\r}
+00:18:37,040 --> 00:18:40,310
+把我们发现新大陆的事告诉你
+tell you about this new land we came across.
 
 301
-00:20:19,416 --> 00:20:22,351
-别的小朋友也有被叫进校长室
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not the only kid who's been sent to the office.{\r}
+00:18:40,320 --> 00:18:41,980
+-新大陆  -有新品种的龙吗
+- Another one? - Any new dragons?
 
 302
-00:20:22,419 --> 00:20:24,353
-别的小朋友没有超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}Other kids don't have superpowers.{\r}
+00:18:41,980 --> 00:18:43,850
+我们没能仔细探索
+We didn't stick around to find out.
 
 303
-00:20:24,421 --> 00:20:27,948
-正常的小孩... 你知道什么是正常吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Now, it's perfectly normal... What do you know about normal?{\r}
+00:18:43,850 --> 00:18:46,620
+那些人不太友好
+These folks weren't particularly friendly.
 
 304
-00:20:28,024 --> 00:20:30,720
-我们家有人知道 什么是正常吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What does anyone in this family know about normal?{\r}
+00:18:46,620 --> 00:18:47,790
+是吗
+Oh, really?
 
 305
-00:20:30,794 --> 00:20:34,753
-别这么激动 我不想假装，我想当正常人
-{\fs10\shad2\1c&HC0C0C0&\b0}Now, wait a minute, young lady. We act normal. l wanna be normal.{\r}
+00:18:47,790 --> 00:18:49,560
+你的夜煞还有致命纳得
+Your Night Fury and Deadly Nadder
 
 306
-00:20:34,831 --> 00:20:38,858
-只有小杰才正常 可是他还在包尿布
-{\fs10\shad2\1c&HC0C0C0&\b0}The only normal one is Jack-Jack, and he's not even toilet trained.{\r}
+00:18:49,560 --> 00:18:52,020
+没让他们乐翻天吗
+didn't bring them cheering to the rooftops?
 
 307
-00:20:40,237 --> 00:20:42,000
-算他幸运
-{\fs10\shad2\1c&HC0C0C0&\b0}Lucky.{\r}
+00:18:52,030 --> 00:18:53,560
+这回不一样
+No, this was different.
 
 308
-00:20:42,072 --> 00:20:44,563
-我是说他很正常
-{\fs10\shad2\1c&HC0C0C0&\b0}l meant about being normal.{\r}
+00:18:53,560 --> 00:18:55,530
+没有往常的兴高采烈
+Not the standard run-for-the-hills hoo-ha
 
 309
-00:20:46,977 --> 00:20:48,968
-那一次我差点就没命
-{\fs10\shad2\1c&HC0C0C0&\b0}So now l'm in deep trouble.{\r}
+00:18:55,530 --> 00:18:56,860
+和让我陶醉的欢呼
+I've come to enjoy.
 
 310
-00:20:49,045 --> 00:20:52,139
-他再射一道死光，我就死定了
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean, one more jolt of this death ray and l'm an epitaph.{\r}
+00:18:56,860 --> 00:18:59,800
+那些人都是猎手
+These guys were trappers.
 
 311
-00:20:52,215 --> 00:20:55,446
-幸好我躲过了 你知道他做什么吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Somehow l managed to find cover. What does Baron Von Ruthless do?{\r}
+00:18:59,800 --> 00:19:01,570
+捕龙猎手
+Dragon trappers.
 
 312
-00:20:55,518 --> 00:20:58,510
-他开始念独白 他开始念一段独白
-{\fs10\shad2\1c&HC0C0C0&\b0}He starts monologuing. He starts monologuing.{\r}
+00:19:01,570 --> 00:19:03,000
+你应该看看他们的堡垒
+You should have seen their fort.
 
 313
-00:20:58,588 --> 00:21:02,490
-他照着稿子开始说我有多逊
-{\fs10\shad2\1c&HC0C0C0&\b0}He starts this prepared speech about how feeble l am compared to him.{\r}
+00:19:03,000 --> 00:19:06,010
+完全炸裂开  卡在巨大的冰锥里
+All blown apart and stuck in giant spikes of ice.
 
 314
-00:21:02,559 --> 00:21:05,995
-我注定会死在他手里 他很快就能统治世界什么的
-{\fs10\shad2\1c&HC0C0C0&\b0}How inevitable my defeat is, the world will soon be his. Yada, yada, yada.{\r}
+00:19:06,010 --> 00:19:07,470
+看上去无比怪异
+It was weird.
 
 315
-00:21:06,096 --> 00:21:08,031
-他一直碎碎念，碎碎念
-{\fs10\shad2\1c&HC0C0C0&\b0}Yammering. Yammering.{\r}
+00:19:07,480 --> 00:19:09,080
+我第一次见那样的场面
+I've never seen anything like it.
 
 316
-00:21:08,031 --> 00:21:11,592
-那家伙已经逮到我了 还不肯乖乖闭嘴
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean, the guy has me on a platter, and he won't shut up.{\r}
+00:19:09,080 --> 00:19:11,740
+最糟糕的是  他们以为是我们干的
+A-and worst of all, they thought we did it!
 
 317
-00:21:11,668 --> 00:21:15,263
-费蒙街发生2356状况 那是什么状况？
-{\fs10\shad2\1c&HC0C0C0&\b0}Three Municiberg, we have a 23-56... 23-56, what is that?{\r}
+00:19:11,750 --> 00:19:14,580
+你们俩总有一天
+You know, you two are gonna get yourselves
 
 318
-00:21:15,338 --> 00:21:17,602
-抢案吗？ 这太可悲了
-{\fs10\shad2\1c&HC0C0C0&\b0}Robbery? This is just sad.{\r}
+00:19:14,580 --> 00:19:15,920
+会给自己惹上大麻烦
+in serious trouble one of these days.
 
 319
-00:21:17,674 --> 00:21:19,608
-你想抓抢匪吗？ 并不想
-{\fs10\shad2\1c&HC0C0C0&\b0}Want to catch a robber? No.{\r}
+00:19:15,920 --> 00:19:19,090
+并不是所有人都喜欢这种生活方式
+Not everyone appreciates this way of life.
 
 320
-00:21:19,676 --> 00:21:22,201
-老实说，我宁愿去打保龄球
-{\fs10\shad2\1c&HC0C0C0&\b0}Tell you the truth, l'd rather go bowling.{\r}
+00:19:19,090 --> 00:19:20,390
+戈伯说得没错  儿子
+Aye, Gobber's right, son.
 
 321
-00:21:22,279 --> 00:21:26,773
-这次咱们不如真的去打保龄球
-{\fs10\shad2\1c&HC0C0C0&\b0}Look, what if we actually did what our wives think we're doing?{\r}
+00:19:20,390 --> 00:19:22,050
+我们最好待在自己家乡
+Best we keep to our own.
 
 322
-00:21:26,850 --> 00:21:28,408
-这样还比较刺激
-{\fs10\shad2\1c&HC0C0C0&\b0}Just to shake things up.{\r}
+00:19:22,060 --> 00:19:25,120
+而且  你还有更重要的事要做
+Besides, you'll have more important uses for your time.
 
 323
-00:21:28,485 --> 00:21:33,149
-他不是一个人，那胖子在旁边
-{\fs10\shad2\1c&HC0C0C0&\b0}He's not alone. The fat guy's still with him.{\r}
+00:19:26,960 --> 00:19:29,860
+只等我来宣布这个重磅消息了
+Once we make the big announcement!
 
 324
-00:21:33,223 --> 00:21:35,589
-他们只是在哈啦打屁
-{\fs10\shad2\1c&HC0C0C0&\b0}They're just talking.{\r}
+00:19:29,860 --> 00:19:32,870
+他们在组建龙族大军
+They are building a dragon army.
 
 325
-00:21:35,659 --> 00:21:38,787
-我们这是在干嘛？ 保护人民安全
-{\fs10\shad2\1c&HC0C0C0&\b0}What are we doing here? Protecting people.{\r}
+00:19:34,400 --> 00:19:37,900
+或者说他们的老板在组建龙族大军
+Or-or at least the guy they work for is. Uh...
 
 326
-00:21:38,862 --> 00:21:41,023
-没人请我们保护他们 你需要请帖吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Nobody asked us. You need an invitation?{\r}
+00:19:37,910 --> 00:19:40,740
+叫什么德拉戈·被打威斯之类的
+"Dargo... bloody fist" Or something.
 
 327
-00:21:41,097 --> 00:21:44,828
-是啊，有请帖最好 每次都偷偷摸摸...
-{\fs10\shad2\1c&HC0C0C0&\b0}l'd like one, yes. We keep sneaking out to do this, and...{\r}
+00:19:42,640 --> 00:19:44,740
+要是他妄想抢走我的龙
+I'll bloody his fist with my face
 
 328
-00:21:44,901 --> 00:21:48,393
-你记得激光侠吗？ 今天报上有他的新闻
-{\fs10\shad2\1c&HC0C0C0&\b0}You remember Gazerbeam? There was something in the paper.{\r}
+00:19:44,750 --> 00:19:46,810
+我就用我的脸血染他的拳头
+if he tries to take my dragon!
 
 329
-00:21:48,471 --> 00:21:51,668
-他也不习惯过正常生活 你几时看过他？
-{\fs10\shad2\1c&HC0C0C0&\b0}He had trouble with civilian life. When did you see him?{\r}
+00:19:46,810 --> 00:19:47,850
+还有我的
+Or mine!
 
 330
-00:21:51,741 --> 00:21:55,302
-我跟这些老伙伴都没来往 只有你
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't see anyone from the old days. Just you.{\r}
+00:19:47,850 --> 00:19:49,580
+你还真白痴
+Ugh! You're such a moron.
 
 331
-00:21:55,378 --> 00:21:57,608
-其实这样挺冒险的 别扫兴嘛
-{\fs10\shad2\1c&HC0C0C0&\b0}And we're pushing our luck as it is. Come on.{\r}
+00:19:49,580 --> 00:19:50,850
+白痴美女哦
+A beautiful moron.
 
 332
-00:21:57,681 --> 00:22:00,479
-第一次还可以 要是继续下去就会...
-{\fs10\shad2\1c&HC0C0C0&\b0}lt was fun the first time, but if we keep doing this...{\r}
+00:19:50,850 --> 00:19:52,390
+没错
+Yeah.
 
 333
-00:22:00,550 --> 00:22:03,951
-四街发生火灾 火灾，有搞头了
-{\fs10\shad2\1c&HC0C0C0&\b0}We have a report on a fire... A fire. We're close!{\r}
+00:19:52,390 --> 00:19:55,550
+布达威斯  德拉戈·布达威斯是吗
+Bludvist? Drago Bludvist?
 
 334
-00:22:04,020 --> 00:22:06,955
-好耶！ 我们会被逮到
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah, baby! We're gonna get caught.{\r}
+00:19:55,560 --> 00:19:57,390
+没错  等等
+Uh, yeah. Wait...
 
 335
-00:22:09,592 --> 00:22:12,083
-火灾！好耶！
-{\fs10\shad2\1c&HC0C0C0&\b0}Fire! Yeah!{\r}
+00:19:57,390 --> 00:19:58,920
+你认识他吗
+You know him?
 
 336
-00:22:20,170 --> 00:22:22,365
-人都救到了吗？ 对，都救到了
-{\fs10\shad2\1c&HC0C0C0&\b0}ls that everybody? Yeah, that's everyone.{\r}
+00:20:01,730 --> 00:20:04,000
+-所有龙停飞  -什么  为什么
+- Ground all dragons! - What? Why?
 
 337
-00:22:23,873 --> 00:22:27,172
-最好是 你不能用冰把火浇熄吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}lt better be. Can't you put this out?{\r}
+00:20:04,000 --> 00:20:05,870
+关上大门
+Seal the gates!
 
 338
-00:22:27,277 --> 00:22:30,542
-不行啦，我做的冰不够厚 马上就会融化蒸发
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't lay down a layer thick enough! lt's evaporating too fast!{\r}
+00:20:05,870 --> 00:20:08,000
+-降下外门  -等等
+- Lower the storm doors! - Whoa, whoa, whoa, wait, wait.
 
 339
-00:22:30,613 --> 00:22:32,740
-那是什么意思？ 这儿太热了
-{\fs10\shad2\1c&HC0C0C0&\b0}What's that mean? lt means it's hot.{\r}
+00:20:08,000 --> 00:20:09,570
+-怎么回事  -快点
+- What is happening? - Come on!
 
 340
-00:22:32,816 --> 00:22:35,148
-我快脱水了 你的冰用完了 ？
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm dehydrated, Bob. You're out of ice?{\r}
+00:20:09,570 --> 00:20:10,940
+听命令  锁门
+You heard the man! Lock it down!
 
 341
-00:22:35,218 --> 00:22:37,618
-不可能啦 你能用空气中的水份
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't run out. You can use water in the air.{\r}
+00:20:10,940 --> 00:20:14,640
+没有我的命令
+No dragon or viking
 
 342
-00:22:37,687 --> 00:22:41,487
-这儿的空气根本没有水份 你的力气也用完了吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}There is no water in this air! What's your excuse, run out of muscle?{\r}
+00:20:14,640 --> 00:20:17,840
+所有龙和维京人不准离开本岛半步
+sets foot off this island until I give the word!
 
 343
-00:22:41,558 --> 00:22:44,493
-我不能撞墙而出 这栋房子太脆弱了
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't smash walls. The building's getting weaker.{\r}
+00:20:17,850 --> 00:20:19,970
+等等  就因为你认识的某人在遥远的
+Wait, because some guy you knew is stirring up trouble
 
 344
-00:22:44,561 --> 00:22:47,689
-一撞就会被撞倒 我本来想去打保龄球的
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's gonna come down on top of us. l wanted to go bowling!{\r}
+00:20:19,990 --> 00:20:21,180
+陆地制造麻烦吗
+in some faraway land?
 
 345
-00:22:50,467 --> 00:22:54,096
-跟着我来，这会很惊险
-{\fs10\shad2\1c&HC0C0C0&\b0}All right! Stay right on my tail! This is gonna get hot!{\r}
+00:20:21,180 --> 00:20:24,120
+因为德拉戈·布达威斯是个疯子
+Because Drago Bludvist is a madman
 
 346
-00:23:13,256 --> 00:23:14,848
-这下好了
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, good.{\r}
+00:20:24,120 --> 00:20:26,550
+毫无道德和同情心可言
+without conscience or mercy.
 
 347
-00:23:15,959 --> 00:23:18,553
-不是吧，这不公平
-{\fs10\shad2\1c&HC0C0C0&\b0}That ain't right.{\r}
+00:20:26,550 --> 00:20:28,450
+要是他组建了龙族大军
+And if he's built a dragon army,
 
 348
-00:23:20,830 --> 00:23:24,357
-我们活像一对笨贼 你可以从空气中弄出冰块
-{\fs10\shad2\1c&HC0C0C0&\b0}We look like incompetent bad guys! You can get water out of the air.{\r}
+00:20:28,460 --> 00:20:30,020
+我们最好早做准备
+gods help us all.
 
 349
-00:23:24,434 --> 00:23:25,924
-别动
-{\fs10\shad2\1c&HC0C0C0&\b0}Freeze!{\r}
+00:20:30,020 --> 00:20:31,190
+-把它们送回笼子  -是  史推克
+- Get them into their pens! - Aye, Stoick.
 
 350
-00:23:30,774 --> 00:23:31,866
-别动
-{\fs10\shad2\1c&HC0C0C0&\b0}Freeze!{\r}
+00:20:31,190 --> 00:20:32,930
+快
+Quickly!
 
 351
-00:23:31,941 --> 00:23:34,774
-我口渴 我叫你别动
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm thirsty. l said freeze!{\r}
+00:20:32,930 --> 00:20:34,860
+那我们就飞回去
+Then let's ride back out there.
 
 352
-00:23:34,844 --> 00:23:37,711
-我只是想喝口水
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm just getting a drink.{\r}
+00:20:34,860 --> 00:20:36,860
+跟着那些捕龙猎手找到德拉戈
+We'll follow those trappers to Drago
 
 353
-00:23:41,618 --> 00:23:46,715
-好，你喝完了就乖乖... 我知道...我会让你结冻
-{\fs10\shad2\1c&HC0C0C0&\b0}You've had your drink. Now... l know. l know. Freeze.{\r}
+00:20:36,860 --> 00:20:38,660
+劝他理智些
+and talk some sense into him.
 
 354
-00:23:49,726 --> 00:23:51,284
-这是警察
-{\fs10\shad2\1c&HC0C0C0&\b0}Police officers!{\r}
+00:20:38,670 --> 00:20:40,130
+不  我们要在岛上建防御工事
+No. We fortify the island.
 
 355
-00:24:03,373 --> 00:24:05,102
-刚才好险哦
-{\fs10\shad2\1c&HC0C0C0&\b0}That was way too close.{\r}
+00:20:40,130 --> 00:20:42,170
+维护和平是我们的责任
+It's our duty to keep the peace.
 
 356
-00:24:05,175 --> 00:24:07,871
-下次我绝对不干了
-{\fs10\shad2\1c&HC0C0C0&\b0}We are not doing that again.{\r}
+00:20:42,170 --> 00:20:43,900
+和平结束了  小嗝嗝
+Peace is over, Hiccup.
 
 357
-00:24:10,447 --> 00:24:13,644
-你要换另一个目标吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Verify you want to switch targets? Over.{\r}
+00:20:43,910 --> 00:20:46,910
+-我们必须为战争做好准备  -战争
+- I must prepare you for war. - War?
 
 358
-00:24:13,716 --> 00:24:17,277
-相信我，他找的就是这一个
-{\fs10\shad2\1c&HC0C0C0&\b0}Trust me. This is the one he's been looking for.{\r}
+00:20:46,910 --> 00:20:49,180
+爸爸  要是德拉戈来抢我们的龙
+Dad, if Drago's coming for our dragons,
 
 359
-00:24:43,179 --> 00:24:46,512
-我以为你十一点就会回家 我说我会晚点回家
-{\fs10\shad2\1c&HC0C0C0&\b0}l thought you'd be back by 11. l said l'd be back later.{\r}
+00:20:49,180 --> 00:20:52,040
+我们不能坐以待毙
+we can't wait around for him to get here.
 
 360
-00:24:46,583 --> 00:24:49,245
-我当然知道 如果你会回来的话
-{\fs10\shad2\1c&HC0C0C0&\b0}l assumed you'd be back later. lf you came back at all...{\r}
+00:20:52,050 --> 00:20:55,510
+我们去找到他  劝他改变想法
+Let's go find him and change his mind.
 
 361
-00:24:49,319 --> 00:24:53,312
-肯定就是晚一点 我这不是回来了吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}...you'd be ''back later''. Well, l'm back, okay?{\r}
+00:20:55,520 --> 00:20:57,520
+不  有些人是劝不动的  小嗝嗝
+No, some minds won't be changed, Hiccup.
 
 362
-00:24:59,963 --> 00:25:02,090
-这是瓦砾吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}ls this rubble?{\r}
+00:20:57,520 --> 00:20:59,920
+你要担心的是博克岛
+Berk is what you need to worry about.
 
 363
-00:25:02,165 --> 00:25:05,657
-我只是暖暖身，放轻松
-{\fs10\shad2\1c&HC0C0C0&\b0}lt was just a little workout. Just to stay loose.{\r}
+00:20:59,920 --> 00:21:02,490
+首领要保卫自己的领土
+A chief protects his own.
 
 364
-00:25:05,735 --> 00:25:09,262
-你明知道我反对，真是的 我们不能再曝露身份
-{\fs10\shad2\1c&HC0C0C0&\b0}You know how l feel about that. Darn you! We can't blow cover again.{\r}
+00:21:03,930 --> 00:21:06,460
+保护龙厩  全部上锁
+Secure the stables! Latch every stall!
 
 365
-00:25:09,339 --> 00:25:12,433
-反正那栋房子一定会倒塌 什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}The building was coming down anyway. What?{\r}
+00:21:06,460 --> 00:21:08,460
+-小嗝嗝  别去  -我没得选
+- Hiccup, don't. - I have to.
 
 366
-00:25:12,509 --> 00:25:14,170
-你撞倒一栋房子？
-{\fs10\shad2\1c&HC0C0C0&\b0}You knocked down a building?{\r}
+00:21:08,460 --> 00:21:09,800
+这边
+This way!
 
 367
-00:25:14,244 --> 00:25:17,145
-屋子起火，很危险 反正一定会倒塌
-{\fs10\shad2\1c&HC0C0C0&\b0}lt was on fire. Structurally unsound. lt was coming down.{\r}
+00:21:09,800 --> 00:21:11,000
+快
+Quickly!
 
 368
-00:25:17,213 --> 00:25:19,704
-别跟我说你又去 偷听警方无线电了
-{\fs10\shad2\1c&HC0C0C0&\b0}Have you been listening to the police scanner again?{\r}
+00:21:12,200 --> 00:21:14,200
+小嗝嗝
+Hiccup!
 
 369
-00:25:19,782 --> 00:25:22,945
-我是去救人耶，这又不是坏事
-{\fs10\shad2\1c&HC0C0C0&\b0}l performed a public service. You act like that's bad.{\r}
+00:21:15,870 --> 00:21:17,040
+快
+Come on!
 
 370
-00:25:23,019 --> 00:25:24,452
-这是坏事
-{\fs10\shad2\1c&HC0C0C0&\b0}lt is a bad thing, Bob!{\r}
+00:21:18,470 --> 00:21:20,510
+小嗝嗝
+Hiccup!
 
 371
-00:25:24,521 --> 00:25:28,651
-为了重温旧梦害我们又要搬家 这就是坏事
-{\fs10\shad2\1c&HC0C0C0&\b0}Uprooting our family again, so you can relive the glory days is a bad thing.{\r}
+00:21:30,550 --> 00:21:32,550
+擦亮眼睛  伙计们
+Keep your eyes peeled, lads!
 
 372
-00:25:28,725 --> 00:25:31,660
-这总比假装只是一场梦来得好
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's better than acting like they didn't happen!{\r}
+00:21:32,550 --> 00:21:35,590
+借着这阵风  我们天亮就能找到德拉戈
+With this wind, we'll reach Drago by daybreak.
 
 373
-00:25:31,728 --> 00:25:34,128
-没错，那并不是一场梦 不过现在我们的家庭
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes! They happened! But this, our family,{\r}
+00:21:35,590 --> 00:21:38,960
+所以我们最好把这艘船装满龙  要快
+So best we fill this ship up with dragons, and quick!
 
 374
-00:25:34,197 --> 00:25:37,826
-才是最重要的事 而你却错过了一切
-{\fs10\shad2\1c&HC0C0C0&\b0}is what's happening now, Bob. You are missing this!{\r}
+00:21:38,960 --> 00:21:40,560
+没时间挑剔了
+It's no time to be picky!
 
 375
-00:25:37,901 --> 00:25:41,064
-你连小飞的毕业典礼都不肯去
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't believe you don't want to go to your own son's graduation.{\r}
+00:21:40,560 --> 00:21:41,830
+艾瑞特
+Uh, Eret?
 
 376
-00:25:41,137 --> 00:25:44,698
-那不是毕业典礼 他只是从四年级升到五年级
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's not a graduation. He's moving from fourth to fifth grade.{\r}
+00:21:41,830 --> 00:21:44,060
+要是我们不想脑袋搬家...
+Not if we want to keep our...
 
 377
-00:25:44,774 --> 00:25:46,674
-那是个庆祝仪式 那是胡扯淡
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's a ceremony! lt's psychotic!{\r}
+00:21:45,600 --> 00:21:46,830
+就抓紧时间
+...heads!
 
 378
-00:25:46,743 --> 00:25:49,473
-他们一直想新的办法 庆祝平凡的事
-{\fs10\shad2\1c&HC0C0C0&\b0}They keep creating new ways to celebrate mediocrity{\r}
+00:21:46,830 --> 00:21:48,770
+在左舷船尾
+Off the port quarter!
 
 379
-00:25:49,546 --> 00:25:51,480
-但是当一个人拥有超凡的能力
-{\fs10\shad2\1c&HC0C0C0&\b0}but if someone is exceptional...{\r}
+00:21:48,770 --> 00:21:50,970
+网住它们  伙计们  把它们打下来
+Net them, lads! Take them down!
 
 380
-00:25:51,548 --> 00:25:53,812
-我是在说小飞，别扯到你身上
-{\fs10\shad2\1c&HC0C0C0&\b0}This is not about you, Bob. lt's about Dash.{\r}
+00:21:50,970 --> 00:21:53,510
+共有两只  在左上方
+There's two of them! Up on the left!
 
 381
-00:25:53,883 --> 00:25:56,716
-你想让小飞高兴？ 那就让他参加比赛
-{\fs10\shad2\1c&HC0C0C0&\b0}You want to do something for Dash? Let him actually compete.{\r}
+00:21:53,510 --> 00:21:56,610
+这回你们逃不了了
+You're not getting away this time.
 
 382
-00:25:56,786 --> 00:25:59,584
-让他参加运动竞赛 别让我当坏人
-{\fs10\shad2\1c&HC0C0C0&\b0}Let him go out for sports! l will not be the enemy!{\r}
+00:21:56,610 --> 00:21:57,780
+开火
+Fire!
 
 383
-00:25:59,656 --> 00:26:02,523
-你明知道他为什么不能 因为他一定会赢
-{\fs10\shad2\1c&HC0C0C0&\b0}You know why we can't. Because he'd be great.{\r}
+00:21:57,780 --> 00:21:59,780
+装弹  装弹
+Reload! Reload!
 
 384
-00:26:02,592 --> 00:26:04,617
-这不是关于你...
-{\fs10\shad2\1c&HC0C0C0&\b0}This is not about you!{\r}
+00:21:59,780 --> 00:22:02,950
+快  装弹  有人入侵
+Come on, reload! Incoming!
 
 385
-00:26:06,729 --> 00:26:09,721
-小飞，我知道你在偷听 出来吧
-{\fs10\shad2\1c&HC0C0C0&\b0}All right, Dash. l know you're listening. Come on out.{\r}
+00:22:02,950 --> 00:22:04,180
+稳住了  伙计
+Steady yourselves, mates.
 
 386
-00:26:09,799 --> 00:26:12,097
-小倩，你也一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Vi? You, too, young lady.{\r}
+00:22:04,190 --> 00:22:06,550
+刚才我还在担心
+And here I was,
 
 387
-00:26:12,168 --> 00:26:14,534
-出来吧
-{\fs10\shad2\1c&HC0C0C0&\b0}Come on. Come on out.{\r}
+00:22:06,550 --> 00:22:08,850
+我们会空手而归呢
+worried we might turn up empty-handed.
 
 388
-00:26:15,605 --> 00:26:18,301
-没事了，我们只是在谈事情
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's okay, kids. We're just having a discussion.{\r}
+00:22:08,860 --> 00:22:10,890
+不会的  今天是你的幸运日
+Nope. It's your lucky day.
 
 389
-00:26:18,374 --> 00:26:20,137
-听起来像是吵架
-{\fs10\shad2\1c&HC0C0C0&\b0}Pretty loud discussion.{\r}
+00:22:10,890 --> 00:22:12,220
+我们投降
+We give up.
 
 390
-00:26:20,209 --> 00:26:23,838
-没关系，重要的是 我跟妈妈是站在同一线的
-{\fs10\shad2\1c&HC0C0C0&\b0}But that's okay. What's important is that Mommy and l are a team.{\r}
+00:22:13,630 --> 00:22:15,290
+这有条夜煞
+That's one Night Fury,
 
 391
-00:26:23,913 --> 00:26:29,783
-我们一向都携手对抗... 顽固的心态？
-{\fs10\shad2\1c&HC0C0C0&\b0}We're united against the forces of... Pigheadedness?{\r}
+00:22:15,300 --> 00:22:18,000
+一条致命纳得
+uh, one Deadly Nadder, and...
 
 392
-00:26:29,852 --> 00:26:32,412
-我本来想说邪恶力量 抱歉把你们吵醒
-{\fs10\shad2\1c&HC0C0C0&\b0}l was gonna say evil. We're sorry we woke you.{\r}
+00:22:18,000 --> 00:22:21,030
+还有两位技压群雄的神秘龙骑士
+Two of the finest dragon riders west of luk tuk.
 
 393
-00:26:32,488 --> 00:26:34,820
-没事了 回去睡觉吧，很晚了
-{\fs10\shad2\1c&HC0C0C0&\b0}Everything's okay. Go back to bed. lt's late.{\r}
+00:22:21,040 --> 00:22:22,840
+这样老板就能满意了  是不是
+That ought to make the boss happy, right?
 
 394
-00:26:34,891 --> 00:26:37,018
-晚安，爸、妈 晚安
-{\fs10\shad2\1c&HC0C0C0&\b0}Good night, Mom. Night, Dad. Good night.{\r}
+00:22:24,010 --> 00:22:25,600
+借过
+Excuse us.
 
 395
-00:26:37,093 --> 00:26:40,551
-我们都回去睡觉吧
-{\fs10\shad2\1c&HC0C0C0&\b0}ln fact, we should all be in bed.{\r}
+00:22:25,610 --> 00:22:26,840
+你要干什么
+What are you doing?
 
 396
-00:26:58,314 --> 00:27:00,976
-去叫他，他在哪儿？
-{\fs10\shad2\1c&HC0C0C0&\b0}Haven't you got him yet? Where is he?{\r}
+00:22:26,840 --> 00:22:28,540
+没牙仔  别动
+Toothless, stay.
 
 397
-00:27:01,050 --> 00:27:03,644
-亨先生要见你
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. Huph would like to talk to you in his office.{\r}
+00:22:29,910 --> 00:22:31,880
+龙其实不喜欢
+Uh, the dragons don't really care
 
 398
-00:27:03,720 --> 00:27:05,813
-现在吗？ 现在
-{\fs10\shad2\1c&HC0C0C0&\b0}Now? Now.{\r}
+00:22:31,880 --> 00:22:34,280
+狭窄的空间  所以它们跟你们待一起好了
+for cramped spaces, so they'll just hang out with you.
 
 399
-00:27:24,307 --> 00:27:25,604
-鲍伯，坐下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Sit down, Bob.{\r}
+00:22:34,280 --> 00:22:35,880
+它们不会惹麻烦
+They won't be any trouble.
 
 400
-00:27:30,813 --> 00:27:35,307
-我很不爽哦，我超不爽的
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not happy, Bob. Not happy.{\r}
+00:22:37,020 --> 00:22:39,220
+除非你先挑事
+Unless you do that.
 
 401
-00:27:36,052 --> 00:27:38,816
-问我为什么 好，为什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Ask me why. Okay. Why?{\r}
+00:22:39,220 --> 00:22:41,690
+汪洋大海上的一艘木帆
+You know, wooden boats, big ocean...
 
 402
-00:27:38,888 --> 00:27:40,856
-为什么什么？问清楚
-{\fs10\shad2\1c&HC0C0C0&\b0}Why what? Be specific, Bob.{\r}
+00:22:41,690 --> 00:22:43,560
+你们的游泳技术怎么样
+H-how is your swimming?
 
 403
-00:27:40,923 --> 00:27:42,584
-你为什么不爽？
-{\fs10\shad2\1c&HC0C0C0&\b0}Why are you unhappy?{\r}
+00:22:43,560 --> 00:22:44,990
+不太好
+Not good.
 
 404
-00:27:42,659 --> 00:27:44,490
-你的客户让我很不爽
-{\fs10\shad2\1c&HC0C0C0&\b0}Your customers make me unhappy.{\r}
+00:22:46,030 --> 00:22:47,990
+差点忘了
+Oops. Almost forget.
 
 405
-00:27:44,560 --> 00:27:46,289
-你收到投诉吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What, you've gotten complaints?{\r}
+00:22:48,000 --> 00:22:50,300
+-囚犯不能携带武器  -把它给我
+- Can't have armed prisoners. - Give me that.
 
 406
-00:27:46,362 --> 00:27:47,852
-投诉我才不怕
-{\fs10\shad2\1c&HC0C0C0&\b0}Complaints l can handle.{\r}
+00:22:50,300 --> 00:22:52,030
+这算什么计划
+How is this a plan?
 
 407
-00:27:47,930 --> 00:27:51,559
-我怕的是你的客户莫名其妙
-{\fs10\shad2\1c&HC0C0C0&\b0}What l can't handle is your customers' inexplicable knowledge{\r}
+00:22:52,030 --> 00:22:54,970
+就是为捕龙猎人准备的
+Just what every dragon trapper needs.
 
 408
-00:27:51,634 --> 00:27:55,593
-都了解保险公司如何运作 他们都变成保险专家
-{\fs10\shad2\1c&HC0C0C0&\b0}of lnsuricare's inner workings! They're experts. Experts, Bob!{\r}
+00:22:54,970 --> 00:22:58,300
+一边是涂着凶煞梦魇唾液的长剑
+One end coats the blade in Monstrous Nightmare saliva.
 
 409
-00:27:55,672 --> 00:27:58,800
-钻保单的漏洞，占我的便宜
-{\fs10\shad2\1c&HC0C0C0&\b0}Exploiting every loophole, dodging every obstacle!{\r}
+00:22:58,310 --> 00:23:01,070
+另一边会喷射凶恶双头龙的瓦斯
+The other sprays Hideous Zippleback gas.
 
 410
-00:27:58,875 --> 00:28:01,343
-他们突破了公司的层层关卡
-{\fs10\shad2\1c&HC0C0C0&\b0}They're penetrating the bureaucracy!{\r}
+00:23:01,080 --> 00:23:03,940
+只需一点火花然后...
+All it takes is a spark, and...
 
 411
-00:28:01,411 --> 00:28:04,141
-我有犯法吗？ 没有
-{\fs10\shad2\1c&HC0C0C0&\b0}Did l do something illegal? No.{\r}
+00:23:05,010 --> 00:23:06,610
+没错  就会这样
+Oh, yeah, there you go.
 
 412
-00:28:04,213 --> 00:28:08,547
-我们不该帮助客户吗？ 根据法律我得说不是
-{\fs10\shad2\1c&HC0C0C0&\b0}We shouldn't help our customers? The law requires that l answer no.{\r}
+00:23:08,050 --> 00:23:10,050
+它们一旦开始把你看作同类
+Once they see you as one of their own,
 
 413
-00:28:08,618 --> 00:28:11,849
-我们本来就应该帮助人 帮助我们自己人
-{\fs10\shad2\1c&HC0C0C0&\b0}We're supposed to help people. Help our people!{\r}
+00:23:10,050 --> 00:23:11,650
+那么就连最暴躁的龙都可以驯化
+even the testiest dragons can be trained.
 
 414
-00:28:11,921 --> 00:28:13,786
-先从公司股东开始
-{\fs10\shad2\1c&HC0C0C0&\b0}Starting with our stockholders.{\r}
+00:23:11,680 --> 00:23:12,620
+是吧  伙计
+Right, bud?
 
 415
-00:28:13,856 --> 00:28:16,256
-谁来帮助他们？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who's helping them out, huh?{\r}
+00:23:12,620 --> 00:23:15,650
+把那个给我
+Give me that!
 
 416
-00:28:18,361 --> 00:28:22,525
-鲍伯，你要知道 一间公司...
-{\fs10\shad2\1c&HC0C0C0&\b0}You know, Bob, a company...{\r}
+00:23:15,660 --> 00:23:17,660
+你在玩什么把戏
+What game are you playing?
 
 417
-00:28:22,598 --> 00:28:24,225
-就像一个巨大的时钟
-{\fs10\shad2\1c&HC0C0C0&\b0}ls like an enormous clock.{\r}
+00:23:17,660 --> 00:23:19,930
+不是把戏  我们只是想见德拉戈
+Uh, no game. We just want to meet Drago.
 
 418
-00:28:24,300 --> 00:28:28,327
-就像一个巨大的... 对，没错
-{\fs10\shad2\1c&HC0C0C0&\b0}...is like an enormous... Yes. Precisely.{\r}
+00:23:19,930 --> 00:23:21,660
+为什么
+Why?
 
 419
-00:28:28,404 --> 00:28:33,068
-每一个零件都要正常运作
-{\fs10\shad2\1c&HC0C0C0&\b0}lt only works if all the little cogs mesh together.{\r}
+00:23:21,660 --> 00:23:24,130
+因为我要改变他关于龙的想法
+Because I'm going to change his mind about dragons.
 
 420
-00:28:33,476 --> 00:28:38,539
-一个时钟要定时清洁 上油 、上紧发条
-{\fs10\shad2\1c&HC0C0C0&\b0}Now, a clock needs to be cleaned, well-lubricated and wound tight.{\r}
+00:23:27,670 --> 00:23:30,000
+他劝人很有一套
+He can be really persuasive.
 
 421
-00:28:38,614 --> 00:28:44,314
-最好的时钟拥有完美的机芯 以及经过互相配合的零件
-{\fs10\shad2\1c&HC0C0C0&\b0}The best clocks have jewel movements, cogs that fit, that cooperate by design.{\r}
+00:23:30,000 --> 00:23:31,670
+只要赢得龙的忠心
+Once you've earned his loyalty,
 
 422
-00:28:44,387 --> 00:28:48,756
-我这是比喻，鲍伯 你应该了解我在说什么吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm being metaphorical, Bob. Know what l mean by cooperative cogs?{\r}
+00:23:31,670 --> 00:23:34,210
+他便会为你赴汤蹈火
+there is nothing a dragon won't do for you.
 
 423
-00:28:48,825 --> 00:28:50,520
-鲍伯？
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob?{\r}
+00:23:34,210 --> 00:23:37,680
+你改变不了这里任何人的想法
+You won't be changing any minds around here.
 
 424
-00:28:50,626 --> 00:28:53,789
-我跟你讲话要看着我
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob? Look at me when l'm talking to you, Parr.{\r}
+00:23:37,680 --> 00:23:41,080
+我此时此地就可以改变你的想法
+I can change yours, right here, right now.
 
 425
-00:28:53,863 --> 00:28:56,957
-那个人需要帮助 别顾左右而言他
-{\fs10\shad2\1c&HC0C0C0&\b0}That man out there, he needs help. Don't change the subject.{\r}
+00:23:43,250 --> 00:23:44,920
+我可以吗
+Uh, may I?
 
 426
-00:28:57,033 --> 00:29:00,093
-我在跟你讲话 他被抢劫了
-{\fs10\shad2\1c&HC0C0C0&\b0}We're discussing your attitude. He's getting mugged!{\r}
+00:23:48,690 --> 00:23:50,920
+-当心  -龙骑士
+- Watch it! - Dragon riders!
 
 427
-00:29:00,169 --> 00:29:02,660
-他最好没有保险 我马上回来
-{\fs10\shad2\1c&HC0C0C0&\b0}Let's hope we don't cover him. l'll be right back.{\r}
+00:23:58,330 --> 00:23:59,730
+放我下去
+Put me down!
 
 428
-00:29:02,739 --> 00:29:06,300
-你不站住我就开除你
-{\fs10\shad2\1c&HC0C0C0&\b0}Stop right now or you're fired!{\r}
+00:23:59,730 --> 00:24:01,800
+鼻涕唠  你要干什么
+Snotlout, what-what are you doing?
 
 429
-00:29:08,845 --> 00:29:10,972
-把门关上
-{\fs10\shad2\1c&HC0C0C0&\b0}Close the door.{\r}
+00:24:01,800 --> 00:24:03,740
+看我把你保护得多好
+See how well I protect and provide?
 
 430
-00:29:12,815 --> 00:29:15,079
-给我过来
-{\fs10\shad2\1c&HC0C0C0&\b0}Get over here, now.{\r}
+00:24:04,940 --> 00:24:06,300
+那些网是干什么的
+What is with all the nets?
 
 431
-00:29:18,788 --> 00:29:22,383
-我很不爽，超不爽的
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not happy, Bob. Not happy.{\r}
+00:24:06,320 --> 00:24:07,910
+小心  刚才真是...
+Hey, watch it! That was...
 
 432
-00:29:23,459 --> 00:29:27,293
-他逃走了 那最好
-{\fs10\shad2\1c&HC0C0C0&\b0}He got away. Good thing, too.{\r}
+00:24:07,910 --> 00:24:10,210
+危险
+Close.
 
 433
-00:29:27,363 --> 00:29:29,991
-你差点就丢掉饭...
-{\fs10\shad2\1c&HC0C0C0&\b0}You were this close to losing your...{\r}
+00:24:13,010 --> 00:24:15,310
+我的天呐
+Oh, my.
 
 434
-00:29:41,911 --> 00:29:45,540
-请立即到722号手术房
-{\fs10\shad2\1c&HC0C0C0&\b0}Please report to operating room 7 22immediately.{\r}
+00:24:18,950 --> 00:24:20,290
+我的菜啊
+Me likey.
 
 435
-00:29:52,488 --> 00:29:53,921
-他还好吧？ 死不了
-{\fs10\shad2\1c&HC0C0C0&\b0}How is he? He'll live.{\r}
+00:24:23,790 --> 00:24:26,190
+带我走吧
+Take me.
 
 436
-00:29:53,990 --> 00:29:55,651
-我被开除了吗？ 那还用说
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm fired, aren't l? You think?{\r}
+00:24:29,230 --> 00:24:30,430
+停止射击
+Hold your fire!
 
 437
-00:29:55,725 --> 00:29:58,489
-我能说什么？ 你能说的早就说了
-{\fs10\shad2\1c&HC0C0C0&\b0}What can l say, Rick? Nothing you haven't said before.{\r}
+00:24:35,270 --> 00:24:37,200
+你们在这干什么
+Um, what are you guys doing here?
 
 438
-00:29:58,561 --> 00:30:00,552
-有人遇到麻烦 天天都有麻烦
-{\fs10\shad2\1c&HC0C0C0&\b0}Someone was in trouble. Always.{\r}
+00:24:37,200 --> 00:24:39,370
+我们来解救你
+We're here to rescue you!
 
 439
-00:30:00,630 --> 00:30:03,258
-我一定要帮助他们 你每次这么说
-{\fs10\shad2\1c&HC0C0C0&\b0}l had to do something. Every time you say that,{\r}
+00:24:39,370 --> 00:24:41,140
+我不需要解救
+I don't need to be rescued.
 
 440
-00:30:03,332 --> 00:30:05,493
-我就得花几个月替你擦屁股
-{\fs10\shad2\1c&HC0C0C0&\b0}it's a month and a half of trouble for me.{\r}
+00:24:41,140 --> 00:24:42,980
+够了
+Enough!
 
 441
-00:30:05,568 --> 00:30:07,900
-浪费几十万元公帑
-{\fs10\shad2\1c&HC0C0C0&\b0}Hundreds of thousands of taxpayer's dollars.{\r}
+00:24:44,010 --> 00:24:46,380
+你们是不是
+Well, didn't you just pick
 
 442
-00:30:07,970 --> 00:30:10,564
-我知道 我得赔钱给你的公司
-{\fs10\shad2\1c&HC0C0C0&\b0}l know. We pay to keep the company quiet.{\r}
+00:24:46,380 --> 00:24:48,180
+上错船了
+the wrong ship, eh?
 
 443
-00:30:10,640 --> 00:30:13,768
-消除员工记亿，帮你搬新家
-{\fs10\shad2\1c&HC0C0C0&\b0}We pay damages, erase memories, relocate your family.{\r}
+00:24:48,180 --> 00:24:50,020
+我是艾瑞特  和我父亲...
+I am Eret, son of...
 
 444
-00:30:13,843 --> 00:30:16,403
-每次都越来越麻烦 花钱像流水一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Every time it gets harder. Money, money, money.{\r}
+00:24:50,020 --> 00:24:51,020
+同名...
+Eret...
 
 445
-00:30:16,479 --> 00:30:20,506
-我们不能一直继续下去 我们很感激你过去的贡献
-{\fs10\shad2\1c&HC0C0C0&\b0}We can't keep doing this. We appreciate what you did in the old days,{\r}
+00:24:52,450 --> 00:24:53,820
+我...
+I...
 
 446
-00:30:20,583 --> 00:30:23,916
-不过到此为止 你往后要靠自己
-{\fs10\shad2\1c&HC0C0C0&\b0}but those days are over. From now on, you're on your own.{\r}
+00:24:55,160 --> 00:24:57,360
+把这家伙从我身上弄走
+Get this thing off me.
 
 447
-00:30:27,123 --> 00:30:31,651
-这样吧，也许我能帮你搬家 看在老交情份上
-{\fs10\shad2\1c&HC0C0C0&\b0}Listen, Bob. Maybe l could relocate you, you know, for old times' sake.{\r}
+00:24:57,360 --> 00:24:59,020
+还有谁
+Anyone else?
 
 448
-00:30:31,727 --> 00:30:34,855
-我不能这么对我的家人 他们都安顿好了
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't do that to my family. Everyone just got settled.{\r}
+00:24:59,030 --> 00:25:00,890
+我猜也是
+Hmm, that's what I figured.
 
 449
-00:30:34,931 --> 00:30:37,161
-我会想办法，谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll make it work. Thanks.{\r}
+00:25:00,900 --> 00:25:03,000
+你  备龙鞍
+You, saddle up.
 
 450
-00:30:37,233 --> 00:30:39,224
-你自己要保重
-{\fs10\shad2\1c&HC0C0C0&\b0}Take care of yourself.{\r}
+00:25:03,000 --> 00:25:04,200
+我们回家
+We're going home.
 
 451
-00:30:51,447 --> 00:30:53,642
-你在等什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}What are you waiting for?{\r}
+00:25:04,200 --> 00:25:06,230
+不
+No.
 
 452
-00:30:53,716 --> 00:30:57,743
-不知道，发生什么奇迹吧
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know. Something amazing, l guess.{\r}
+00:25:06,230 --> 00:25:08,130
+简直毫无责任心
+Of all the irresponsible...
 
 453
-00:30:58,554 --> 00:31:00,715
-我也是
-{\fs10\shad2\1c&HC0C0C0&\b0}Me, too, kid.{\r}
+00:25:08,140 --> 00:25:11,100
+我要保护我们的龙  阻止一场战争
+I'm trying to protect our dragons and stop a war.
 
 454
-00:31:15,204 --> 00:31:16,193
-保险公司员工守则
+00:25:11,110 --> 00:25:12,340
+这怎么能是不负责任呢
+How is that irresponsible?
 
 455
-00:31:35,358 --> 00:31:37,724
-别动
+00:25:12,340 --> 00:25:14,970
+因为战争正是他想要的  儿子
+Because war is what he wants, son!
 
 456
-00:31:37,793 --> 00:31:39,192
-别动？
-{\fs10\shad2\1c&HC0C0C0&\b0}''Hold still''?{\r}
+00:25:20,950 --> 00:25:23,920
+多年前  有过一场盛大的首领聚会
+Years ago, there was a great gathering of chieftains
 
 457
-00:31:39,262 --> 00:31:41,628
-身份确认：超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}Match: Mr. Incredible.{\r}
+00:25:23,920 --> 00:25:26,450
+专门讨论我们当时面临的龙灾
+to discuss the dragon scourge we all faced.
 
 458
-00:31:47,870 --> 00:31:51,067
-房间安全，开始播放留言
-{\fs10\shad2\1c&HC0C0C0&\b0}Room is secure. Commence message.{\r}
+00:25:26,450 --> 00:25:30,990
+从我们中走出一位来自陌生大陆的陌生人
+Into our midst came a stranger from a strange land,
 
 459
-00:31:51,140 --> 00:31:55,509
-你好，超能先生 是的，我们知道你是谁
-{\fs10\shad2\1c&HC0C0C0&\b0}Hello, Mr. Incredible. Yes, we know who you are.{\r}
+00:25:30,990 --> 00:25:34,760
+浑身布满伤疤  身披一顶龙皮斗篷
+covered in scars and draped in a cloak of dragon skin.
 
 460
-00:31:55,578 --> 00:31:58,547
-请放心，我们不会泄密
-{\fs10\shad2\1c&HC0C0C0&\b0}Rest assured, your secret is safe with us.{\r}
+00:25:35,830 --> 00:25:37,430
+他不带武器
+He carried no weapon
 
 461
-00:31:58,614 --> 00:32:02,050
-我叫幻影，我跟你一样
-{\fs10\shad2\1c&HC0C0C0&\b0}My name is Mirage. We have something in common.{\r}
+00:25:37,430 --> 00:25:39,130
+语气柔和
+and spoke softly,
 
 462
-00:32:02,118 --> 00:32:06,077
-根据政府记录，我们都不存在
-{\fs10\shad2\1c&HC0C0C0&\b0}According to the government, neither of us exist.{\r}
+00:25:39,130 --> 00:25:40,470
+说他叫
+saying that he,
 
 463
-00:32:06,155 --> 00:32:10,387
-请仔细听，这是最高机密 我不会再说第二遍
-{\fs10\shad2\1c&HC0C0C0&\b0}Please pay attention, as this message is classified and will not be repeated.{\r}
+00:25:40,470 --> 00:25:42,840
+德拉戈·布达威斯
+Drago Bludvist,
 
 464
-00:32:10,459 --> 00:32:13,223
-我代表一个机密政府单位
-{\fs10\shad2\1c&HC0C0C0&\b0}I represent a top secret division of the government,{\r}
+00:25:42,840 --> 00:25:44,900
+是一介平民
+was a man of the people,
 
 465
-00:32:13,296 --> 00:32:15,730
-进行一项实验性科技研究
-{\fs10\shad2\1c&HC0C0C0&\b0}designing and testing experimental technology,{\r}
+00:25:44,910 --> 00:25:49,480
+致力于从龙的奴役中解放人类
+devoted to freeing mankind from the tyranny of dragons.
 
 466
-00:32:15,798 --> 00:32:18,790
-我们必须借重你的超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}and we have need of your unique abilities.{\r}
+00:25:49,480 --> 00:25:51,940
+他说他仅凭一己之力就可以控制龙
+He claimed that he alone could control the dragons,
 
 467
-00:32:18,868 --> 00:32:21,132
-发生了一起意外
-{\fs10\shad2\1c&HC0C0C0&\b0}Something happened at our testing facility.{\r}
+00:25:51,950 --> 00:25:54,310
+他独自一人就可以保证大家安全
+and that he alone could keep us safe,
 
 468
-00:32:21,203 --> 00:32:22,602
-老公？ 干嘛？
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey! What?{\r}
+00:25:54,320 --> 00:25:57,450
+只要我们臣服于他
+if we chose to bow down
 
 469
-00:32:22,672 --> 00:32:25,038
-开饭了 好
-{\fs10\shad2\1c&HC0C0C0&\b0}Dinner's ready. Okay.{\r}
+00:25:57,450 --> 00:26:00,990
+追随他
+and follow him.
 
 470
-00:32:25,107 --> 00:32:27,371
-有一个机器人失去控制
-{\fs10\shad2\1c&HC0C0C0&\b0}...it's contained within an isolated area,{\r}
+00:26:02,460 --> 00:26:04,820
+-愚蠢至极  -真好笑  
+- Stupid. - Ah, good one.
 
 471
-00:32:27,443 --> 00:32:31,607
-很可能摧毁它自己 以及我们的实验基地
-{\fs10\shad2\1c&HC0C0C0&\b0}it threatens to cause incalculable damage to itself and our facilities,{\r}
+00:26:04,830 --> 00:26:07,030
+对  我们也笑了
+Aye, we laughed, too...
 
 472
-00:32:31,681 --> 00:32:34,479
-并危害价值数百万元的设备
-{\fs10\shad2\1c&HC0C0C0&\b0}jeopardizing hundreds of millions of dollars...{\r}
+00:26:07,030 --> 00:26:08,470
+直到他裹紧斗篷
+Until he wrapped himself in his cloak
 
 473
-00:32:34,550 --> 00:32:36,142
-有人在里面吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}ls someone in there?{\r}
+00:26:08,490 --> 00:26:09,960
+高喊着
+and cried out,
 
 474
-00:32:36,218 --> 00:32:39,483
-我正在看电视. 这是一项高难度任务
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's the TV, trying to watch. Because of its sensitive nature...{\r}
+00:26:09,960 --> 00:26:11,830
+那就等着瞧没有我你们怎么办
+"Then see how well you do without me!"
 
 475
-00:32:39,555 --> 00:32:42,888
-别看了，出来吃饭 等一下
-{\fs10\shad2\1c&HC0C0C0&\b0}Stop trying. lt's time for dinner. One minute!{\r}
+00:26:11,830 --> 00:26:13,430
+等着瞧没有我你们能怎么办
+...See how well you do without me!
 
 476
-00:32:42,959 --> 00:32:46,861
-所以酬劳会比你 目前的年薪多三倍
-{\fs10\shad2\1c&HC0C0C0&\b0}If you accept, your payment will be triple your current annual salary.{\r}
+00:26:13,460 --> 00:26:16,400
+房顶瞬间燃起大火
+The rooftop suddenly burst into flames,
 
 477
-00:32:46,929 --> 00:32:50,797
-请打名片上的电话号码 语音识别系统能为你保密
-{\fs10\shad2\1c&HC0C0C0&\b0}Call the number on the card. Voice-matching will ensure security.{\r}
+00:26:16,400 --> 00:26:20,210
+身披盔甲的龙从火中蹿出
+and from it, armored dragons descended,
 
 478
-00:32:50,866 --> 00:32:54,734
-超人特攻队并没有解散 你还在这儿
-{\fs10\shad2\1c&HC0C0C0&\b0}The supers aren't gone, Mr. Incredible. You're still here.{\r}
+00:26:20,210 --> 00:26:23,340
+把大厅烧成了灰
+burning the hall to the ground.
 
 479
-00:32:54,804 --> 00:32:58,763
-你可以做出伟大贡献
-{\fs10\shad2\1c&HC0C0C0&\b0}You can still do great things. Or...{\r}
+00:26:23,340 --> 00:26:26,180
+我
+I...
 
 480
-00:32:58,841 --> 00:33:02,072
-或是去偷听警方无线电 这是你的选择
-{\fs10\shad2\1c&HC0C0C0&\b0}...you can listen to police scanners. Your choice.{\r}
+00:26:26,180 --> 00:26:28,810
+是唯一一个幸存者
+was the only one to escape.
 
 481
-00:33:02,144 --> 00:33:04,009
-请在24小时内答覆
-{\fs10\shad2\1c&HC0C0C0&\b0}You have 24 hours to respond.{\r}
+00:26:33,450 --> 00:26:37,390
+杀人不找理由的人不会和你讲道理的
+Men who kill without reason cannot be reasoned with.
 
 482
-00:33:04,080 --> 00:33:05,672
-仔细考虑看看
-{\fs10\shad2\1c&HC0C0C0&\b0}Think about it.{\r}
+00:26:37,390 --> 00:26:39,260
+-也许吧  -小嗝嗝
+- Maybe. - Hiccup!
 
 483
-00:33:42,651 --> 00:33:43,845
-{\an6}幻影
-166-787-7476
+00:26:39,260 --> 00:26:41,330
+不过我还是要试试
+I'm still going to try.
 
 484
-00:33:43,419 --> 00:33:46,683
-这通留言将自动销毁
-{\fs10\shad2\1c&HC0C0C0&\b0}This message will self-destruct.{\r}
+00:26:43,130 --> 00:26:45,000
+这是我所擅长的
+This is what I'm good at,
 
 485
-00:34:04,607 --> 00:34:07,269
-你真是个破坏王
-{\fs10\shad2\1c&HC0C0C0&\b0}You are one distracted guy.{\r}
+00:26:45,000 --> 00:26:47,000
+既然我能改变你的想法
+and-and if I could change your mind,
 
 486
-00:34:07,343 --> 00:34:09,402
-是吗？我不是故意的
-{\fs10\shad2\1c&HC0C0C0&\b0}Am l? l don't mean to be.{\r}
+00:26:47,000 --> 00:26:49,470
+就能改变他的
+I can change his, too.
 
 487
-00:34:09,478 --> 00:34:15,212
-我知道你怀念当一个英雄 你的工作也很没有前途
-{\fs10\shad2\1c&HC0C0C0&\b0}l know you miss being a hero and your job is frustrating.{\r}
+00:26:51,100 --> 00:26:52,500
+出发
+Come on.
 
 488
-00:34:15,284 --> 00:34:19,983
-不过我只希望你能继续工作
-{\fs10\shad2\1c&HC0C0C0&\b0}l want you to know how much it means to me that you stay at it anyway.{\r}
+00:26:53,540 --> 00:26:54,870
+-出发  -不
+- Let's go. - No!
 
 489
-00:34:20,056 --> 00:34:22,684
-老婆，关于我的工作 怎么了 ？
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey? About the job? What?{\r}
+00:26:54,880 --> 00:26:56,810
+带其他人回博克岛去
+Lead the others back to Berk.
 
 490
-00:34:22,758 --> 00:34:24,988
-发生了一件事 什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}Something's happened. What?{\r}
+00:26:56,810 --> 00:26:59,240
+这一天已经够乱的了
+I've had enough mutiny for one day.
 
 491
-00:34:25,061 --> 00:34:26,722
-呃... 什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}The... What?{\r}
+00:27:01,550 --> 00:27:03,320
+好喜欢这个
+Ooh, I like that.
 
 492
-00:34:26,796 --> 00:34:29,424
-公司派我去开会
-{\fs10\shad2\1c&HC0C0C0&\b0}The company is sending me to a conference.{\r}
+00:27:03,320 --> 00:27:05,080
+暴芙奈
+Ruffnut!
 
 493
-00:34:29,498 --> 00:34:31,989
-开会？ 到外地开会
-{\fs10\shad2\1c&HC0C0C0&\b0}A conference? Out of town.{\r}
+00:27:05,090 --> 00:27:06,920
+来了
+Okay!
 
 494
-00:34:32,068 --> 00:34:33,592
-我要到外地出差几天
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm gonna be gone for a few days.{\r}
+00:27:27,510 --> 00:27:29,170
+别担心  伙计
+Don't worry, bud.
 
 495
-00:34:33,669 --> 00:34:37,833
-他们从来没派你去开会 这是好事，不是吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}They've never sent you to a conference before. This is good, isn't it?{\r}
+00:27:29,180 --> 00:27:32,140
+我不会让任何人伤害到你
+I'm not gonna let anything happen to you.
 
 496
-00:34:37,907 --> 00:34:38,896
-是啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes.{\r}
+00:27:32,150 --> 00:27:34,850
+我向你保证
+I promise.
 
 497
-00:34:38,974 --> 00:34:42,341
-你看吧 你的才能终于得到赏识
-{\fs10\shad2\1c&HC0C0C0&\b0}You see? They're finally recognizing your talents.{\r}
+00:27:42,390 --> 00:27:44,160
+得了  爸爸
+Aw, come on, dad.
 
 498
-00:34:42,411 --> 00:34:43,844
-你要升官了 是啊
-{\fs10\shad2\1c&HC0C0C0&\b0}You're moving up. Yes.{\r}
+00:27:44,160 --> 00:27:45,860
+没完没了了吗
+Really?
 
 499
-00:34:43,913 --> 00:34:47,041
-这真是太好了 是啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey! This is wonderful! Yes, it is.{\r}
+00:27:53,870 --> 00:27:55,600
+好吧
+Okay.
 
 500
-00:34:49,118 --> 00:34:50,380
-喂？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hello?{\r}
+00:27:55,600 --> 00:27:57,600
+别轻举妄动
+No sudden moves.
 
 501
-00:34:50,453 --> 00:34:52,421
-这是超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}This is Mr. lncredible.{\r}
+00:28:21,930 --> 00:28:23,330
+稳住  稳住
+Hold on, hold on.
 
 502
-00:34:53,189 --> 00:34:54,417
-我要加入
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm in.{\r}
+00:28:35,140 --> 00:28:37,610
+没牙仔
+Toothless...!
 
 503
-00:35:00,296 --> 00:35:04,596
-全能机器人九千号 是最高机密战斗机器人原型
-{\fs10\shad2\1c&HC0C0C0&\b0}The Omnidroid 9000 is a top secret prototype battle robot.{\r}
+00:29:27,290 --> 00:29:29,060
+你把我的龙扔在那儿了
+You left my dragon back there!
 
 504
-00:35:04,667 --> 00:35:08,228
-它拥有先进的人工智慧 能够解决任何问题
-{\fs10\shad2\1c&HC0C0C0&\b0}lts artificial intelligence enables it to solve any problem{\r}
+00:29:29,060 --> 00:29:31,500
+他自己不能飞  他会被淹死的
+He can't fly on his own! He'll drown!
 
 505
-00:35:08,304 --> 00:35:11,205
-不幸的是...
-{\fs10\shad2\1c&HC0C0C0&\b0}it's confronted with. And, unfortunately...{\r}
+00:29:55,990 --> 00:29:58,020
+我们得调头去找我的龙
+We have to head back for my dragon!
 
 506
-00:35:11,273 --> 00:35:14,868
-让我猜 它变得太聪明，不肯乖乖听话
-{\fs10\shad2\1c&HC0C0C0&\b0}Let me guess. lt got smart enough to wonder why it had to take orders.{\r}
+00:30:44,100 --> 00:30:46,200
+你是谁
+Who are you?
 
 507
-00:35:14,944 --> 00:35:18,573
-它失去控制，在丛林到处游荡 对实验基地造成威胁
-{\fs10\shad2\1c&HC0C0C0&\b0}We lost control. Now it's loose in the jungle, threatening our facility.{\r}
+00:30:46,210 --> 00:30:49,070
+盗龙贼吗
+The dragon thief?
 
 508
-00:35:18,647 --> 00:35:22,208
-我们必须将所有人员撤离小岛
-{\fs10\shad2\1c&HC0C0C0&\b0}We've had to evacuate all personnel from the island for their own safety.{\r}
+00:30:50,510 --> 00:30:52,780
+德拉戈·布达威斯吗
+Drago Bludvist?
 
 509
-00:35:22,284 --> 00:35:23,273
-我要怎么下去？
-{\fs10\shad2\1c&HC0C0C0&\b0}How am l going in?{\r}
+00:30:52,780 --> 00:30:54,680
+你听得懂
+Do you even understand
 
 510
-00:35:23,352 --> 00:35:27,288
-你得从五千英尺高空 降落小岛执行任务
-{\fs10\shad2\1c&HC0C0C0&\b0}The Omnidroid's defenses necessitate an air drop from 5000 feet.{\r}
+00:30:54,680 --> 00:30:56,680
+我说话吗
+what I'm saying?
 
 511
-00:35:27,356 --> 00:35:30,883
-它有隐形装置，很难追踪
-{\fs10\shad2\1c&HC0C0C0&\b0}lts cloaking devices make it difficult to track.{\r}
+00:31:01,690 --> 00:31:03,420
+没牙仔
+Toothless!
 
 512
-00:35:30,960 --> 00:35:34,259
-不过我们很确定它在小岛南边
-{\fs10\shad2\1c&HC0C0C0&\b0}We're pretty sure it's on the southern half of the island.{\r}
+00:31:03,420 --> 00:31:06,220
+没事了  没事了  没事了
+Oh, it's okay, it's okay, it's okay.
 
 513
-00:35:34,330 --> 00:35:38,096
-还有一件事，它是昂贵的投资
-{\fs10\shad2\1c&HC0C0C0&\b0}One more thing. Obviously it represents a significant investment.{\r}
+00:31:06,230 --> 00:31:08,330
+我也很高兴见到你  伙计
+I'm glad to see you, too, bud.
 
 514
-00:35:38,167 --> 00:35:40,499
-你要我把它关掉 不能把它毁掉
-{\fs10\shad2\1c&HC0C0C0&\b0}You want me to shut it down without destroying it.{\r}
+00:31:08,330 --> 00:31:09,610
+你真让我担心死了
+You really had me worried there.
 
 515
-00:35:40,569 --> 00:35:43,094
-你真的是超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}You are Mr. lncredible.{\r}
+00:31:56,380 --> 00:31:57,680
+小嗝嗝
+Hiccup?
 
 516
-00:36:02,024 --> 00:36:04,891
-我得警告你 它的学习能力很强
-{\fs10\shad2\1c&HC0C0C0&\b0}l've got to warn you, it's a learning robot.{\r}
+00:32:02,180 --> 00:32:03,850
+这是真的吗
+C-could it be?
 
 517
-00:36:04,960 --> 00:36:08,589
-它能在打斗过程中 学会怎么打败你
-{\fs10\shad2\1c&HC0C0C0&\b0}Every moment you fight it increases its knowledge of how to beat you.{\r}
+00:32:03,850 --> 00:32:07,190
+这么多年过去了
+After all these years?
 
 518
-00:36:08,664 --> 00:36:10,928
-尽快关掉它，不要毁了它
-{\fs10\shad2\1c&HC0C0C0&\b0}Shut it down. Do it quickly. Don't destroy it.{\r}
+00:32:07,190 --> 00:32:09,690
+这怎么可能呢
+How is this possible?
 
 519
-00:36:11,000 --> 00:36:14,561
-也不要丢了小命 好极了，谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}And don't die. Great. Thanks.{\r}
+00:32:09,690 --> 00:32:12,320
+难道...
+Uh, should I...
 
 520
-00:36:44,400 --> 00:36:46,129
-好戏上场
-{\fs10\shad2\1c&HC0C0C0&\b0}Showtime.{\r}
+00:32:12,330 --> 00:32:13,660
+我认识你吗
+should I know you?
 
 521
-00:38:53,762 --> 00:38:55,286
-我的背
-{\fs10\shad2\1c&HC0C0C0&\b0}My back!{\r}
+00:32:13,660 --> 00:32:15,830
+不
+No.
 
 522
-00:40:03,532 --> 00:40:06,933
-真没想到，把他带回来
-{\fs10\shad2\1c&HC0C0C0&\b0}Surprising. We must bring him back.{\r}
+00:32:15,830 --> 00:32:17,530
+你当时还是个婴儿
+You were only a babe.
 
 523
-00:40:07,002 --> 00:40:10,836
-通知他任务完成，请他吃晚饭
-{\fs10\shad2\1c&HC0C0C0&\b0}Sound the all clear, and invite him to dinner.{\r}
+00:32:23,240 --> 00:32:25,640
+但母亲绝不会忘记自己的孩子
+But a mother never forgets.
 
 524
-00:40:30,192 --> 00:40:32,456
-记住，保持轻松气氛
-{\fs10\shad2\1c&HC0C0C0&\b0}Most important, keep things light.{\r}
+00:32:33,880 --> 00:32:35,550
+跟我来
+Come.
 
 525
-00:40:32,528 --> 00:40:36,430
-夸奖他几句 让他觉得我们很欣赏他
-{\fs10\shad2\1c&HC0C0C0&\b0}Praise him. Make him feel like we appreciate his abilities.{\r}
+00:32:35,550 --> 00:32:37,380
+倔脾气
+Boar-headed!
 
 526
-00:40:37,399 --> 00:40:39,094
-我穿得太正式了吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Am l overdressed?{\r}
+00:32:37,380 --> 00:32:38,720
+和他母亲一模一样
+Just like his mother!
 
 527
-00:40:39,168 --> 00:40:41,762
-不会，你看起来很帅
-{\fs10\shad2\1c&HC0C0C0&\b0}Actually, you look rather dashing.{\r}
+00:32:38,720 --> 00:32:40,720
+她也从不肯老实待着
+Aye, she could never stay put, either.
 
 528
-00:40:42,171 --> 00:40:44,867
-我猜我们的主人... 很抱歉
-{\fs10\shad2\1c&HC0C0C0&\b0}l take it our host is... l'm sorry.{\r}
+00:32:40,720 --> 00:32:41,790
+他才二十岁嘛
+Eh, he's just 20,
 
 529
-00:40:44,940 --> 00:40:48,273
-他有事不能来 他希望你能谅解
-{\fs10\shad2\1c&HC0C0C0&\b0}He won't be dining with us. He hopes you'll understand.{\r}
+00:32:41,790 --> 00:32:43,360
+而且还是一个维京人
+and a Viking.
 
 530
-00:40:48,343 --> 00:40:51,938
-当然了 不过我很想知道我替谁工作
-{\fs10\shad2\1c&HC0C0C0&\b0}Of course. l do usually make it a point to know who l'm working for.{\r}
+00:32:43,360 --> 00:32:45,040
+这俩因素恐怕是最糟的组合了
+I mean, could there be a worse combination?
 
 531
-00:40:52,014 --> 00:40:54,915
-他希望隐藏自己的身份
-{\fs10\shad2\1c&HC0C0C0&\b0}He prefers a certain amount of anonymity.{\r}
+00:32:45,060 --> 00:32:48,330
+想想你自己早年是有多么的
+Heh! When I think of how stubborn and senseless
 
 532
-00:40:54,983 --> 00:40:57,543
-你一定能够了解
-{\fs10\shad2\1c&HC0C0C0&\b0}Surely, you of all people understand that.{\r}
+00:32:48,330 --> 00:32:50,760
+固执和愚蠢
+you were back in the day.
 
 533
-00:40:57,619 --> 00:41:02,318
-我只是好奇，有这么多地方 他为什么要住在...
-{\fs10\shad2\1c&HC0C0C0&\b0}l was just wondering, of all the places to settle down, why live...{\r}
+00:32:50,760 --> 00:32:52,460
+天啊
+Oh.
 
 534
-00:41:02,391 --> 00:41:06,691
-火山旁边？ 他喜欢挑战，我也一样
-{\fs10\shad2\1c&HC0C0C0&\b0}With a volcano? He's attracted to power. So am l.{\r}
+00:32:52,470 --> 00:32:55,200
+我看其实现在也没变多少
+Well, not much has changed, actually.
 
 535
-00:41:06,762 --> 00:41:10,562
-这是我们俩的弱点 火山很危险
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's a weakness we share. Seems a bit unstable.{\r}
+00:32:56,800 --> 00:32:58,440
+你也知道那孩子
+Ah, you know what he's like.
 
 536
-00:41:10,632 --> 00:41:13,829
-我倒觉得这是个误解
-{\fs10\shad2\1c&HC0C0C0&\b0}l prefer to think of it as misunderstood.{\r}
+00:32:58,440 --> 00:33:00,310
+他不会放弃的  戈伯
+He won't give up, Gobber.
 
 537
-00:41:13,902 --> 00:41:15,494
-大家都是？
-{\fs10\shad2\1c&HC0C0C0&\b0}Aren't we all?{\r}
+00:33:00,310 --> 00:33:02,910
+而且如果小嗝嗝在我们找到他之前
+And if Hiccup finds Drago
 
 538
-00:41:15,571 --> 00:41:18,301
-火山旁的土壤非常肥沃
-{\fs10\shad2\1c&HC0C0C0&\b0}Volcanic soil is among the most fertile on Earth.{\r}
+00:33:02,910 --> 00:33:05,240
+就找到了德拉戈的话...
+before we find him...
 
 539
-00:41:18,373 --> 00:41:21,501
-每样食物都是在这儿种的
-{\fs10\shad2\1c&HC0C0C0&\b0}Everything at the table was grown right here.{\r}
+00:33:05,250 --> 00:33:06,780
+小嗝嗝不会有事的
+Ah! Nothing can hurt Hiccup,
 
 540
-00:41:21,577 --> 00:41:25,843
-你觉得如何？ 每道菜都很好吃
-{\fs10\shad2\1c&HC0C0C0&\b0}How does it compare? Everything's delicious.{\r}
+00:33:06,780 --> 00:33:08,910
+只要那条夜煞跟在他身边
+so long as that night fury's around.
 
 541
-00:42:13,195 --> 00:42:15,095
-瘦身大作战
+00:33:08,920 --> 00:33:10,380
+那可是条夜煞啊
+It's a night fury!
 
 542
-00:42:48,730 --> 00:42:51,028
-真是的 快点
-{\fs10\shad2\1c&HC0C0C0&\b0}Jeez. Hurry, honey.{\r}
+00:33:13,750 --> 00:33:16,450
+怎么了
+Huh?
 
 543
-00:42:51,099 --> 00:42:53,158
-你上班要迟到了
-{\fs10\shad2\1c&HC0C0C0&\b0}Or you'll be late for work.{\r}
+00:33:29,940 --> 00:33:31,640
+找到他们  裂颅
+Find them, skullcrusher.
 
 544
-00:42:54,703 --> 00:42:56,762
-祝你上班愉快 谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}Have a great day, honey. Thanks.{\r}
+00:33:33,340 --> 00:33:34,670
+找到他们
+Find them.
 
 545
-00:42:56,838 --> 00:42:59,739
-帮助客户，升官发财 养家糊口 ？
-{\fs10\shad2\1c&HC0C0C0&\b0}Help customers, climb ladders... Bring bacon.{\r}
+00:33:41,950 --> 00:33:43,880
+等等  稍等一下
+Uh, h-hold on. Wait just a minute.
 
 546
-00:42:59,808 --> 00:43:01,366
-一点也没错
-{\fs10\shad2\1c&HC0C0C0&\b0}All that jazz.{\r}
+00:33:43,880 --> 00:33:45,280
+-这边  -回来
+- This way. - Come back here.
 
 547
-00:43:09,484 --> 00:43:10,883
-你有预约吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You have an appointment?{\r}
+00:33:45,290 --> 00:33:46,920
+-来  -你不能
+- Come. - You can't just say
 
 548
-00:43:10,953 --> 00:43:13,183
-我是个老朋友，我只想...
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm an old friend. l just wanted to...{\r}
+00:33:46,920 --> 00:33:49,220
+说完那种话然后转身就走
+something like that and run off.
 
 549
-00:43:13,255 --> 00:43:16,713
-访客必须... 去检查电栅栏！
-{\fs10\shad2\1c&HC0C0C0&\b0}All visitors are required... Go check the electric fence.{\r}
+00:33:49,220 --> 00:33:50,690
+你是我妈妈
+You're my mother?!
 
 550
-00:43:16,792 --> 00:43:18,885
-你是谁？你想干嘛？
-{\fs10\shad2\1c&HC0C0C0&\b0}What is it? Who are you? What do you want?{\r}
+00:33:50,690 --> 00:33:52,290
+我是说  究竟怎么...
+I mean, what the...?
 
 551
-00:43:20,228 --> 00:43:24,164
-我的天，你怎么变这么胖？ 进来，进来
-{\fs10\shad2\1c&HC0C0C0&\b0}My God, you've gotten fat. Come in. Come, come.{\r}
+00:33:52,290 --> 00:33:54,330
+你  你能理解这听起来有多疯狂吗
+Do you... do you grasp how insane it sounds?
 
 552
-00:43:31,373 --> 00:43:36,106
-是啊，我的事业很成功 没什么好抱怨的
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes, things are going quite well. Quite well. My God, no complaints.{\r}
+00:33:54,330 --> 00:33:55,560
+快来
+Come quickly.
 
 553
-00:43:36,178 --> 00:43:40,581
-不过跟以前不一样 完全没得比
-{\fs10\shad2\1c&HC0C0C0&\b0}But, you know, it is not the same. Not the same at all.{\r}
+00:33:55,560 --> 00:33:56,730
+我有话问你
+I have questions!
 
 554
-00:43:40,649 --> 00:43:43,447
-你不是上了新闻 在布拉格开时装秀吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Weren't you in the news? Some show in Prague?{\r}
+00:33:56,730 --> 00:33:58,600
+这么些年你到底
+Where have you...
 
 555
-00:43:43,518 --> 00:43:45,611
-是米兰，亲爱的
-{\fs10\shad2\1c&HC0C0C0&\b0}Milan, darling. Milan.{\r}
+00:33:58,600 --> 00:34:00,600
+去了哪里
+been all this time?
 
 556
-00:43:45,687 --> 00:43:49,646
-超级名模 她们一点都不超级
-{\fs10\shad2\1c&HC0C0C0&\b0}Supermodels. Nothing super about them.{\r}
+00:34:01,770 --> 00:34:03,600
+你一直在做什么
+What-what have you been doing?
 
 557
-00:43:49,725 --> 00:43:52,159
-全都是被媒体宠坏的瘦竹竿
-{\fs10\shad2\1c&HC0C0C0&\b0}Spoiled, stupid, little stick figures{\r}
+00:34:03,600 --> 00:34:06,540
+但他们告诉我说你死掉了
+But they-they said you were dead!
 
 558
-00:43:52,227 --> 00:43:54,787
-眼里只有她们自己
-{\fs10\shad2\1c&HC0C0C0&\b0}with poofy lips who think only about themselves.{\r}
+00:34:06,540 --> 00:34:08,870
+所有人都以为你是被龙吃掉...
+Everyone thinks you were eaten by...
 
 559
-00:43:55,364 --> 00:43:58,731
-我曾经为天神设计服装
-{\fs10\shad2\1c&HC0C0C0&\b0}l used to design for gods.{\r}
+00:34:49,350 --> 00:34:52,980
+这就是你二十年来待的地方吗
+This is where you've been for 20 years?
 
 560
-00:43:59,334 --> 00:44:04,670
-你是来带给我新的挑战吗？ 接到你电话我吓了一跳
-{\fs10\shad2\1c&HC0C0C0&\b0}But perhaps you come with a challenge? l was surprised to get your call.{\r}
+00:34:54,790 --> 00:34:57,990
+你一直致力于拯救他们
+You-you've been rescuing them.
 
 561
-00:44:04,740 --> 00:44:07,607
-衣夫人 我只是想请你补个洞
-{\fs10\shad2\1c&HC0C0C0&\b0}E, l just need a patch job.{\r}
+00:34:59,960 --> 00:35:02,830
+简直难以置信
+Unbelievable.
 
 562
-00:44:07,676 --> 00:44:10,907
-超能装，过时了，但很耐穿
-{\fs10\shad2\1c&HC0C0C0&\b0}This is megamesh. Outmoded, but very sturdy.{\r}
+00:35:02,830 --> 00:35:04,560
+-你不生气吗  -什么
+- You're not upset? - What?
 
 563
-00:44:10,979 --> 00:44:15,313
-被你弄破了一个洞 你都在干嘛呀，鲍伯？
-{\fs10\shad2\1c&HC0C0C0&\b0}And you've torn right through it! What have you been doing, Robert?{\r}
+00:35:04,560 --> 00:35:06,360
+不  我不知道
+No. I-I don't know. I...
 
 564
-00:44:15,384 --> 00:44:17,750
-偷偷干英雄勾当吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Moonlighting hero work?{\r}
+00:35:06,370 --> 00:35:09,030
+说老实话  我还没回过神来呢
+It's a bit much to get my head around, to be Frank.
 
 565
-00:44:17,819 --> 00:44:19,844
-一定是很久以前弄破的
-{\fs10\shad2\1c&HC0C0C0&\b0}Must have happened a long time ago.{\r}
+00:35:09,040 --> 00:35:11,900
+有点疯狂凶猛的义务龙骑士自称是我母亲
+It's not every day you find out your mother
 
 566
-00:44:19,921 --> 00:44:23,049
-是吗？这是件烂衣服
-{\fs10\shad2\1c&HC0C0C0&\b0}l see. This is a hobo suit, darling.{\r}
+00:35:11,910 --> 00:35:16,070
+这种事毕竟不是每天都会遇到的
+is some kind of crazy, feral, vigilante dragon lady.
 
 567
-00:44:23,125 --> 00:44:25,855
-你不能穿着它趴趴走 我不准
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't be seen in this. l won't allow it!{\r}
+00:35:20,080 --> 00:35:23,650
+至少我并不无趣  对吗
+At least I'm not boring, right?
 
 568
-00:44:25,927 --> 00:44:29,954
-十五年前可以，现在休想 这是你设计的耶
-{\fs10\shad2\1c&HC0C0C0&\b0}Fifteen years ago, maybe, but now? What do you mean? You designed it.{\r}
+00:35:23,650 --> 00:35:25,420
+我想这点
+Well, I suppose there is that...
 
 569
-00:44:30,032 --> 00:44:33,195
-我从不看过去，免得影响现在
-{\fs10\shad2\1c&HC0C0C0&\b0}l never look back, darling. lt distracts from the now.{\r}
+00:35:25,420 --> 00:35:28,520
+确实如此
+one specific thing.
 
 570
-00:44:33,268 --> 00:44:35,964
-你需要全新的超能装
-{\fs10\shad2\1c&HC0C0C0&\b0}You need a new suit. That much is certain.{\r}
+00:35:28,520 --> 00:35:30,360
+你喜欢吗
+Do-do you like it?
 
 571
-00:44:36,038 --> 00:44:38,529
-全新的超能装？ 我要找谁帮我做呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}Where the heck am l gonna get a new suit?{\r}
+00:35:30,360 --> 00:35:31,420
+我
+I...
 
 572
-00:44:38,607 --> 00:44:41,075
-不行，我太忙了
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't! lt's impossible! l'm far too busy.{\r}
+00:35:31,430 --> 00:35:32,690
+我
+I... I...
 
 573
-00:44:41,143 --> 00:44:43,338
-趁我还没忙到发疯 赶快求我帮你做
-{\fs10\shad2\1c&HC0C0C0&\b0}So ask me now, before l again become sane.{\r}
+00:35:32,690 --> 00:35:34,660
+我找不到合适的词来表达
+I-I don't have the words.
 
 574
-00:44:43,412 --> 00:44:46,313
-等等，你要帮我做超能装？
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait. You want to make me a suit?{\r}
+00:35:42,600 --> 00:35:44,800
+我能摸摸他吗
+C-can I...
 
 575
-00:44:46,381 --> 00:44:49,714
-你的要求太过份了 不过我答应
-{\fs10\shad2\1c&HC0C0C0&\b0}You push too hard, darling! But l accept.{\r}
+00:35:44,810 --> 00:35:47,070
+他真美
+Oh, he's beautiful.
 
 576
-00:44:50,185 --> 00:44:52,881
-设计大胆前卫 好
-{\fs10\shad2\1c&HC0C0C0&\b0}lt will be bold. Dramatic! Yeah.{\r}
+00:35:50,340 --> 00:35:51,510
+惊艳绝世
+Oh, incredible.
 
 577
-00:44:52,954 --> 00:44:58,221
-充满英雄气概 优雅耐看，就跟爆破侠一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Heroic! Yeah, something classic, like Dynaguy!{\r}
+00:35:53,880 --> 00:35:56,080
+他很有可能就是他们种族的最后一只了
+He might very well be the last of his kind.
 
 578
-00:44:58,293 --> 00:45:01,592
-他的造型帅呆了，披风配长靴
-{\fs10\shad2\1c&HC0C0C0&\b0}He had a great look! Oh, the cape and the boots...{\r}
+00:35:56,080 --> 00:35:58,550
+瞧啊
+Oh... and look,
 
 579
-00:45:01,663 --> 00:45:02,687
-不要披风
-{\fs10\shad2\1c&HC0C0C0&\b0}No capes!{\r}
+00:35:58,550 --> 00:36:00,090
+他和你一样大呢
+he's your age.
 
 580
-00:45:04,132 --> 00:45:07,898
-这不是由我决定吗？ 你记得雷风侠吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}lsn't that my decision? Do you remember Thunderhead?{\r}
+00:36:01,490 --> 00:36:03,360
+怪不得你们这么合得来
+No wonder you get along so well.
 
 581
-00:45:07,969 --> 00:45:10,802
-高大英挺、呼风唤雨 好人一个，超爱小孩的
-{\fs10\shad2\1c&HC0C0C0&\b0}Tall, storm powers. Nice man. Good with kids.{\r}
+00:36:06,560 --> 00:36:09,090
+他的牙还可以收缩
+And retractable teeth.
 
 582
-00:45:10,872 --> 00:45:13,739
-听我说 1958年11月15日
-{\fs10\shad2\1c&HC0C0C0&\b0}Listen, E... November 15th of '58.{\r}
+00:36:09,100 --> 00:36:11,400
+你怎么做到的
+How did you manage...
 
 583
-00:45:15,243 --> 00:45:20,545
-他又拯救了世界 后来他的披风被飞弹勾到
-{\fs10\shad2\1c&HC0C0C0&\b0}All was well, another day saved when his cape snagged on a missile fin.{\r}
+00:36:11,400 --> 00:36:12,930
+我在树林里发现了他
+I found him in the woods.
 
 584
-00:45:20,615 --> 00:45:22,947
-雷风侠不是很聪明
-{\fs10\shad2\1c&HC0C0C0&\b0}Thunderhead was not the brightest bulb...{\r}
+00:36:12,930 --> 00:36:16,500
+他被打了下来  受了伤
+He was shot down and wounded.
 
 585
-00:45:23,018 --> 00:45:24,042
-风暴女
-{\fs10\shad2\1c&HC0C0C0&\b0}Stratogale!{\r}
+00:36:20,140 --> 00:36:22,870
+这只比齿龙因为
+This snafflefang lost his leg
 
 586
-00:45:24,119 --> 00:45:29,421
-1957年4月23日 披风被卷进喷射引擎
-{\fs10\shad2\1c&HC0C0C0&\b0}April 23rd, '57. Cape caught in a jet turbine.{\r}
+00:36:22,880 --> 00:36:25,580
+德拉戈·布达威斯的铁捕龙夹丢了一条腿
+to one of Drago Bludvist's iron traps.
 
 587
-00:45:29,491 --> 00:45:30,981
-你不能以偏概全
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't generalize about these things.{\r}
+00:36:25,580 --> 00:36:27,050
+这只止雨龙的翅膀
+This raincutter
 
 588
-00:45:31,059 --> 00:45:35,160
-超速人，被电梯夹住 爆破侠，起飞时被缠住
-{\fs10\shad2\1c&HC0C0C0&\b0}Meta-Man. Express elevator. Dynaguy, snag on takeoff.{\r}
+00:36:27,050 --> 00:36:29,410
+被剃刀网划伤了
+had her wing sliced by razor netting.
 
 589
-00:45:35,230 --> 00:45:38,393
-水花侠，被旋涡卷走 不要披风！
-{\fs10\shad2\1c&HC0C0C0&\b0}Splashdown, sucked into a vortex. No capes!{\r}
+00:36:29,420 --> 00:36:31,780
+还有这只可怜的陆行龙
+And this, oh, poor hobblegrunt
 
 590
-00:45:38,467 --> 00:45:42,563
-回去吧 我会在你出新任务前做好
-{\fs10\shad2\1c&HC0C0C0&\b0}Now, go on. Your new suit will be finished before your next assignment.{\r}
+00:36:31,790 --> 00:36:34,690
+被一个树枝陷阱弄瞎了
+was blinded by a tree snare
 
 591
-00:45:42,637 --> 00:45:44,662
-你明知道我已经退出江湖了
-{\fs10\shad2\1c&HC0C0C0&\b0}You know l'm retired from hero work.{\r}
+00:36:34,690 --> 00:36:37,920
+在孤单害怕中被丢下等死
+and then left to die alone and scared.
 
 592
-00:45:44,740 --> 00:45:48,540
-我也是，那又怎样？
-{\fs10\shad2\1c&HC0C0C0&\b0}As am l, Robert. Yet, here we are.{\r}
+00:36:37,920 --> 00:36:39,990
+这是怎么回事
+And what of this?
 
 593
-00:45:48,610 --> 00:45:52,444
-我只想请你缝好破洞 这很有纪念价值
-{\fs10\shad2\1c&HC0C0C0&\b0}E, l only need a patch job. For sentimental reasons.{\r}
+00:36:39,990 --> 00:36:42,990
+又是德拉戈和他的捕龙夹干的好事吗
+Did Drago or his trappers do this, too?
 
 594
-00:45:53,281 --> 00:45:56,614
-好啦，我就顺便帮你补破洞
-{\fs10\shad2\1c&HC0C0C0&\b0}Fine. l will also fix the hobo suit.{\r}
+00:36:44,530 --> 00:36:46,030
+这个啊
+Yeah.
 
 595
-00:45:56,685 --> 00:46:01,179
-你最棒了，衣夫人 我知道，亲爱的
-{\fs10\shad2\1c&HC0C0C0&\b0}You're the best of the best, E. Yes, l know, darling. l know.{\r}
+00:36:46,030 --> 00:36:49,770
+奇葩的点在于
+Well, crazy thing is...
 
 596
-00:46:14,202 --> 00:46:16,568
-我来接，老婆，你别接
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't answer it, honey, l got it!{\r}
+00:36:49,770 --> 00:36:53,710
+把他打下来的人其实是我
+I'm actually the one who shot him down.
 
 597
-00:46:16,638 --> 00:46:19,471
-喂？ 你有一项新任务
-{\fs10\shad2\1c&HC0C0C0&\b0}Hello? We have a new assignment for you.{\r}
+00:36:53,710 --> 00:36:56,470
+不过没事的
+Hey, it's-it's okay, though.
 
 598
-00:46:23,545 --> 00:46:26,378
-你几时能到？ 我明天就出发
-{\fs10\shad2\1c&HC0C0C0&\b0}How soon can you get here? I'll leave tomorrow morning.{\r}
+00:36:56,480 --> 00:36:57,540
+他也报复我啦
+He got me back.
 
 599
-00:46:26,448 --> 00:46:28,177
-到时候见 拜了
-{\fs10\shad2\1c&HC0C0C0&\b0}See you there. Goodbye.{\r}
+00:36:57,540 --> 00:36:58,940
+对吧  伙计
+Right, bud?
 
 600
-00:46:31,019 --> 00:46:33,783
-那是谁？公司吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who was that, honey? The office?{\r}
+00:36:58,950 --> 00:37:00,910
+你就不能把我完整的救下来
+You couldn't save all of me, could you?
 
 601
-00:46:33,855 --> 00:46:36,722
-我又要去开会，有点赶
-{\fs10\shad2\1c&HC0C0C0&\b0}Another conference. Short notice, but you know...{\r}
+00:37:00,910 --> 00:37:02,680
+非要跟我扯平不可
+You just had to make it even.
 
 602
-00:46:36,792 --> 00:46:38,623
-不过没办法
-{\fs10\shad2\1c&HC0C0C0&\b0}...duty calls.{\r}
+00:37:02,680 --> 00:37:05,550
+所以才有了这假肢
+So peg leg.
 
 603
-00:46:46,434 --> 00:46:48,595
-老公？ 有什么事吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob? Yeah, what's up, honey?{\r}
+00:37:10,660 --> 00:37:13,160
+你父亲对你这夜煞朋友是什么看法呢
+What did your father think of your night fury friend?
 
 604
-00:46:50,906 --> 00:46:53,170
-祝你旅途愉快 谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}Have a great trip. Thanks, sweetie.{\r}
+00:37:13,160 --> 00:37:16,190
+一开始他不怎么接受
+Oh, he-he didn't take it all that well.
 
 605
-00:46:53,241 --> 00:46:55,675
-我到了会打给你 我爱你
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll call you when l get there. l love you.{\r}
+00:37:17,500 --> 00:37:20,060
+不过后来  他改变了
+But then, he changed.
 
 606
-00:46:55,744 --> 00:47:00,078
-我好爱你 我也很爱你
-{\fs10\shad2\1c&HC0C0C0&\b0}So much. l love you too.{\r}
+00:37:20,070 --> 00:37:21,200
+大家都变了
+They all did.
 
 607
-00:47:12,861 --> 00:47:15,261
-这是自动驾驶机长
-{\fs10\shad2\1c&HC0C0C0&\b0}This is your automated Captain.{\r}
+00:37:21,200 --> 00:37:22,800
+很快
+Pretty soon,
 
 608
-00:47:15,330 --> 00:47:18,561
-再来一杯酒吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Would you care for more mimosa?{\r}
+00:37:22,800 --> 00:37:25,640
+家乡的人都有了自己的龙
+everyone back home had dragons of their own.
 
 609
-00:47:18,633 --> 00:47:21,796
-当然好，谢了 不客气
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't mind if l do. Thanks. You're welcome.{\r}
+00:37:25,640 --> 00:37:27,840
+那怎么可能
+If only it were possible.
 
 610
-00:47:23,238 --> 00:47:27,902
-诺曼尼岛目前摄氏26度 最适合飞行
-{\fs10\shad2\1c&HC0C0C0&\b0}Currently 78 degrees in Nomanisan. Perfect weather for flying.{\r}
+00:37:27,840 --> 00:37:28,940
+不  是真的
+No, really.
 
 611
-00:47:33,949 --> 00:47:37,680
-请系好安全带，我们准备下降
-{\fs10\shad2\1c&HC0C0C0&\b0}Please fasten your seat belt. We're beginning our descent.{\r}
+00:37:28,940 --> 00:37:31,010
+相信我吧  我也这样尝试过
+Believe me, I tried, as well,
 
 612
-00:48:02,310 --> 00:48:06,610
-你好，好炫的超能装 谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}Hello, Mr. lncredible. Nice suit. Thanks.{\r}
+00:37:31,010 --> 00:37:34,050
+但是人们不会真的改变的  小嗝嗝
+but people are not capable of change, Hiccup.
 
 613
-00:48:06,681 --> 00:48:10,139
-很高兴能回来，幻影
-{\fs10\shad2\1c&HC0C0C0&\b0}Nice to be back, Mirage.{\r}
+00:37:34,050 --> 00:37:35,580
+有些人
+Some of us...
 
 614
-00:48:35,510 --> 00:48:39,207
-请你下午两点 到会议室听取任务简报
-{\fs10\shad2\1c&HC0C0C0&\b0}You'll be briefed on your assignment in the conference room at two.{\r}
+00:37:35,580 --> 00:37:37,850
+就是天生与众不同
+were just born different.
 
 615
-00:48:39,281 --> 00:48:42,717
-D栋、A-113室 两点钟，没问题
-{\fs10\shad2\1c&HC0C0C0&\b0}D Wing, room A-113. 2:00. Got it.{\r}
+00:37:44,120 --> 00:37:47,060
+博克岛当时面临的命运
+Berk was a land of kill
 
 616
-00:48:42,784 --> 00:48:44,411
-到时候见
-{\fs10\shad2\1c&HC0C0C0&\b0}See you there.{\r}
+00:37:47,060 --> 00:37:48,630
+就是杀戮或被杀
+or be killed,
 
 617
-00:49:16,952 --> 00:49:18,544
-衣娜
-{\fs10\shad2\1c&HC0C0C0&\b0}Edna.{\r}
+00:37:48,630 --> 00:37:51,600
+但我当时相信和平的希望尚存
+but I believed peace was possible.
 
 618
-00:49:18,620 --> 00:49:21,384
-我找衣娜 我就是衣娜
-{\fs10\shad2\1c&HC0C0C0&\b0}l'd like to speak to Edna, please. This is Edna.{\r}
+00:37:52,870 --> 00:37:55,870
+住手  你这样只会让事情更糟
+Stop! You'll only make it worse!
 
 619
-00:49:21,456 --> 00:49:24,186
-衣夫人，我是荷莉 哪个荷莉？
-{\fs10\shad2\1c&HC0C0C0&\b0}E? This is Helen. Helen who?{\r}
+00:37:55,870 --> 00:37:59,540
+但没人接受我的观点
+It was a very unpopular opinion.
 
 620
-00:49:24,259 --> 00:49:27,524
-巴荷莉，你知道嘛
-{\fs10\shad2\1c&HC0C0C0&\b0}Helen Parr? You know...{\r}
+00:38:00,810 --> 00:38:02,710
+小嗝嗝
+Hiccup!
 
 621
-00:49:28,496 --> 00:49:29,485
-弹力女超人
-{\fs10\shad2\1c&HC0C0C0&\b0}Elastigirl?{\r}
+00:38:02,710 --> 00:38:04,510
+有一天
+Then one night,
 
 622
-00:49:29,564 --> 00:49:33,796
-亲爱的，好久没联络了
-{\fs10\shad2\1c&HC0C0C0&\b0}Darling! It's been such a long time after all these years! So long!{\r}
+00:38:04,510 --> 00:38:07,610
+一条龙闯进了我们家  找到了
+a dragon broke into our house, finding you
 
 623
-00:49:33,868 --> 00:49:35,529
-是啊，是有一阵子了
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes, it's been a while. Listen.{\r}
+00:38:07,610 --> 00:38:09,180
+摇篮里的你
+in the cradle.
 
 624
-00:49:35,603 --> 00:49:39,266
-鲍伯只会找一个人补超能装 那就是你衣夫人
-{\fs10\shad2\1c&HC0C0C0&\b0}There's only one person Bob would trust to patch his supersuit. That's you.{\r}
+00:38:09,180 --> 00:38:12,550
+我冲过去保护你
+I rushed to protect you.
 
 625
-00:49:39,341 --> 00:49:41,434
-没错，超赞的，对吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes, yes, yes. Marvelous, isn't it?{\r}
+00:38:16,220 --> 00:38:21,530
+却看到了证明我一直以来信仰的证据
+But what I saw was proof of everything I believed.
 
 626
-00:49:41,509 --> 00:49:44,273
-比他以前穿的烂睡衣好多了
-{\fs10\shad2\1c&HC0C0C0&\b0}Much better than those horrible pajamas he used to wear.{\r}
+00:38:34,240 --> 00:38:36,940
+他们不是残暴的野兽
+This wasn't a vicious beast,
 
 627
-00:49:44,346 --> 00:49:47,213
-都做好了，你几时来看？
-{\fs10\shad2\1c&HC0C0C0&\b0}They are finished. When are you coming to see?{\r}
+00:38:36,940 --> 00:38:39,880
+他们是种聪明的  温和的生物
+but an intelligent, gentle creature,
 
 628
-00:49:47,282 --> 00:49:49,546
-我是打来问... 别逼我求你
-{\fs10\shad2\1c&HC0C0C0&\b0}I'm calling about... Don't make me beg.{\r}
+00:38:39,880 --> 00:38:43,580
+我们的灵魂产生了共鸣
+whose soul reflected my own.
 
 629
-00:49:49,617 --> 00:49:53,519
-我才不干 我不是求你打来...逼你...
-{\fs10\shad2\1c&HC0C0C0&\b0}l won't do it, you know. Beg, no, l'm calling about suit.{\r}
+00:38:45,220 --> 00:38:48,590
+-瓦尔卡  快跑  -不  不要
+- Valka, run! - No, don't.
 
 630
-00:49:53,588 --> 00:49:56,489
-我是打来问鲍伯的超能装
-{\fs10\shad2\1c&HC0C0C0&\b0}About Bob's suit! l'm calling about Bob's suit.{\r}
+00:38:53,090 --> 00:38:54,260
+坚持住
+Hold on!
 
 631
-00:49:56,558 --> 00:50:00,392
-一小时后，一定要来 就这样啰，再见
-{\fs10\shad2\1c&HC0C0C0&\b0}You come in one hour, darling. l insist, okay? Okay. Goodbye.{\r}
+00:38:55,960 --> 00:38:58,300
+不要  史推克
+No! Aah! Stoick!
 
 632
-00:50:31,693 --> 00:50:33,388
-体积更庞大
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's bigger!{\r}
+00:38:58,300 --> 00:39:00,670
+瓦尔卡
+Valka!
 
 633
-00:50:34,729 --> 00:50:36,219
-威力更强大
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's badder!{\r}
+00:39:01,630 --> 00:39:04,270
+史推克
+Stoick!
 
 634
-00:50:37,365 --> 00:50:42,632
-各位先生女士 它连超能先生都能打败
-{\fs10\shad2\1c&HC0C0C0&\b0}Ladies and gentlemen, it's too much for Mr. lncredible!{\r}
+00:39:04,270 --> 00:39:07,010
+瓦尔卡
+Valka.
 
 635
-00:50:44,873 --> 00:50:47,433
-我终于成功了
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's finally ready.{\r}
+00:39:07,010 --> 00:39:10,280
+那晚你和你父亲
+You and your father nearly died
 
 636
-00:50:47,509 --> 00:50:51,536
-在你之前我拿很多超人试过
-{\fs10\shad2\1c&HC0C0C0&\b0}You know, l went through quite a few supers to get it worthy to fight you,{\r}
+00:39:10,280 --> 00:39:11,880
+差点丧命
+that night.
 
 637
-00:50:51,613 --> 00:50:54,673
-可是它上次却被你打挂
-{\fs10\shad2\1c&HC0C0C0&\b0}but man, it wasn't good enough!{\r}
+00:39:11,880 --> 00:39:14,880
+只因为我不忍心杀死一条龙
+All because I couldn't kill a dragon.
 
 638
-00:50:54,749 --> 00:50:58,810
-你把它打挂以后我就重新改装
-{\fs10\shad2\1c&HC0C0C0&\b0}After you trashed the last one, l had to make some major modifications.{\r}
+00:39:14,880 --> 00:39:18,080
+家族遗传啊
+Eh, runs in the family.
 
 639
-00:50:58,887 --> 00:51:02,152
-很不容易，但是很值得
-{\fs10\shad2\1c&HC0C0C0&\b0}Sure it was difficult, but you are worth it.{\r}
+00:39:18,080 --> 00:39:20,150
+离开你们让我心碎
+It broke my heart to stay away,
 
 640
-00:51:02,223 --> 00:51:06,387
-毕竟呢 我是你最大的粉丝
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean, after all, l am your biggest fan.{\r}
+00:39:20,150 --> 00:39:23,620
+但我想只有如此你们才更安全
+but I believed you'd be safer if I did.
 
 641
-00:51:07,462 --> 00:51:11,023
-巴迪？ 我的名字不是巴迪
-{\fs10\shad2\1c&HC0C0C0&\b0}Buddy? My name is not Buddy!{\r}
+00:39:25,020 --> 00:39:26,760
+你是怎么活下来的呢
+How did you survive?
 
 642
-00:51:11,199 --> 00:51:13,326
-也不是超能小子
-{\fs10\shad2\1c&HC0C0C0&\b0}And it's not lncrediBoy either!{\r}
+00:39:26,760 --> 00:39:29,030
+跃云并没想伤害我
+Oh, cloudjumper never meant to harm me.
 
 643
-00:51:13,401 --> 00:51:17,030
-我不屑当超能小子了 当年我只想帮你
-{\fs10\shad2\1c&HC0C0C0&\b0}That ship has sailed. All l wanted was to help you.{\r}
+00:39:29,030 --> 00:39:33,160
+他肯定是觉得我属于这里
+He must have thought I belonged here
 
 644
-00:51:17,105 --> 00:51:20,700
-我想帮忙，你却怎么说？
-{\fs10\shad2\1c&HC0C0C0&\b0}l only wanted to help! And what did you say to me?{\r}
+00:39:33,170 --> 00:39:37,100
+这个令人炫目的野兽之家
+in the home of the great bewilder beast.
 
 645
-00:51:20,775 --> 00:51:23,403
-飞回家吧，我习惯一个人
-{\fs10\shad2\1c&HC0C0C0&\b0}Fly home, Buddy. l work alone.{\r}
+00:39:38,240 --> 00:39:40,310
+阿尔法族
+The Alpha species.
 
 646
-00:51:23,478 --> 00:51:27,005
-你伤透了我的心 不过我学到一个教训
-{\fs10\shad2\1c&HC0C0C0&\b0}lt tore me apart. But l learned an important lesson.{\r}
+00:39:40,310 --> 00:39:42,170
+世上所剩无几的
+One of the very few
 
 647
-00:51:27,082 --> 00:51:29,346
-你不能靠任何人
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't count on anyone.{\r}
+00:39:42,180 --> 00:39:44,140
+其中之一了
+that still exist.
 
 648
-00:51:29,417 --> 00:51:31,351
-尤其是你的英雄偶像
-{\fs10\shad2\1c&HC0C0C0&\b0}Especially your heroes.{\r}
+00:39:46,750 --> 00:39:47,880
+每个龙巢都有龙后
+Every nest has its queen,
 
 649
-00:51:31,419 --> 00:51:34,513
-我不该那么对你，对不起
-{\fs10\shad2\1c&HC0C0C0&\b0}l was wrong to treat you that way. l'm sorry.{\r}
+00:39:47,880 --> 00:39:51,320
+但他才是龙族之王
+but this is the king of all dragons.
 
 650
-00:51:34,589 --> 00:51:37,922
-瞧，现在你就怕我了 因为我很强
-{\fs10\shad2\1c&HC0C0C0&\b0}See? Now you respect me, because l'm a threat.{\r}
+00:39:51,320 --> 00:39:53,720
+他可以喷出冰
+With his icy breath,
 
 651
-00:51:37,992 --> 00:51:39,619
-人都很现实
-{\fs10\shad2\1c&HC0C0C0&\b0}That's the way it works.{\r}
+00:39:53,720 --> 00:39:56,320
+这只美丽的巨兽就这样为我们建起了龙巢
+this graceful giant built our nest,
 
 652
-00:51:39,694 --> 00:51:42,424
-有很多国家都想要变强
-{\fs10\shad2\1c&HC0C0C0&\b0}There's a lot of people, whole countries who want respect.{\r}
+00:39:56,320 --> 00:39:59,760
+一个所有龙族都可以安然居住的天堂
+a safe haven for dragons everywhere.
 
 653
-00:51:42,497 --> 00:51:45,330
-他们为了变得强大愿意付天价
-{\fs10\shad2\1c&HC0C0C0&\b0}And they will pay through the nose to get it.{\r}
+00:39:59,760 --> 00:40:02,060
+等等  那就是喷冰龙吗
+Wait, that's the ice-spitter?
 
 654
-00:51:45,400 --> 00:51:48,096
-你以为我是怎么发财的？ 靠发明各种武器
-{\fs10\shad2\1c&HC0C0C0&\b0}How do you think l got rich? l invented weapons.{\r}
+00:40:02,060 --> 00:40:03,930
+那个被摧毁的堡垒
+He's responsible
 
 655
-00:51:48,169 --> 00:51:52,367
-这具机器人只有我能对付 当我把它派出去...
-{\fs10\shad2\1c&HC0C0C0&\b0}Now l have a weapon only l can defeat. And when l unleash it, l'll get...{\r}
+00:40:03,930 --> 00:40:05,100
+就是他干的吗
+for all that destruction?
 
 656
-00:51:54,175 --> 00:51:57,008
-你真狡猾 你害我一直在念独白
-{\fs10\shad2\1c&HC0C0C0&\b0}You sly dog! You got me monologuing.{\r}
+00:40:05,100 --> 00:40:06,970
+他保护着我们
+He protects us.
 
 657
-00:51:57,078 --> 00:51:59,046
-我不敢相信
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't believe it.{\r}
+00:40:06,970 --> 00:40:09,300
+我们受他保护
+We all live under his care
 
 658
-00:52:00,115 --> 00:52:03,573
-很酷吧？零点能量光
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's cool, huh? Zero-point energy.{\r}
+00:40:09,300 --> 00:40:11,140
+并听令于他
+and his command.
 
 659
-00:52:03,651 --> 00:52:06,745
-我把最棒的发明留给自己
-{\fs10\shad2\1c&HC0C0C0&\b0}l save the best inventions for myself.{\r}
+00:40:14,070 --> 00:40:16,210
+当然  除了龙宝宝
+All but the babies, of course...
 
 660
-00:52:06,821 --> 00:52:08,584
-我现在够棒了吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}Am l good enough now?{\r}
+00:40:19,080 --> 00:40:20,810
+因为龙宝宝谁的话也不听
+who listen to no one.
 
 661
-00:52:10,058 --> 00:52:11,650
-谁才是超级英雄？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who's super now?{\r}
+00:40:34,660 --> 00:40:36,730
+我和他们住在一起二十年了  小嗝嗝
+I've lived among them for 20 years, Hiccup,
 
 662
-00:52:11,726 --> 00:52:14,661
-我是辛拉登，你的死对头
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm Syndrome! Your nemesis and...{\r}
+00:40:36,730 --> 00:40:39,330
+探索着他们的秘密
+discovering their secrets.
 
 663
-00:52:15,630 --> 00:52:17,291
-这下好了
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, brilliant!{\r}
+00:40:42,270 --> 00:40:44,870
+他喜欢你
+He likes you.
 
 664
-00:52:35,416 --> 00:52:37,850
-现在见识这小玩意的威力
-{\fs10\shad2\1c&HC0C0C0&\b0}All right, try this one on for size, big boy.{\r}
+00:40:46,370 --> 00:40:47,910
+你一定饿了吧
+You must be hungry.
 
 665
-00:53:12,754 --> 00:53:15,322
-激光侠
-{\fs10\shad2\1c&HC0C0C0&\b0}Gazerbeam.{\r}
+00:40:47,910 --> 00:40:49,670
+有点  吃点东西也好
+Uh, yeah, I could eat.
 
 666
-00:53:23,431 --> 00:53:25,524
-克罗诺斯
+00:40:49,680 --> 00:40:50,680
+太好了
+Good.
 
 667
-00:53:26,734 --> 00:53:28,599
-克罗诺斯？
-{\fs10\shad2\1c&HC0C0C0&\b0}''Kronos?''{\r}
+00:40:50,680 --> 00:40:52,080
+因为用餐时间到了
+It's feeding time.
 
 668
-00:53:54,495 --> 00:53:58,226
-没有生命迹象 超能先生遭到消灭
-{\fs10\shad2\1c&HC0C0C0&\b0}Life reading negative. Mr. Incredible terminated.{\r}
+00:41:00,750 --> 00:41:02,820
+我感觉不好
+I don't like it.
 
 669
-00:54:01,769 --> 00:54:06,399
-我为这案子投注全副心力
-{\fs10\shad2\1c&HC0C0C0&\b0}This project has completely confiscated my life, darling.{\r}
+00:41:02,820 --> 00:41:04,960
+他们早该找到小嗝嗝一起回来了
+They should've been back with Hiccup by now.
 
 670
-00:54:06,474 --> 00:54:10,740
-我只会为超人特攻队这么做 这是我最好的作品
-{\fs10\shad2\1c&HC0C0C0&\b0}Consumed me as only hero work can. My best work, l must admit.{\r}
+00:41:04,960 --> 00:41:06,120
+我也不开心
+I don't like it, either.
 
 671
-00:54:10,812 --> 00:54:14,714
-简单大方 、大胆前卫 你一定会爱死了
-{\fs10\shad2\1c&HC0C0C0&\b0}Simple, elegant, yet bold. You will die.{\r}
+00:41:06,130 --> 00:41:07,330
+与他父亲同名的艾瑞特
+Eret, son of Eret,
 
 672
-00:54:14,782 --> 00:54:16,875
-衣夫人，我只是... 我替鲍伯做了新超能装
-{\fs10\shad2\1c&HC0C0C0&\b0}E, l just... l did Robert's suit,{\r}
+00:41:07,350 --> 00:41:08,990
+就是我的梦中情人
+was the man of my dreams.
 
 673
-00:54:16,951 --> 00:54:20,546
-我把它做得超炫的 所以就停不下来
-{\fs10\shad2\1c&HC0C0C0&\b0}and it turned out so beautiful, l had to continue.{\r}
+00:41:09,000 --> 00:41:10,400
+我的一切
+My everything!
 
 674
-00:54:20,622 --> 00:54:24,581
-很高兴见到你 不过我不知道你在说什么
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's great to see you, but l have no idea what you're talking about.{\r}
+00:41:10,400 --> 00:41:12,860
+可是宝贝  我都为你留了胡子啊
+But, baby, I grew facial hair for you.
 
 675
-00:54:24,659 --> 00:54:27,457
-我只是... 没错，光说没有用
-{\fs10\shad2\1c&HC0C0C0&\b0}l just... Yes, words are useless.{\r}
+00:41:12,870 --> 00:41:14,800
+我也是
+Me, too.
 
 676
-00:54:27,895 --> 00:54:29,886
-来吧，大家都光说不练
-{\fs10\shad2\1c&HC0C0C0&\b0}Too much of it, darling. Too much!{\r}
+00:41:14,800 --> 00:41:16,300
+如果他们被德拉戈打下来了怎么办
+What if Drago shot them down?
 
 677
-00:54:29,964 --> 00:54:32,057
-我要带你去亲眼目睹
-{\fs10\shad2\1c&HC0C0C0&\b0}That is why l show you my work.{\r}
+00:41:16,300 --> 00:41:19,000
+说不定他们需要我们帮忙
+What if they need our help?
 
 678
-00:54:32,133 --> 00:54:33,930
-所以我才把你找来
-{\fs10\shad2\1c&HC0C0C0&\b0}That is why you are here.{\r}
+00:41:19,010 --> 00:41:20,770
+我们得去找他们
+We have to find them.
 
 679
-00:54:40,475 --> 00:54:42,705
-衣夫人
-{\fs10\shad2\1c&HC0C0C0&\b0}Edna Mode.{\r}
+00:41:20,770 --> 00:41:21,810
+等等  什么
+Wait, wait, what?
 
 680
-00:54:43,611 --> 00:54:45,135
-还有客人
-{\fs10\shad2\1c&HC0C0C0&\b0}And guest.{\r}
+00:41:21,810 --> 00:41:22,970
+不行  史推克说
+No, but Stoick said...
 
 681
-00:55:02,196 --> 00:55:03,891
-过来，坐吧
-{\fs10\shad2\1c&HC0C0C0&\b0}Come. Sit.{\r}
+00:41:22,980 --> 00:41:24,210
+要是他们真被抓了
+It doesn't matter what he said
 
 682
-00:55:07,869 --> 00:55:11,066
-加奶精和糖吗？ 谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}Cream and sugar? Thanks.{\r}
+00:41:24,210 --> 00:41:25,410
+不管他说过什么都不重要了
+if they've all been captured.
 
 683
-00:55:11,139 --> 00:55:13,801
-第一件是宝宝的超能装 第一件？
-{\fs10\shad2\1c&HC0C0C0&\b0}l started with the baby. Started?{\r}
+00:41:25,410 --> 00:41:26,780
+走吧
+Come on!
 
 684
-00:55:13,875 --> 00:55:17,868
-嘘，剪裁合身适合爬动
-{\fs10\shad2\1c&HC0C0C0&\b0}Darling! l cut it a little roomy for the free movement.{\r}
+00:41:29,780 --> 00:41:31,880
+我们要回去吗
+Do we go back?
 
 685
-00:55:17,945 --> 00:55:21,039
-轻柔的布料不会伤到娇嫩肌肤
-{\fs10\shad2\1c&HC0C0C0&\b0}The fabric is comfortable for sensitive skin,{\r}
+00:41:31,890 --> 00:41:33,150
+我们现在无处可去
+We've nowhere to go,
 
 686
-00:55:21,416 --> 00:55:25,819
-它能耐摄氏538度的高温
-{\fs10\shad2\1c&HC0C0C0&\b0}and can also withstand a temperature of over 1000 degrees.{\r}
+00:41:33,150 --> 00:41:35,150
+无货可卖  而且都
+nothing to sell, and no heads
 
 687
-00:55:27,722 --> 00:55:29,952
-而且有防弹功能
-{\fs10\shad2\1c&HC0C0C0&\b0}Completely bulletproof.{\r}
+00:41:35,160 --> 00:41:36,420
+性命难保了
+to call our own.
 
 688
-00:55:32,160 --> 00:55:34,822
-可用洗衣机洗涤，这是新功能
-{\fs10\shad2\1c&HC0C0C0&\b0}And machine washable. That's a new feature.{\r}
+00:41:36,420 --> 00:41:38,060
+-艾瑞特  -如果我们不快点
+- Uh, Eret...? - If we don't turn up
 
 689
-00:55:34,896 --> 00:55:37,763
-你以为宝宝要做什么呀？
-{\fs10\shad2\1c&HC0C0C0&\b0}What on earth do you think the baby will be doing?{\r}
+00:41:38,060 --> 00:41:40,430
+找到几只龙的话
+with dragons and fast...
 
 690
-00:55:37,832 --> 00:55:42,166
-我怎么知道？ 不过有准备比较好
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, l'm sure l don't know, darling. Luck favors the prepared.{\r}
+00:41:41,960 --> 00:41:43,960
+许愿时要小心哦
+Careful what you wish for!
 
 691
-00:55:42,236 --> 00:55:45,501
-我不知道他有什么超能力 所以基本功能都有顾到
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't know the baby's powers, so l covered the basics.{\r}
+00:41:43,960 --> 00:41:45,730
+-想想办法  -艾瑞特
+- Do something! - Eret, son of Eret!
 
 692
-00:55:45,573 --> 00:55:47,905
-小杰并没有超能力 是吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Jack-Jack doesn't have any powers. No?{\r}
+00:41:45,730 --> 00:41:46,730
+我们会想念你的  艾瑞特
+We'll miss you, Eret!
 
 693
-00:55:47,975 --> 00:55:50,034
-他穿起来还是很可爱
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, he'll look fabulous anyway.{\r}
+00:41:46,730 --> 00:41:47,730
+搞什么啊
+What is this?
 
 694
-00:55:51,646 --> 00:55:55,707
-小飞的超能装 耐摩擦性超强
-{\fs10\shad2\1c&HC0C0C0&\b0}Your boy's suit l designed to withstand enormous friction{\r}
+00:41:47,730 --> 00:41:48,900
+绑架你啊
+A kidnapping.
 
 695
-00:55:55,783 --> 00:56:00,117
-再大的摩擦都不会过热或损坏
-{\fs10\shad2\1c&HC0C0C0&\b0}without heating up or wearing out. A useful feature.{\r}
+00:41:48,900 --> 00:41:50,440
+我带他飞行吗  行吗
+Yay, can he ride with me? Can he?
 
 696
-00:56:00,188 --> 00:56:02,748
-你女儿的超能装就比较棘手
-{\fs10\shad2\1c&HC0C0C0&\b0}Your daughter's suit was tricky.{\r}
+00:41:50,440 --> 00:41:51,740
+行吗
+Can he...?
 
 697
-00:56:02,824 --> 00:56:08,387
-我终于找到一种坚固材质 可以跟着她一起隐形
-{\fs10\shad2\1c&HC0C0C0&\b0}l finally created a sturdy material that will disappear completely as she does.{\r}
+00:41:53,110 --> 00:41:55,110
+你带我们去找德拉戈
+You're gonna show us the way to Drago.
 
 698
-00:56:11,566 --> 00:56:16,094
-你的超能装的弹性跟你一样好
-{\fs10\shad2\1c&HC0C0C0&\b0}Your suit can stretch as far as you can, without injuring yourself,{\r}
+00:41:55,110 --> 00:41:56,770
+然后帮龙骑士
+And help dragon riders
 
 699
-00:56:16,170 --> 00:56:19,105
-马上就能恢复原状
-{\fs10\shad2\1c&HC0C0C0&\b0}and still retain its shape.{\r}
+00:41:56,780 --> 00:41:58,280
+偷偷溜进德拉戈的营地吗
+sneak into Drago's camp?
 
 700
-00:56:19,173 --> 00:56:21,403
-坚固耐穿
-{\fs10\shad2\1c&HC0C0C0&\b0}Virtually indestructible...{\r}
+00:41:58,280 --> 00:41:59,340
+还是现在杀了我算了
+Just kill me now.
 
 701
-00:56:22,643 --> 00:56:25,373
-而且跟金埃及棉一样透气
-{\fs10\shad2\1c&HC0C0C0&\b0}...yet it breathes like Egyptian cotton.{\r}
+00:41:59,350 --> 00:42:00,450
+没问题啊
+That could be arranged.
 
 702
-00:56:25,446 --> 00:56:28,904
-每一件超能装都有追踪装置
-{\fs10\shad2\1c&HC0C0C0&\b0}As an extra feature, each suit contains a homing device,{\r}
+00:42:00,450 --> 00:42:02,110
+风中飞  放开他
+Stormfly, drop it.
 
 703
-00:56:28,983 --> 00:56:33,249
-只要按一下按钮 就知道精确的位置
-{\fs10\shad2\1c&HC0C0C0&\b0}giving you the precise global location of the wearer at the touch of a button.{\r}
+00:42:02,120 --> 00:42:03,780
+什么
+Huh?
 
 704
-00:56:34,122 --> 00:56:36,989
-亲爱的，你觉得怎样？
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, darling? What do you think?{\r}
+00:42:04,780 --> 00:42:06,050
+好样的
+Good girl!
 
 705
-00:56:37,058 --> 00:56:41,995
-我觉得怎样？ 鲍伯跟我都退休了
-{\fs10\shad2\1c&HC0C0C0&\b0}What do l think? Bob is retired! l'm retired!{\r}
+00:42:06,050 --> 00:42:09,090
+风中飞  抓住他
+Stormfly, fetch.
 
 706
-00:56:42,063 --> 00:56:43,758
-我们全家都销声匿迹
-{\fs10\shad2\1c&HC0C0C0&\b0}Our family is underground.{\r}
+00:42:10,090 --> 00:42:11,190
+好吧
+All right!
 
 707
-00:56:43,831 --> 00:56:47,232
-你背着我 偷偷帮鲍伯重操旧业吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You helped my husband resume secret hero work behind my back?{\r}
+00:42:11,190 --> 00:42:14,160
+好吧  我带你们去找德拉戈
+Okay! I'll take you to Drago!
 
 708
-00:56:47,301 --> 00:56:49,496
-我以为你早就知道了
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, l assumed you knew, darling.{\r}
+00:42:16,060 --> 00:42:17,800
+百试不爽
+Works every time.
 
 709
-00:56:49,570 --> 00:56:52,471
-他为什么要瞒着你呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}Why would he keep secrets from you?{\r}
+00:42:25,970 --> 00:42:28,470
+我们不是要去吃东西吗
+Hey, I-I thought we were going to eat.
 
 710
-00:56:52,540 --> 00:56:55,532
-他从以前到现在都不会瞒着我
-{\fs10\shad2\1c&HC0C0C0&\b0}He wouldn't. Didn't. Doesn't.{\r}
+00:42:28,480 --> 00:42:30,240
+是啊
+Oh, we are.
 
 711
-00:56:55,610 --> 00:56:59,205
-他这年纪的男人很搞怪
-{\fs10\shad2\1c&HC0C0C0&\b0}Men at Robert's age are often unstable.{\r}
+00:43:01,040 --> 00:43:03,220
+之后  从龙之岛开始
+And then, from Dragon Island,
 
 712
-00:56:59,280 --> 00:57:01,612
-很容易受到诱惑
-{\fs10\shad2\1c&HC0C0C0&\b0}Prone to weakness.{\r}
+00:43:03,220 --> 00:43:04,310
+我又发现了这些群岛
+I found this archipelago...
 
 713
-00:57:01,682 --> 00:57:05,083
-什么意思？ 你知道他在哪儿吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What are you saying? Do you know where he is?{\r}
+00:43:11,250 --> 00:43:13,120
+好了
+There.
 
 714
-00:57:05,153 --> 00:57:08,953
-当然知道 你真的知道吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Of course. Do you know where he is?{\r}
+00:44:05,340 --> 00:44:07,310
+每次我身处高空
+Oh, when I'm up here,
 
 715
-00:58:39,744 --> 00:58:43,145
-这儿有人受伤 我们走吧
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, hey. We got a man down! Come on, let's go.{\r}
+00:44:07,310 --> 00:44:09,170
+甚至都感觉不到寒冷
+I don't even feel the cold.
 
 716
-00:58:46,885 --> 00:58:49,285
-发生什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}Are you okay? What happened?{\r}
+00:44:09,180 --> 00:44:10,540
+完全沉浸在...
+I just feel...
 
 717
-00:58:51,456 --> 00:58:54,687
-停止监控，展开攻击
-{\fs10\shad2\1c&HC0C0C0&\b0}Break surveillance and engage. Over. Continuing sweep...{\r}
+00:44:10,540 --> 00:44:12,880
+自由里
+Free.
 
 718
-01:00:22,180 --> 01:00:23,579
-密码
+00:44:15,620 --> 00:44:17,580
+这就是
+This is what it is
 
 719
-01:00:31,322 --> 01:00:32,448
-克罗诺斯
+00:44:17,580 --> 00:44:20,850
+成为龙的感觉  小嗝嗝
+to be a dragon, Hiccup.
 
 720
-01:00:33,058 --> 01:00:34,116
-小岛行动
+00:44:20,850 --> 00:44:22,920
+你完全可以
+It's all well and good
 
 721
-01:00:36,061 --> 01:00:39,121
-关心人寿 我是巴荷莉
-{\fs10\shad2\1c&HC0C0C0&\b0}Insuricare. Oh, hello. This is Helen Parr.{\r}
+00:44:22,920 --> 00:44:24,160
+自称为龙
+to call yourself a dragon,
 
 722
-01:00:39,197 --> 01:00:42,291
-巴鲍伯的太太 请你把他饭店的电话给我
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob Parr is my husband. l was wondering if you could give me{\r}
+00:44:24,160 --> 00:44:25,390
+不过你能飞吗
+but can you fly?
 
 723
-01:00:42,367 --> 01:00:46,531
-他给我的号码打不通
-{\fs10\shad2\1c&HC0C0C0&\b0}the number of the hotel he's staying at? The number l have is no good.{\r}
+00:44:46,980 --> 00:44:48,450
+哦不
+Oh, no!
 
 724
-01:00:46,604 --> 01:00:49,471
-巴先生不在本公司上班了 什么意思？
-{\fs10\shad2\1c&HC0C0C0&\b0}Mr. Parr no longer works here. What do you mean?{\r}
+00:44:58,960 --> 00:45:00,630
+伙计  真是千钧一发
+Man, almost!
 
 725
-01:00:49,541 --> 01:00:52,135
-公司派他去出差开会
-{\fs10\shad2\1c&HC0C0C0&\b0}He's on a business trip. A company retreat.{\r}
+00:45:00,630 --> 00:45:02,960
+我们这次差点就成功了
+We just about had it that time.
 
 726
-01:00:52,210 --> 01:00:55,145
-他在两个月前就被开除了
-{\fs10\shad2\1c&HC0C0C0&\b0}My records say he was terminated almost two months ago.{\r}
+00:45:08,230 --> 00:45:09,500
+棒极了
+Incredible.
 
 727
-01:00:55,313 --> 01:00:56,780
-财务状况 全能机器人 训练课程 超人特攻队
+00:45:09,500 --> 00:45:11,940
+你也不赖
+Well, not bad yourself.
 
 728
-01:01:25,977 --> 01:01:29,140
-你不知道他在哪儿
-{\fs10\shad2\1c&HC0C0C0&\b0}So, you don't know where he is.{\r}
+00:45:22,450 --> 00:45:26,020
+这么多年以来  你竟然这么像我
+All this time, you took after me.
 
 729
-01:01:31,116 --> 01:01:34,483
-你想知道吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Would you like to find out?{\r}
+00:45:26,020 --> 00:45:27,920
+可是
+And...
 
 730
-01:01:37,489 --> 01:01:38,922
-搜寻弹力女超人
+00:45:27,920 --> 00:45:29,690
+我却在哪里
+where was I?
 
 731
-01:01:39,891 --> 01:01:41,518
-尚未寻获
+00:45:30,920 --> 00:45:33,190
+我真的非常抱歉  小嗝嗝
+I'm so sorry, Hiccup.
 
 732
-01:01:46,231 --> 01:01:48,699
-搜寻酷冰侠 寻获
+00:45:33,190 --> 00:45:36,160
+我们重头再来可以吗
+Can we start over?
 
 733
-01:01:49,801 --> 01:01:50,597
-超能先生
+00:45:39,330 --> 00:45:42,100
+你能再给我一次机会吗
+Will you give me another chance?
 
 734
-01:01:59,009 --> 01:01:59,998
-全能机器人V.10
+00:45:44,570 --> 00:45:47,100
+我  我可以教你这二十年来
+I-I can teach you all that I've learned
 
 735
-01:02:00,911 --> 01:02:02,606
-克罗诺斯行动 第一阶段
+00:45:47,110 --> 00:45:50,110
+我学到的一切
+these past 20 years.
 
 736
-01:02:02,680 --> 01:02:04,648
-第一阶段、 第二阶段 第三阶段
+00:45:50,110 --> 00:45:51,610
+比如...
+Like...
 
 737
-01:02:05,749 --> 01:02:07,182
-克罗诺斯行动倒数计时
+00:45:57,250 --> 00:45:59,520
+现在你可以做急转弯了
+Now you can make those tight turns.
 
 738
-01:02:07,251 --> 01:02:10,049
-8小时10分后发射
+00:46:01,420 --> 00:46:03,690
+你知道你能这样吗
+Did you know about this?
 
 739
-01:02:50,761 --> 01:02:53,958
-我真是个傻瓜
-{\fs10\shad2\1c&HC0C0C0&\b0}l am such an idiot.{\r}
+00:46:03,690 --> 00:46:06,290
+每种龙
+Every dragon
 
 740
-01:02:54,031 --> 01:02:56,363
-我竟然都看不出来
-{\fs10\shad2\1c&HC0C0C0&\b0}l let this happen, you know.{\r}
+00:46:06,290 --> 00:46:08,530
+都有自己独特的秘密  而且
+has its secrets. And...
 
 741
-01:02:56,433 --> 01:03:00,426
-新车、瘦身、 染发 、谎言
-{\fs10\shad2\1c&HC0C0C0&\b0}The new sports car, the getting in shape, the blond hair, the lies.{\r}
+00:46:08,530 --> 00:46:10,560
+我会把这些都教给你
+I'll show them all to you.
 
 742
-01:03:00,504 --> 01:03:03,667
-他只是想重温旧梦
-{\fs10\shad2\1c&HC0C0C0&\b0}Yes, he attempts to relive the past.{\r}
+00:46:10,560 --> 00:46:13,100
+我们可以解开所有的谜题
+We'll unlock every mystery,
 
 743
-01:03:03,741 --> 01:03:07,575
-不！ 我会失去他 我该怎么办呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}Now l'm losing him! What'll l do? What'll l do?{\r}
+00:46:13,100 --> 00:46:16,170
+找到所有种族  母与子  我们俩一起
+find every last species... together, as mother and son.
 
 744
-01:03:07,645 --> 01:03:10,409
-你在哭个什么劲？
-{\fs10\shad2\1c&HC0C0C0&\b0}What are you talking about?{\r}
+00:46:22,740 --> 00:46:25,180
+我们共同拥有的这个天赋  小嗝嗝
+This gift we share, Hiccup,
 
 745
-01:03:11,682 --> 01:03:15,914
-你是弹力女超人耶 拜托你振作一点
-{\fs10\shad2\1c&HC0C0C0&\b0}You are Elastigirl! My God! Pull yourself together.{\r}
+00:46:25,180 --> 00:46:27,180
+把我们紧紧联系在了一起
+it bonds us.
 
 746
-01:03:15,986 --> 01:03:18,079
-你该怎么办？这还用问吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What will you do? ls this a question?{\r}
+00:46:27,180 --> 00:46:31,280
+这才是真实的你  儿子
+This is who you are, son.
 
 747
-01:03:18,155 --> 01:03:20,715
-你要向他证明你记得他是谁
-{\fs10\shad2\1c&HC0C0C0&\b0}Show him you remember that he is Mr. lncredible,{\r}
+00:46:31,280 --> 00:46:33,050
+真实的我们
+Who we are.
 
 748
-01:03:20,791 --> 01:03:23,726
-也要提醒他你是谁
-{\fs10\shad2\1c&HC0C0C0&\b0}and you will remind him who you are!{\r}
+00:46:33,050 --> 00:46:36,690
+我们可以改变龙族的世界
+We will change the world for all dragons.
 
 749
-01:03:23,794 --> 01:03:27,958
-你知道他在哪儿，快去找他 主动出击，赢得胜利
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, you know where he is. Go! Confront the problem! Fight! Win!{\r}
+00:46:36,690 --> 00:46:39,490
+把它变的更好更安全
+We will make it a better, safer place.
 
 750
-01:03:28,432 --> 01:03:32,266
-回来以后再找我 我很喜欢跟你聊天
-{\fs10\shad2\1c&HC0C0C0&\b0}And call me when you get back, darling. l enjoy our visits.{\r}
+00:46:39,490 --> 00:46:41,090
+好啊  我是说
+Yeah, I mean,
 
 751
-01:03:32,336 --> 01:03:34,930
-饿了就热剩菜来吃
-{\fs10\shad2\1c&HC0C0C0&\b0}There's lots of leftovers that you can reheat.{\r}
+00:46:41,090 --> 00:46:43,530
+听起来很棒
+that sounds amazing.
 
 752
-01:03:35,005 --> 01:03:39,032
-记得要盯小飞做功课 时间到了你们就乖乖睡觉
-{\fs10\shad2\1c&HC0C0C0&\b0}Make sure Dash does his homework. And both of you, get to bed on time.{\r}
+00:46:55,540 --> 00:46:57,580
+这简直太棒了
+Oh, this is so great!
 
 753
-01:03:39,109 --> 01:03:40,974
-我会很晚才回来
-{\fs10\shad2\1c&HC0C0C0&\b0}l should be back tonight. Late.{\r}
+00:46:57,580 --> 00:47:00,780
+你可以和我一起去和德拉戈谈谈
+Now you and I can go talk to Drago together.
 
 754
-01:03:41,045 --> 01:03:43,138
-你能当家作主吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}You can be in charge that long, can't you?{\r}
+00:47:00,780 --> 00:47:02,250
+什么
+What?
 
 755
-01:03:43,213 --> 01:03:45,943
-行，可是我干嘛当家作主？
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah. But why am l in charge again?{\r}
+00:47:02,250 --> 00:47:04,580
+跟德拉戈没什么好谈的
+There's no talking to Drago.
 
 756
-01:03:46,016 --> 01:03:48,484
-没事啦，只是爸爸有点麻烦
-{\fs10\shad2\1c&HC0C0C0&\b0}Nothing. Just a little trouble with Daddy.{\r}
+00:47:04,580 --> 00:47:06,080
+-但我们得  -不行
+- But we have to... - No.
 
 757
-01:03:48,552 --> 01:03:52,955
-你是说爸有麻烦 还是他就是麻烦？
-{\fs10\shad2\1c&HC0C0C0&\b0}You mean Dad's in trouble, or Dad is the trouble?{\r}
+00:47:06,090 --> 00:47:08,350
+我们必须保护我们的龙
+We must protect our own.
 
 758
-01:03:53,023 --> 01:03:56,925
-要是他没有麻烦 他的麻烦就大了
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean either he's in trouble, or he's going to be.{\r}
+00:47:08,350 --> 00:47:09,450
+走吧
+Come on.
 
 759
-01:04:03,100 --> 01:04:05,728
-那是什么？从哪来的？
-{\fs10\shad2\1c&HC0C0C0&\b0}What's that? Where'd you get that, Mom?{\r}
+00:47:09,460 --> 00:47:10,790
+我们该回去了
+We should be getting back.
 
 760
-01:04:05,803 --> 01:04:08,033
-那是你做的吗？ 要给我们穿的吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You made a cool outfit? Hey, are those for us?{\r}
+00:47:25,700 --> 00:47:28,070
+好了  我已经把你们带来了
+Okay, I got you here!
 
 761
-01:04:08,105 --> 01:04:09,629
-我们都有超酷的超能装耶
-{\fs10\shad2\1c&HC0C0C0&\b0}We all get cool outfits?{\r}
+00:47:28,070 --> 00:47:29,410
+快把这家伙弄走
+Now get this thing off me.
 
 762
-01:04:10,607 --> 01:04:13,371
-小飞，给我回来
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash! You come back here this moment!{\r}
+00:47:29,410 --> 00:47:31,210
+永远不要和龙抢玩具
+Never take a toy from a dragon.
 
 763
-01:04:14,845 --> 01:04:17,245
-小史，谢谢你回电
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Snug. Thanks for getting back.{\r}
+00:47:31,210 --> 00:47:32,710
+你怎么什么都不懂
+Don't you know anything?
 
 764
-01:04:17,314 --> 01:04:20,875
-这是急事，我想请你...
-{\fs10\shad2\1c&HC0C0C0&\b0}l know this is short notice, but l was hoping that l could...{\r}
+00:47:34,180 --> 00:47:36,610
+为什么倒霉的总是我
+Why does this keep happening to me?
 
 765
-01:04:20,951 --> 01:04:23,920
-这是什么？ 你看，我是飞毛腿
-{\fs10\shad2\1c&HC0C0C0&\b0}What are these? Look, l'm The Dash!{\r}
+00:47:51,100 --> 00:47:52,560
+那下面是什么啊
+What's down there?
 
 766
-01:04:23,988 --> 01:04:26,752
-飞毛腿很喜欢 等一下
-{\fs10\shad2\1c&HC0C0C0&\b0}The Dash likes. Just a second.{\r}
+00:47:54,430 --> 00:47:55,700
+吐出的水泡直径很大
+Large diameter bubbles,
 
 767
-01:04:26,824 --> 01:04:30,658
-快脱掉，别被人看到了 你自己也带了一件去
-{\fs10\shad2\1c&HC0C0C0&\b0}Take that off before somebody sees. You're packing one just like it.{\r}
+00:47:55,700 --> 00:47:57,470
+说明肺部巨大
+massive lungs,
 
 768
-01:04:30,728 --> 01:04:33,720
-你是不是瞒了什么事？ 我在讲电话
-{\fs10\shad2\1c&HC0C0C0&\b0}Are you hiding something? Please. l'm on the phone...{\r}
+00:47:57,470 --> 00:47:59,700
+居住在深海冰水里  我想
+cold water deep dweller, I'm thinking
 
 769
-01:04:33,797 --> 01:04:35,958
-小飞！ 这是你的，很特别哦
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash! This is yours. lt's specially made.{\r}
+00:47:59,710 --> 00:48:01,710
+应该是五级巨兽
+class five leviathan,
 
 770
-01:04:36,033 --> 01:04:39,400
-这是怎么回事？ 你们不能跟来，我要打包
-{\fs10\shad2\1c&HC0C0C0&\b0}What's going on? You're not coming! l gotta pack!{\r}
+00:48:01,710 --> 00:48:03,340
+或许有六级
+maybe six.
 
 771
-01:04:41,572 --> 01:04:43,563
-你怎么知道很特别？
-{\fs10\shad2\1c&HC0C0C0&\b0}What makes you think it's special?{\r}
+00:48:18,190 --> 00:48:19,120
+肉球  你怎么了  宝贝
+Meatlug, what's wrong, girl?
 
 772
-01:04:43,640 --> 01:04:46,575
-不晓得 不然妈干嘛要把它藏起来？
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know. Why'd Mom try to hide it?{\r}
+00:48:19,120 --> 00:48:19,990
+钩牙  振作啊
+Hookfang! Come on!
 
 773
-01:04:55,052 --> 01:04:58,510
-小史，你欠我一份人情
-{\fs10\shad2\1c&HC0C0C0&\b0}Snug, l'm calling in a solid you owe me.{\r}
+00:48:20,010 --> 00:48:21,290
+不许动
+Don't move!
 
 774
-01:04:58,589 --> 01:05:02,081
-你需要什么？ 一架喷射机，你有吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What do you need? A jet. What do you got that's fast?{\r}
+00:48:37,110 --> 00:48:38,680
+德拉戈
+Drago!
 
 775
-01:05:02,159 --> 01:05:04,650
-让我想想看
-{\fs10\shad2\1c&HC0C0C0&\b0}Let me think.{\r}
+00:48:43,280 --> 00:48:45,220
+放开我
+Get off me!
 
 776
-01:05:12,936 --> 01:05:15,871
-呼叫小岛 这是IG99号
-{\fs10\shad2\1c&HC0C0C0&\b0}lsland approach. lndia Golf niner-niner checking in.{\r}
+00:48:46,490 --> 00:48:48,690
+见到你总是很高兴  我的朋友
+Always great to see you, my friend.
 
 777
-01:05:15,939 --> 01:05:18,499
-进行目测飞行，请回答
-{\fs10\shad2\1c&HC0C0C0&\b0}VFR on top. Over.{\r}
+00:48:48,690 --> 00:48:50,820
+在这儿取暖呢
+Keeping warm up here?
 
 778
-01:05:20,511 --> 01:05:23,503
-呼叫塔台，这是IG99号
-{\fs10\shad2\1c&HC0C0C0&\b0}lsland tower, this is lndia Golf niner-niner{\r}
+00:48:54,360 --> 00:48:56,890
+如你所见  我可是准时
+Well, as you can see, I am right on time
 
 779
-01:05:23,580 --> 01:05:26,606
-请给我降落座标，请回答
-{\fs10\shad2\1c&HC0C0C0&\b0}requesting vectors to the initial. Over.{\r}
+00:48:56,900 --> 00:48:58,830
+带了一批新龙过来哦
+with a new batch of dragons,
 
 780
-01:05:36,560 --> 01:05:39,154
-荷莉，放轻松
-{\fs10\shad2\1c&HC0C0C0&\b0}Easy, Helen. Easy. Easy, girl.{\r}
+00:48:58,830 --> 00:49:00,230
+和我保证的一样
+just like I promised.
 
 781
-01:05:39,229 --> 01:05:43,825
-你在穷紧张，不会有事 他们只是...去喝咖啡
-{\fs10\shad2\1c&HC0C0C0&\b0}You're overreacting. Everything's fine. They're just all getting coffee.{\r}
+00:49:00,230 --> 00:49:01,830
+他要醒过来了  拉住他
+He's waking up! Drop the ropes!
 
 782
-01:05:44,568 --> 01:05:48,971
-大家都一起去，没错
-{\fs10\shad2\1c&HC0C0C0&\b0}At the same time. Yeah.{\r}
+00:49:01,830 --> 00:49:03,400
+来人支援一下
+Give me some backup here!
 
 783
-01:05:52,976 --> 01:05:53,965
-自动驾驶
+00:49:03,400 --> 00:49:04,900
+小心
+Watch out!
 
 784
-01:06:01,752 --> 01:06:05,654
-你真的是超能先生
-{\fs10\shad2\1c&HC0C0C0&\b0}You sir, truly are ''Mr. lncredible''.{\r}
+00:49:04,900 --> 00:49:06,500
+放下绳子
+Drop the ropes.
 
 785
-01:06:05,722 --> 01:06:07,553
-难怪当年我那么崇拜你
-{\fs10\shad2\1c&HC0C0C0&\b0}l was right to idolize you.{\r}
+00:49:39,400 --> 00:49:41,270
+钩牙
+Hookfang!
 
 786
-01:06:07,624 --> 01:06:10,252
-我知道你很强 你利用一具骷髅
-{\fs10\shad2\1c&HC0C0C0&\b0}l always knew you were tough, but tricking the probe{\r}
+00:49:41,270 --> 00:49:42,610
+你在干什么
+What are you doing?!
 
 787
-01:06:10,327 --> 01:06:14,263
-躲过扫描侦测，真是了不起
-{\fs10\shad2\1c&HC0C0C0&\b0}by hiding under the bones of another super? Oh, man!{\r}
+00:49:42,610 --> 00:49:46,280
+你如今属于我了
+You belong to me now.
 
 788
-01:06:14,331 --> 01:06:16,765
-我佩服得五体投地
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm still geeking out about it!{\r}
+00:49:47,550 --> 00:49:49,710
+另外作为额外赠送的礼物
+And as an added bonus,
 
 789
-01:06:18,202 --> 01:06:21,603
-可是你偏偏要让我大失所望
-{\fs10\shad2\1c&HC0C0C0&\b0}And then you had to just go and ruin the ride.{\r}
+00:49:49,720 --> 00:49:52,320
+我还把他们的骑手给你抓来了
+I also caught you their riders.
 
 790
-01:06:21,672 --> 01:06:26,666
-超能先生向人求救？ 救救我！救救我！
-{\fs10\shad2\1c&HC0C0C0&\b0}l mean, Mr. lncredible calling for help? ''Help me, help me.''{\r}
+00:49:52,320 --> 00:49:53,520
+不另外收费哦
+No extra charge.
 
 791
-01:06:26,743 --> 01:06:29,143
-逊毙了
-{\fs10\shad2\1c&HC0C0C0&\b0}Lame, lame, lame.{\r}
+00:49:53,520 --> 00:49:55,750
+什么  你在开什么玩笑
+What? Are you kidding me?
 
 792
-01:06:29,213 --> 01:06:33,912
-你跟谁联络？ 联络？你在说什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}All right, who did you contact? Contact? What are you talking about?{\r}
+00:49:55,760 --> 00:49:57,860
+但你之前真是太完美了
+But you were so perfect!
 
 793
-01:06:38,589 --> 01:06:41,422
-昨晚23时07分
-{\fs10\shad2\1c&HC0C0C0&\b0}l am referring to last night at 2307 hours{\r}
+00:49:57,860 --> 00:50:00,390
+我后来发现  有好大一群龙骑士
+Turns out there's a whole bunch of them out there.
 
 794
-01:06:41,492 --> 01:06:44,518
-你偷偷摸摸发送了追踪信号
-{\fs10\shad2\1c&HC0C0C0&\b0}while you were snooping around. You sent out a homing signal.{\r}
+00:50:00,390 --> 00:50:02,230
+他们攻击了...
+They attacked...
 
 795
-01:06:44,595 --> 01:06:47,792
-我根本就不知道这件事
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't know about the homing device.{\r}
+00:50:02,230 --> 00:50:03,890
+有多少
+How many?
 
 796
-01:06:48,732 --> 01:06:49,756
-危险
+00:50:03,900 --> 00:50:06,600
+原来德拉戈没抓住他们
+Drago doesn't have them after all.
 
 797
-01:06:52,269 --> 01:06:56,638
-有一架政府专机要求降落
-{\fs10\shad2\1c&HC0C0C0&\b0}And now a government plane is requesting permission to land here.{\r}
+00:50:06,600 --> 00:50:07,930
+-有多少  -上百个
+- How many? - Hundreds.
 
 798
-01:06:56,707 --> 01:06:59,733
-你到底跟谁联络？ 我没有跟任何人联络
-{\fs10\shad2\1c&HC0C0C0&\b0}Who did you contact? l didn't send for a plane.{\r}
+00:50:07,930 --> 00:50:09,530
+有满满一岛的人呢
+A whole island full.
 
 799
-01:06:59,810 --> 01:07:01,744
-播放通话内容
-{\fs10\shad2\1c&HC0C0C0&\b0}Play the transmission.{\r}
+00:50:09,540 --> 00:50:11,570
+我倒是不担心
+I wouldn't worry about it.
 
 800
-01:07:02,646 --> 01:07:06,446
-这是IG99号，请回答 荷莉！
-{\fs10\shad2\1c&HC0C0C0&\b0}India golf niner-niner checking in. Helen!{\r}
+00:50:11,570 --> 00:50:14,840
+说话这会儿我的人就在追捕他们呢
+My men are hunting them down as we speak.
 
 801
-01:07:06,517 --> 01:07:09,714
-你果然认识他们
-{\fs10\shad2\1c&HC0C0C0&\b0}So you do know these people.{\r}
+00:50:14,840 --> 00:50:16,540
+他们不会发现你的藏身之处的
+They won't know where you're hiding.
 
 802
-01:07:09,786 --> 01:07:12,653
-那我就要好好欢迎他们
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, then, l'll send them a little greeting.{\r}
+00:50:16,540 --> 00:50:17,980
+我向你保证
+I promise you that.
 
 803
-01:07:16,293 --> 01:07:18,557
-小倩！ 不是我的错
-{\fs10\shad2\1c&HC0C0C0&\b0}Violet! lt's not my fault.{\r}
+00:50:17,980 --> 00:50:20,240
+他们会发现的  他们知道我们失踪了
+Oh, yes, they will! They know we're missing,
 
 804
-01:07:18,629 --> 01:07:20,995
-是小飞先躲进来 我就知道你会怪我
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash ran away, l knew l'd get blamed for it.{\r}
+00:50:20,250 --> 00:50:22,310
+而且他们有会追踪的龙
+and they have tracking dragons.
 
 805
-01:07:21,064 --> 01:07:22,622
-才不是
-{\fs10\shad2\1c&HC0C0C0&\b0}That's not true!{\r}
+00:50:22,320 --> 00:50:24,820
+如果你敢碰我们  小嗝嗝会狠狠揍...
+If you so much as touch us, Hiccup is gonna kick...
 
 806
-01:07:22,699 --> 01:07:25,668
-是你说要查出妈在搞什么鬼
-{\fs10\shad2\1c&HC0C0C0&\b0}You said, ''Something's up with Mom. We have to find out what.{\r}
+00:50:24,820 --> 00:50:26,780
+-小嗝嗝  -他不会坏你的事儿的
+- Hiccup? - He's not a problem.
 
 807
-01:07:25,736 --> 01:07:29,331
-才不是呢 这全都是你的主意
-{\fs10\shad2\1c&HC0C0C0&\b0}...and it's not my fault! Hundred percent all-yours idea!{\r}
+00:50:26,790 --> 00:50:28,850
+真的  相信我
+Really, trust me.
 
 808
-01:07:29,406 --> 01:07:32,307
-慢着，你们丢下小杰吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait a minute. You left Jack-Jack alone?{\r}
+00:50:28,850 --> 00:50:31,260
+他是伟岸的史推克之子
+He's only the son of Stoick the Vast,
 
 809
-01:07:32,376 --> 01:07:35,277
-我有那么笨吗？ 我当然找了保姆啰
-{\fs10\shad2\1c&HC0C0C0&\b0}Of course we got a sitter. We got someone, Mom.{\r}
+00:50:31,260 --> 00:50:33,260
+是博克岛首领的继承人
+his heir to the throne of Berk,
 
 810
-01:07:35,345 --> 01:07:37,711
-我才不会那么不负责任呢 多谢了
-{\fs10\shad2\1c&HC0C0C0&\b0}We wouldn't do that. Thanks a lot!{\r}
+00:50:33,260 --> 00:50:36,760
+还是有史以来最棒的驯龙大师
+and the greatest dragon master this world has ever seen.
 
 811
-01:07:37,781 --> 01:07:40,807
-你找了谁？
-{\fs10\shad2\1c&HC0C0C0&\b0}All right, well, who'd you get?{\r}
+00:50:36,760 --> 00:50:38,800
+驯龙大师
+"Dragon master"?
 
 812
-01:07:40,884 --> 01:07:43,352
-你放心啦，巴太太 我超会带小孩
-{\fs10\shad2\1c&HC0C0C0&\b0}You don't have to worry about one thing.{\r}
+00:50:38,800 --> 00:50:42,470
+我是唯一一个能控制龙的人
+I alone control the dragons.
 
 813
-01:07:43,420 --> 01:07:46,821
-我上过课，学过心肺复苏术
-{\fs10\shad2\1c&HC0C0C0&\b0}l've got babysitting wired. l've taken courses, learned CPR,{\r}
+00:50:42,470 --> 00:50:44,110
+-并不是呢  -不好意思哦
+- Nope, mm-mm. - Sorry!
 
 814
-01:07:46,890 --> 01:07:50,121
-我以优异的成绩拿到证书 凯莉
-{\fs10\shad2\1c&HC0C0C0&\b0}excellent marks and certificates. Kari.{\r}
+00:50:45,200 --> 00:50:48,210
+除非你放我们走  马上就放
+And unless you let us go right now,
 
 815
-01:07:50,194 --> 01:07:52,458
-他睡着后我会放莫札特的音乐
-{\fs10\shad2\1c&HC0C0C0&\b0}l brought Mozart to play while he sleeps{\r}
+00:50:48,600 --> 00:50:50,830
+不然他将会骑着他的夜煞袭卷这里
+he will blast through here on his Night Fury
 
 816
-01:07:52,529 --> 01:07:55,464
-专家说 宝宝听莫札特会变聪明哦
-{\fs10\shad2\1c&HC0C0C0&\b0}because leading experts say Mozart makes babies smarter.{\r}
+00:50:50,830 --> 00:50:53,070
+然后把你的整支船队
+and blow your entire fleet of ships
 
 817
-01:07:55,532 --> 01:07:56,624
-凯莉
-{\fs10\shad2\1c&HC0C0C0&\b0}Kari...{\r}
+00:50:53,070 --> 00:50:54,410
+卷成碎片
+to splinters.
 
 818
-01:07:56,700 --> 01:07:59,601
-而且他在睡觉，根本就不用听
-{\fs10\shad2\1c&HC0C0C0&\b0}The beauty is they don't have to listen 'cause they're asleep!{\r}
+00:50:54,410 --> 00:50:56,410
+然后他们会像小宝宝一样哭泣
+Then they'll be crying like babies.
 
 819
-01:07:59,670 --> 01:08:01,638
-我小时候 我爸妈没放莫札特给我听
-{\fs10\shad2\1c&HC0C0C0&\b0}l wish my parents played Mozart{\r}
+00:50:56,980 --> 00:50:57,900
+真是幽默风趣
+Funny and beautiful.
 
 820
-01:08:01,705 --> 01:08:04,799
-所以现在我都听不懂别人的话
-{\fs10\shad2\1c&HC0C0C0&\b0}because half the time l don't know what anyone's talking about.{\r}
+00:50:57,900 --> 00:50:58,780
+说得好  宝贝儿
+Good one, babe.
 
 821
-01:08:04,875 --> 01:08:08,367
-我觉得这不太妥当
-{\fs10\shad2\1c&HC0C0C0&\b0}Kari, l really don't feel comfortable with this.{\r}
+00:50:58,780 --> 00:51:00,450
+没错  像小宝宝一样哭泣
+Yeah. Like babies.
 
 822
-01:08:08,445 --> 01:08:11,505
-我要另请高明，你的钱照付
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll pay you for your trouble, but l'd rather call a service.{\r}
+00:51:00,450 --> 00:51:01,780
+他们总是哭个不停
+They always cry.
 
 823
-01:08:11,582 --> 01:08:13,516
-不用啦，巴太太
-{\fs10\shad2\1c&HC0C0C0&\b0}There's really no need, Mrs. Parr.{\r}
+00:51:01,780 --> 00:51:02,690
+真是群小不点
+Real tiny ones.
 
 824
-01:08:13,584 --> 01:08:16,280
-我能照顾你的小宝宝
-{\fs10\shad2\1c&HC0C0C0&\b0}l can totally handle anything this baby can dish out.{\r}
+00:51:02,690 --> 00:51:05,020
+起先  你说只有一个龙骑士
+First there was one rider,
 
 825
-01:08:16,353 --> 01:08:19,015
-对不对呀？我会照顾你
-{\fs10\shad2\1c&HC0C0C0&\b0}Can't l, little baby? l can handle it.{\r}
+00:51:05,020 --> 00:51:07,690
+现在整个博克岛都是了
+and now all of Berk?
 
 826
-01:08:19,089 --> 01:08:20,681
-谁来照顾你呀？
-{\fs10\shad2\1c&HC0C0C0&\b0}Who can handle it?{\r}
+00:51:07,690 --> 00:51:10,590
+而且你还带着他们找上门来了
+And you led them to me!
 
 827
-01:08:28,632 --> 01:08:31,567
-IG99号紧急呼叫
-{\fs10\shad2\1c&HC0C0C0&\b0}lndia Golf niner-niner transmitting in the blind guard.{\r}
+00:51:10,600 --> 00:51:13,360
+德拉戈
+Drago...!
 
 828
-01:08:31,635 --> 01:08:33,535
-请解除飞弹
-{\fs10\shad2\1c&HC0C0C0&\b0}Disengage. Repeat, disengage.{\r}
+00:51:13,370 --> 00:51:16,370
+停下一切准备工作
+Stop all preparations!
 
 829
-01:09:04,001 --> 01:09:05,730
-快解除! 快解除!
-{\fs10\shad2\1c&HC0C0C0&\b0}Disengage. Repeat, disengage.{\r}
+00:51:16,370 --> 00:51:20,400
+我们必须得马上出击龙骑士的老巢
+We must attack the dragon riders' nest at once!
 
 830
-01:09:05,802 --> 01:09:07,736
-这是友机 快解除飞弹
-{\fs10\shad2\1c&HC0C0C0&\b0}Friendlies... No! Call off the missiles.{\r}
+00:51:20,410 --> 00:51:23,770
+我们要干掉他们龙王
+We will take down their Alpha.
 
 831
-01:09:07,804 --> 01:09:11,934
-我什么都肯做 太晚了，晚了十五年
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll do anything. Too late. Fifteen years too late.{\r}
+00:51:23,780 --> 00:51:27,680
+然后占领整个博克岛
+Then we will take Berk!
 
 832
-01:09:13,610 --> 01:09:14,599
-推动器
-{\fs10\shad2\1c&HC0C0C0&\b0}Friendlies two-zero miles south-southwest of your position.{\r}
+00:51:28,910 --> 00:51:30,510
+德拉戈
+Drago!
 
 833
-01:09:15,412 --> 01:09:19,246
-这是友机，32英哩以南 高度一万英尺，请解除飞弹
-{\fs10\shad2\1c&HC0C0C0&\b0}Angels ten. Track east. Disengage.{\r}
+00:51:30,520 --> 00:51:31,720
+干掉他
+And get rid of him.
 
 834
-01:09:19,316 --> 01:09:21,910
-小倩，快发出防护罩
-{\fs10\shad2\1c&HC0C0C0&\b0}Vi! Put a force field around the plane.{\r}
+00:51:31,720 --> 00:51:34,790
+德拉戈  拜托  我...
+Drago, please, I...
 
 835
-01:09:21,985 --> 01:09:23,680
-你不准我用超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}You said not to use our powers.{\r}
+00:51:40,330 --> 00:51:42,290
+风中飞
+Stormfly!
 
 836
-01:09:23,754 --> 01:09:26,086
-我知道，现在听我的话
-{\fs10\shad2\1c&HC0C0C0&\b0}l know what l said. Listen to what l'm saying now!{\r}
+00:51:45,600 --> 00:51:47,460
+不
+No!
 
 837
-01:09:26,156 --> 01:09:28,420
-请解除飞弹
-{\fs10\shad2\1c&HC0C0C0&\b0}Disengage. Repeat, disengage!{\r}
+00:51:58,380 --> 00:52:00,510
+伙计...
+Well, bud...
 
 838
-01:09:33,096 --> 01:09:35,758
-妈？ 小倩！
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom? Violet!{\r}
+00:52:00,510 --> 00:52:03,610
+我们不能等着德拉戈来攻击这地方
+We can't wait around for Drago to attack this place.
 
 839
-01:09:35,832 --> 01:09:38,995
-求救，这是友机，请解除飞弹
-{\fs10\shad2\1c&HC0C0C0&\b0}Mayday. lndia Golf niner-niner is buddy-spiked. Abort!{\r}
+00:52:03,620 --> 00:52:05,550
+我们得先一步找到他
+We've got to find him first.
 
 840
-01:09:39,069 --> 01:09:40,468
-机上有小孩
-{\fs10\shad2\1c&HC0C0C0&\b0}There are children aboard.{\r}
+00:52:12,730 --> 00:52:13,790
+走吧
+Let's go.
 
 841
-01:09:40,537 --> 01:09:42,903
-机上有小孩 不！
-{\fs10\shad2\1c&HC0C0C0&\b0}There are children aboard! No!{\r}
+00:52:16,000 --> 00:52:17,700
+淡定
+Easy now.
 
 842
-01:09:44,608 --> 01:09:47,577
-发出防护罩保护我们 我没发过这么大的防护罩
-{\fs10\shad2\1c&HC0C0C0&\b0}Put a field around us now! l've never done one that big.{\r}
+00:52:17,700 --> 00:52:19,760
+你开什么玩笑  你是怎么进来这里的
+Are you kidding me? How did you get in here?
 
 843
-01:09:47,644 --> 01:09:48,736
-快点
-{\fs10\shad2\1c&HC0C0C0&\b0}Do it now!{\r}
+00:52:19,770 --> 00:52:21,330
+我们怎么进来就怎么出去
+The same way we're getting you out.
 
 844
-01:09:50,280 --> 01:09:51,474
-请取消攻击
-{\fs10\shad2\1c&HC0C0C0&\b0}Abort, abort, abort!{\r}
+00:52:21,330 --> 00:52:23,030
+-我们  -安全
+- "We"? - All clear.
 
 845
-01:09:53,884 --> 01:09:55,408
-取消攻击...
-{\fs10\shad2\1c&HC0C0C0&\b0}Abort, abort, abort!{\r}
+00:52:23,040 --> 00:52:24,940
+-没牙仔  跟上  -等等  等等
+- Toothless, come. - Uh, wait, uh, wait...
 
 846
-01:10:26,650 --> 01:10:28,515
-准备好
-{\fs10\shad2\1c&HC0C0C0&\b0}Brace yourselves!{\r}
+00:52:24,940 --> 00:52:27,670
+好吧  爸  有...有件事你得知道
+Okay, uh, dad, there-there's something you need to know.
 
 847
-01:10:34,725 --> 01:10:37,785
-妈！ 大家都冷静下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom! Everybody calm down.{\r}
+00:52:27,670 --> 00:52:28,740
+行  行  路上再说
+Yeah, yeah, tell me on the way.
 
 848
-01:10:37,861 --> 01:10:39,852
-我们一定要冷静
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll tell you what we're not gonna do.{\r}
+00:52:28,740 --> 00:52:31,740
+这可不是什么可以"路上再说"的问题
+Well, this isn't an "on the way" kind of update, actually.
 
 849
-01:10:39,930 --> 01:10:42,398
-绝对不能惊慌，小心！
-{\fs10\shad2\1c&HC0C0C0&\b0}We're not gonna panic, we're not... Look out!{\r}
+00:52:31,740 --> 00:52:32,940
+我不想再听了  小嗝嗝
+I've heard enough, Hiccup.
 
 850
-01:10:53,610 --> 01:10:56,441
-这是谁的馊主意？ 我们该怎么办？ 这是谁的馊主意？ 我们该怎么办？
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, my God! Who's idea was this? What are we gonna do? Oh, my God! Who's idea was this? What are we gonna do?{\r}
+00:52:32,950 --> 00:52:34,610
+还有更多惊天动地的
+More-more of the earth-shattering
 
 851
-01:10:56,513 --> 01:10:58,708
-我们死定了！ 死定了！
-{\fs10\shad2\1c&HC0C0C0&\b0}We're dead! We're dead!{\r}
+00:52:34,610 --> 00:52:35,780
+事件发展和变化
+development variety.
 
 852
-01:10:58,782 --> 01:11:01,478
-飞机被炸成碎片 没被炸死也会被淹死
-{\fs10\shad2\1c&HC0C0C0&\b0}lt blew up! We survived but we're dead!{\r}
+00:52:35,780 --> 00:52:37,410
+是啊是啊  又一件
+Yeah, just add it to pile.
 
 853
-01:11:01,551 --> 01:11:03,143
-别吵了
-{\fs10\shad2\1c&HC0C0C0&\b0}Stop it!{\r}
+00:52:37,420 --> 00:52:39,020
+没错  我
+Yeah, I,
 
 854
-01:11:03,920 --> 01:11:05,888
-我们不会死
-{\fs10\shad2\1c&HC0C0C0&\b0}We are not gonna die!{\r}
+00:52:39,020 --> 00:52:42,390
+爸  和其他大部分我告诉你的"惊喜"不同
+dad, unlike most surprises I spring on you,
 
 855
-01:11:05,956 --> 01:11:07,787
-你们不冷静下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Both of you will get a grip.{\r}
+00:52:42,390 --> 00:52:44,690
+我保证你会喜欢这个的
+this is one you'll like, I promise.
 
 856
-01:11:07,858 --> 01:11:10,292
-我就罚你们禁足一个月
-{\fs10\shad2\1c&HC0C0C0&\b0}Or so help me l will ground you for a month!{\r}
+00:52:44,690 --> 00:52:46,720
+只不过你需要小心消化一下
+You just have to handle it delicately.
 
 857
-01:11:10,360 --> 01:11:12,191
-明白吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Understand?{\r}
+00:52:46,730 --> 00:52:48,690
+所以...
+So...
 
 858
-01:11:12,796 --> 01:11:16,664
-确认击中目标，目标遭到毁灭
-{\fs10\shad2\1c&HC0C0C0&\b0}We have a confirmed hit. Target was destroyed.{\r}
+00:52:50,560 --> 00:52:53,730
+也许你会想自己处理一下这个
+You might want to take this one.
 
 859
-01:11:16,733 --> 01:11:18,758
-你不会难过太久的
-{\fs10\shad2\1c&HC0C0C0&\b0}You'll get over it.{\r}
+00:52:53,730 --> 00:52:55,530
+什么
+Huh?
 
 860
-01:11:18,835 --> 01:11:22,566
-我记得你说你习惯一个人
-{\fs10\shad2\1c&HC0C0C0&\b0}l seem to recall you prefer to ''work alone''.{\r}
+00:52:55,530 --> 00:52:57,130
+天啊
+Oh, boy.
 
 861
-01:11:32,382 --> 01:11:34,816
-放了我，快点
-{\fs10\shad2\1c&HC0C0C0&\b0}Release me. Now!{\r}
+00:52:59,450 --> 00:53:02,510
+爸爸  能请您把剑放下吗
+Dad, could you put the sword away, please?
 
 862
-01:11:34,885 --> 01:11:37,979
-要不然呢？ 我就把她捏扁
-{\fs10\shad2\1c&HC0C0C0&\b0}Or what? l'll crush her.{\r}
+00:53:14,090 --> 00:53:17,860
+我知道你想要说什么  史推克
+I know what you're gonna say, Stoick.
 
 863
-01:11:38,054 --> 01:11:40,750
-你好狠哦，有胆就动手呀
-{\fs10\shad2\1c&HC0C0C0&\b0}That sounds a little dark for you. Well, go ahead.{\r}
+00:53:17,860 --> 00:53:20,120
+我怎么能那么做
+How could I have done this?
 
 864
-01:11:40,824 --> 01:11:43,759
-这就跟捏断牙签一样容易
-{\fs10\shad2\1c&HC0C0C0&\b0}lt'll be easy. Like breaking a toothpick.{\r}
+00:53:21,590 --> 00:53:23,630
+这些年来一直躲在外面
+Stayed away all of these years,
 
 865
-01:11:43,827 --> 01:11:45,624
-证明给我看
-{\fs10\shad2\1c&HC0C0C0&\b0}Show me.{\r}
+00:53:23,630 --> 00:53:25,700
+还有为什么我没有回到你身边
+and why didn't I come back to you?
 
 866
-01:11:58,074 --> 01:12:00,269
-我就知道你狠不下心
-{\fs10\shad2\1c&HC0C0C0&\b0}l knew you couldn't do it.{\r}
+00:53:25,700 --> 00:53:27,660
+回到儿子身边
+To our son?
 
 867
-01:12:00,343 --> 01:12:03,540
-就算你全都豁出去了
-{\fs10\shad2\1c&HC0C0C0&\b0}Even when you have nothing to lose.{\r}
+00:53:28,930 --> 00:53:32,600
+我看到了任何你可能会改变的希望吗  史推克
+What sign did I have that you could change, Stoick?
 
 868
-01:12:03,613 --> 01:12:05,274
-你太懦弱了
-{\fs10\shad2\1c&HC0C0C0&\b0}You're weak.{\r}
+00:53:32,610 --> 00:53:34,890
+或者是博克岛的人可能会改变的希望
+That anyone on Berk could?
 
 869
-01:12:05,348 --> 01:12:07,509
-我比你强太多了
-{\fs10\shad2\1c&HC0C0C0&\b0}And l've outgrown you.{\r}
+00:53:35,640 --> 00:53:37,910
+我祈求了这么多次
+I pleaded so many times
 
 870
-01:12:17,260 --> 01:12:21,526
-那些是短程飞弹 从地面发射
-{\fs10\shad2\1c&HC0C0C0&\b0}Those were short-range missiles. Land-based.{\r}
+00:53:37,910 --> 00:53:39,910
+希望你们停止战争  去寻找其他解决方法
+to stop the fighting, to find another answer,
 
 871
-01:12:21,598 --> 01:12:23,293
-我们最好往那儿去
-{\fs10\shad2\1c&HC0C0C0&\b0}That way is our best bet.{\r}
+00:53:39,910 --> 00:53:41,710
+但是你们有人听过我的话吗
+but did any of you listen?
 
 872
-01:12:23,366 --> 01:12:26,199
-你想要自投罗网吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}You want to go toward the people that tried to kill us?{\r}
+00:53:41,710 --> 00:53:43,180
+这就是我不结婚的原因
+This is why I never married.
 
 873
-01:12:26,269 --> 01:12:30,365
-陆地在那儿 你要我们游过去吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}lf it means land, yes. Do you expect us to swim there?{\r}
+00:53:43,180 --> 00:53:46,450
+这是一个原因  还有另一个
+This, and one other reason.
 
 874
-01:12:30,440 --> 01:12:33,773
-我要你们相信我
-{\fs10\shad2\1c&HC0C0C0&\b0}l expect you to trust me.{\r}
+00:53:47,380 --> 00:53:50,790
+我知道我留你独自一个人抚养小嗝嗝
+I know that I left you to raise Hiccup alone,
 
 875
-01:13:34,538 --> 01:13:36,631
-好孩子
-{\fs10\shad2\1c&HC0C0C0&\b0}What a trooper.{\r}
+00:53:50,790 --> 00:53:53,820
+但我想着没有我在身边  他会更好
+but I thought he'd be better off without me,
 
 876
-01:13:36,706 --> 01:13:38,833
-我真是以你为荣
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm so proud of you.{\r}
+00:53:53,830 --> 00:53:55,430
+但是我错了
+and I was wrong.
 
 877
-01:13:38,909 --> 01:13:41,002
-谢了，妈
-{\fs10\shad2\1c&HC0C0C0&\b0}Thanks, Mom.{\r}
+00:53:55,430 --> 00:53:56,990
+如今我看清了这一点  但是...
+I see that now, but...
 
 878
-01:13:46,716 --> 01:13:49,708
-我想爸爸一定有了麻烦
-{\fs10\shad2\1c&HC0C0C0&\b0}l think your father is in trouble.{\r}
+00:53:58,600 --> 00:54:01,470
+别这么一言不发的  史推克
+Stop being so stoic, Stoick.
 
 879
-01:13:49,786 --> 01:13:52,619
-也许你没看到 我们的麻烦也不小耶
-{\fs10\shad2\1c&HC0C0C0&\b0}lf you haven't noticed, we're not doing so hot either.{\r}
+00:54:01,470 --> 00:54:02,680
+快啊
+Go on,
 
 880
-01:13:52,689 --> 01:13:54,020
-我要去找他
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm going to look for him.{\r}
+00:54:02,680 --> 00:54:05,800
+大吼  大叫  说点什么
+shout, scream, say something!
 
 881
-01:13:54,090 --> 01:13:56,854
-我回来之前你要当家作主
-{\fs10\shad2\1c&HC0C0C0&\b0}And that means you're in charge until l get back, Violet.{\r}
+00:54:09,940 --> 00:54:13,780
+你还是和我失去你的那天一般美丽
+You're as beautiful as the day I lost you.
 
 882
-01:13:56,927 --> 01:13:59,157
-什么？ 你听到了
-{\fs10\shad2\1c&HC0C0C0&\b0}What? You heard her.{\r}
+00:54:47,880 --> 00:54:49,040
+这一天还能更糟糕吗
+Could this day get any worse?
 
 883
-01:14:01,598 --> 01:14:05,125
-戴上眼罩 你们的身份很宝贵
-{\fs10\shad2\1c&HC0C0C0&\b0}Put these on. Your identity is your most valuable possession.{\r}
+00:54:49,060 --> 00:54:50,210
+让我瞧瞧
+Uh, let me see.
 
 884
-01:14:05,201 --> 01:14:06,190
-一定要保护好
-{\fs10\shad2\1c&HC0C0C0&\b0}Protect it.{\r}
+00:54:50,220 --> 00:54:51,820
+我们就要跳进冰冷的水里
+We're gonna jump into freezing cold water
 
 885
-01:14:06,269 --> 01:14:09,204
-要是有危险就使用超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}And if anything goes wrong, use your powers.{\r}
+00:54:51,840 --> 00:54:53,250
+然后被淹死了
+and then die from drowning.
 
 886
-01:14:09,272 --> 01:14:11,934
-可是你以前说... 我知道我以前怎么说
-{\fs10\shad2\1c&HC0C0C0&\b0}But you said never to use... l know what l said!{\r}
+00:54:53,250 --> 00:54:54,950
+看起来真凉爽
+Looks refreshing.
 
 887
-01:14:15,211 --> 01:14:19,739
-记得电视卡通里 出现的那些坏人吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Remember the bad guys on those shows you used to watch on Saturday mornings?{\r}
+00:54:54,950 --> 00:54:57,150
+请吧  女士优先
+Please, ladies first.
 
 888
-01:14:19,816 --> 01:14:23,217
-这些坏人跟那些坏人不同
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, these guys are not like those guys.{\r}
+00:54:58,540 --> 00:55:01,590
+你就是一坨龙大便
+You are a steaming heap of dragon.
 
 889
-01:14:23,286 --> 01:14:26,813
-他们不会因为 你们是小孩放过你们
-{\fs10\shad2\1c&HC0C0C0&\b0}They won't exercise restraint because you're children.{\r}
+00:55:01,590 --> 00:55:02,240
+蹲下
+Duck.
 
 890
-01:14:26,890 --> 01:14:30,087
-他们逮到机会就会杀了你们
-{\fs10\shad2\1c&HC0C0C0&\b0}They will kill you if they get the chance.{\r}
+00:55:06,130 --> 00:55:07,060
+快去警告其他人
+Warn the others!
 
 891
-01:14:30,160 --> 01:14:32,390
-别让他们逮到机会
-{\fs10\shad2\1c&HC0C0C0&\b0}Do not give them that chance.{\r}
+00:55:07,070 --> 00:55:08,930
+抓住他们  艾瑞特
+Get them, you son of an Eret.
 
 892
-01:14:32,462 --> 01:14:34,623
-妈？ 小倩，我都靠你了
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom? Vi, l'm counting on you.{\r}
+00:55:10,570 --> 00:55:12,040
+接招
+Take that!
 
 893
-01:14:34,698 --> 01:14:37,223
-我有话要... 全都靠你了，你要坚强
-{\fs10\shad2\1c&HC0C0C0&\b0}There's... l'm counting on you. Be strong.{\r}
+00:55:19,040 --> 00:55:20,580
+好吧  我再次爱上了你
+Okay, I love you again.
 
 894
-01:14:38,602 --> 01:14:42,936
-小飞，要是有危险 你能跑多快就跑多快
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash, if anything goes wrong, l want you to run as fast as you can.{\r}
+00:55:20,580 --> 00:55:22,610
+真是可悲呀
+Oh, pathetic.
 
 895
-01:14:43,006 --> 01:14:45,634
-多快都行吗？ 多快都行
-{\fs10\shad2\1c&HC0C0C0&\b0}As fast as l can? As fast as you can.{\r}
+00:55:22,620 --> 00:55:23,850
+你还可以去跳海
+You can still jump.
 
 896
-01:14:45,709 --> 01:14:50,112
-待在这儿，互相照应 我一早就回来
-{\fs10\shad2\1c&HC0C0C0&\b0}Stay hidden. Keep each other safe. l'll be back by morning.{\r}
+00:55:23,850 --> 00:55:25,880
+我们还要不要去救出你们的龙
+So, are we going to save your dragons
 
 897
-01:14:53,450 --> 01:14:55,077
-妈
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom!{\r}
+00:55:25,880 --> 00:55:26,880
+然后逃离这里了
+and get out of here or not?
 
 898
-01:14:55,819 --> 01:14:58,845
-我在飞机上让你失望了
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom, what happened on the plane. l'm sorry.{\r}
+00:55:28,250 --> 00:55:29,150
+检查每一个捕龙夹
+Check every trap.
 
 899
-01:14:58,922 --> 01:15:02,221
-我很想帮忙，对不起
-{\fs10\shad2\1c&HC0C0C0&\b0}l wanted to help. When you asked me to... l'm sorry.{\r}
+00:55:29,150 --> 00:55:31,120
+他们就在这儿的某个地方
+They're here somewhere.
 
 900
-01:15:02,292 --> 01:15:04,157
-不是你的错
-{\fs10\shad2\1c&HC0C0C0&\b0}lt isn't your fault.{\r}
+00:55:40,060 --> 00:55:41,630
+肉球
+Meatlug?
 
 901
-01:15:04,227 --> 01:15:08,095
-我不该突然对你要求这么多
-{\fs10\shad2\1c&HC0C0C0&\b0}lt wasn't fair for me to suddenly ask so much of you.{\r}
+00:55:42,900 --> 00:55:44,840
+有人往这边来了吗
+Anyone coming?
 
 902
-01:15:08,531 --> 01:15:10,522
-但是现在情况不同了
-{\fs10\shad2\1c&HC0C0C0&\b0}But things are different now.{\r}
+00:55:44,840 --> 00:55:46,880
+不知道  你继续做手头上的事就好
+I don't know, you just keep doing what you're doing.
 
 903
-01:15:10,600 --> 01:15:13,626
-你不能怀疑自己的能力
-{\fs10\shad2\1c&HC0C0C0&\b0}And doubt is a luxury we can't afford anymore, sweetie.{\r}
+00:55:46,900 --> 00:55:49,770
+继续转
+Keep cranking.
 
 904
-01:15:13,703 --> 01:15:16,194
-你拥有强大的能力
-{\fs10\shad2\1c&HC0C0C0&\b0}You have more power than you realize.{\r}
+00:56:05,920 --> 00:56:09,160
+谢谢你救了我一命
+Thank you for saving my life.
 
 905
-01:15:16,272 --> 01:15:18,797
-别想太多，也别担心
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't think. And don't worry.{\r}
+00:56:13,330 --> 00:56:16,070
+现在让我还你一个人情吧
+Now let me return the favor.
 
 906
-01:15:18,875 --> 01:15:21,411
-到时候你就知道该怎么做
-{\fs10\shad2\1c&HC0C0C0&\b0}lf the time comes, you'll know what to do.{\r}
+00:56:16,070 --> 00:56:18,040
+妈妈  你绝对会认不出来那个地方的
+Mom, you'd never even recognize it.
 
 907
-01:15:21,411 --> 01:15:24,004
-这是你与生具来的本能
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's in your blood.{\r}
+00:56:18,040 --> 00:56:19,240
+过去我们造武器的地方
+Where we used to make weapons,
 
 908
-01:16:01,117 --> 01:16:03,745
-他并不懦弱
-{\fs10\shad2\1c&HC0C0C0&\b0}He's not weak, you know.{\r}
+00:56:19,240 --> 00:56:21,340
+如今用来造龙鞍
+we now build saddles,
 
 909
-01:16:03,820 --> 01:16:04,809
-什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}What?{\r}
+00:56:21,340 --> 00:56:22,870
+翅蹬
+wing slings...
 
 910
-01:16:04,888 --> 01:16:07,186
-尊重生命不是懦弱
-{\fs10\shad2\1c&HC0C0C0&\b0}Valuing life is not weakness.{\r}
+00:56:22,880 --> 00:56:24,840
+我们...我们甚至还给龙补牙
+We-we even fix dragon teeth.
 
 911
-01:16:07,257 --> 01:16:10,988
-如果你是在讲刚才的事
-{\fs10\shad2\1c&HC0C0C0&\b0}Look, if you're talking about what happened in the containment unit,{\r}
+00:56:24,840 --> 00:56:27,280
+你不会相信一切的变化是有多大
+You-you wouldn't believe how much everything's changed.
 
 912
-01:16:11,061 --> 01:16:12,961
-一切都在我的控制下
-{\fs10\shad2\1c&HC0C0C0&\b0}l had everything under control.{\r}
+00:56:27,280 --> 00:56:29,580
+是呀  你儿子把博克岛变得更好了
+Aye, your son's changed Berk for the better.
 
 913
-01:16:13,029 --> 01:16:15,759
-枉顾生命并不算强者
-{\fs10\shad2\1c&HC0C0C0&\b0}And disregarding it is not strength.{\r}
+00:56:29,580 --> 00:56:31,650
+我觉得这件事上我们做得不错  瓦尔卡
+I think we did well with this one, Val.
 
 914
-01:16:15,832 --> 01:16:18,665
-我没被他唬住，我赌赢了
-{\fs10\shad2\1c&HC0C0C0&\b0}l called his bluff, sweetheart, that's all.{\r}
+00:56:31,650 --> 00:56:32,820
+谢谢爸爸
+Thanks, dad.
 
 915
-01:16:18,735 --> 01:16:21,135
-我就知道他没种真的下手
-{\fs10\shad2\1c&HC0C0C0&\b0}l knew he wouldn't have it in him to actually...{\r}
+00:56:33,920 --> 00:56:35,650
+我来
+I got it.
 
 916
-01:16:21,204 --> 01:16:24,264
-下次你用 自己的命去赌
-{\fs10\shad2\1c&HC0C0C0&\b0}Next time you gamble, bet your own life!{\r}
+00:56:35,650 --> 00:56:36,790
+我来
+I got it.
 
 917
-01:17:35,478 --> 01:17:37,537
-火箭？
-{\fs10\shad2\1c&HC0C0C0&\b0}A rocket?{\r}
+00:56:48,000 --> 00:56:49,630
+我...
+I'm, uh...
 
 918
-01:18:32,335 --> 01:18:33,324
-嘿！
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey!{\r}
+00:56:49,640 --> 00:56:51,000
+有点生疏了
+a little out of practice.
 
 919
-01:19:30,760 --> 01:19:35,720
-这真的很好玩 不过我要到处看看
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, not that this isn't fun, but l'm gonna go look around.{\r}
+00:56:51,000 --> 00:56:52,870
+你知道的
+Well, you know,
 
 920
-01:19:35,798 --> 01:19:39,666
-你还是没搞懂吗？ 我们不是在度假耶
-{\fs10\shad2\1c&HC0C0C0&\b0}What do you think is going on here? You think we're on vacation?{\r}
+00:56:52,870 --> 00:56:55,360
+我又不是因为你的厨艺才娶你的
+I didn't marry you for your cooking.
 
 921
-01:19:39,736 --> 01:19:42,705
-爸妈的生命有危险
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom and Dad's lives could be in jeopardy.{\r}
+00:56:55,600 --> 00:56:56,540
+希望不是
+I hope not.
 
 922
-01:19:42,772 --> 01:19:45,172
-他们的婚姻也有危机
-{\fs10\shad2\1c&HC0C0C0&\b0}Or worse, their marriage.{\r}
+00:56:56,540 --> 00:56:59,880
+她做的肉丸  杀伤力比一把战斧都大
+Her meatballs could kill more beasts than a battle ax.
 
 923
-01:19:45,241 --> 01:19:47,232
-婚姻危机？
-{\fs10\shad2\1c&HC0C0C0&\b0}Their marriage?{\r}
+00:56:59,880 --> 00:57:02,380
+我的肚子对她的肉丸可一直印象深刻呢
+I've still got a few knocking around in here.
 
 924
-01:19:47,310 --> 01:19:51,872
-这些坏人想破坏爸妈的婚姻？
-{\fs10\shad2\1c&HC0C0C0&\b0}So, the bad guys are trying to wreck Mom and Dad's marriage.{\r}
+00:57:02,730 --> 00:57:05,180
+只要你带着你所有的龙一起回来
+And once you move back in with all your dragons,
 
 925
-01:19:51,948 --> 01:19:54,212
-算了，你太幼稚了
-{\fs10\shad2\1c&HC0C0C0&\b0}Forget it. You're so immature.{\r}
+00:57:05,180 --> 00:57:07,650
+老德拉戈根本毫无胜算
+old Drago won't even stand a chance.
 
 926
-01:19:54,284 --> 01:19:57,344
-我要去到处看看 妈叫我们躲在这儿
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm gonna go look around. Mom said to stay hidden.{\r}
+00:57:07,650 --> 00:57:09,610
+一切都会顺顺利利的
+Everything will be okay.
 
 927
-01:19:57,420 --> 01:20:00,321
-我不会走出山洞
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not gonna leave the cave.{\r}
+00:57:09,610 --> 00:57:10,790
+慢点  儿子
+Slow down, son.
 
 928
-01:20:39,729 --> 01:20:41,629
-酷毙了
-{\fs10\shad2\1c&HC0C0C0&\b0}Cool!{\r}
+00:57:11,550 --> 00:57:13,160
+还有很多需要考虑的事情
+It's a lot to take in.
 
 929
-01:20:41,898 --> 01:20:43,661
-酷毙了
-{\fs10\shad2\1c&HC0C0C0&\b0}Cool!{\r}
+00:57:13,780 --> 00:57:15,290
+我明白了
+Oh, gotcha.
 
 930
-01:20:45,201 --> 01:20:47,635
-收到，准备发射
-{\fs10\shad2\1c&HC0C0C0&\b0}Roger. We are ready for launch.{\r}
+00:57:23,000 --> 00:57:25,400
+我爱死这个了
+Oh, I love this one.
 
 931
-01:20:57,647 --> 01:21:01,447
-小倩！ 你做了什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Vi, Vi! What did you do?{\r}
+00:57:41,020 --> 00:57:42,990
+还记得我们的歌吗  瓦尔卡
+Remember our song, Val?
 
 932
-01:21:14,097 --> 01:21:17,089
-预计29分钟后抵达
-{\fs10\shad2\1c&HC0C0C0&\b0}ETA two-niner. Over.{\r}
+00:57:44,390 --> 00:57:50,970
+我将畅游航行在茫茫大海中
+ I'll swim and sail on savage seas
 
 933
-01:21:19,202 --> 01:21:22,729
-没问题，一切正常
-{\fs10\shad2\1c&HC0C0C0&\b0}TCI clear. Condition yellow. Status norm.{\r}
+00:57:52,940 --> 00:57:56,930
+不曾畏惧巨浪淹没我
+ With ne'er a fear of drowning
 
 934
-01:21:22,805 --> 01:21:24,796
-A1层
+00:57:58,940 --> 00:58:04,030
+欢乐地驾驭着生活的波涛
+ And gladly ride the waves of life
 
 935
-01:21:24,874 --> 01:21:26,637
-IFF没有反应
-{\fs10\shad2\1c&HC0C0C0&\b0}Not responding to IFF.{\r}
+00:58:05,740 --> 00:58:09,500
+只要你愿嫁给我
+ If you will marry me
 
 936
-01:21:26,709 --> 01:21:29,007
-IRCM没有读数
-{\fs10\shad2\1c&HC0C0C0&\b0}IRCM reads negative.{\r}
+00:58:12,440 --> 00:58:15,010
+无论炙热的太阳
+ No scorching sun
 
 937
-01:21:29,078 --> 01:21:30,136
-能量指数
+00:58:15,010 --> 00:58:17,570
+或是刺骨的寒凉
+ Nor freezing cold
 
 938
-01:21:30,213 --> 01:21:31,908
-老公 你说什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob. What?{\r}
+00:58:18,100 --> 00:58:18,780
+都不会...
+ Will...
 
 939
-01:21:31,981 --> 01:21:33,312
-我什么也没说
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't say anything.{\r}
+00:58:18,780 --> 00:58:22,290
+都不会阻挡我的...步...伐...
+Will stop me on my... journey
 
 940
-01:22:02,145 --> 01:22:04,477
-请表明身份
-{\fs10\shad2\1c&HC0C0C0&\b0}Identification, please.{\r}
+00:58:22,290 --> 00:58:23,170
+不好意思
+Sorry.
 
 941
-01:22:04,914 --> 01:22:07,815
-小倩，看，它会讲话耶 什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey! Hey, Violet! Come here, look. What?{\r}
+00:58:26,800 --> 00:58:32,510
+只要你许我你的芳心
+ If you will promise me your heart
 
 942
-01:22:07,884 --> 01:22:09,078
-它会说话耶 什么东西？
-{\fs10\shad2\1c&HC0C0C0&\b0}lt talks! What?{\r}
+00:58:36,200 --> 00:58:38,160
+并且爱...
+ And love...
 
 943
-01:22:09,152 --> 01:22:10,483
-那儿，那只小鸟
-{\fs10\shad2\1c&HC0C0C0&\b0}There. That one.{\r}
+00:58:43,860 --> 00:58:51,740
+并且爱我永不停
+ And love me for eternity
 
 944
-01:22:10,553 --> 01:22:12,145
-语音密码错误
-{\fs10\shad2\1c&HC0C0C0&\b0}Voice key incorrect.{\r}
+00:58:52,160 --> 00:58:56,310
+我最亲爱的我的宝贝
+ My dearest one my darling dear
 
 945
-01:22:12,755 --> 01:22:16,851
-语音密码？ 语音密码错误
-{\fs10\shad2\1c&HC0C0C0&\b0}''Voice key''? Voice key incorrect.{\r}
+00:58:56,310 --> 00:59:00,600
+你话语掷地有声震撼我
+ Your mighty words astound me
 
 946
-01:22:16,926 --> 01:22:18,587
-等一下
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait a second.{\r}
+00:59:00,600 --> 00:59:03,910
+但我并不需要这些海誓山盟
+ But I've no need of mighty deeds
 
 947
-01:22:20,430 --> 01:22:22,227
-我们该怎么办？ 快跑
-{\fs10\shad2\1c&HC0C0C0&\b0}What do we do? Run!{\r}
+00:59:03,910 --> 00:59:07,060
+只要你的臂弯环绕我
+ When I feel your arms around me
 
 948
-01:22:22,298 --> 01:22:24,425
-跑去哪儿？ 越远越好
-{\fs10\shad2\1c&HC0C0C0&\b0}Where are we going? Away from here!{\r}
+00:59:07,060 --> 00:59:09,720
+但我愿送你金戒指
+ But I would bring you rings of gold
 
 949
-01:22:29,305 --> 01:22:31,796
-发现入侵者...
-{\fs10\shad2\1c&HC0C0C0&\b0}Intruder alert.{\r}
+00:59:09,720 --> 00:59:12,200
+也愿为你吟歌唱诗
+ And even sing you poetry
 
 950
-01:22:54,163 --> 01:22:57,394
-时间不多了 没错
-{\fs10\shad2\1c&HC0C0C0&\b0}There isn't much time. No, there isn't.{\r}
+00:59:12,200 --> 00:59:12,760
+真的吗
+Oh, would you?
 
 951
-01:22:57,467 --> 01:22:59,731
-你的时间不多了
-{\fs10\shad2\1c&HC0C0C0&\b0}ln fact, there's no time at all.{\r}
+00:59:12,760 --> 00:59:14,850
+我会护你远离一切灾难
+ And I would keep you from all harm
 
 952
-01:22:59,802 --> 01:23:01,929
-求求你 你来干嘛？
-{\fs10\shad2\1c&HC0C0C0&\b0}Please... Why are you here?{\r}
+00:59:14,850 --> 00:59:17,190
+只要你愿待在我身旁
+ If you would stay beside me
 
 953
-01:23:02,004 --> 01:23:06,998
-你还想害我吗？ 你已经夺走我的家人
-{\fs10\shad2\1c&HC0C0C0&\b0}How can you possibly bring me lower? What more can you take away from me?{\r}
+00:59:17,190 --> 00:59:19,490
+金戒指对我没有用
+ I have no use for rings of gold
 
 954
-01:23:07,076 --> 01:23:10,876
-你的家人...没有死
-{\fs10\shad2\1c&HC0C0C0&\b0}Family survived the crash.{\r}
+00:59:19,490 --> 00:59:21,840
+我也不欣赏你的诗
+ I care not for your poetry
 
 955
-01:23:10,947 --> 01:23:14,075
-他们到了小岛上 他们还活着？
-{\fs10\shad2\1c&HC0C0C0&\b0}They're here on the island! They're alive?{\r}
+00:59:21,840 --> 00:59:24,270
+我只希望能牵着你的手
+ I only want your hand to hold
 
 956
-01:23:27,697 --> 01:23:29,927
-荷莉？ 你好
-{\fs10\shad2\1c&HC0C0C0&\b0}Helen? Hello.{\r}
+00:59:24,270 --> 00:59:26,510
+我只希望你在我身旁
+ I only want you near me
 
 957
-01:23:29,999 --> 01:23:32,297
-你一定是巴太太
-{\fs10\shad2\1c&HC0C0C0&\b0}You must be Mrs...{\r}
+00:59:26,510 --> 00:59:28,810
+爱你  吻你  紧拥你
+ To love and kiss, to sweetly hold
 
 958
-01:23:32,835 --> 01:23:35,201
-她来救我出去 才怪
-{\fs10\shad2\1c&HC0C0C0&\b0}She was helping me to escape. No.{\r}
+00:59:28,810 --> 00:59:30,980
+与你共舞  共入梦乡
+ For the dancing and the dreaming
 
 959
-01:23:35,271 --> 01:23:36,795
-我才是来救你的
-{\fs10\shad2\1c&HC0C0C0&\b0}That's what l was doing.{\r}
+00:59:30,980 --> 00:59:32,740
+一起走过风风雨雨
+ Through all life's toils and delights
 
 960
-01:23:36,873 --> 01:23:38,272
-放手
-{\fs10\shad2\1c&HC0C0C0&\b0}Let go of me!{\r}
+00:59:32,740 --> 00:59:34,690
+我将把你的笑容珍藏在身侧
+ I'll keep your laugh inside me
 
 961
-01:23:38,341 --> 01:23:41,504
-你这满口谎言的大烂人
-{\fs10\shad2\1c&HC0C0C0&\b0}Let go, you lousy, lying, unfaithful creep!{\r}
+00:59:34,690 --> 00:59:36,440
+我将畅游航行在茫茫大海中
+ I'll swim and sail the savage seas
 
 962
-01:23:42,845 --> 01:23:45,313
-我怎么会背叛我的完美女人？
-{\fs10\shad2\1c&HC0C0C0&\b0}How could l betray the perfect woman?{\r}
+00:59:36,440 --> 00:59:38,310
+不曾畏惧巨浪淹没我
+ With ne'er a fear of drowning
 
 963
-01:23:45,381 --> 01:23:48,612
-你是指我吗？ 孩子们呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, you're referring to me now? Where are the kids?{\r}
+00:59:38,310 --> 00:59:39,970
+欢乐地驾驭着生活的波涛
+ And gladly ride the waves of life
 
 964
-01:23:48,684 --> 01:23:50,584
-他们触动了警铃 什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}They triggered the alert. What?{\r}
+00:59:39,970 --> 00:59:42,610
+只要你愿嫁给我
+ If you will marry me
 
 965
-01:23:50,653 --> 01:23:53,986
-他们被追进丛林，快去吧 我们的孩子有危险？
-{\fs10\shad2\1c&HC0C0C0&\b0}Security's in the jungle. Get going. Our kids are in danger?{\r}
+00:59:45,320 --> 00:59:47,110
+-我还在坚持唱哦...  -戈伯
+- I'm still going... - Gobber.
 
 966
-01:23:54,056 --> 01:23:56,354
-你为什么把他们带来？
-{\fs10\shad2\1c&HC0C0C0&\b0}lf you suspected danger, why'd you bring them?{\r}
+00:59:47,110 --> 00:59:48,210
+我唱完了
+I'm done.
 
 967
-01:23:56,425 --> 01:23:59,519
-我没有，是他们偷偷跟来 我不喜欢你的语气
-{\fs10\shad2\1c&HC0C0C0&\b0}They stowed away. You're not striking the proper tone.{\r}
+00:59:50,480 --> 00:59:53,480
+我还以为至死也不能与你共舞了呢
+I thought I'd have to die before we'd have that dance again.
 
 968
-01:24:07,303 --> 01:24:11,034
-他们是超人吗？ 小飞，记得妈说的话
-{\fs10\shad2\1c&HC0C0C0&\b0}Think they're supers? Dash, remember what Mom said.{\r}
+00:59:53,490 --> 00:59:55,290
+没必要给我下猛药啦
+No need for drastic measures.
 
 969
-01:24:11,107 --> 01:24:12,597
-什么话？ 别讲话
-{\fs10\shad2\1c&HC0C0C0&\b0}What? Stop talking!{\r}
+00:59:56,960 --> 00:59:59,290
+为了你  我亲爱的...
+For you, my dear...
 
 970
-01:24:12,675 --> 01:24:15,701
-站住 小飞，快跑
-{\fs10\shad2\1c&HC0C0C0&\b0}Hold it! Freeze! Dash, run!{\r}
+00:59:59,290 --> 01:00:01,120
+我愿意做任何事
+Anything.
 
 971
-01:24:15,778 --> 01:24:17,905
-什么？ 快跑啊
-{\fs10\shad2\1c&HC0C0C0&\b0}What? Run!{\r}
+01:00:01,130 --> 01:00:04,090
+你愿意回家吗  瓦尔卡
+Will you come home, Val?
 
 972
-01:24:18,581 --> 01:24:21,379
-他们是超人 抓住那小鬼
-{\fs10\shad2\1c&HC0C0C0&\b0}They're supers! Get the boy!{\r}
+01:00:05,430 --> 01:00:09,370
+你愿意重新成为我的妻子吗
+Will you be my wife once again?
 
 973
-01:24:22,451 --> 01:24:23,941
-现身吧
-{\fs10\shad2\1c&HC0C0C0&\b0}Show yourself!{\r}
+01:00:14,170 --> 01:00:15,910
+我们可以重组一个家庭
+We can be a family!
 
 974
-01:25:50,773 --> 01:25:52,900
-我还活着
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm alive. Yeah!{\r}
+01:00:15,910 --> 01:00:17,310
+你愿意吗
+What do you say?
 
 975
-01:27:05,448 --> 01:27:08,373
-我是应该跟你说我被开除了
-{\fs10\shad2\1c&HC0C0C0&\b0}l should've told you l was fired, l admit it. l should've told you l was fired, l admit it.{\r}
+01:00:21,050 --> 01:00:22,910
+我愿意
+Yes.
 
 976
-01:27:08,451 --> 01:27:10,078
-我只是不想让你担心
-{\fs10\shad2\1c&HC0C0C0&\b0}But l didn't want you to worry.{\r}
+01:00:24,450 --> 01:00:26,580
+太棒了  以后做饭我来
+Great! I'll do the cooking.
 
 977
-01:27:10,152 --> 01:27:11,619
-你不想让我担心？
-{\fs10\shad2\1c&HC0C0C0&\b0}You didn't want me to worry?{\r}
+01:00:28,450 --> 01:00:30,920
+感谢奥丁神你没听我的话  儿子
+Thank Odin you didn't listen to me, son.
 
 978
-01:27:11,687 --> 01:27:14,588
-现在你却害我们在丛林里 为了逃避追杀疲于奔命
-{\fs10\shad2\1c&HC0C0C0&\b0}We're running for our lives through some godforsaken jungle.{\r}
+01:00:30,920 --> 01:00:33,260
+不然我们永远都找不到对方了
+We never would've found each other.
 
 979
-01:27:14,657 --> 01:27:17,854
-随你怎么骂，只要你没事就好
-{\fs10\shad2\1c&HC0C0C0&\b0}You keep trying to pick a fight, but l'm just happy you're alive.{\r}
+01:00:35,130 --> 01:00:38,300
+没牙仔
+Toothless?
 
 980
-01:27:19,829 --> 01:27:22,798
-我知道你在这儿，隐形女孩
-{\fs10\shad2\1c&HC0C0C0&\b0}l know you're there, Little Miss Disappear.{\r}
+01:00:40,270 --> 01:00:42,070
+发生什么事了
+What's happening?
 
 981
-01:27:35,211 --> 01:27:37,236
-你躲不了我的
-{\fs10\shad2\1c&HC0C0C0&\b0}You can't hide from me.{\r}
+01:01:01,090 --> 01:01:04,250
+不...
+Oh, no...
 
 982
-01:27:43,452 --> 01:27:45,818
-逮到你了 喂!
-{\fs10\shad2\1c&HC0C0C0&\b0}There you are. Hey!{\r}
+01:01:04,260 --> 01:01:05,860
+瓦尔卡...
+Val...
 
 983
-01:27:50,059 --> 01:27:52,550
-别动我老姐
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't touch my sister!{\r}
+01:01:05,860 --> 01:01:07,860
+瓦尔卡  没事的  没事的
+Val, it's all right, it's all right.
 
 984
-01:27:59,735 --> 01:28:01,896
-你是怎么弄的？ 我也不知道
-{\fs10\shad2\1c&HC0C0C0&\b0}How are you doing that? l don't know!{\r}
+01:01:07,860 --> 01:01:09,260
+我们现在是一个团队了
+We're a team now.
 
 985
-01:28:01,971 --> 01:28:03,666
-别停下来
-{\fs10\shad2\1c&HC0C0C0&\b0}Whatever you do, don't stop!{\r}
+01:01:09,260 --> 01:01:10,530
+现在  你想怎么办
+Now, what do you want to do?
 
 986
-01:28:20,122 --> 01:28:21,919
-爸、妈
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom! Dad! Hey!{\r}
+01:01:10,530 --> 01:01:13,160
+我们得拯救那些龙
+We have to save the dragons.
 
 987
-01:28:23,826 --> 01:28:25,054
-孩子们
-{\fs10\shad2\1c&HC0C0C0&\b0}Kids.{\r}
+01:01:13,170 --> 01:01:14,250
+好的  没问题
+Aye, you got it.
 
 988
-01:28:25,127 --> 01:28:26,992
-你们没事 你们没事
-{\fs10\shad2\1c&HC0C0C0&\b0}You're all right. You're all right.{\r}
+01:01:14,800 --> 01:01:15,500
+来吧  儿子
+Come on, son!
 
 989
-01:28:27,062 --> 01:28:29,929
-我们担心得要死 我以为再也见不到你们
-{\fs10\shad2\1c&HC0C0C0&\b0}We were so worried. l thought l'd never see you again.{\r}
+01:01:22,910 --> 01:01:24,540
+装弹
+Reload!
 
 990
-01:28:48,083 --> 01:28:49,710
-我爱你 我爱你
-{\fs10\shad2\1c&HC0C0C0&\b0}l love you. l love you.{\r}
+01:01:24,540 --> 01:01:26,110
+开火
+Fire!
 
 991
-01:29:05,367 --> 01:29:07,028
-暂停
-{\fs10\shad2\1c&HC0C0C0&\b0}Time out!{\r}
+01:01:30,980 --> 01:01:33,120
+开火  开火
+Fire! Fire!
 
 992
-01:29:08,771 --> 01:29:12,002
-这是怎样？大家穿制服吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}What have we here? Matching uniforms?{\r}
+01:01:38,420 --> 01:01:41,390
+不管任何代价  坚持进攻那座山
+Whatever comes, keep hitting the Mountain.
 
 993
-01:29:12,842 --> 01:29:17,541
-不是吧，弹力女超人？
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, no! Elastigirl?{\r}
+01:01:41,390 --> 01:01:44,390
+我们得把龙王引出来
+We need to draw the Alpha out.
 
 994
-01:29:17,947 --> 01:29:21,542
-你娶了弹力女超人？
-{\fs10\shad2\1c&HC0C0C0&\b0}You married Elastigirl?{\r}
+01:01:53,600 --> 01:01:55,910
+准备好捕龙夹
+Ready the traps!
 
 995
-01:29:22,251 --> 01:29:24,617
-还生了一窝小孩
-{\fs10\shad2\1c&HC0C0C0&\b0}And got busy!{\r}
+01:02:10,690 --> 01:02:12,960
+惊喜
+Surprise!
 
 996
-01:29:24,687 --> 01:29:27,417
-一家子的超人
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's a whole family of supers.{\r}
+01:02:12,960 --> 01:02:14,460
+好耶
+Yeah!
 
 997
-01:29:27,490 --> 01:29:29,651
-这下我发了
-{\fs10\shad2\1c&HC0C0C0&\b0}Looks like l've hit the jackpot!{\r}
+01:02:14,460 --> 01:02:15,460
+什么
+What?!
 
 998
-01:29:30,292 --> 01:29:32,089
-这真是棒呆了
-{\fs10\shad2\1c&HC0C0C0&\b0}This is just too good!{\r}
+01:02:20,230 --> 01:02:22,530
+你身上还真是惊喜连连呢
+You really are full of surprises.
 
 999
-01:29:32,161 --> 01:29:35,756
-飞船的设计独特 没有造成伤亡
-{\fs10\shad2\1c&HC0C0C0&\b0}The ship's unique design... There were no fatalities...{\r}
+01:02:22,530 --> 01:02:24,130
+走吧
+Let's go.
 
 1000
-01:29:37,399 --> 01:29:40,732
-拜托，你们得承认这酷毙了
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, come on! You gotta admit, this is cool.{\r}
+01:02:24,140 --> 01:02:27,100
+龙骑士驾到
+Dragon riders coming through!
 
 1001
-01:29:40,803 --> 01:29:44,136
-就像电影演的一样 机器人会跑出来大搞破坏
-{\fs10\shad2\1c&HC0C0C0&\b0}Just like a movie! The robot will emerge dramatically,{\r}
+01:02:28,210 --> 01:02:29,470
+喷火
+Fire!
 
 1002
-01:29:44,206 --> 01:29:47,107
-无辜老百姓惊声尖叫
-{\fs10\shad2\1c&HC0C0C0&\b0}do some damage. Throngs of screaming people!{\r}
+01:02:34,180 --> 01:02:36,010
+太好了
+Oh, yeah!
 
 1003
-01:29:47,176 --> 01:29:51,943
-就当一切都绝望的时候 辛拉登就来拯救世界
-{\fs10\shad2\1c&HC0C0C0&\b0}And just when all hope is lost, Syndrome will save the day!{\r}
+01:02:41,620 --> 01:02:43,420
+把他们砍下来
+Cut them down!
 
 1004
-01:29:52,014 --> 01:29:54,574
-我会成为比你更伟大的英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll be a bigger hero than you ever were!{\r}
+01:02:46,460 --> 01:02:48,120
+和父亲同名的艾瑞特
+Eret, son of Eret!
 
 1005
-01:29:54,650 --> 01:29:58,677
-你杀死真正的英雄 好让你当冒牌货？
-{\fs10\shad2\1c&HC0C0C0&\b0}You mean you killed off real heroes so that you could pretend to be one?{\r}
+01:02:59,400 --> 01:03:00,970
+往上飞  姑娘
+Up, girl!
 
 1006
-01:29:58,754 --> 01:30:02,155
-我不是冒牌货，我打败了你
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm real. Real enough to defeat you!{\r}
+01:03:00,970 --> 01:03:02,210
+向左倾斜  艾瑞特
+Lean left, Eret!
 
 1007
-01:30:02,224 --> 01:30:05,955
-而且我不像你拥有超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}And l did it without your precious gifts, your oh-so-special powers.{\r}
+01:03:02,210 --> 01:03:03,340
+就是这样
+That's it!
 
 1008
-01:30:06,028 --> 01:30:07,495
-超能力有什么了不起？
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll give them heroics.{\r}
+01:03:03,340 --> 01:03:05,110
+小心
+Look out!
 
 1009
-01:30:07,563 --> 01:30:10,623
-我才会是史上最了不起的英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll give them the most spectacular heroics anyone's ever seen!{\r}
+01:03:13,450 --> 01:03:15,390
+耶  宝贝儿
+Yeah, baby!
 
 1010
-01:30:10,699 --> 01:30:14,100
-等我老了玩够了 就会把我的发明廉价大拍卖
-{\fs10\shad2\1c&HC0C0C0&\b0}And when l'm old and l've had my fun, l'll sell my inventions{\r}
+01:03:18,560 --> 01:03:20,720
+干掉他们
+Take them down!
 
 1011
-01:30:14,169 --> 01:30:18,731
-每个人都能成为超级英雄 每个人都有超能力
-{\fs10\shad2\1c&HC0C0C0&\b0}so that everyone can be superheroes. Everyone can be super.{\r}
+01:03:20,730 --> 01:03:22,560
+当心哦[双关为"抬头"]
+Heads up!
 
 1012
-01:30:18,807 --> 01:30:21,674
-当人人都是超级英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}And when everyone's super...{\r}
+01:03:29,570 --> 01:03:31,670
+驯龙大师
+Dragon master.
 
 1013
-01:30:24,079 --> 01:30:25,808
-世上就没有英雄了
-{\fs10\shad2\1c&HC0C0C0&\b0}...no one will be.{\r}
+01:03:31,670 --> 01:03:34,400
+欢迎加入  龙骑士
+Welcome aboard, dragon rider.
 
 1014
-01:31:01,584 --> 01:31:03,609
-连坦克车都挡不住它
-{\fs10\shad2\1c&HC0C0C0&\b0}It's overwhelming the tanks.{\r}
+01:03:34,410 --> 01:03:36,040
+我得说  谢谢
+Thanks. I think.
 
 1015
-01:31:03,686 --> 01:31:05,153
-对不起
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm sorry.{\r}
+01:03:36,040 --> 01:03:37,640
+你去哪儿了
+Where have you been?
 
 1016
-01:31:05,220 --> 01:31:09,247
-都是我的错 我不是个好爸爸
-{\fs10\shad2\1c&HC0C0C0&\b0}This is my fault. l've been a lousy father.{\r}
+01:03:37,640 --> 01:03:40,640
+和妈妈叙叙旧
+Oh, you know, catching up with mom.
 
 1017
-01:31:09,325 --> 01:31:13,125
-我不懂得珍惜我所拥有的 只想着自己不被重视
-{\fs10\shad2\1c&HC0C0C0&\b0}Blind to what l have. So obsessed with being undervalued{\r}
+01:03:52,390 --> 01:03:54,120
+那是你妈妈
+That's your mother?!
 
 1018
-01:31:13,195 --> 01:31:16,323
-我完全辜负了你们 爸
-{\fs10\shad2\1c&HC0C0C0&\b0}that l undervalued all of you. Dad?{\r}
+01:03:54,130 --> 01:03:58,060
+现在你知道我的表演天赋是从哪来的了吧
+Well, now you know where I get my dramatic flair.
 
 1019
-01:31:16,398 --> 01:31:17,387
-别插嘴
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't interrupt.{\r}
+01:04:01,430 --> 01:04:03,070
+龙王
+The Alpha!
 
 1020
-01:31:17,466 --> 01:31:20,264
-我一直忘不了过去的荣耀
-{\fs10\shad2\1c&HC0C0C0&\b0}So caught up in the past that l...{\r}
+01:04:03,070 --> 01:04:05,440
+我们有场硬仗要打了
+Now we have a fight!
 
 1021
-01:31:21,837 --> 01:31:25,705
-其实你们才是我最大的骄傲 我差点就失去你们
-{\fs10\shad2\1c&HC0C0C0&\b0}You are my greatest adventure. And l almost missed it.{\r}
+01:04:18,420 --> 01:04:20,680
+来吧  没牙仔
+Come on, Toothless.
 
 1022
-01:31:25,774 --> 01:31:28,766
-我发誓我会把你们救出去
-{\fs10\shad2\1c&HC0C0C0&\b0}l swear, l'm gonna get us out of this safely if l...{\r}
+01:04:20,690 --> 01:04:23,050
+让他们瞧瞧你的厉害  伙计
+Show them what you got, bud.
 
 1023
-01:31:28,844 --> 01:31:32,678
-老爸今天的心理治疗很有进展
-{\fs10\shad2\1c&HC0C0C0&\b0}Well, l think Dad has made some excellent progress today{\r}
+01:04:27,430 --> 01:04:28,830
+好样的
+Attaboy!
 
 1024
-01:31:32,748 --> 01:31:35,512
-不过也该结束了吧
-{\fs10\shad2\1c&HC0C0C0&\b0}but l think it's time we wind down now.{\r}
+01:04:41,810 --> 01:04:44,340
+这一刻我等了许久了
+I've waited a long time for this.
 
 1025
-01:31:38,187 --> 01:31:40,178
-我们得赶回城市
-{\fs10\shad2\1c&HC0C0C0&\b0}We need to get back to the mainland.{\r}
+01:04:44,340 --> 01:04:46,710
+你无法夺走我们的龙
+You cannot take our dragons!
 
 1026
-01:31:40,255 --> 01:31:42,780
-我看到有一座停机棚 应该就在前面
-{\fs10\shad2\1c&HC0C0C0&\b0}l saw an aircraft hangar on my way in. Straight ahead.{\r}
+01:04:46,710 --> 01:04:48,450
+他们是由龙王控制的
+They are controlled by the Alpha!
 
 1027
-01:31:52,701 --> 01:31:54,464
-警卫呢？
-{\fs10\shad2\1c&HC0C0C0&\b0}Where are all the guards?{\r}
+01:04:48,450 --> 01:04:51,380
+还好我带来了一位挑战者
+Then it's a good thing I brought a challenger.
 
 1028
-01:31:54,536 --> 01:31:56,003
-快去，快去
-{\fs10\shad2\1c&HC0C0C0&\b0}Go, go!{\r}
+01:05:14,410 --> 01:05:15,710
+另一只龙王
+Another one?
 
 1029
-01:31:59,942 --> 01:32:03,036
-他们一跑就会挨一枪
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, every time they run, you take a shot.{\r}
+01:05:15,710 --> 01:05:19,210
+那可是只十级的龙  十级的
+That is a class ten! Class ten!
 
 1030
-01:32:19,228 --> 01:32:21,890
-就是这儿没错 可是我没看到飞机
-{\fs10\shad2\1c&HC0C0C0&\b0}This is the right hangar, but l don't see any jets.{\r}
+01:05:19,210 --> 01:05:20,410
+小心
+Look out!
 
 1031
-01:32:21,964 --> 01:32:24,990
-飞机不够快 有什么更快的？
-{\fs10\shad2\1c&HC0C0C0&\b0}A jet's not fast enough. What's faster than a jet?{\r}
+01:05:22,880 --> 01:05:24,590
+-不...不要...  -来吧
+- No... no... - Come on!
 
 1032
-01:32:25,067 --> 01:32:27,001
-火箭如何？
-{\fs10\shad2\1c&HC0C0C0&\b0}How about a rocket?{\r}
+01:05:24,590 --> 01:05:26,620
+干掉那只龙王
+Take down the Alpha!
 
 1033
-01:32:29,938 --> 01:32:33,999
-太好了，我不会开火箭 你不必开火箭
-{\fs10\shad2\1c&HC0C0C0&\b0}Great! l can't fly a rocket. You don't have to.{\r}
+01:05:26,620 --> 01:05:27,160
+不要
+No!
 
 1034
-01:32:34,076 --> 01:32:36,840
-只要用上一次的座标就行
-{\fs10\shad2\1c&HC0C0C0&\b0}Use the coordinates from the last launch.{\r}
+01:05:44,400 --> 01:05:46,170
+谢谢
+Thank you.
 
 1035
-01:32:38,681 --> 01:32:42,344
-等等，辛拉登一定换了密码
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait. l bet Syndrome's changed the password by now.{\r}
+01:05:46,170 --> 01:05:47,870
+为了你  我亲爱的...
+For you, my dear...
 
 1036
-01:32:42,418 --> 01:32:45,182
-我要怎么进入电脑？ 说声拜托
-{\fs10\shad2\1c&HC0C0C0&\b0}How do l get into the computer? Say please.{\r}
+01:05:47,870 --> 01:05:49,840
+我愿意做任何事
+Anything.
 
 1037
-01:33:00,936 --> 01:33:02,927
-老婆？ 干嘛？
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey? What?{\r}
+01:05:57,250 --> 01:05:59,380
+瓦尔卡  你觉得你能阻止他们吗
+Val, do you think you can stop them?
 
 1038
-01:33:03,005 --> 01:33:04,973
-我的超能装呢？ 你说什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Where is my supersuit? What?{\r}
+01:05:59,380 --> 01:06:01,820
+我会尽力的  来吧  跃云
+I'll do my best. Come on, Cloudjumper!
 
 1039
-01:33:05,040 --> 01:33:08,567
-我的超能装在哪里？
-{\fs10\shad2\1c&HC0C0C0&\b0}Where is my supersuit?{\r}
+01:06:01,820 --> 01:06:03,820
+你
+You!
 
 1040
-01:33:08,644 --> 01:33:11,636
-我收起来了 收到哪里？
-{\fs10\shad2\1c&HC0C0C0&\b0}l put it away. Where?{\r}
+01:06:03,820 --> 01:06:06,190
+我看着你被烧着了
+I watched you burn!
 
 1041
-01:33:11,714 --> 01:33:14,114
-你干嘛要知道？
-{\fs10\shad2\1c&HC0C0C0&\b0}Why do you need to know?{\r}
+01:06:06,190 --> 01:06:08,530
+想杀我这点火还不够
+It takes more than a little fire to kill me!
 
 1042
-01:33:14,183 --> 01:33:15,241
-我需要它
-{\fs10\shad2\1c&HC0C0C0&\b0}l need it!{\r}
+01:06:31,280 --> 01:06:32,580
+史推克
+Stoick!
 
 1043
-01:33:15,317 --> 01:33:18,377
-我不准你跑去逞英雄
-{\fs10\shad2\1c&HC0C0C0&\b0}Don't you think about running off to doing no derrin'-do.{\r}
+01:06:52,970 --> 01:06:54,370
+不要
+No!
 
 1044
-01:33:18,454 --> 01:33:20,217
-两个月前我就计划好这顿晚餐
-{\fs10\shad2\1c&HC0C0C0&\b0}We've been planning this dinner for two months!{\r}
+01:06:56,440 --> 01:06:58,270
+不要
+No!
 
 1045
-01:33:20,289 --> 01:33:23,726
-老百姓有危险 今晚的计划也有危险
-{\fs10\shad2\1c&HC0C0C0&\b0}The public is in danger! My evening's in danger!{\r}
+01:07:19,260 --> 01:07:20,660
+我们赢了
+We've won.
 
 1046
-01:33:23,726 --> 01:33:27,218
-我要去救人，这是为了大爱
-{\fs10\shad2\1c&HC0C0C0&\b0}Tell me where my suit is, woman! We are talking about the greater good.{\r}
+01:07:20,670 --> 01:07:22,000
+现在...
+Now...
 
 1047
-01:33:27,296 --> 01:33:29,730
-大什么爱，我是你老婆耶
-{\fs10\shad2\1c&HC0C0C0&\b0}''Greater good''? l am your wife!{\r}
+01:07:22,000 --> 01:07:23,730
+干掉她
+Finish her!
 
 1048
-01:33:29,798 --> 01:33:32,892
-我才是你一生中最大的爱
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm the greatest good you are ever gonna get!{\r}
+01:07:23,740 --> 01:07:25,270
+不要
+No!
 
 1049
-01:33:36,271 --> 01:33:37,295
-快跑啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Run!{\r}
+01:07:33,310 --> 01:07:34,480
+坚持住
+Hold on!
 
 1050
-01:33:39,475 --> 01:33:40,874
-我的宝宝
-{\fs10\shad2\1c&HC0C0C0&\b0}My baby!{\r}
+01:07:34,480 --> 01:07:35,780
+冲啊  裂颅
+Skullcrusher, go!
 
 1051
-01:33:45,147 --> 01:33:47,513
-超人特攻队回来了 那是火球人吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}The supers have returned! ls that Fironic?{\r}
+01:07:35,780 --> 01:07:37,910
+跟上  戈伯
+Come on, Gobber!
 
 1052
-01:33:47,583 --> 01:33:51,144
-火球人？ 不是啦，他的打扮不一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Fironic? No, Fironic has a different outfit.{\r}
+01:07:37,920 --> 01:07:40,350
+紧紧跟在你后面呢  史推克
+Right behind you, Stoick!
 
 1053
-01:33:51,220 --> 01:33:56,021
-我是全新的超级英雄 我是辛拉登
-{\fs10\shad2\1c&HC0C0C0&\b0}No, no, l'm a new superhero! l'm Syndrome!{\r}
+01:07:59,400 --> 01:08:00,640
+停下
+Stop!
 
 1054
-01:33:58,994 --> 01:34:00,461
-好了，退后
-{\fs10\shad2\1c&HC0C0C0&\b0}All right, stand back.{\r}
+01:08:02,770 --> 01:08:04,040
+停下
+Stop!
 
 1055
-01:34:04,733 --> 01:34:09,466
-我要好好教训这堆破铜烂铁
-{\fs10\shad2\1c&HC0C0C0&\b0}Someone needs to teach this hunk of metal a few manners.{\r}
+01:08:09,880 --> 01:08:13,920
+这...就是所谓的驯龙大师吗
+This... is the great dragon master?
 
 1056
-01:34:39,201 --> 01:34:43,001
-到了没有？ 到了你就会知道
-{\fs10\shad2\1c&HC0C0C0&\b0}Are we there yet? We get there when we get there.{\r}
+01:08:13,920 --> 01:08:16,450
+伟岸的史推克之子吗
+The son of Stoick the Vast?
 
 1057
-01:34:45,040 --> 01:34:47,201
-老婆，你还好吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}How you doing, honey?{\r}
+01:08:17,920 --> 01:08:21,760
+他该感到多羞愧啊
+What shame he must feel.
 
 1058
-01:34:47,276 --> 01:34:50,177
-我一定要回答吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Do l have to answer?{\r}
+01:08:21,760 --> 01:08:24,490
+所有这些伤害...
+All of this loss...
 
 1059
-01:34:52,214 --> 01:34:55,479
-孩子们，把安全带系好
-{\fs10\shad2\1c&HC0C0C0&\b0}Kids, strap yourselves down like l told you.{\r}
+01:08:24,500 --> 01:08:26,030
+都为了些什么
+And for what?
 
 1060
-01:34:59,288 --> 01:35:01,415
-我们到了
-{\fs10\shad2\1c&HC0C0C0&\b0}Here we go, honey.{\r}
+01:08:26,030 --> 01:08:28,000
+就为了变得无人能敌吗
+To become unstoppable?
 
 1061
-01:35:01,924 --> 01:35:05,416
-准备好了吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Ready, Violet? Ready?{\r}
+01:08:28,000 --> 01:08:30,430
+就为了统治世界吗
+To rule the world?
 
 1062
-01:35:05,494 --> 01:35:06,688
-现在！
-{\fs10\shad2\1c&HC0C0C0&\b0}Now!{\r}
+01:08:30,440 --> 01:08:33,160
+龙  他们...他们是善良的
+Dragons, they-they are kind,
 
 1063
-01:35:09,731 --> 01:35:11,255
-这会很颠簸哦
-{\fs10\shad2\1c&HC0C0C0&\b0}This is gonna be rough.{\r}
+01:08:33,160 --> 01:08:36,310
+神奇的生物  能与人类和平相处
+amazing creatures that can bring people together.
 
 1064
-01:35:18,740 --> 01:35:21,072
-机器人在金融区 哪个交流道下？
-{\fs10\shad2\1c&HC0C0C0&\b0}Robot's in the financial district. Which exit?{\r}
+01:08:37,940 --> 01:08:41,010
+或者伤害人类
+Or tear them apart.
 
 1065
-01:35:21,143 --> 01:35:23,441
-大千路 那是到市区
-{\fs10\shad2\1c&HC0C0C0&\b0}Traction Avenue. That'll take me downtown.{\r}
+01:08:43,110 --> 01:08:47,800
+你瞧  我知道生活在恐惧中是什么滋味
+You see, I know what it is to live in fear,
 
 1066
-01:35:23,512 --> 01:35:25,946
-我要走七街 不行
-{\fs10\shad2\1c&HC0C0C0&\b0}l take Seventh, don't l? Don't take Seventh!{\r}
+01:08:48,120 --> 01:08:50,790
+知道自己的村庄被焚毁
+to see my village burned,
 
 1067
-01:35:26,014 --> 01:35:28,676
-错过了 你要我指路，我说了
-{\fs10\shad2\1c&HC0C0C0&\b0}Great, we missed it. Ask how to get there, l told you.{\r}
+01:08:50,790 --> 01:08:53,820
+家庭被毁灭是什么滋味
+my family taken.
 
 1068
-01:35:28,750 --> 01:35:30,615
-在大千路下 那会开到市区
-{\fs10\shad2\1c&HC0C0C0&\b0}Traction. That'll take me downtown.{\r}
+01:08:53,830 --> 01:08:56,560
+但是即便小时候
+But even as a boy
 
 1069
-01:35:30,686 --> 01:35:32,483
-换到右线，打灯
-{\fs10\shad2\1c&HC0C0C0&\b0}Get in the right lane! Signal!{\r}
+01:08:56,560 --> 01:08:58,760
+我无依无靠
+left with nothing,
 
 1070
-01:35:32,554 --> 01:35:34,715
-不对啦 你就快错过了
-{\fs10\shad2\1c&HC0C0C0&\b0}Not Traction! You're gonna miss it!{\r}
+01:08:58,760 --> 01:09:00,930
+我也发誓要
+I vowed to rise above
 
 1071
-01:36:01,316 --> 01:36:03,978
-你们还好吧？
-{\fs10\shad2\1c&HC0C0C0&\b0}ls everybody okay back there?{\r}
+01:09:00,930 --> 01:09:03,570
+战胜对龙的恐惧
+the fear of dragons
 
 1072
-01:36:04,052 --> 01:36:07,715
-这超过瘾的 再玩一次
-{\fs10\shad2\1c&HC0C0C0&\b0}Super-duper, Dad! Let's do that again.{\r}
+01:09:04,970 --> 01:09:08,340
+并且解放这世上所有的人
+and liberate the people of this world.
 
 1073
-01:36:10,359 --> 01:36:13,556
-你留在这儿，我去对付它
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait here and stay hidden. l'm going in.{\r}
+01:09:08,340 --> 01:09:10,640
+那为什么要组建龙族军队
+Then why a dragon army?
 
 1074
-01:36:14,363 --> 01:36:16,957
-这是怎样？ 我只能无助地在旁边看？
-{\fs10\shad2\1c&HC0C0C0&\b0}While what? l watch helplessly from the sidelines?{\r}
+01:09:10,640 --> 01:09:15,040
+你要用龙来战胜其它龙
+Well, you need dragons to conquer other dragons.
 
 1075
-01:36:17,032 --> 01:36:19,796
-想都别想 我要你留在孩子身边
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't think so. l'm asking you to wait with the kids.{\r}
+01:09:15,050 --> 01:09:18,450
+又或者你是要用龙来征服人类
+Or maybe you need dragons to conquer people
 
 1076
-01:36:19,868 --> 01:36:22,166
-我说想都别想，你是我老公
-{\fs10\shad2\1c&HC0C0C0&\b0}And l'm telling you not a chance. You're my husband.{\r}
+01:09:18,450 --> 01:09:21,350
+来控制追随你的人
+to control those who follow you
 
 1077
-01:36:22,237 --> 01:36:24,205
-不管怎样都要互相扶持
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm with you for better or worse.{\r}
+01:09:21,350 --> 01:09:23,820
+消灭违抗你的人
+and to get rid of those who won't.
 
 1078
-01:36:24,273 --> 01:36:26,400
-我必须一个人去
-{\fs10\shad2\1c&HC0C0C0&\b0}l have to do this alone.{\r}
+01:09:26,420 --> 01:09:28,690
+聪明
+Clever boy.
 
 1079
-01:36:26,475 --> 01:36:28,534
-你这是在玩游戏吗？ 不是
-{\fs10\shad2\1c&HC0C0C0&\b0}What is this to you? Playtime? No.{\r}
+01:09:28,690 --> 01:09:31,130
+世界需要和平
+The world wants peace,
 
 1080
-01:36:28,610 --> 01:36:30,407
-你是想逞英雄吗？ 不是
-{\fs10\shad2\1c&HC0C0C0&\b0}So you can be Mr. lncredible? No!{\r}
+01:09:31,130 --> 01:09:34,460
+博克岛已经找到了人龙和平共处的方式
+and we have the answer back on Berk.
 
 1081
-01:36:30,479 --> 01:36:32,037
-那是怎样？ 我不...
-{\fs10\shad2\1c&HC0C0C0&\b0}Then what? l'm not...{\r}
+01:09:34,470 --> 01:09:36,600
+让我展示给你看吧
+Just... let me show you...
 
 1082
-01:36:32,114 --> 01:36:33,877
-那是怎样？ 我不够强
-{\fs10\shad2\1c&HC0C0C0&\b0}Not what? l'm not strong enough.{\r}
+01:09:36,600 --> 01:09:38,670
+不
+No!
 
 1083
-01:36:33,949 --> 01:36:35,814
-你一个人去就够强吗？ 对，不是
-{\fs10\shad2\1c&HC0C0C0&\b0}This will make you stronger? Yes. No!{\r}
+01:09:38,670 --> 01:09:40,440
+还是让我
+Let me
 
 1084
-01:36:35,884 --> 01:36:37,977
-你是想去送死吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}That's what this is? A workout?{\r}
+01:09:40,440 --> 01:09:42,470
+展示给你看看吧
+show you!
 
 1085
-01:36:38,053 --> 01:36:40,613
-我不能再失去你
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't lose you again!{\r}
+01:09:50,120 --> 01:09:51,120
+搞什么
+What in...
 
 1086
-01:36:41,556 --> 01:36:44,525
-我不能失去你
-{\fs10\shad2\1c&HC0C0C0&\b0}l can't. Not again.{\r}
+01:09:55,920 --> 01:09:58,090
+小嗝嗝
+Hiccup!
 
 1087
-01:36:44,793 --> 01:36:46,954
-我不够坚强
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm not... strong enough.{\r}
+01:09:58,090 --> 01:10:00,560
+快来  戈伯
+Come on, Gobber!
 
 1088
-01:36:55,337 --> 01:36:58,272
-我们一起去你就不会失去我
-{\fs10\shad2\1c&HC0C0C0&\b0}lf we work together, you won't have to be.{\r}
+01:10:00,560 --> 01:10:03,030
+好吧  计划有变
+Okay, change of plan.
 
 1089
-01:36:58,340 --> 01:37:00,171
-我不知道会发生什么事
-{\fs10\shad2\1c&HC0C0C0&\b0}l don't know what'll happen.{\r}
+01:10:05,100 --> 01:10:08,830
+任何龙都无法违抗龙王的命令
+No dragon can resist the Alpha's command.
 
 1090
-01:37:00,242 --> 01:37:03,040
-我们是超级英雄 会发生什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}We're superheroes. What can happen?{\r}
+01:10:08,830 --> 01:10:12,870
+所以谁控制了龙王
+So he who controls the Alpha
 
 1091
-01:37:07,249 --> 01:37:09,080
-小倩、小飞，不！
-{\fs10\shad2\1c&HC0C0C0&\b0}Vi! Dash! No!{\r}
+01:10:12,870 --> 01:10:16,170
+也就控制了所有龙
+controls them all.
 
 1092
-01:37:19,027 --> 01:37:20,119
-小倩？
-{\fs10\shad2\1c&HC0C0C0&\b0}Violet?{\r}
+01:10:18,640 --> 01:10:21,010
+没牙仔
+Toothless?
 
 1093
-01:37:23,498 --> 01:37:26,023
-爸! 快走啊
-{\fs10\shad2\1c&HC0C0C0&\b0}Dad! Go, go!{\r}
+01:10:26,420 --> 01:10:28,790
+没牙仔  你没事吧  伙计  怎么了
+T-toothless, you okay, bud? What's going on?
 
 1094
-01:37:35,711 --> 01:37:39,147
-我没事，真的 留在这儿
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm okay, Mom. Really. Stay here, okay?{\r}
+01:10:28,790 --> 01:10:30,650
+让你见识一下真正的厉害
+Witness true strength.
 
 1095
-01:37:49,925 --> 01:37:51,222
-酷冰侠
-{\fs10\shad2\1c&HC0C0C0&\b0}Frozone!{\r}
+01:10:32,790 --> 01:10:35,860
+控制其它龙的强大意念力
+The strength of will over others.
 
 1096
-01:37:51,293 --> 01:37:52,419
-好耶
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah!{\r}
+01:10:40,700 --> 01:10:42,430
+与之相比
+In the face of it,
 
 1097
-01:37:55,530 --> 01:37:56,690
-鲍伯
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob!{\r}
+01:10:42,430 --> 01:10:45,800
+你微不足道
+you are nothing.
 
 1098
-01:37:57,799 --> 01:37:58,788
-喂!
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey!{\r}
+01:10:49,910 --> 01:10:52,640
+他刚刚跟你说了什么
+Uh... what did he just tell you?
 
 1099
-01:38:15,117 --> 01:38:16,311
-辛拉登的遥控器
-{\fs10\shad2\1c&HC0C0C0&\b0}Syndrome's remote!{\r}
+01:10:56,450 --> 01:10:57,950
+没牙仔  拜托
+Toothless, come on.
 
 1100
-01:38:26,061 --> 01:38:28,393
-遥控器能用来控制机器人
-{\fs10\shad2\1c&HC0C0C0&\b0}The remote controls the robot!{\r}
+01:10:57,950 --> 01:10:59,750
+你怎么了
+What's the matter with you?
 
 1101
-01:38:31,066 --> 01:38:33,534
-爸，丢过来 跑远一点
-{\fs10\shad2\1c&HC0C0C0&\b0}Throw it, throw it! Go long!{\r}
+01:10:59,750 --> 01:11:01,550
+不  不  不  拜托  你这是干吗
+No, no, no, no, come on, what are you doing?
 
 1102
-01:38:44,713 --> 01:38:45,839
-我接到了
-{\fs10\shad2\1c&HC0C0C0&\b0}Got it!{\r}
+01:11:01,550 --> 01:11:02,950
+别这样
+Knock it off.
 
 1103
-01:38:50,752 --> 01:38:52,811
-把它的火炮打掉
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey, take out its guns!{\r}
+01:11:02,950 --> 01:11:05,460
+停  快醒过来
+Stop! Snap out of it!
 
 1104
-01:39:00,495 --> 01:39:01,723
-没问题
-{\fs10\shad2\1c&HC0C0C0&\b0}Gotcha!{\r}
+01:11:11,900 --> 01:11:13,730
+没牙仔  不要
+Toothless, no!
 
 1105
-01:39:46,975 --> 01:39:48,966
-我拿到遥控器了
-{\fs10\shad2\1c&HC0C0C0&\b0}Mom, l've got it! l've got the remote!{\r}
+01:11:13,730 --> 01:11:15,700
+没牙仔
+Toothless!
 
 1106
-01:39:50,679 --> 01:39:53,045
-遥控器？ 控制什么的遥控器？
-{\fs10\shad2\1c&HC0C0C0&\b0}A remote? A remote that controls what?{\r}
+01:11:19,600 --> 01:11:21,070
+-不要  -小嗝嗝
+- Don't! - Hiccup!
 
 1107
-01:39:56,451 --> 01:39:57,440
-机器人？
-{\fs10\shad2\1c&HC0C0C0&\b0}The robot?{\r}
+01:11:22,570 --> 01:11:24,710
+-住手  -儿子
+- Stop...! - Son!
 
 1108
-01:40:05,627 --> 01:40:06,616
-它回来了
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's coming back!{\r}
+01:11:24,710 --> 01:11:25,710
+爸
+Dad!
 
 1109
-01:40:10,165 --> 01:40:12,292
-按错了 给我啦
-{\fs10\shad2\1c&HC0C0C0&\b0}That wasn't right. Give me that!{\r}
+01:11:25,710 --> 01:11:26,980
+别过来
+No!
 
 1110
-01:40:13,168 --> 01:40:16,501
-阻止不了它 它唯一的克星就是...
-{\fs10\shad2\1c&HC0C0C0&\b0}We can't stop it. The only thing hard enough to penetrate it is...{\r}
+01:11:45,960 --> 01:11:47,860
+不
+No...
 
 1111
-01:40:20,041 --> 01:40:21,303
-它自己
-{\fs10\shad2\1c&HC0C0C0&\b0}...itself.{\r}
+01:11:55,170 --> 01:11:56,840
+爸
+Dad!
 
 1112
-01:40:21,376 --> 01:40:22,866
-它过来了
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's getting closer!{\r}
+01:11:56,840 --> 01:11:58,840
+史推克
+Stoick...
 
 1113
-01:40:22,944 --> 01:40:24,536
-没有用 孩子们！
-{\fs10\shad2\1c&HC0C0C0&\b0}lt doesn't work! Kids!{\r}
+01:12:02,010 --> 01:12:03,580
+爸
+Dad?
 
 1114
-01:40:26,681 --> 01:40:28,012
-一点用都没有
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's not doing anything.{\r}
+01:12:03,580 --> 01:12:05,820
+不  你
+No. You...
 
 1115
-01:40:28,083 --> 01:40:30,574
-替我争取时间 等等，试试旁边的按钮
-{\fs10\shad2\1c&HC0C0C0&\b0}Try to buy us some time. Try the one next to it.{\r}
+01:12:18,200 --> 01:12:19,660
+不
+No.
 
 1116
-01:40:35,657 --> 01:40:36,783
-老婆！
-{\fs10\shad2\1c&HC0C0C0&\b0}Honey!{\r}
+01:12:28,910 --> 01:12:30,710
+不  不  不  不
+No, no, no. No.
 
 1117
-01:40:42,898 --> 01:40:45,298
-这就对了，再按一次
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait a minute. Press that button again!{\r}
+01:12:52,060 --> 01:12:54,330
+不  别碰他
+No! Get away from him!
 
 1118
-01:40:46,601 --> 01:40:50,901
-另一个，第一个按钮 第一个，收到
-{\fs10\shad2\1c&HC0C0C0&\b0}No, the other one! The first one! First button! Got it!{\r}
+01:12:56,200 --> 01:12:57,830
+走  走开
+Go on! Get out of here!
 
 1119
-01:40:50,972 --> 01:40:53,304
-它过来了 小心！
-{\fs10\shad2\1c&HC0C0C0&\b0}lt's getting closer! Look out!{\r}
+01:12:57,840 --> 01:13:00,670
+走开
+Get away!
 
 1120
-01:40:53,375 --> 01:40:56,105
-找地方躲起来 我们才不走
-{\fs10\shad2\1c&HC0C0C0&\b0}Get out of here! We're not going anywhere.{\r}
+01:13:00,670 --> 01:13:03,640
+这不是他的错
+It's not his fault.
 
 1121
-01:40:56,178 --> 01:40:57,907
-快按呀 还不行
-{\fs10\shad2\1c&HC0C0C0&\b0}Press the button! Not yet!{\r}
+01:13:03,640 --> 01:13:05,940
+你心里清楚
+You know that.
 
 1122
-01:40:57,979 --> 01:41:00,470
-等一下 你还在等什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}Hang on! What are you waiting for?{\r}
+01:13:10,850 --> 01:13:12,920
+驯良的龙
+Good dragons
 
 1123
-01:41:00,549 --> 01:41:02,779
-等它靠近一点，只有一次机会
-{\fs10\shad2\1c&HC0C0C0&\b0}A closer target! You got one shot!{\r}
+01:13:12,920 --> 01:13:14,780
+在坏人的控制下
+under the control of bad people...
 
 1124
-01:41:06,388 --> 01:41:07,821
-大家快躲开
-{\fs10\shad2\1c&HC0C0C0&\b0}Everybody duck!{\r}
+01:13:14,790 --> 01:13:18,220
+-不  等等  别走  -也会做坏事
+- No, wait. Don't go. - do bad things.
 
 1125
-01:41:30,779 --> 01:41:31,905
-酷哥
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, Zone.{\r}
+01:13:38,110 --> 01:13:40,780
+快点
+Come on!
 
 1126
-01:41:39,020 --> 01:41:40,351
-不！
-{\fs10\shad2\1c&HC0C0C0&\b0}No!{\r}
+01:13:40,780 --> 01:13:43,110
+召集所有人在博克岛会合
+Gather the men and meet me at Berk!
 
 1127
-01:41:40,422 --> 01:41:44,483
-你看到吗？这样才对
-{\fs10\shad2\1c&HC0C0C0&\b0}Did you see that? That's the way to do it.{\r}
+01:13:43,110 --> 01:13:46,680
+-没牙仔  -不  别去
+- Toothless! - No, don't.
 
 1128
-01:41:44,559 --> 01:41:48,723
-这些老超人真行 是啊，姜还是老的辣
-{\fs10\shad2\1c&HC0C0C0&\b0}That's old school. Yeah. No school like the old school.{\r}
+01:14:12,010 --> 01:14:14,740
+愿武神迎接你
+May the Valkyries welcome you
 
 1129
-01:41:51,633 --> 01:41:54,898
-就跟以前一样 跟以前一样
-{\fs10\shad2\1c&HC0C0C0&\b0}Just like old times. Just like old times.{\r}
+01:14:14,750 --> 01:14:17,780
+引领你穿过奥丁的伟大战场
+and lead you through Odin's great battlefield.
 
 1130
-01:41:54,970 --> 01:41:57,268
-也跟以前一样痛
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah. Hurt then too.{\r}
+01:14:17,780 --> 01:14:21,050
+愿他们用爱和狂怒歌唱你的名字
+May they sing your name with love and fury,
 
 1131
-01:42:00,208 --> 01:42:02,676
-我们冻结了辛拉登的资产
-{\fs10\shad2\1c&HC0C0C0&\b0}We've frozen all of Syndrome's assets.{\r}
+01:14:21,050 --> 01:14:25,020
+让我们听到由瓦尔哈拉殿堂深处传来的颂歌
+so that we might hear it rise from the depths of Valhalla,
 
 1132
-01:42:02,744 --> 01:42:06,339
-只要他敢轻举妄动 我们就会逮到他
-{\fs10\shad2\1c&HC0C0C0&\b0}lf he even sneezes, we'll be there with a hanky and a pair of handcuffs.{\r}
+01:14:21,050 --> 01:14:25,020
+{\an8}北欧神话主神兼死亡之神奥丁接待英灵的殿堂
 
 1133
-01:42:06,414 --> 01:42:08,712
-国家欠你们一份人情
-{\fs10\shad2\1c&HC0C0C0&\b0}The people of this country are indebted to you.{\r}
+01:14:25,020 --> 01:14:27,890
+在国王之桌上
+and know that you've taken your rightful place
 
 1134
-01:42:08,783 --> 01:42:10,683
-我们不必隐姓埋名了吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Can we come out of hiding?{\r}
+01:14:27,890 --> 01:14:31,790
+你已获得了应有的席位
+at the table of kings.
 
 1135
-01:42:10,752 --> 01:42:12,811
-这要让政客去决定
-{\fs10\shad2\1c&HC0C0C0&\b0}Let the politicians figure that out.{\r}
+01:14:31,800 --> 01:14:34,060
+一位伟人从此陨落
+For a great man has fallen.
 
 1136
-01:42:12,887 --> 01:42:16,414
-不过我们一定会好好照顾你们
-{\fs10\shad2\1c&HC0C0C0&\b0}l've been asked to assure you we'll take care of everything else.{\r}
+01:14:34,070 --> 01:14:35,700
+他同时也是一名勇士
+A warrior.
 
 1137
-01:42:16,491 --> 01:42:17,583
-你做得很好
-{\fs10\shad2\1c&HC0C0C0&\b0}You did good, Bob.{\r}
+01:14:36,800 --> 01:14:38,800
+一位族长
+A chieftain.
 
 1138
-01:42:17,659 --> 01:42:19,650
-这是凯莉
-{\fs10\shad2\1c&HC0C0C0&\b0}Hi, this is Kari.{\r}
+01:14:38,800 --> 01:14:40,740
+一位慈父
+A father.
 
 1139
-01:42:19,728 --> 01:42:22,629
-小杰有点问题
-{\fs10\shad2\1c&HC0C0C0&\b0}I have a question about Jack-Jack...{\r}
+01:14:41,810 --> 01:14:44,040
+和一位挚友
+A friend.
 
 1140
-01:42:22,697 --> 01:42:24,494
-这是礼车，给我安份一点
-{\fs10\shad2\1c&HC0C0C0&\b0}Come on. We're in a limo.{\r}
+01:15:17,440 --> 01:15:20,940
+对不起  爸
+I'm sorry, dad.
 
 1141
-01:42:24,566 --> 01:42:27,433
-你把头发拨到后面了
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey, you're wearing your hair back?{\r}
+01:15:31,990 --> 01:15:34,260
+我没能成为
+I'm not the chief that
 
 1142
-01:42:27,502 --> 01:42:30,369
-是啊，我想...对啊 这样很好看
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah, l just... yeah. lt looks good.{\r}
+01:15:34,260 --> 01:15:36,430
+你期望中的领袖
+you wanted me to be.
 
 1143
-01:42:30,438 --> 01:42:33,100
-谢了 你丢那辆车超酷的
-{\fs10\shad2\1c&HC0C0C0&\b0}Thanks, Dad. That was cool when you threw that car!{\r}
+01:15:36,430 --> 01:15:40,000
+也没能像我想象中那样捍卫和平
+And I'm not the peacekeeper I thought I was.
 
 1144
-01:42:33,174 --> 01:42:35,699
-你在水上跑也酷毙了
-{\fs10\shad2\1c&HC0C0C0&\b0}Not as cool as you running on water.{\r}
+01:15:42,100 --> 01:15:45,230
+我  不知道
+I... don't know...
 
 1145
-01:42:35,777 --> 01:42:39,304
-你伸手把那坏蛋 打飞出去撞到另一个家伙
-{\fs10\shad2\1c&HC0C0C0&\b0}That was sweet when you snagged that bad guy with your arm{\r}
+01:15:57,380 --> 01:16:00,380
+你是个早产儿
+You came early into this world.
 
 1146
-01:42:39,381 --> 01:42:42,248
-那一招超赞的
-{\fs10\shad2\1c&HC0C0C0&\b0}and whiplashed him into the other guy. Sweet!{\r}
+01:16:00,380 --> 01:16:03,020
+你出生的时候个子好小
+You were such a wee thing.
 
 1147
-01:42:42,317 --> 01:42:45,150
-我正在听留言 巴太太，是我
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm trying to listen to messages. Mrs. Parr, it's me.{\r}
+01:16:03,020 --> 01:16:06,520
+是那么脆弱  那么不堪一击
+Oh, so frail, so fragile.
 
 1148
-01:42:45,220 --> 01:42:48,781
-小杰没事 不过发生了一些怪事
-{\fs10\shad2\1c&HC0C0C0&\b0}Jack-Jack is fine, but weird things are happening.{\r}
+01:16:06,520 --> 01:16:09,090
+我害怕你会夭折
+I feared you wouldn't make it.
 
 1149
-01:42:48,857 --> 01:42:52,418
-小杰很好，不过我一点都不好
-{\fs10\shad2\1c&HC0C0C0&\b0}Jack-Jack's still fine, but I'm getting really weirded out!{\r}
+01:16:10,890 --> 01:16:13,460
+但是你父亲
+But your father...
 
 1150
-01:42:52,494 --> 01:42:54,086
-你几时才会回来？
-{\fs10\shad2\1c&HC0C0C0&\b0}When are you coming back?{\r}
+01:16:13,460 --> 01:16:16,270
+他从未怀疑过
+he never doubted.
 
 1151
-01:42:54,162 --> 01:42:56,562
-我们把坏蛋打得落花流水
-{\fs10\shad2\1c&HC0C0C0&\b0}...aced those guys that tried to kill us!{\r}
+01:16:16,270 --> 01:16:20,540
+他总说你会成为他们之中最强壮的一个
+He always said you'd become the strongest of them all.
 
 1152
-01:42:56,631 --> 01:43:00,692
-这是最棒的假期 我爱我的家人
-{\fs10\shad2\1c&HC0C0C0&\b0}That was the best vacation ever! l love our family.{\r}
+01:16:20,540 --> 01:16:22,840
+他说对了
+And he was right.
 
 1153
-01:43:00,769 --> 01:43:03,636
-我糟糕透顶了
-{\fs10\shad2\1c&HC0C0C0&\b0}I'm not fine, Mrs. Parr!{\r}
+01:16:24,070 --> 01:16:27,010
+你拥有领袖的心胸
+You have the heart of a chief,
 
 1154
-01:43:03,705 --> 01:43:06,469
-快点放下来，住手 请你赶快打电话给我
-{\fs10\shad2\1c&HC0C0C0&\b0}Put that down! Stop it! You need to call me.{\r}
+01:16:27,010 --> 01:16:29,450
+和龙的灵魂
+and the soul of a dragon.
 
 1155
-01:43:06,541 --> 01:43:08,771
-我需要帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}I need help, Mrs...{\r}
+01:16:29,450 --> 01:16:34,180
+只有你才能把我们的世界维系起来
+Only you can bring our worlds together.
 
 1156
-01:43:08,843 --> 01:43:10,504
-你听听
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob, listen to this.{\r}
+01:16:34,190 --> 01:16:38,250
+你就是这样的人  儿子
+That... is who you are, son.
 
 1157
-01:43:10,578 --> 01:43:12,603
-我要报警了
-{\fs10\shad2\1c&HC0C0C0&\b0}I'm gonna call the police...{\r}
+01:16:51,800 --> 01:16:54,170
+我
+I, uh...
 
 1158
-01:43:12,681 --> 01:43:14,171
-这是凯莉
-{\fs10\shad2\1c&HC0C0C0&\b0}Hi, this is Kari.{\r}
+01:16:54,170 --> 01:16:57,310
+我曾好怕变成父亲那样
+I was so afraid of becoming my dad.
 
 1159
-01:43:14,249 --> 01:43:18,447
-我太大惊小怪了 不过你的宝宝很特别
-{\fs10\shad2\1c&HC0C0C0&\b0}Sorry for freaking out, but your baby has special needs.{\r}
+01:16:58,580 --> 01:17:02,240
+因为我觉得我将永远无法做到像他那样
+Mostly because I thought I never could.
 
 1160
-01:43:18,520 --> 01:43:20,545
-谢谢你找专业保姆来帮忙
-{\fs10\shad2\1c&HC0C0C0&\b0}Thanks for sending a replacement.{\r}
+01:17:02,250 --> 01:17:05,310
+酒精怎么才能成为一个
+How-how do you become someone...
 
 1161
-01:43:20,622 --> 01:43:23,352
-我没有找保姆呀
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't call a replacement.{\r}
+01:17:05,320 --> 01:17:07,920
+那么伟大  那么勇敢
+that great, that... brave,
 
 1162
-01:43:28,863 --> 01:43:31,127
-宝宝睡着了
-{\fs10\shad2\1c&HC0C0C0&\b0}The baby is sleeping.{\r}
+01:17:07,920 --> 01:17:10,420
+那么无私的人呢
+that... selfless?
 
 1163
-01:43:33,535 --> 01:43:35,799
-你们夺走我的未来
-{\fs10\shad2\1c&HC0C0C0&\b0}You took away my future.{\r}
+01:17:13,520 --> 01:17:16,490
+我想我只有尽力了
+I guess you can only try.
 
 1164
-01:43:35,870 --> 01:43:39,306
-我只是想报一箭之仇 我会好好照顾他
-{\fs10\shad2\1c&HC0C0C0&\b0}l'm simply returning the favor. Don't worry, l'll be a good mentor.{\r}
+01:17:23,900 --> 01:17:27,000
+首领要保卫自己的领土
+A chief protects his own.
 
 1165
-01:43:39,374 --> 01:43:42,673
-我会支持他鼓励他 不像你那么无情
-{\fs10\shad2\1c&HC0C0C0&\b0}Supportive, encouraging. Everything you weren't.{\r}
+01:17:29,870 --> 01:17:31,540
+我们要回去
+We're going back.
 
 1166
-01:43:42,744 --> 01:43:46,680
-也许有一天 他可以当我的小跟班
-{\fs10\shad2\1c&HC0C0C0&\b0}And in time, who knows, he might make a good sidekick.{\r}
+01:17:33,180 --> 01:17:37,180
+-怎么回  -他把所有龙都带走了
+- Uh... with what? - Uh, he took all the dragons.
 
 1167
-01:43:50,819 --> 01:43:54,118
-他逃走了，快想办法
-{\fs10\shad2\1c&HC0C0C0&\b0}He's getting away, Bob! We have to do something.{\r}
+01:17:37,180 --> 01:17:39,550
+不是所有龙
+Not all of them.
 
 1168
-01:44:09,704 --> 01:44:11,171
-发生什么事？
-{\fs10\shad2\1c&HC0C0C0&\b0}What's happening?{\r}
+01:17:50,290 --> 01:17:51,590
+我还不想死啊
+I don't want to die!
 
 1169
-01:44:17,078 --> 01:44:20,241
-快丢东西阻止他 不行，我会丢到小杰
-{\fs10\shad2\1c&HC0C0C0&\b0}Stop him! Throw something! l might hit Jack-Jack.{\r}
+01:17:51,600 --> 01:17:53,860
+我们根本没办法控制这些家伙
+We can't fly these things!
 
 1170
-01:44:24,452 --> 01:44:25,919
-把我丢上去
-{\fs10\shad2\1c&HC0C0C0&\b0}Throw me.{\r}
+01:17:53,870 --> 01:17:55,030
+是啊  就是说啊
+Yeah, no kidding!
 
 1171
-01:44:30,024 --> 01:44:31,491
-快把我丢上去
-{\fs10\shad2\1c&HC0C0C0&\b0}Bob, throw me!{\r}
+01:17:58,500 --> 01:18:00,240
+可是那只龙王
+But won't that bewilder beast
 
 1172
-01:44:37,699 --> 01:44:38,791
-不！
-{\fs10\shad2\1c&HC0C0C0&\b0}No!{\r}
+01:18:00,240 --> 01:18:03,010
+不会也把这些小家伙给控制了吗
+just take control of these guys, too?
 
 1173
-01:44:41,403 --> 01:44:44,964
-我不会放过你们 总有一天我会报仇雪恨
-{\fs10\shad2\1c&HC0C0C0&\b0}This isn't the end of it! l will get your son, eventually.{\r}
+01:18:03,010 --> 01:18:05,910
+他们是龙宝宝  才不会听任何人的呢
+They're babies! They don't listen to anyone.
 
 1174
-01:44:45,039 --> 01:44:46,370
-我会报仇的
-{\fs10\shad2\1c&HC0C0C0&\b0}l'll get your son!{\r}
+01:18:05,910 --> 01:18:08,040
+是啊  就像我们一样
+Yeah. Just like us.
 
 1175
-01:44:48,109 --> 01:44:49,303
-惨了
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, no.{\r}
+01:18:08,050 --> 01:18:10,610
+这实在是  太危险了
+This is... whoa... very dangerous!
 
 1176
-01:45:00,622 --> 01:45:04,490
-看着妈咪，别往下看 妈咪抱住你了
-{\fs10\shad2\1c&HC0C0C0&\b0}Look at Mommy, honey. Don't look down. Mommy's got you.{\r}
+01:18:14,250 --> 01:18:16,620
+有些人可能会说
+Some might suggest
 
 1177
-01:45:04,559 --> 01:45:07,119
-一切都不会有事
-{\fs10\shad2\1c&HC0C0C0&\b0}Everything is all right.{\r}
+01:18:16,620 --> 01:18:19,220
+这主意糟透了
+this is poorly conceived!
 
 1178
-01:45:22,041 --> 01:45:23,668
-好孩子
-{\fs10\shad2\1c&HC0C0C0&\b0}That's my girl.{\r}
+01:18:19,220 --> 01:18:21,260
+还好我从不听话
+Well, it's a good thing that I never listen.
 
 1179
-01:45:24,310 --> 01:45:27,074
-我们又得搬家吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}Does this mean we have to move again?{\r}
+01:18:22,660 --> 01:18:24,090
+那你
+So
 
 1180
-01:45:30,149 --> 01:45:31,616
-哇塞
-{\fs10\shad2\1c&HC0C0C0&\b0}Oh, man.{\r}
+01:18:24,100 --> 01:18:25,100
+到底有什么
+what is your...
 
 1181
-01:45:31,684 --> 01:45:34,482
-这超棒的
-{\fs10\shad2\1c&HC0C0C0&\b0}That was totally wicked!{\r}
+01:18:25,100 --> 01:18:26,460
+计划
+plan?
 
 1182
-01:45:38,190 --> 01:45:39,179
-市立体育馆
+01:18:26,460 --> 01:18:29,430
+夺回没牙仔  狠狠教训德拉戈
+Get Toothless back and kick Drago's...
 
 1183
-01:45:39,258 --> 01:45:43,422
-三个月后
+01:18:29,430 --> 01:18:31,270
+小心
+Heads up!
 
 1184
-01:45:51,470 --> 01:45:54,371
-田径比赛也有啦啦队？
-{\fs10\shad2\1c&HC0C0C0&\b0}Do we have to have cheerleaders at the track meet?{\r}
+01:18:31,270 --> 01:18:33,140
+还有这件事
+And that thing.
 
 1185
-01:45:54,440 --> 01:45:57,500
-这会不会太扯了 ？ 我老是觉得...
-{\fs10\shad2\1c&HC0C0C0&\b0}What is that all about? l always thought it was more...{\r}
+01:18:56,630 --> 01:18:58,630
+好孩子
+Ah, that's a good boy.
 
 1186
-01:45:57,576 --> 01:45:59,100
-嗨 嗨
-{\fs10\shad2\1c&HC0C0C0&\b0}Hey. Hey.{\r}
+01:19:04,370 --> 01:19:06,300
+看  看着点家具
+W-w-watch the furniture!
 
 1187
-01:45:59,178 --> 01:46:01,772
-你是小倩，对吧？ 我就是
-{\fs10\shad2\1c&HC0C0C0&\b0}You're Violet, right? That's me.{\r}
+01:19:06,300 --> 01:19:08,440
+你要去哪
+Where are you going?
 
 1188
-01:46:01,847 --> 01:46:03,747
-回头见 你看起来不太一样
-{\fs10\shad2\1c&HC0C0C0&\b0}See you, Vi. You look different.{\r}
+01:19:25,990 --> 01:19:29,020
+你们的首领已经死了
+Your chief... is dead!
 
 1189
-01:46:03,816 --> 01:46:07,149
-我感觉也不一样 不一样好吗？
-{\fs10\shad2\1c&HC0C0C0&\b0}l feel different. ls different okay?{\r}
+01:19:29,030 --> 01:19:31,390
+-史推克  -不  不可能
+- Stoick? - No! Not possible!
 
 1190
-01:46:07,219 --> 01:46:10,450
-不一样...不一样很好
-{\fs10\shad2\1c&HC0C0C0&\b0}Different is great.{\r}
+01:19:31,400 --> 01:19:34,000
+现在没人能保护你们了
+No one can protect you now!
 
 1191
-01:46:10,522 --> 01:46:12,820
-你想不想...
-{\fs10\shad2\1c&HC0C0C0&\b0}Would you...{\r}
+01:19:48,280 --> 01:19:50,680
+不
+No.
 
 1192
-01:46:12,891 --> 01:46:14,791
-什么？ 你想不想跟我...
-{\fs10\shad2\1c&HC0C0C0&\b0}Yeah? Do you think maybe...{\r}
+01:19:50,680 --> 01:19:54,480
+他带走了所有龙
+He took all the dragons.
 
 1193
-01:46:14,860 --> 01:46:16,452
-你跟我... 什么？
-{\fs10\shad2\1c&HC0C0C0&\b0}...you and l... Yeah?{\r}
+01:19:54,490 --> 01:19:56,120
+引开龙王
+Distract the Alpha.
 
 1194
-01:46:16,528 --> 01:46:17,756
-你想不想...
-{\fs10\shad2\1c&HC0C0C0&\b0}Do you...{\r}
+01:19:56,120 --> 01:19:58,590
+让他无暇顾及没牙仔
+Try to keep his focus off of Toothless.
 
 1195
-01:46:17,830 --> 01:46:20,731
-我喜欢看电影，爆米花我买
-{\fs10\shad2\1c&HC0C0C0&\b0}l like movies. l'll buy the popcorn. Okay?{\r}
+01:19:58,590 --> 01:20:00,090
+怎么引开他啊
+Uh, how?
 
 1196
-01:46:20,799 --> 01:46:24,633
-看电影，好哇
-{\fs10\shad2\1c&HC0C0C0&\b0}A movie. There you go. Yeah.{\r}
+01:20:00,090 --> 01:20:02,260
+你忘了你的战斗伙伴是谁了吗
+Have you forgotten who you're riding with?
 
 1197
-01:46:24,703 --> 01:46:27,570
-等等，就约礼拜五啰 礼拜五见
-{\fs10\shad2\1c&HC0C0C0&\b0}Wait, so Friday? Friday.{\r}
+01:20:02,260 --> 01:20:05,690
+就没有我驯服不了的龙
+There isn't a dragon alive that I can't wrangle! Aah!
 
 1198
-01:46:31,577 --> 01:46:32,805
-小飞，加油，快跑 跑快一点
-{\fs10\shad2\1c&HC0C0C0&\b0}Go, Dash, go. Run!{\r}
+01:20:05,700 --> 01:20:08,760
+-这只除外  -半吊子
+- Except for this one...! - Amateur.
 
 1199
-01:46:34,680 --> 01:46:37,080
-加油，跑快一点
-{\fs10\shad2\1c&HC0C0C0&\b0}Come on, run! Pick up the pace.{\r}
+01:20:08,770 --> 01:20:11,230
+看啊  是小嗝嗝
+Hey, look! It's Hiccup!
 
 1200
-01:46:37,149 --> 01:46:38,480
-加油
-{\fs10\shad2\1c&HC0C0C0&\b0}Run!{\r}
+01:20:16,770 --> 01:20:19,710
+什么
+What?
 
 1201
-01:46:38,550 --> 01:46:39,915
-慢点，慢点
-{\fs10\shad2\1c&HC0C0C0&\b0}Pull back, pull back!{\r}
+01:20:33,160 --> 01:20:34,790
+继续扔羊
+Keep 'em coming!
 
 1202
-01:46:39,985 --> 01:46:42,818
-别跑那么快，跑慢一点
-{\fs10\shad2\1c&HC0C0C0&\b0}Pace it. Slow down just a little bit.{\r}
+01:20:34,790 --> 01:20:36,490
+黑羊来了  宝贝
+Black sheep, baby!
 
 1203
-01:46:42,888 --> 01:46:45,755
-不要赢太多 得亚军就行了
-{\fs10\shad2\1c&HC0C0C0&\b0}Make it close! Second.{\r}
+01:20:46,800 --> 01:20:48,670
+十分
+Ten points!
 
 1204
-01:46:45,824 --> 01:46:47,348
-差距很近的亚军
-{\fs10\shad2\1c&HC0C0C0&\b0}Close second, yeah!{\r}
+01:21:02,820 --> 01:21:04,790
+我没事
+I'm okay!
 
 1205
-01:46:51,697 --> 01:46:54,029
-好孩子
-{\fs10\shad2\1c&HC0C0C0&\b0}That's my boy!{\r}
+01:21:12,300 --> 01:21:15,700
+我承认  想甩掉你还真不容易
+You certainly are hard to get rid of, I'll say that.
 
 1206
-01:46:54,099 --> 01:46:56,431
-小飞，我真是以你为荣
-{\fs10\shad2\1c&HC0C0C0&\b0}Dash, l'm so proud of you.{\r}
+01:21:15,700 --> 01:21:17,700
+没牙仔
+Toothless...
 
 1207
-01:46:56,502 --> 01:46:59,096
-我都不知道你要我怎样
-{\fs10\shad2\1c&HC0C0C0&\b0}l didn't know what the heck you wanted me to do.{\r}
+01:21:19,700 --> 01:21:21,800
+是我  伙计
+It's me, bud.
 
 1208
-01:47:10,883 --> 01:47:13,852
-我乃地狱魔王是也
-{\fs10\shad2\1c&HC0C0C0&\b0}Behold the Underminer!{\r}
+01:21:21,810 --> 01:21:23,310
+是我
+It's me.
 
 1209
-01:47:14,386 --> 01:47:16,854
-我一直都在你们底下
-{\fs10\shad2\1c&HC0C0C0&\b0}l am always beneath you,{\r}
+01:21:23,310 --> 01:21:25,370
+是我  我在这呢  伙计
+It's me. I'm right here, bud.
 
 1210
-01:47:16,922 --> 01:47:20,483
-我可是比上不足，比下有余
-{\fs10\shad2\1c&HC0C0C0&\b0}but nothing is beneath me!{\r}
+01:21:25,380 --> 01:21:27,280
+回我这来
+Come back to me.
 
 1211
-01:47:20,559 --> 01:47:26,862
-我要向和平与快乐宣战
-{\fs10\shad2\1c&HC0C0C0&\b0}l hereby declare war on peace and happiness!{\r}
+01:21:29,210 --> 01:21:31,850
+他已经不是你的了
+He's not yours anymore.
 
 1212
-01:47:26,932 --> 01:47:31,130
-你们很快会臣服在我的脚下
-{\fs10\shad2\1c&HC0C0C0&\b0}Soon all will tremble before me!{\r}
+01:21:31,850 --> 01:21:34,250
+他现在属于龙王
+He belongs to the Alpha.
 
 1213
-01:47:33,472 --> 01:47:35,463
-{\fs28\shad2\1c&HC0C0C0&\b0}超人特攻队
+01:21:34,250 --> 01:21:37,720
+但是  请便吧  驯龙大师
+But, please, o great dragon master,
+
+1214
+01:21:37,720 --> 01:21:40,360
+你可以试试
+try... to take him.
+
+1215
+01:21:40,360 --> 01:21:43,790
+他第二次可不会失手了
+He will not miss a second time.
+
+1216
+01:21:43,790 --> 01:21:46,130
+那不是你的错  伙计
+It wasn't your fault, bud.
+
+1217
+01:21:47,500 --> 01:21:49,870
+是他们逼你做的
+They... made you do it.
+
+1218
+01:21:59,380 --> 01:22:01,710
+你永远也不会伤害他的
+You'd never hurt him.
+
+1219
+01:22:05,450 --> 01:22:08,680
+你永远也不会伤害我的
+You'd never hurt me.
+
+1220
+01:22:11,890 --> 01:22:13,860
+你是怎么做到的
+How are you doing that?
+
+1221
+01:22:13,860 --> 01:22:17,360
+求求你了  你是我最好的朋友  伙计
+Please. You are my best friend, bud.
+
+1222
+01:22:21,500 --> 01:22:23,400
+我最好的朋友
+My best friend.
+
+1223
+01:22:28,240 --> 01:22:30,640
+好样的  这就对啦
+Attaboy! That's it!
+
+1224
+01:22:30,640 --> 01:22:31,670
+我就在这儿
+I'm here.
+
+1225
+01:22:31,680 --> 01:22:33,380
+够了
+Enough!
+
+1226
+01:22:39,220 --> 01:22:41,320
+坚持住
+Hang on!
+
+1227
+01:22:45,790 --> 01:22:47,620
+我快够到你了  伙计  我这就来了
+Almost there, buddy, almost there.
+
+1228
+01:22:56,770 --> 01:22:59,270
+想想办法啊
+Do something!
+
+1229
+01:22:59,270 --> 01:23:01,240
+我们得把他们俩分开
+We need to get those two apart.
+
+1230
+01:23:11,480 --> 01:23:13,950
+我们必须屏蔽掉控制  没牙仔
+We gotta block him out, Toothless.
+
+1231
+01:23:13,950 --> 01:23:15,780
+你信任我吗  伙计
+Do you trust me, bud?
+
+1232
+01:23:17,890 --> 01:23:19,690
+我们能做到的
+We can do this.
+
+1233
+01:23:19,690 --> 01:23:22,460
+你和我
+You... and me...
+
+1234
+01:23:22,460 --> 01:23:24,190
+一心同体
+as one.
+
+1235
+01:23:26,200 --> 01:23:27,960
+没错
+That's it.
+
+1236
+01:23:27,970 --> 01:23:31,300
+咱俩再试一次
+Now let's try this one more time!
+
+1237
+01:23:31,300 --> 01:23:34,400
+打败他  宝贝
+Take him down, babe!
+
+1238
+01:23:37,870 --> 01:23:38,940
+去打败他
+Go get him.
+
+1239
+01:23:41,410 --> 01:23:42,780
+控制它啊
+Take control of it!
+
+1240
+01:23:45,450 --> 01:23:46,720
+别受他干扰  没牙仔
+Shut it out, Toothless.
+
+1241
+01:23:46,720 --> 01:23:48,350
+-阻止他们  -就是现在
+- Stop them! - Now!
+
+1242
+01:24:11,670 --> 01:24:12,710
+又来
+Not again.
+
+1243
+01:24:14,880 --> 01:24:17,950
+没牙仔  成败就看现在了
+Toothless, it's now or never!
+
+1244
+01:24:19,880 --> 01:24:21,350
+来啊  伙计
+Come on, bud!
+
+1245
+01:24:23,550 --> 01:24:24,590
+稳住
+Hold on!
+
+1246
+01:24:27,760 --> 01:24:30,030
+我们成功了
+Ya-ha! We did it!
+
+1247
+01:24:38,300 --> 01:24:40,840
+盯住他  没牙仔
+Hold him there, Toothless.
+
+1248
+01:24:40,840 --> 01:24:42,970
+一切都结束了
+It's all over now.
+
+1249
+01:24:44,640 --> 01:24:46,280
+是吗
+Or is it?
+
+1250
+01:24:48,910 --> 01:24:50,350
+不
+Oh, no!
+
+1251
+01:24:59,060 --> 01:25:00,790
+不
+No!
+
+1252
+01:25:00,790 --> 01:25:03,760
+不
+No!
+
+1253
+01:25:11,600 --> 01:25:12,730
+小嗝嗝
+Hiccup...
+
+1254
+01:25:43,870 --> 01:25:45,430
+他在挑战龙王
+He's challenging the Alpha!
+
+1255
+01:25:45,440 --> 01:25:46,970
+为了保护你
+To protect you!
+
+1256
+01:26:12,760 --> 01:26:15,860
+不  不  不  不  不  不
+No, no, no, no, no! No!
+
+1257
+01:26:15,870 --> 01:26:17,870
+反击啊  反击
+Fight back! Fight!
+
+1258
+01:26:17,870 --> 01:26:19,070
+反击
+Fight!
+
+1259
+01:26:21,640 --> 01:26:23,970
+你这是怎么了
+What's the matter with you!
+
+1260
+01:26:27,140 --> 01:26:30,980
+坚守阵地  决不动摇
+Hold your ground! Hold the line now!
+
+1261
+01:26:33,420 --> 01:26:35,480
+你现在明白了吗
+Now do you get it?
+
+1262
+01:26:35,490 --> 01:26:39,020
+这才叫赢得了龙的真心
+This is what it is to earn a dragon's loyalty.
+
+1263
+01:26:40,990 --> 01:26:42,820
+让这一切就此结束吧
+Let this end now.
+
+1264
+01:26:42,830 --> 01:26:44,060
+永不
+Never!
+
+1265
+01:26:44,060 --> 01:26:45,430
+上啊
+Come on!
+
+1266
+01:27:08,520 --> 01:27:09,950
+反击
+Fight!
+
+1267
+01:27:43,550 --> 01:27:46,020
+真正的龙王会保护所有的龙
+The Alpha... protects them all.
+
+1268
+01:28:45,550 --> 01:28:48,680
+你总是让我刮目相看  伙计
+You never cease to amaze me, bud.
+
+1269
+01:28:48,690 --> 01:28:51,850
+谢谢
+Thank you.
+
+1270
+01:28:53,520 --> 01:28:56,560
+没牙仔  你知道口水洗不掉
+Toothless, you know that doesn't wash out!
+
+1271
+01:28:58,060 --> 01:28:59,680
+我就知道你会回来的
+I knew you'd come back
+
+1272
+01:28:59,680 --> 01:29:00,900
+你回来了  宝贝
+You're back, my beauty!
+
+1273
+01:29:02,230 --> 01:29:04,670
+风中飞
+Stormfly!
+
+1274
+01:29:07,700 --> 01:29:10,240
+让我抱抱  葛伦普
+Oh, give me a cuddle, Grumpy!
+
+1275
+01:29:13,810 --> 01:29:15,310
+谁是我的小公主
+Who's my little princess!
+
+1276
+01:29:15,310 --> 01:29:17,010
+你再也不许离开我了  钩牙
+Don't you ever leave again, Hookfang.
+
+1277
+01:29:17,010 --> 01:29:19,950
+-就是你  没错  就是你  -想死你了
+- Oh, you are. Yes, you are. - I missed you...
+
+1278
+01:29:19,950 --> 01:29:21,180
+喷喷
+Oh, Barf...
+
+1279
+01:29:21,180 --> 01:29:22,980
+不是你
+Not you!
+
+1280
+01:29:24,620 --> 01:29:26,720
+刚才的你
+That was some
+
+1281
+01:29:26,720 --> 01:29:28,860
+驯龙果然很有一套啊
+pretty fine dragon-wrangling back there.
+
+1282
+01:29:28,860 --> 01:29:30,590
+你会是个出色的捕龙猎手
+You'd make a good trapper.
+
+1283
+01:29:32,060 --> 01:29:34,700
+裂颅现在需要找个人
+You know... Skullcrusher is gonna need somebody
+
+1284
+01:29:34,700 --> 01:29:36,570
+照顾他
+to look after him now.
+
+1285
+01:29:36,570 --> 01:29:38,100
+我吗
+Me?
+
+1286
+01:29:41,700 --> 01:29:43,670
+我很荣幸
+I'd be honored.
+
+1287
+01:29:44,710 --> 01:29:46,810
+你父亲
+Oh, your father,
+
+1288
+01:29:46,810 --> 01:29:49,180
+会像我一样为你自豪的
+he'd be every bit as proud as I am.
+
+1289
+01:29:49,180 --> 01:29:51,050
+谢谢
+Thank you.
+
+1290
+01:29:51,050 --> 01:29:53,150
+你在我身边真是太好了  妈妈
+I'm really glad you're here, mom.
+
+1291
+01:29:53,150 --> 01:29:55,220
+我会一直留在你身边的
+And here I'll stay.
+
+1292
+01:29:56,750 --> 01:29:58,750
+看吧
+See?
+
+1293
+01:29:58,760 --> 01:30:00,220
+我就说在这里吧
+I told you it was in here.
+
+1294
+01:30:02,230 --> 01:30:03,960
+你还玩这招呢
+You're still doing that one.
+
+1295
+01:30:03,960 --> 01:30:05,730
+真好笑
+That's hilarious.
+
+1296
+01:30:05,730 --> 01:30:08,230
+你给我过来
+Come here, you.
+
+1297
+01:30:39,000 --> 01:30:42,030
+首领归来
+The chief has come home!
+
+1298
+01:30:48,740 --> 01:30:50,910
+首领万岁
+Long live the chief!
+
+1299
+01:30:50,910 --> 01:30:55,180
+首领万岁  首领万岁
+Long live the chief! Long live the chief!
+
+1300
+01:30:55,180 --> 01:30:57,350
+首领万岁
+Long live the chief!
+
+1301
+01:31:20,040 --> 01:31:22,170
+这里是博克岛
+This... is Berk.
+
+1302
+01:31:22,170 --> 01:31:24,770
+有些破烂  有些简陋
+A bit trampled and busted
+
+1303
+01:31:24,780 --> 01:31:27,310
+还有些地方被冰覆盖  但这里是我的家
+and covered in ice, but it's home.
+
+1304
+01:31:27,310 --> 01:31:29,710
+是我们的家
+It's our home.
+
+1305
+01:31:32,150 --> 01:31:33,920
+过往袭击过我们的敌人
+Those who attacked us
+
+1306
+01:31:33,920 --> 01:31:36,020
+残酷且疯狂
+are relentless and crazy.
+
+1307
+01:31:36,020 --> 01:31:38,890
+但是成功战胜了他们的我们呢
+But those who stopped them?
+
+1308
+01:31:38,890 --> 01:31:41,460
+更是勇猛
+Oh... even more so!
+
+1309
+01:31:43,830 --> 01:31:47,330
+虽然我们人数不多  但是我们象征着
+We may be small in numbers, but we stand for something
+
+1310
+01:31:47,330 --> 01:31:51,730
+这个世界上最强大的东西
+bigger than anything the world can pit against us.
+
+1311
+01:31:51,740 --> 01:31:54,170
+我们代表和平的声音
+We are the voice of peace.
+
+1312
+01:31:54,170 --> 01:31:58,240
+我们终将一点点改变这个世界
+And bit by bit, we will change this world.
+
+1313
+01:32:05,750 --> 01:32:09,020
+我们有他们所缺少的东西
+You see, we have something they don't.
+
+1314
+01:32:09,020 --> 01:32:10,490
+的确  他们有军队
+Oh, sure, they have armies,
+
+1315
+01:32:10,490 --> 01:32:14,190
+有舰队  但是我们
+and they have armadas, but we...
+
+1316
+01:32:14,190 --> 01:32:17,190
+我们有
+We have...
+
+1317
+01:32:17,190 --> 01:32:19,190
+我们的龙
+our dragons!
 
 */};

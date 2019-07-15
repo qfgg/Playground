@@ -116,10 +116,18 @@
                 var cl = '';
                 var el = '';
                 // filter head ending with '0,,'
-                while (i <= max && (p.slice(i, i + 3) !== '0,,')) {
+                while (i <= max) {
+                    if (p.slice(i, i + 3) === '0,,') {
+                        i = i + 3;
+                        break;
+                    }
+                    if (p.slice(i, i + 10) === '0,!Effect,') {
+                        i = i + 10;
+                        break;
+                    }
                     i++;
                 }
-                i = i + 3;
+                
                 filterBraces(p);
                 while (i <= max && p[i] !== '\\' && p[i] !== '{' && p[i] !== '\r') {
                     el += p[i];
