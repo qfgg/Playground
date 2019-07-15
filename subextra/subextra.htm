@@ -38,98 +38,122 @@
         var eraw = '';
         var cn = [];
         var en = [];
-        var cmax = 0;
-        var emax = 0;
-        var i = 0;
-        var j = 0;
 
-        // get a line text
-        function getCLine(p) {
-            var str = '';
-            while (i <= cmax && (p[i] === '\r' || p[i] === '\n' || p[i] === '\t' || p[i] === ' ')) {
-                i++;
-            }
-            while (i <= cmax && p[i] !== '\r' && p[i] !== '\n') {
-                str += p[i];
-                i++;
-            }
-            return str;
-        }
-        // get a block
-        function getCBlock(p) {
-            // the 1st line is number
-            getCLine(p);
-            // the 2nd line is time stamp
-            getCLine(p);
-            var ct = '';
-            var line = '';
-            // subtitle begins
-            do {
-                line = getCLine(p);
-                if (/[\u4e00-\u9fa5]/.test(line)) {
-                    if (ct !== '') {
-                        ct += ' - ';
-                    }
-                    ct += line;
+        function processSSA(p, isChn) {
+            var max = p.length - 1;
+            var i = 0;
+
+            i = p.indexOf('Dialogue:');
+            while(i <= max) {
+                var line = '';
+                // filter head ending with '0,,'
+                while (i <= max && p.slice(i, i + 3) !== '0,,') {
+                    i++;
                 }
-                // p[i], p[i + 1] === \r\n && p[i + 2], p[i + 3] === \r\n
-                // means the end of a block
-            } while (i < cmax && p[i + 2] !== '\r' && p[i + 2] !== '\n');
-            // drop this block when english or chinese is missing
-            if (ct) {
-                cn.push(ct);
-            }
-        }
-        // get a line text
-        function getELine(p) {
-            var str = '';
-            while (j <= emax && (p[j] === '\r' || p[j] === '\n' || p[j] === '\t' || p[j] === ' ')) {
-                j++;
-            }
-            while (j <= emax && p[j] !== '\r' && p[j] !== '\n') {
-                str += p[j];
-                j++;
-            }
-            return str;
-        }
-        // get a block
-        function getEBlock(p) {
-            // the 1st line is number
-            getELine(p);
-            // the 2nd line is time stamp
-            getELine(p);
-            var et = '';
-            var line = '';
-            // subtitle begins
-            do {
-                line = getELine(p);
-                if (/[a-zA-Z]/.test(line)) {
-                    if (et !== '') {
-                        et += ' - ';
-                    }
-                    et += line;
+                i = i + 3;
+                filterBraces(p);
+                while (i <= max && p[i] !== '\\' && p[i] !== '{' && p[i] !== '\r') {
+                    line += p[i];
+                    i++;
                 }
-                // p[i], p[i + 1] === \r\n && p[i + 2], p[i + 3] === \r\n
-                // means the end of a block
-            } while (j < emax && p[j + 2] !== '\r' && p[j + 2] !== '\n');
-            // drop this block when english or chinese is missing
-            if (et) {
-                en.push(et);
+                filterBraces(p);
+                while (i <= max && p[i] !== '\n') {
+                    i++;
+                }
+                i++;
+                if (line) {
+                    if (isChn && /[\u4e00-\u9fa5]/.test(line)) {
+                        cn.push(line);
+                    } else if (!isChn && /[a-zA-Z]/.test(line)) {
+                        en.push(line);
+                    }
+                }
+            }
+
+            function filterBraces(p) {
+                while (i <= max) {
+                    if (p[i] === '\\' && p[i + 1] === 'N') {
+                        i = i + 2;
+                    } else if (p[i] === '{') {
+                        i++;
+                        while (p[i] !== '}') {
+                            i++;
+                        }
+                        i++;
+                    } else {
+                        break;
+                    }
+                }
             }
         }
-        function processSRT(c, e) {
-            while(i <= cmax) {
-                getCBlock(c);
+
+        function processSRT(t, isChn) {
+            var tmax = t.length - 1;
+            var i = 0;
+
+            while(i <= tmax) {
+                getBlock(t, isChn);
             }
-            while(j <= emax) {
-                getEBlock(e);
+
+            // get a line text
+            function getLine(p) {
+                var str = '';
+                while (i <= tmax && (p[i] === '\r' || p[i] === '\n' || p[i] === '\t' || p[i] === ' ')) {
+                    i++;
+                }
+                while (i <= tmax && p[i] !== '\r' && p[i] !== '\n') {
+                    str += p[i];
+                    i++;
+                }
+                return str;
+            }
+
+            // get a block
+            function getBlock(p, isChn) {
+                // the 1st line is number
+                getLine(p);
+                // the 2nd line is time stamp
+                getLine(p);
+                var sentence = '';
+                var line = '';
+                // subtitle begins
+                do {
+                    line = getLine(p);
+                    if ((isChn && /[\u4e00-\u9fa5]/.test(line)) || (!isChn && /[a-zA-Z]/.test(line))) {
+                        if (sentence !== '') {
+                            sentence += ' - ';
+                        }
+                        sentence += line;
+                    }
+                    // p[i], p[i + 1] === \r\n && p[i + 2], p[i + 3] === \r\n
+                    // means the end of a block
+                } while (i < tmax && p[i + 2] !== '\r' && p[i + 2] !== '\n');
+                // drop this block when english or chinese is missing
+                if (sentence) {
+                    if (isChn) {
+                        cn.push(sentence);
+                    } else {
+                        en.push(sentence);
+                    }
+                }
             }
         }
         function processTxt(c, e) {
-            cmax = c.length - 1;
-            emax = e.length - 1;
-            // srt subtitle
-            processSRT(c, e);
+            if (c.indexOf('[Script Info]') !== -1) {
+                // ass subtitle
+                processSSA(c, true);
+            } else {
+                // srt subtitle
+                processSRT(c, true);
+            }
+
+            if (e.indexOf('[Script Info]') !== -1) {
+                // ass subtitle
+                processSSA(e);
+            } else {
+                // srt subtitle
+                processSRT(e);
+            }
         }
 
         var cntxt;
