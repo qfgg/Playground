@@ -39,6 +39,9 @@
         var en = [];
         var max = 0;
         var i = 0;
+        function filterStyle(line) {
+            return line.replace(/<.*?>/g, '');
+        }
         // get a line text
         function getLine(p) {
             var str = '';
@@ -70,6 +73,7 @@
             // subtitle begins
             do {
                 line = getLine(p);
+                line = filterStyle(line);
                 if (/[\u4e00-\u9fa5]/.test(line)) {
                     if (ct !== '') {
                         ct += ' - ';
