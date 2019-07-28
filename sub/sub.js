@@ -1,1732 +1,6811 @@
 var text = function() {/*
 
-[Script Info]
-;SrtEdit 6.3.2012.1001
-;Copyright(C) 2005-2012 Yuan Weiguo
+1
+00:01:17,000 --> 00:01:18,440
+闭嘴
+Shut up!
 
-Title: 
-Original Script: 
-Original Translation: 
-Original Timing: 
-Original Editing: 
-Script Updated By: 
-Update Details: 
-ScriptType: v4.00+
-Collisions: Reverse
-PlayResX: 384
-PlayResY: 288
-Timer: 100.0000
-Synch Point: 
-WrapStyle: 0
-ScaledBorderAndShadow: no
+2
+00:01:34,550 --> 00:01:36,070
+嘿 你醒啦
+Oh, hey, you're up.
 
-[V4+ Styles]
-Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 歌词,WenQuanYi Micro Hei,12,&H0000EAFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,10,10,8,1
-Style: 注释2,FZHei-B01,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,8,10,10,4,1
-Style: 注释1,FZHei-B01,14,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,8,10,10,10,1
-Style: 组别,hwKaiTi,17,&H00000000,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: 字幕组LOGO,hwKaiTi,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: 人员,hwKaiTi,15,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: 名单LOGO,hwKaiTi,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: 特效,FZHei-B01,16,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,1,2,5,5,2,134
-Style: 对白,WenQuanYi Micro Hei,68,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1
-Style: Default,FZHei-B01,20,&H00FFFFFF,&HF000FFFF,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,2,134
+3
+00:01:36,170 --> 00:01:40,280
+我不太确定你要不要睡在这儿 就
+I wasn't sure if you wanted to sleep in or not, so.
 
-[Events]
-Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:10.99,0:00:20.66,Default,,0,0,0,,远鉴字幕组制作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}[Visionary] 0day-sub{\r}
-Dialogue: 0,0:00:12.99,0:00:15.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}翻译         {\c&HFFFFFF&}DexRoot 波伏瓦瓦  Diana.E 八荒殿 橙子
-Dialogue: 0,0:00:12.99,0:00:33.99,Default,,0,0,0,,{\an9\bord0\shad0\fscx130\fscy170\frz180\p1\alpha&90\c&H000000&\b1\fad(800,500)\pos(115,242.9)}{\clip(94.4,219.2,95.6,246.4)\t(0,300,\clip(94.4,219.2,339.2,246.4)}m 200 -1 l 200 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1{\p0}
-Dialogue: 0,0:00:12.99,0:00:33.99,Default,,0,0,0,,{\fad(200,500)\bord0\shad0\fscx150\fscy170\p1\c&H0091EC&\b1\pos(66,246.4)}m 38 -1 l 44 6 l 38 13 l 19 13 b 14 12 14 6 14 6 b 14 6 14 0 19 -1{\p0}
-Dialogue: 0,0:00:15.99,0:00:18.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}翻译         {\c&HFFFFFF&}人木水 Shadow 布布 Rosaline 阿碧 帅帅
-Dialogue: 0,0:00:18.99,0:00:21.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}翻译         {\c&HFFFFFF&}Tina 阿奇德菲哥哥 彤 杂食季 Jettatore
-Dialogue: 0,0:00:21.99,0:00:24.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}翻译         {\c&HFFFFFF&}吭哧 quiz chupachups真的很好吃 拥楫
-Dialogue: 0,0:00:24.99,0:00:27.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}校对         {\c&HFFFFFF&}DexRoot和他滴小可爱Luciana
-Dialogue: 0,0:00:27.99,0:00:30.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}后期         {\c&HFFFFFF&}DexRoot
-Dialogue: 0,0:00:30.99,0:00:33.99,Default,,0,0,0,,{\an4\fad(500,500)\fn微软雅黑 Light\c&HEAC2A3&\pos(68,232)\b0}总监         {\c&HFFFFFF&}DexRoot
-Dialogue: 0,0:00:33.99,0:00:36.99,Default,,0,0,0,,{\fad(500,500)\fnFZHei-B01\c&H00A8FF&\fs16}{\fad(500,500)\an9\fs12\fnFZHei-B01\b1}热门电影字幕欢迎关注微博 @远鉴字幕组v\N远鉴字幕组招新群 483552098\N若想施展您的翻译才华\N让自己的名字出现在电影片头\N远鉴字幕组诚邀您的加入\N远鉴字幕组粉丝群 522218128
-Dialogue: 0,0:01:18.90,0:01:21.36,Default,,0,0,0,,{\an8\fn宋体\fs16\pos(199.6,121.067)}新账户
-Dialogue: 0,0:01:21.60,0:01:23.70,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs16\pos(122.8,130.666)}命名新账户
-Dialogue: 0,0:01:25.40,0:01:28.13,Default,,0,0,0,,{\k300\an8\fn宋体\fs12\c&H000000&\pos(176,163.066)}玛戈
-Dialogue: 0,0:01:32.26,0:01:34.80,Default,,0,0,0,,{\\fn宋体\fs16\c&H000000&\pos(97.6,38.267)}想要拷贝哪张照片?
-Dialogue: 0,0:01:34.76,0:01:36.65,Default,,0,0,0,,不不 看那边\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh. No, look over there.{\r}
-Dialogue: 0,0:01:36.71,0:01:38.11,Default,,0,0,0,,-看那边  -看\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Look over there. - Look.{\r}
-Dialogue: 0,0:01:38.18,0:01:39.20,Default,,0,0,0,,好了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right.{\r}
-Dialogue: 0,0:01:40.84,0:01:42.35,Default,,0,0,0,,我们拍张照片 一\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's take a picture, one...{\r}
-Dialogue: 0,0:01:43.05,0:01:44.60,Default,,0,0,0,,说"茄子"吧 好了 一\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You say "cheese", okay, one...{\r}
-Dialogue: 0,0:01:44.75,0:01:45.87,Default,,0,0,0,,-说"茄子"  -二\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Say "cheese". - Two...{\r}
-Dialogue: 0,0:01:45.92,0:01:47.73,Default,,0,0,0,,-茄子  -三\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Cheese! - Three.{\r}
-Dialogue: 0,0:02:03.60,0:02:08.73,Default,,0,0,0,,{\fad(642,474)\an8\fn方正黑体_GBK\fs20\pos(316.8,150.266)}网络迷踪
-Dialogue: 0,0:02:10.40,0:02:12.13,Default,,0,0,0,,{\an8\fn宋体\fs10\pos(191.6,112.4)}潘姆
-Dialogue: 0,0:02:15.76,0:02:18.46,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs16\pos(224.4,200.399)}日程 幼儿园第一天
-Dialogue: 0,0:02:21.80,0:02:23.63,Default,,0,0,0,,{\an8\c&H000000&\pos(140.4,185.467)}开学第一天
-Dialogue: 0,0:02:27.43,0:02:29.26,Default,,0,0,0,,{\fn方正黑体_GBK}{\an8\c&H000000&\pos(130.8,107.599)}第一次钢琴课
-Dialogue: 0,0:02:29.43,0:02:30.70,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs32\pos(174,77.733)}上 传 视 频
-Dialogue: 0,0:02:31.24,0:02:33.49,Default,,0,0,0,,用四指和大拇指 这是二指\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The four and the one. That's your two.{\r}
-Dialogue: 0,0:02:33.65,0:02:34.75,Default,,0,0,0,,就是这样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}There you go.{\r}
-Dialogue: 0,0:02:34.86,0:02:36.65,Default,,0,0,0,,四指 大拇指 四指 大拇指\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Four, one, four, one...{\r}
-Dialogue: 0,0:02:36.73,0:02:38.24,Default,,0,0,0,,四指 大拇指 然后五指\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}four one, and then five.{\r}
-Dialogue: 0,0:02:38.32,0:02:40.17,Default,,0,0,0,,准备好之后就可以换成五指\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}When you're ready, you can switch to five.{\r}
-Dialogue: 0,0:02:39.80,0:02:41.03,Default,,0,0,0,,{\an8\c&H000000&\pos(178.4,169.467)}日程 一年级的第一天
-Dialogue: 0,0:02:41.70,0:02:43.13,Default,,0,0,0,,{\an8\fn微软雅黑\c&H000000&\pos(160,243.601)}玛戈
-Dialogue: 0,0:02:45.80,0:02:47.93,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(165.2,96.933)}大卫·金来电
-Dialogue: 0,0:02:45.80,0:02:47.93,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\pos(272.8,160.933)}视频接通
-Dialogue: 0,0:02:48.19,0:02:49.36,Default,,0,0,0,,看看我买了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Look what I got.{\r}
-Dialogue: 0,0:02:49.91,0:02:51.28,Default,,0,0,0,,那是什么呀\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What is that?{\r}
-Dialogue: 0,0:02:51.32,0:02:53.01,Default,,0,0,0,,你居然不知道《精灵宝可梦》\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What, you don't know Pokémon?{\r}
-Dialogue: 0,0:02:53.63,0:02:55.00,Default,,0,0,0,,{\fn方正黑体_GBK\an8\move(175.6,183.333,174.8,102.8,600,100)}玛戈
-Dialogue: 0,0:02:56.40,0:02:58.23,Default,,0,0,0,,{\an8\pos(202.4,54.267)\fn楷体\\3c&H432E14&\4c&H5A4423&}成瘾游戏
-Dialogue: 0,0:03:02.13,0:03:03.13,Default,,0,0,0,,{\fn方正黑体_GBK\an8)\move(208,74,206.8,159.333,27,293)}大卫 正在加载个人设置
-Dialogue: 0,0:03:03.30,0:03:04.86,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(94.8,191.867)}小型立式钢琴
-Dialogue: 0,0:03:03.30,0:03:04.86,Default,,0,0,0,,{\an8\c&H0000FF&\pos(237.2,44.134)}易{\c&HFF0000&}趣{\c&H2DB6E3&}购{\c&H00FF00&}物
-Dialogue: 0,0:03:03.30,0:03:04.86,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(93.2,111.867)}你想购买什么?
-Dialogue: 0,0:03:05.03,0:03:06.13,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(276.4,130.533)}查找
-Dialogue: 0,0:03:11.74,0:03:12.81,Default,,0,0,0,,快一点 快一点\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Faster, faster.{\r}
-Dialogue: 0,0:03:12.84,0:03:13.91,Default,,0,0,0,,笑一个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Smile.{\r}
-Dialogue: 0,0:03:13.96,0:03:15.00,Default,,0,0,0,,我想拍个视频看看\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I wanna try it as a video.{\r}
-Dialogue: 0,0:03:15.03,0:03:16.10,Default,,0,0,0,,滑一下就行了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Just slide the thing.{\r}
-Dialogue: 0,0:03:16.50,0:03:17.96,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(148.8,93.733)}潘姆
-Dialogue: 0,0:03:19.13,0:03:21.66,Default,,0,0,0,,{\an8\c&H000000&\pos(185.6,166.8)}日程 艾索拉医生的邮件
-Dialogue: 0,0:03:22.50,0:03:24.50,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(130.4,109.734)}艾索拉医生                 初检报告
-Dialogue: 0,0:03:25.03,0:03:29.16,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(184.8,163.6)}血小板计数偏低
-Dialogue: 0,0:03:30.26,0:03:33.10,Default,,0,0,0,,{\an8\c&HE54510&\pos(263.2,63.867)}谷{\c&H0000FF&}歌
-Dialogue: 0,0:03:30.26,0:03:33.10,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(103.2,183.333)}如何对抗淋巴瘤
-Dialogue: 0,0:03:33.40,0:03:35.80,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(128,179.599)}如何全家一起对抗淋巴瘤
-Dialogue: 0,0:03:36.33,0:03:38.30,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&HF52808&\pos(69.2,66.534)}癌症锻炼计划
-Dialogue: 0,0:03:38.30,0:03:40.11,Default,,0,0,0,,视频博客 三月七日\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Video log 3.7.{\r}
-Dialogue: 0,0:03:40.68,0:03:42.70,Default,,0,0,0,,我真心觉得我老婆就是个机器人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I have reason to believe my wife's a robot.{\r}
-Dialogue: 0,0:03:43.17,0:03:44.70,Default,,0,0,0,,看起来她能跑上个一整天\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Seems she could run for miles.{\r}
-Dialogue: 0,0:03:45.10,0:03:46.20,Default,,0,0,0,,等等我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wait up.{\r}
-Dialogue: 0,0:03:49.10,0:03:50.16,Default,,0,0,0,,{\an8\c&H000000&\pos(154,157.2)}日程 四年级第一天
-Dialogue: 0,0:03:50.33,0:03:52.16,Default,,0,0,0,,{\an8\c&HD62385&\fn汉仪瘦金书简\pos(224.4,11.066)}欢迎\N{\c&H00FF00&}你\N{\c&HFF0000&}踏入\N{\c&HFF00FF&}四年级
-Dialogue: 0,0:03:52.33,0:03:53.36,Default,,0,0,0,,{\fn方正黑体_GBK\an8\move(205.6,173.733,206,82,000,300)}玛戈
-Dialogue: 0,0:03:54.40,0:03:57.76,Default,,0,0,0,,{\an8\c&H000000&\move(253.6,122.533,253.2,95.333,200,990)\fn宋体}天 你们猜怎么着
-Dialogue: 0,0:03:55.19,0:03:57.76,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\pos(188,149.2)}艾比告诉了我小孩是怎么生出来的
-Dialogue: 0,0:03:57.99,0:04:01.03,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(103.2,121.467)}姓交是什么
-Dialogue: 0,0:03:57.99,0:04:01.03,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H0091EC&\fs14}性交本是"intercourse" 年少的玛戈不会拼 拼成了"entercourse"
-Dialogue: 0,0:04:01.30,0:04:03.43,Default,,0,0,0,,{\an8\pos(178,154)\c&H000000&}日程 艾索拉医生的邮件
-Dialogue: 0,0:04:03.60,0:04:06.26,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(184.8,102.8)}有好转 宝贝诶诶诶诶诶
-Dialogue: 0,0:04:08.70,0:04:10.26,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H502018&\pos(123.6,10.533)}注册
-Dialogue: 0,0:04:08.70,0:04:10.26,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(270,105.466)}玛戈
-Dialogue: 0,0:04:10.43,0:04:11.93,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(306,212.667)}注册
-Dialogue: 0,0:04:13.43,0:04:14.80,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(189.6,256.933)}和妈妈一起弹钢琴
-Dialogue: 0,0:04:14.96,0:04:16.13,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(128.8,62.8)}{\c&HB12716&}潘蜜拉·金赞了这个视频
-Dialogue: 0,0:04:18.39,0:04:19.67,Default,,0,0,0,,别拍\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Stop!{\r}
-Dialogue: 0,0:04:22.92,0:04:24.24,Default,,0,0,0,,你们都被禁足了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Everybody's grounded.{\r}
-Dialogue: 0,0:04:24.30,0:04:26.06,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs16\pos(182.8,147.6)}和妈妈一起弹钢琴 创建日程
-Dialogue: 0,0:04:28.23,0:04:29.90,Default,,0,0,0,,{\an8\pos(125.2,157.2)\c&H000000&\fn方正黑体_GBK\fs16}和妈妈一起弹钢琴
-Dialogue: 0,0:04:30.06,0:04:31.56,Default,,0,0,0,,{\an8\c&H0000FF&\fn方正黑体_GBK\fs16\pos(287.2,154.001)}才艺表演
-Dialogue: 0,0:04:33.45,0:04:35.20,Default,,0,0,0,,太棒了 玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes! Margot!{\r}
-Dialogue: 0,0:04:37.26,0:04:39.06,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(150.4,91.067)}潘姆
-Dialogue: 0,0:04:39.80,0:04:41.80,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(143.2,101.2)\c&H000000&}跟进结果
-Dialogue: 0,0:04:42.26,0:04:43.63,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs32\c&H000000&\pos(196.4,195.6)}复发
-Dialogue: 0,0:04:43.92,0:04:45.79,Default,,0,0,0,,视频博客 六月七日\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Video log 6.7.{\r}
-Dialogue: 0,0:04:45.94,0:04:48.45,Default,,0,0,0,,我觉得我们可以 我们可以 我们...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I think we can, I think we can, I think we...{\r}
-Dialogue: 0,0:04:49.68,0:04:50.71,Default,,0,0,0,,潘姆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pam?{\r}
-Dialogue: 0,0:04:52.10,0:04:53.14,Default,,0,0,0,,潘姆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pam?{\r}
-Dialogue: 0,0:04:53.30,0:04:54.83,Default,,0,0,0,,{\an8\pos(160.533,153.467)\c&H000000&}日程 八年级第一天
-Dialogue: 0,0:04:59.56,0:05:01.26,Default,,0,0,0,,{\an8\c&H000000&\pos(138.667,150.623)}妈妈回家
-Dialogue: 0,0:05:01.43,0:05:02.43,Default,,0,0,0,,{\an8\pos(138.667,149.911)\c&H000000&}创建日程
-Dialogue: 0,0:05:02.57,0:05:04.80,Default,,0,0,0,,{\fn方正黑体_GBK\c&H000000&\pos(155.733,241.2)}妈妈回家
-Dialogue: 0,0:05:10.00,0:05:11.83,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(145.6,149.2)}妈妈回家
-Dialogue: 0,0:05:17.30,0:05:18.93,Default,,0,0,0,,{\fn方正黑体_GBK\an8\move(184,183.333,183.467,91.6,23,690)}玛戈
-Dialogue: 0,0:05:19.10,0:05:21.30,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\move(119.467,198.267,118.934,238.089,23,2190)\b0}暑假!!!!!!!!!!!
-Dialogue: 0,0:05:21.46,0:05:24.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\move(142.4,120.044,141.867,160.577,30,3297)\b0}桑伍德中学的挚友们 难说再见
-Dialogue: 0,0:05:24.93,0:05:28.26,Default,,0,0,0,,{\fn等线 Light\an8\c&HD8C2B4&\1a&H12&\b0\pos(148.4,66.889)}想说些什么?
-Dialogue: 0,0:05:30.76,0:05:31.80,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(85.333,146.355)}妈妈回家
-Dialogue: 0,0:05:33.43,0:05:35.33,Default,,0,0,0,,{\an8\move(252.267,162,251.734,138.533,27,1827)}删除
-Dialogue: 0,0:06:06.30,0:06:10.56,Default,,0,0,0,,{\fn楷体\an8\c&H000000&\pos(118,8.223)}深爱铭记
-Dialogue: 0,0:06:06.30,0:06:10.56,Default,,0,0,0,,{\fn楷体\an8\c&H000000&\pos(116.8,176.933)}潘蜜拉·金
-Dialogue: 0,0:06:10.83,0:06:12.50,Default,,0,0,0,,{\an8\c&H000000&\pos(248,206.089)}日程 高中第一天
-Dialogue: 0,0:06:32.60,0:06:36.40,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(190.933,61.022)}{\c&H000000&}是不是忘了什么?
-Dialogue: 0,0:06:43.76,0:06:44.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\c&HF7AF5B&\pos(215.466,146)}是不是忘了什么?
-Dialogue: 0,0:06:46.36,0:06:49.00,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\c&H000000&\pos(231.067,205.911)}给你点提示...
-Dialogue: 0,0:07:00.36,0:07:02.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(265.734,12.488)}玛戈·金 视频电话
-Dialogue: 0,0:07:04.75,0:07:06.17,Default,,0,0,0,,嘿 老爸\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, Dad!{\r}
-Dialogue: 0,0:07:06.27,0:07:07.28,Default,,0,0,0,,嘿 宝贝儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, sweetheart.{\r}
-Dialogue: 0,0:07:07.63,0:07:08.66,Default,,0,0,0,,过得怎样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How's it going?{\r}
-Dialogue: 0,0:07:08.82,0:07:10.61,Default,,0,0,0,,挺好的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, good!{\r}
-Dialogue: 0,0:07:11.41,0:07:12.68,Default,,0,0,0,,打视频电话干嘛\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's up with the FaceTime?{\r}
-Dialogue: 0,0:07:12.74,0:07:13.88,Default,,0,0,0,,噢 很高兴你问起这个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, I'm glad you asked.{\r}
-Dialogue: 0,0:07:13.97,0:07:15.55,Default,,0,0,0,,这到底是怎么回事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What is wrong with this picture?{\r}
-Dialogue: 0,0:07:15.90,0:07:17.67,Default,,0,0,0,,你要批评我了 对吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm about to be in trouble, aren't I?{\r}
-Dialogue: 0,0:07:17.74,0:07:18.67,Default,,0,0,0,,当然\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes.{\r}
-Dialogue: 0,0:07:21.75,0:07:22.64,Default,,0,0,0,,好叭\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yup.{\r}
-Dialogue: 0,0:07:22.66,0:07:25.07,Default,,0,0,0,,也许我们得把垃圾桶放你房间里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Maybe we should keep the trash in your room? Huh?{\r}
-Dialogue: 0,0:07:25.20,0:07:27.46,Default,,0,0,0,,然后臭味才能提醒你去倒垃圾\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Maybe the smell will remind you.{\r}
-Dialogue: 0,0:07:28.30,0:07:31.24,Default,,0,0,0,,我错啦 老爸 我不会再忘了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry, Dad. It won't happen again.{\r}
-Dialogue: 0,0:07:32.29,0:07:33.34,Default,,0,0,0,,好吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay.{\r}
-Dialogue: 0,0:07:33.40,0:07:34.54,Default,,0,0,0,,对了 你现在在哪\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where are you, by the way?{\r}
-Dialogue: 0,0:07:34.65,0:07:35.54,Default,,0,0,0,,学习小组\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Study group.{\r}
-Dialogue: 0,0:07:35.59,0:07:37.29,Default,,0,0,0,,在谁家\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ah. Whose house are you at?{\r}
-Dialogue: 0,0:07:37.39,0:07:39.89,Default,,0,0,0,,我一个学生物的朋友 你还没见过她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, one of my friends in bio, you haven't met her yet.{\r}
-Dialogue: 0,0:07:39.95,0:07:42.09,Default,,0,0,0,,噢 交际花小姐 你多久能回家\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, Miss Popular. When are you gonna be home?{\r}
-Dialogue: 0,0:07:42.16,0:07:44.26,Default,,0,0,0,,我...我觉得我们会搞到很晚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I... think we're gonna go late.{\r}
-Dialogue: 0,0:07:44.33,0:07:45.78,Default,,0,0,0,,"很晚"是九点的意思吗 还是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Late, like-like, nine-ish or...?{\r}
-Dialogue: 0,0:07:45.81,0:07:48.04,Default,,0,0,0,,也许通宵吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Late, like, all night probably.{\r}
-Dialogue: 0,0:07:48.06,0:07:49.74,Default,,0,0,0,,我还以为我们要一起吃晚饭\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I thought we were gonna eat dinner together?{\r}
-Dialogue: 0,0:07:49.82,0:07:51.29,Default,,0,0,0,,我们周一才一起吃过\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We ate together on Monday.{\r}
-Dialogue: 0,0:07:52.72,0:07:54.50,Default,,0,0,0,,我还不知道你数着日子呢\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Didn't know you were counting.{\r}
-Dialogue: 0,0:07:56.33,0:07:58.23,Default,,0,0,0,,恩...我该回去了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Right... I should get back.{\r}
-Dialogue: 0,0:07:58.29,0:07:59.33,Default,,0,0,0,,还有一件事 我想了解下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, one more thing, I wanna know about{\r}
-Dialogue: 0,0:07:59.36,0:08:01.05,Default,,0,0,0,,-拜 老爸  -你今天...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Bye, Dad! - the final you...{\r}
-Dialogue: 0,0:08:01.64,0:08:02.67,Default,,0,0,0,,的期末考试\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}took today.{\r}
-Dialogue: 0,0:08:05.50,0:08:07.53,Default,,0,0,0,,{\fn方正黑体_GBK\an8\}{\c&H000000&}玛戈·金\N抱歉 他们在等我
-Dialogue: 0,0:08:12.00,0:08:13.86,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(76.133,197.2)}没事 就是想问问
-Dialogue: 0,0:08:14.76,0:08:16.36,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(81.867,192.934)}今天期末考怎么样
-Dialogue: 0,0:08:19.60,0:08:21.00,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\move(46.4,157.734,46.4,157.734,23,-10)}挺好
-Dialogue: 0,0:08:21.16,0:08:22.96,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(173.6,168.932)}就算我考炸了
-Dialogue: 0,0:08:23.13,0:08:24.40,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(238.4,175.511)}李先生也不会挂我的
-Dialogue: 0,0:08:24.56,0:08:26.40,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(113.333,197.2)}我不信你会考砸哦 你这么努力
-Dialogue: 0,0:08:27.36,0:08:29.46,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(61.867,194.178)}我为你骄傲
-Dialogue: 0,0:08:33.56,0:08:37.30,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(74,110.8)}妈妈也会的
-Dialogue: 0,0:08:53.73,0:08:56.40,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs7\pos(189.12,146.213)}平和而放松的四小时演奏会
-Dialogue: 0,0:09:00.30,0:09:03.70,Default,,0,0,0,,{\an8\c&H7E280B&\fn方正黑体_GBK\fs12\pos(93.867,232.4)}山中受困九天驴友生还
-Dialogue: 0,0:09:11.86,0:09:14.10,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(252.8,43.244)}皮特·金 视频电话
-Dialogue: 0,0:09:23.35,0:09:25.10,Default,,0,0,0,,唷 这是什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, yo, what am I lookin' at?{\r}
-Dialogue: 0,0:09:25.38,0:09:27.06,Default,,0,0,0,,完全...没错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}E...xactly.{\r}
-Dialogue: 0,0:09:27.38,0:09:30.29,Default,,0,0,0,,我也不记得这菜叫什么了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I cannot remember the name of this thing...{\r}
-Dialogue: 0,0:09:30.36,0:09:32.47,Default,,0,0,0,,有点像掺了朝鲜泡菜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}uh, it was like a kimchi,{\r}
-Dialogue: 0,0:09:32.56,0:09:34.72,Default,,0,0,0,,黄秋葵和贻贝的炖菜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}okra, mussels stew?{\r}
-Dialogue: 0,0:09:35.13,0:09:36.42,Default,,0,0,0,,潘姆以前经常做的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pam used to make it?{\r}
-Dialogue: 0,0:09:37.20,0:09:39.81,Default,,0,0,0,,噢 泡菜秋葵汤\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, the kimchi gumbo.{\r}
-Dialogue: 0,0:09:39.91,0:09:41.49,Default,,0,0,0,,-泡菜秋葵汤 就是这个  -没错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Gumbo. Gumbo, that's it. - Yup.{\r}
-Dialogue: 0,0:09:41.61,0:09:43.11,Default,,0,0,0,,你有菜谱吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you have the recipe?{\r}
-Dialogue: 0,0:09:43.14,0:09:45.39,Default,,0,0,0,,因为这绝对少了点什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}'Cause I'm definitely forgetting something.{\r}
-Dialogue: 0,0:09:45.43,0:09:46.53,Default,,0,0,0,,我也许...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, I might...{\r}
-Dialogue: 0,0:09:46.69,0:09:48.91,Default,,0,0,0,,但我绝对相信菜谱里没有大麻\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but I can definitely tell you there's no pot in it.{\r}
-Dialogue: 0,0:09:50.51,0:09:52.67,Default,,0,0,0,,哦 你说这个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh. This?{\r}
-Dialogue: 0,0:09:53.05,0:09:57.34,Default,,0,0,0,,一罐健康有机的牛至\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Healthy and organic jar of... oregano?{\r}
-Dialogue: 0,0:09:58.27,0:09:59.70,Default,,0,0,0,,你吸了多少\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How much are you smokin'?{\r}
-Dialogue: 0,0:10:00.52,0:10:01.79,Default,,0,0,0,,每天都吸吗 还是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You doin' everyday or?{\r}
-Dialogue: 0,0:10:02.03,0:10:03.53,Default,,0,0,0,,-工作时候抽  -老兄\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- You do it at work? - Dude.{\r}
-Dialogue: 0,0:10:03.74,0:10:06.01,Default,,0,0,0,,我们现在能别说这件事吗 拜托\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Can we not do this right now? Please?{\r}
-Dialogue: 0,0:10:06.24,0:10:07.44,Default,,0,0,0,,我今天很累\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's been a long day.{\r}
-Dialogue: 0,0:10:11.10,0:10:13.20,Default,,0,0,0,,毛豆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ah, edamame.{\r}
-Dialogue: 0,0:10:14.80,0:10:16.72,Default,,0,0,0,,你没加毛豆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm pretty sure there's edamame in it.{\r}
-Dialogue: 0,0:10:17.40,0:10:20.11,Default,,0,0,0,,让我找找菜谱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let me find the actual thing.{\r}
-Dialogue: 0,0:10:20.76,0:10:22.18,Default,,0,0,0,,那个...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's uh...{\r}
-Dialogue: 0,0:10:22.38,0:10:24.23,Default,,0,0,0,,玛戈今天在干嘛呢\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's Margot up to tonight?{\r}
-Dialogue: 0,0:10:25.15,0:10:27.13,Default,,0,0,0,,她跟她的学习小组要通宵学习\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's at a study group all night.{\r}
-Dialogue: 0,0:10:25.27,0:10:27.34,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs8\b0\pos(156.4,175.467)}泡菜秋葵汤菜谱
-Dialogue: 0,0:10:28.86,0:10:30.46,Default,,0,0,0,,通宵吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wait, all night tonight?{\r}
-Dialogue: 0,0:10:30.49,0:10:31.86,Default,,0,0,0,,嗯 我刚跟她通过电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, I just got off the phone with her.{\r}
-Dialogue: 0,0:10:31.89,0:10:33.68,Default,,0,0,0,,她下周有生物期末考试\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's got a bio final next week.{\r}
-Dialogue: 0,0:10:33.78,0:10:34.83,Default,,0,0,0,,怎么了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why?{\r}
-Dialogue: 0,0:10:34.87,0:10:36.24,Default,,0,0,0,,哦 没事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, nothin'.{\r}
-Dialogue: 0,0:10:36.58,0:10:37.88,Default,,0,0,0,,她最近还好吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's good, though?{\r}
-Dialogue: 0,0:10:38.14,0:10:39.92,Default,,0,0,0,,挺好的 问这个干吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah. Why do you ask?{\r}
-Dialogue: 0,0:10:40.03,0:10:41.76,Default,,0,0,0,,我要确保一下你们俩还和对方说话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Making sure you guys are both talking to each other.{\r}
-Dialogue: 0,0:10:41.04,0:10:44.20,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\b0\pos(106.4,171.733)}别忘倒垃圾
-Dialogue: 0,0:10:41.79,0:10:44.33,Default,,0,0,0,,过得开心什么的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Both happy, etcetera, etcetera.{\r}
-Dialogue: 0,0:10:46.19,0:10:48.25,Default,,0,0,0,,一切都很好 皮特 谢谢你的关心\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Everything's fine, Peter. Thanks for askin'.{\r}
-Dialogue: 0,0:10:51.03,0:10:53.22,Default,,0,0,0,,嘿 大卫 听我说\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, look, Davey...{\r}
-Dialogue: 0,0:10:54.33,0:10:55.55,Default,,0,0,0,,你觉不觉得你应该...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you think that maybe you should just...{\r}
-Dialogue: 0,0:10:55.58,0:10:57.21,Default,,0,0,0,,兄弟 我们一切安好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Dude, everything's fine.{\r}
-Dialogue: 0,0:11:04.05,0:11:05.84,Default,,0,0,0,,嘿 呃 我得挂电话了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, uh, I gotta go{\r}
-Dialogue: 0,0:11:05.92,0:11:08.43,Default,,0,0,0,,你一定要把那份食谱发给我 求你了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but send me that recipe, please?{\r}
-Dialogue: 0,0:11:08.48,0:11:09.62,Default,,0,0,0,,-谢谢哦  -没事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Thank you. - Yeah.{\r}
-Dialogue: 0,0:11:09.65,0:11:10.83,Default,,0,0,0,,爱你哦\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Love you.{\r}
-Dialogue: 0,0:11:10.94,0:11:12.69,Default,,0,0,0,,-拜拜  -拜拜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Byeee. - Byeee.{\r}
-Dialogue: 0,0:11:30.70,0:11:34.07,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs8\b0\move(208,139.2,199.2,129.6,23,3323)}泡菜秋葵汤
-Dialogue: 0,0:11:38.90,0:11:40.94,Default,,0,0,0,,-一定要确认把水倒干净  -那些做好了吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Make sure you get all the water out. - Are these ready?{\r}
-Dialogue: 0,0:11:40.98,0:11:42.87,Default,,0,0,0,,好了 做好了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, they're ready...{\r}
-Dialogue: 0,0:11:49.65,0:11:51.01,Default,,0,0,0,,对 把水挤干\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, drain all the water.{\r}
-Dialogue: 0,0:11:52.40,0:11:53.95,Default,,0,0,0,,别录了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Turn it off.{\r}
-Dialogue: 0,0:11:59.23,0:12:01.90,Default,,0,0,0,,咱们把它放进去 放之前要先搅拌一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's stir it in. We gotta mix those up first.{\r}
-Dialogue: 0,0:12:03.77,0:12:05.87,Default,,0,0,0,,-你想自己试试吗 -想\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- You wanna try mixing it? - Yeah.{\r}
-Dialogue: 0,0:12:05.94,0:12:07.30,Default,,0,0,0,,好的 给你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, here.{\r}
-Dialogue: 0,0:12:08.04,0:12:08.94,Default,,0,0,0,,很好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good.{\r}
-Dialogue: 0,0:12:10.53,0:12:12.11,Default,,0,0,0,,很好 轻一点 慢慢的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good. Gently, do it slowly.{\r}
-Dialogue: 0,0:12:14.12,0:12:15.73,Default,,0,0,0,,知道怎么做了吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you see how those are all done?{\r}
-Dialogue: 0,0:12:16.01,0:12:17.70,Default,,0,0,0,,-看见了  -好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Yeah. - Yeah.{\r}
-Dialogue: 0,0:12:35.30,0:12:37.93,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs11\pos(312.533,115.778)}从搜索记录中隐藏
-Dialogue: 0,0:12:58.63,0:13:00.90,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs10\pos(352.4,1.467)}玛戈·金来电
-Dialogue: 0,0:13:17.26,0:13:19.50,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs10\pos(352.4,1.467)}玛戈·金来电
-Dialogue: 0,0:13:29.80,0:13:31.23,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs10\pos(352.4,1.467)}玛戈·金视频通话
-Dialogue: 0,0:13:52.60,0:13:54.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs14\pos(218.4,92.934)}玛戈·金
-Dialogue: 0,0:13:52.60,0:13:54.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs14\pos(268.4,110)}未接视频电话
-Dialogue: 0,0:13:52.60,0:13:54.83,Default,,0,0,0,,{\c&H000000\fn方正黑体_GBK\fs14\pos(218,182)}玛戈·金
-Dialogue: 0,0:13:52.60,0:13:54.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs14\pos(239.2,200.667)}两个未接电话
-Dialogue: 0,0:14:02.60,0:14:04.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\pos(284.4,35.6)}玛戈·金\N视频通话
-Dialogue: 0,0:14:20.63,0:14:23.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(246,4.133)}玛戈·金
-Dialogue: 0,0:14:20.63,0:14:23.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(247.2,41.467)}现在无法接听
-Dialogue: 0,0:14:29.44,0:14:30.91,Default,,0,0,0,,嗨 这是玛戈的电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, you're reached Margot's phone.{\r}
-Dialogue: 0,0:14:30.99,0:14:32.80,Default,,0,0,0,,给我留言或是发短信吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Leave me a message or text me back.{\r}
-Dialogue: 0,0:14:33.02,0:14:36.08,Default,,0,0,0,,嗨 亲爱的 抱歉我没接电话 我睡着了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, sweetheart, sorry I missed your call. I was asleep.{\r}
-Dialogue: 0,0:14:36.28,0:14:38.13,Default,,0,0,0,,我就打电话问候你一下 因为看起来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, just checkin' in 'cause it looks like{\r}
-Dialogue: 0,0:14:38.16,0:14:39.97,Default,,0,0,0,,你今早已经去学校了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you already left for school this morning.{\r}
-Dialogue: 0,0:14:40.04,0:14:42.55,Default,,0,0,0,,还有一件事 你昨晚几点回来的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, also, what time did you get in last night?{\r}
-Dialogue: 0,0:14:43.17,0:14:44.94,Default,,0,0,0,,好了 你收到消息的时候回复我一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right, give me text when you get this.{\r}
-Dialogue: 0,0:14:44.96,0:14:47.73,Default,,0,0,0,,不用打电话 我们都知道你平时...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No need to call. We both know you usually...{\r}
-Dialogue: 0,0:14:49.60,0:14:50.87,Default,,0,0,0,,比较健忘\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}forget.{\r}
-Dialogue: 0,0:15:02.70,0:15:04.33,Default,,0,0,0,,{\fn方正黑体_GBK\an8\move(241.6,254.8,241.6,228.667,23,557)}我跟你说了多少回了
-Dialogue: 0,0:15:07.90,0:15:09.33,Default,,0,0,0,,{\an8\c&H979595&\fn方正黑体_GBK\fs20\pos(95.6,67.6)}2017年       上午7:01
-Dialogue: 0,0:15:13.36,0:15:14.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK}下午3:27
-Dialogue: 0,0:15:13.37,0:15:14.80,Default,,0,0,0,,{\c&H0F10BD&\fn方正黑体_GBK\fs16\pos(52.8,199.066)}硬盘存储
-Dialogue: 0,0:15:13.37,0:15:14.80,Default,,0,0,0,,{\c&H0F10BD&\fn方正黑体_GBK\fs16\pos(219.6,199.066)}剩余内存
-Dialogue: 0,0:15:17.23,0:15:19.13,Default,,0,0,0,,{\an8\pos(94.933,105.822)\fn方正黑体_GBK}我跟你说了多少回了?
-Dialogue: 0,0:15:21.06,0:15:23.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\move(200.533,207.512,192,53.912,30,2197)}在吗吗吗吗吗吗吗
-Dialogue: 0,0:15:23.43,0:15:25.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\move(254.4,207.511,246.933,99.422,27,1593)}玛戈?
-Dialogue: 0,0:15:26.26,0:15:28.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\move(198.4,209.644,196.8,196.844,30,730)}你不开心吗?
-Dialogue: 0,0:15:29.23,0:15:34.40,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(203.467,162)}从什么时候开始你在学校不发消息给我了? 哈哈
-Dialogue: 0,0:15:34.60,0:15:35.86,Default,,0,0,0,,大卫 你在听吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}David, you with us?{\r}
-Dialogue: 0,0:15:36.12,0:15:37.43,Default,,0,0,0,,是的 抱歉\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah. Sorry.{\r}
-Dialogue: 0,0:15:37.47,0:15:38.37,Default,,0,0,0,,我在听\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm here.{\r}
-Dialogue: 0,0:15:38.52,0:15:41.04,Default,,0,0,0,,你现在有贝林顿系统的综合报告了吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you have the integration report on the Bellington system?{\r}
-Dialogue: 0,0:15:41.19,0:15:44.17,Default,,0,0,0,,呃 工程部还在做检测\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, Engineering is still running tests{\r}
-Dialogue: 0,0:15:44.19,0:15:46.39,Default,,0,0,0,,但是 我应该能在周一的时候整理出来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but uh, I should be able to integrate by Monday.{\r}
-Dialogue: 0,0:15:46.41,0:15:48.03,Default,,0,0,0,,给他们点压力 听见没\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Put some pressure on 'em, all right?{\r}
-Dialogue: 0,0:15:48.98,0:15:50.26,Default,,0,0,0,,好的 施压\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, pressure.{\r}
-Dialogue: 0,0:15:50.63,0:15:52.77,Default,,0,0,0,,好了 大伙们 有什么需要补充的吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, team, anything we forgot?{\r}
-Dialogue: 0,0:15:52.83,0:15:54.87,Default,,0,0,0,,-我觉得没有了  -好的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- I think that's it. - All right.{\r}
-Dialogue: 0,0:15:55.17,0:15:56.75,Default,,0,0,0,,-好好度过周末吧  -谢谢\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Have a good weekend. - Thank you.{\r}
-Dialogue: 0,0:15:56.78,0:15:58.05,Default,,0,0,0,,好的 回见\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right, see ya.{\r}
-Dialogue: 0,0:16:15.90,0:16:19.13,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(140.8,173.022)}为什么把笔记本留在家里?
-Dialogue: 0,0:16:28.45,0:16:29.89,Default,,0,0,0,,嘿 这是玛戈的电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, you've reached Margot's phone.{\r}
-Dialogue: 0,0:16:29.92,0:16:31.47,Default,,0,0,0,,给我留言或是发短信吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Leave me a message or text me back.{\r}
-Dialogue: 0,0:16:32.85,0:16:34.73,Default,,0,0,0,,嘿 玛戈 还是爸爸\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, Margot, Dad again.{\r}
-Dialogue: 0,0:16:34.83,0:16:38.20,Default,,0,0,0,,我不确定你有没有听我的留言 但是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm not sure if you've been checking your messages, but um,{\r}
-Dialogue: 0,0:16:38.23,0:16:40.02,Default,,0,0,0,,我现在有点...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm starting to get a little...{\r}
-Dialogue: 0,0:16:40.09,0:16:42.62,Default,,0,0,0,,你为什么把笔记本放在家里了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why did you leave your laptop at home?{\r}
-Dialogue: 0,0:16:44.73,0:16:47.98,Default,,0,0,0,,现在是三点半 你已经放学一个小时了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, uh, it is 3:30, one hour after school ended{\r}
-Dialogue: 0,0:16:48.01,0:16:50.13,Default,,0,0,0,,今天是周五 五月十二号\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}on Friday, May 12th...{\r}
-Dialogue: 0,0:16:53.27,0:16:55.89,Default,,0,0,0,,算了 没关系 今天是周五\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Duh, okay. It's Friday.{\r}
-Dialogue: 0,0:16:56.44,0:16:58.52,Default,,0,0,0,,我知道你在哪儿 没事了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know where you are. All right.{\r}
-Dialogue: 0,0:16:59.34,0:17:01.45,Default,,0,0,0,,别理会我这条留言了 我爱你 拜拜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ignore this message. I love you. Bye.{\r}
-Dialogue: 0,0:17:01.66,0:17:03.63,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs13\pos(288,78.089)}通话结束
-Dialogue: 0,0:17:06.76,0:17:07.67,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(155.2,69.556)\c&H000000&}谷歌邮箱
-Dialogue: 0,0:17:10.80,0:17:11.96,Default,,0,0,0,,{\an8\pos(105.6,44.667)}{\c&H000000&\fn方正黑体_GBK\fs10}钢琴
-Dialogue: 0,0:17:17.03,0:17:19.20,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(121.6,74.533)\c&H000000&}钢琴老师联系方式
-Dialogue: 0,0:17:19.57,0:17:22.00,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(103.867,44.134)}潘蜜拉·金
-Dialogue: 0,0:17:19.57,0:17:22.00,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(152.267,109.556)\b0}钢琴老师联系方式 告诉你一下 嘻嘻
-Dialogue: 0,0:17:22.16,0:17:26.00,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H0000FF&\move(189.2,146,189.2,26.533,767,3797)}钢琴课 老师 瓦托利·沙希尼安 世界级钢琴家
-Dialogue: 0,0:17:26.16,0:17:27.70,Default,,0,0,0,,{\an8\fn印品雅圆体\fs10\pos(195.2,91.422)}电话
-Dialogue: 0,0:17:27.86,0:17:30.83,Default,,0,0,0,,{\fn等线\an8\pos(253.334,165.556)\b0\i0}半小时60美元\N一小时100美元
-Dialogue: 0,0:17:32.09,0:17:35.14,Default,,0,0,0,,{\fn方正黑体_GBK\an8\fs16\pos(157.066,99.956)}拨号中
-Dialogue: 0,0:17:35.80,0:17:36.91,Default,,0,0,0,,你好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hello?{\r}
-Dialogue: 0,0:17:36.98,0:17:38.43,Default,,0,0,0,,你好 是沙希尼安女士吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, uh, Mrs. Shahinian?{\r}
-Dialogue: 0,0:17:38.45,0:17:39.17,Default,,0,0,0,,是的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes.{\r}
-Dialogue: 0,0:17:39.20,0:17:41.63,Default,,0,0,0,,我是大卫·金 玛戈的爸爸\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is David Kim, Margot's father.{\r}
-Dialogue: 0,0:17:41.66,0:17:44.46,Default,,0,0,0,,好的 我现在正在上课 我可以下课后打给你吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes, I'm in the middle of a lesson. May I call you back afterwards?{\r}
-Dialogue: 0,0:17:44.53,0:17:46.67,Default,,0,0,0,,好吧 不行 我就耽误你几秒钟\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Right, no, this is just, take a second...{\r}
-Dialogue: 0,0:17:46.70,0:17:49.86,Default,,0,0,0,,你可以让我女儿接一下电话吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Can you put my daughter on the phone just for a second?{\r}
-Dialogue: 0,0:17:49.99,0:17:52.74,Default,,0,0,0,,对不起 金先生 我不明白你为什么要打电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry, Mr. Kim, I'm confused what you're calling about.{\r}
-Dialogue: 0,0:17:52.81,0:17:57.03,Default,,0,0,0,,我..我的女儿 玛戈·金现在在和你上课吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}M-My daughter, Margot Kim is in a lesson with you right now?{\r}
-Dialogue: 0,0:17:58.81,0:18:02.33,Default,,0,0,0,,玛戈·金在六个月前就把她的课取消了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot Kim canceled her classes six months ago.{\r}
-Dialogue: 0,0:18:04.57,0:18:05.68,Default,,0,0,0,,什么..\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What...?{\r}
-Dialogue: 0,0:18:06.63,0:18:08.94,Default,,0,0,0,,她是想重新上课吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Is she looking to restart lessons?{\r}
-Dialogue: 0,0:18:11.24,0:18:12.74,Default,,0,0,0,,等一下 这...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hold on, that...{\r}
-Dialogue: 0,0:18:12.84,0:18:15.47,Default,,0,0,0,,这不可能啊 她最爱钢琴了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}doesn't make any sense. She loves piano.{\r}
-Dialogue: 0,0:18:18.23,0:18:20.06,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\pos(199.6,206.622)}钢琴课上得怎么样
-Dialogue: 0,0:18:19.86,0:18:22.70,Default,,0,0,0,,金先生 一切还好吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mr. Kim, is everything okay?{\r}
-Dialogue: 0,0:18:21.40,0:18:27.64,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\pos(94.8,161.777)}上的很好
-Dialogue: 0,0:18:23.40,0:18:24.85,Default,,0,0,0,,是的 呃...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes, um...{\r}
-Dialogue: 0,0:18:24.91,0:18:25.85,Default,,0,0,0,,一切都好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}everything's fine.{\r}
-Dialogue: 0,0:18:25.92,0:18:27.89,Default,,0,0,0,,谢谢 谢谢你 沙希尼安女士\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Thank you. Thank you, Mrs. Shahinian.{\r}
-Dialogue: 0,0:18:34.87,0:18:36.94,Default,,0,0,0,,{\fn方正黑体_GBK\c&H000000&\pos(287.467,143.067)}埃弗克里克中学
-Dialogue: 0,0:18:46.00,0:18:49.10,Default,,0,0,0,,{\fn方正黑体_GBK\pos(134.933,166.533)\c&H000000&}她今天没去上课
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H7DC001&\pos(121.067,17.911)}不 我没有
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H7DC001&\pos(106.133,39.956)}怎么了
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\pos(188.267,61.289)}{\fs10\c&H979595&}我也没有她的消息
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H979595&\pos(94.399,82.621)}她手机关机了 而且一个小时前就下课了
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H979595&\pos(166.4,105.378)}我知道了 她今天还有钢琴课
-Dialogue: 0,0:18:49.24,0:18:52.20,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H7DC001&\pos(200,131.689)}哇哦 忘了个精光 哈哈
-Dialogue: 0,0:18:50.76,0:18:52.10,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(75.733,213.2)}我该报警吗?
-Dialogue: 0,0:18:52.26,0:18:54.13,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H7DC001&\pos(140.4,215.422)}是吗 奇怪了
-Dialogue: 0,0:18:54.43,0:18:55.66,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(96,171.245)}我要报警了
-Dialogue: 0,0:18:55.83,0:18:58.76,Default,,0,0,0,,{\fn方正黑体_GBK\an8\fs16\c&H7DC001&\pos(259.2,117.911)}她以前没翘过课吧?
-Dialogue: 0,0:18:59.43,0:19:00.07,Default,,0,0,0,,{\fn方正黑体_GBK\an8\pos(70.4,179.067)\c&H000000&}没有
-Dialogue: 0,0:19:01.90,0:19:02.90,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(95.467,214.622)}你有一种不祥的预感吗?
-Dialogue: 0,0:19:03.06,0:19:04.80,Default,,0,0,0,,{\fn方正黑体_GBK\an8\fs10\c&H7DC001&\pos(93.867,191.867)}记不记得我曾经自驾到洛杉矶
-Dialogue: 0,0:19:04.90,0:19:07.04,Default,,0,0,0,,{\fn方正黑体_GBK\an8\fs10\c&H7DC001&\pos(209.6,208.223)}去看飞鳍冰球队打决胜场?
-Dialogue: 0,0:19:07.03,0:19:09.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(100.267,222.445)}飞鳍冰球队和这事儿有什么关系
-Dialogue: 0,0:19:10.96,0:19:12.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(171.733,212.489)}我没告诉爸妈
-Dialogue: 0,0:19:12.60,0:19:14.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(143.466,213.2)}他们气得发疯
-Dialogue: 0,0:19:14.50,0:19:15.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(226.666,210.356)}我"失踪"了大约24个小时
-Dialogue: 0,0:19:16.10,0:19:17.46,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(64,225.289)}但那是在暑假
-Dialogue: 0,0:19:19.36,0:19:21.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(184.533,213.912)}下周不就放暑假了吗?
-Dialogue: 0,0:19:21.43,0:19:22.27,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(58.667,226.711)}你想说什么?
-Dialogue: 0,0:19:23.96,0:19:25.63,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(218.133,209.645)}也许她正在外边鬼混呢...
-Dialogue: 0,0:19:25.80,0:19:27.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(219.733,210.356)}你联系过她的朋友了吗
-Dialogue: 0,0:19:28.16,0:19:29.76,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(131.2,177.645)}我不认识任何她的
-Dialogue: 0,0:19:30.76,0:19:32.43,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(89.6,179.778)}自从
-Dialogue: 0,0:19:34.93,0:19:37.33,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(161.067,101.556)}圣何塞市 玛戈·金的社交媒体
-Dialogue: 0,0:19:37.66,0:19:40.00,Default,,0,0,0,,{\an8\pos(168.667,71.155)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}玛戈·金                                                图享账号
-Dialogue: 0,0:19:40.30,0:19:41.44,Default,,0,0,0,,{\an8\pos(188.266,184.045)}{\c&H000000&\fn方正黑体_GBK\fs14}私密账号
-Dialogue: 0,0:19:40.30,0:19:41.44,Default,,0,0,0,,{\an8\pos(190.4,208.223)}{\c&H000000&\fn方正黑体_GBK\fs14}已经关注她了? 登录以查看照片和视频
-Dialogue: 0,0:19:45.50,0:19:46.96,Default,,0,0,0,,{\an8\pos(142.533,99.599)}{\c&HF52808&&\s0\fn方正黑体_GBK\fs12}玛戈·金                                                     推特账号
-Dialogue: 0,0:19:47.33,0:19:49.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\c&H979595&\pos(197.734,103.512)}此账户的推文设有查看权限
-Dialogue: 0,0:19:50.83,0:19:52.36,Default,,0,0,0,,{\an8\pos(117.466,157.199)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}玛戈·金            脸书账号
-Dialogue: 0,0:19:52.60,0:19:54.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\pos(170.8,146.178)}玛戈·金
-Dialogue: 0,0:19:54.46,0:19:57.00,Default,,0,0,0,,{\fn方正黑体_GBK\an8\c&H000000&\pos(92.8,134.8)}私人账号
-Dialogue: 0,0:19:58.66,0:20:02.36,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs16\c&H000000&\pos(102,215.866)}她从没给过我她朋友们的电话
-Dialogue: 0,0:20:05.36,0:20:07.96,Default,,0,0,0,,{\fn方正黑体_GBK\an8\fs10\c&H7DC001&\move(89.2,211.245,89.2,197.378,30,97)}那如果你都不认识她的朋友们
-Dialogue: 0,0:20:08.13,0:20:11.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H7DC001&\pos(118.666,213.733)}谁还认识呢?
-Dialogue: 0,0:20:11.16,0:20:14.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs30\c&H7DC001&\pos(326.266,152.933)}谁还认识呢?
-Dialogue: 0,0:20:15.10,0:20:17.06,Default,,0,0,0,,{\fad(133,000)\an8\fn方正黑体_GBK\fs28\pos(218,47.867)}潘姆
-Dialogue: 0,0:20:28.84,0:20:33.23,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs14\pos(192.4,134.266)}警告
-Dialogue: 0,0:20:28.84,0:20:33.23,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs14\pos(227.2,186.533)}您已经694天没有运行诺顿杀毒软件
-Dialogue: 0,0:20:37.43,0:20:38.43,Default,,0,0,0,,{\an8\fn宋体\fs9\pos(62.4,78.8)}通讯簿
-Dialogue: 0,0:20:40.90,0:20:42.73,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs12\move(262.4,59.067,262.8,44.134,23,1823)}潘姆的联系人
-Dialogue: 0,0:20:44.10,0:20:45.30,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs14\pos(253.6,214.8)}桑伍德中学
-Dialogue: 0,0:20:49.26,0:20:50.26,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(141.6,113.466)}阿丽·阿卜杜尔
-Dialogue: 0,0:20:50.43,0:20:51.40,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs7\pos(293.2,108.134)}备注 四年级学习搭档 对贝类过敏 妈宝
-Dialogue: 0,0:20:53.96,0:20:54.96,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(192.8,108.133)}罗比·阿博特
-Dialogue: 0,0:20:55.13,0:20:57.70,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(302,105.467)}备注 父母之一在蹲局子 离异家庭 暗恋玛戈
-Dialogue: 0,0:20:58.26,0:20:59.26,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(245.6,108.133)}希瓦伊·艾索拉
-Dialogue: 0,0:20:59.43,0:21:00.93,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(308,104.934)}备注 一起拼车的同学 会吹单簧管 比玛戈大一岁
-Dialogue: 0,0:21:01.30,0:21:02.30,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs6\pos(302.4,107.066)}艾萨克·布兰肯斯密斯
-Dialogue: 0,0:21:03.93,0:21:06.54,Default,,0,0,0,,{\an8\c&H000000&\fn宋体\fs14\pos(158.4,82.534)}备注 玛戈成长过程中最好的朋友
-Dialogue: 0,0:21:11.61,0:21:14.43,Default,,0,0,0,,快接啊 快接啊 快接啊\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pick up, pick up, pick up...{\r}
-Dialogue: 0,0:21:15.86,0:21:16.71,Default,,0,0,0,,你好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hello?{\r}
-Dialogue: 0,0:21:16.73,0:21:19.22,Default,,0,0,0,,嗨 你好 我是大卫·金 我是玛戈的...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, um, I'm David Kim, I'm Margot Kim's...{\r}
-Dialogue: 0,0:21:19.25,0:21:21.60,Default,,0,0,0,,潘姆的丈夫 哦 我当然记得你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pam's husband, oh, of course I remember.{\r}
-Dialogue: 0,0:21:21.64,0:21:23.13,Default,,0,0,0,,你最近怎么样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How are you doing?{\r}
-Dialogue: 0,0:21:23.15,0:21:24.58,Default,,0,0,0,,我很好 我很好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm good, I'm good.{\r}
-Dialogue: 0,0:21:24.65,0:21:27.19,Default,,0,0,0,,是这样 我打给你是因为...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Listen, the reason I'm calling is that um...{\r}
-Dialogue: 0,0:21:27.39,0:21:29.03,Default,,0,0,0,,我一直无法联系上玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I haven't been able to reach Margot{\r}
-Dialogue: 0,0:21:29.07,0:21:30.73,Default,,0,0,0,,已经有一阵子了 我觉得她的手机没电了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for a little bit and I'm sure her phone is dead{\r}
-Dialogue: 0,0:21:30.75,0:21:33.00,Default,,0,0,0,,我在想我能不能和艾萨克说一下然后...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but I was just wondering if I could speak to Isaac and see...{\r}
-Dialogue: 0,0:21:33.03,0:21:35.77,Default,,0,0,0,,那看来这就是接待处的问题了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Well, it's gotta be more of a reception problem, right?{\r}
-Dialogue: 0,0:21:36.33,0:21:38.11,Default,,0,0,0,,呃 你说的什么意思\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, what do you mean?{\r}
-Dialogue: 0,0:21:38.14,0:21:39.91,Default,,0,0,0,,你知道啊 如果他们在山上...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, if they're on the mountains...{\r}
-Dialogue: 0,0:21:40.66,0:21:42.35,Default,,0,0,0,,不好意思 什..什么山\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sorry, w-what mountains?{\r}
-Dialogue: 0,0:21:42.70,0:21:46.09,Default,,0,0,0,,野营 艾萨克在和他的朋友野营\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Camping. Isaac is camping with his friends.{\r}
-Dialogue: 0,0:21:46.33,0:21:48.03,Default,,0,0,0,,玛戈绝对被邀请了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot was definitely invited.{\r}
-Dialogue: 0,0:21:48.58,0:21:49.97,Default,,0,0,0,,是吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She was?{\r}
-Dialogue: 0,0:21:49.99,0:21:52.28,Default,,0,0,0,,她肯定也去了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm pretty positive she's there, too.{\r}
-Dialogue: 0,0:21:52.30,0:21:54.87,Default,,0,0,0,,她没有...告诉你吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did she... not tell you?{\r}
-Dialogue: 0,0:21:55.32,0:21:59.11,Default,,0,0,0,,呃...她说过 我...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Shh...she did. I'm uh...{\r}
-Dialogue: 0,0:21:59.45,0:22:00.56,Default,,0,0,0,,我现在在翻看她发的信息\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, I'm looking at her texts now.{\r}
-Dialogue: 0,0:22:00.58,0:22:03.01,Default,,0,0,0,,她没提要去山里 所以我不太清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She didn't mention mountains, that's why, yeah.{\r}
-Dialogue: 0,0:22:03.03,0:22:04.87,Default,,0,0,0,,好吧 他们已经计划了一段时间了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, they've been planning this for a while.{\r}
-Dialogue: 0,0:22:04.89,0:22:06.05,Default,,0,0,0,,我真不敢相信她居然不…\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I can't imagine she just couldn't...{\r}
-Dialogue: 0,0:22:06.07,0:22:07.42,Default,,0,0,0,,你知道他们什么时候出发的吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you happen to know when they left?{\r}
-Dialogue: 0,0:22:07.44,0:22:09.27,Default,,0,0,0,,我之所以要问是因为\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The reason I'm asking is that{\r}
-Dialogue: 0,0:22:09.34,0:22:11.22,Default,,0,0,0,,学校那边说她今天缺席\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}school has her marked as absent today.{\r}
-Dialogue: 0,0:22:11.25,0:22:12.70,Default,,0,0,0,,他们都逃学了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did they all ditch school?{\r}
-Dialogue: 0,0:22:12.73,0:22:14.80,Default,,0,0,0,,如果他们敢这么做 你猜怎么着\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'll tell you something, if that's what they did,{\r}
-Dialogue: 0,0:22:14.82,0:22:16.43,Default,,0,0,0,,艾萨克有大麻烦了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Isaac is in big trouble!{\r}
-Dialogue: 0,0:22:17.70,0:22:20.39,Default,,0,0,0,,但是他们真的逃课了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's-that's definitely what happened.{\r}
-Dialogue: 0,0:22:20.58,0:22:22.01,Default,,0,0,0,,-好吧 这可真是...  -我能告诉你的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Okay, this is... - Tell you what,{\r}
-Dialogue: 0,0:22:22.07,0:22:24.34,Default,,0,0,0,,他们计划明早回来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}They're planning on heading back tomorrow morning, anyway.{\r}
-Dialogue: 0,0:22:24.36,0:22:26.56,Default,,0,0,0,,他们一到接待处 我就立马让艾萨克\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Once they get reception, I will let Isaac know{\r}
-Dialogue: 0,0:22:26.58,0:22:27.93,Default,,0,0,0,,叫玛戈给你回电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to have Margot give you a call.{\r}
-Dialogue: 0,0:22:27.95,0:22:29.31,Default,,0,0,0,,那就太好了 谢谢你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Perfect, that is perfect. Thank you.{\r}
-Dialogue: 0,0:22:29.43,0:22:30.94,Default,,0,0,0,,你们两个都还好吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Is everything okay with you two?{\r}
-Dialogue: 0,0:22:30.97,0:22:31.87,Default,,0,0,0,,什么意思?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What do you mean?{\r}
-Dialogue: 0,0:22:31.89,0:22:34.39,Default,,0,0,0,,呃 很久没有跟你说话了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Well, I just haven't spoken to you since...{\r}
-Dialogue: 0,0:22:34.41,0:22:35.66,Default,,0,0,0,,自从潘姆...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Pam's, uh...{\r}
-Dialogue: 0,0:22:35.76,0:22:37.75,Default,,0,0,0,,噢 噢 谢了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, oh, thank you.{\r}
-Dialogue: 0,0:22:37.77,0:22:38.96,Default,,0,0,0,,一切都很好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Everything is great.{\r}
-Dialogue: 0,0:22:39.00,0:22:40.94,Default,,0,0,0,,玛戈和我都很好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot and I are great.{\r}
-Dialogue: 0,0:22:41.50,0:22:43.50,Default,,0,0,0,,{\an8\pos(89.6,181.2)}{\an8\fn方正黑体_GBK\fs28\c&H000000&}你xxxxx逗我玩呢?
-Dialogue: 0,0:22:43.65,0:22:54.10,Default,,0,0,0,,{\an8\c&H0091EC&\fn方正黑体_GBK\fs10\pos(334.8,109.734)}你把钱拿去干嘛了?\N你以为我的钱\N你能大手大脚地拿去花?\N你又没有工作\N从我这每周拿100美元\N只要你能想出法子花钱\N你撒谎就那么心安理得?\N难道我没有教过你\N不能乱花钱以及要尊重他人吗\N你以为可以随便逃课不告诉我\N不告诉我你通宵去野营?\N可以把这个家当成一个旅馆\N想住就住想走就走?\N无论如何\N在山上剩下的时间好好玩吧\N因为这个夏天不会再让你出门了\N早上见
-Dialogue: 0,0:22:54.40,0:22:57.30,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs28\pos(188.4,155.066)}早上!
-Dialogue: 0,0:22:57.30,0:22:58.47,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs28\pos(188.4,155.066)}早上
-Dialogue: 0,0:22:58.50,0:23:01.34,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs28\pos(188.4,155.066)}早上。
-Dialogue: 0,0:23:06.60,0:23:08.74,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(75.2,198)}和艾萨克的妈妈联系了
-Dialogue: 0,0:23:10.47,0:23:12.37,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(65.6,196.4)}到了接待处打给我
-Dialogue: 0,0:23:26.00,0:23:27.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\c&H000000&\pos(370,4.666)}来电
-Dialogue: 0,0:23:28.35,0:23:29.44,Default,,0,0,0,,你好?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hello?{\r}
-Dialogue: 0,0:23:29.57,0:23:30.82,Default,,0,0,0,,嘿 金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, Mr. Kim?{\r}
-Dialogue: 0,0:23:30.96,0:23:32.41,Default,,0,0,0,,我是艾萨克 我妈妈说...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is Isaac. My mom told me to...{\r}
-Dialogue: 0,0:23:32.44,0:23:34.18,Default,,0,0,0,,艾萨克 嗨\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Isaac! Yes, hi.{\r}
-Dialogue: 0,0:23:34.25,0:23:35.70,Default,,0,0,0,,很抱歉让你这么早打给我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sorry to have you call me so early.{\r}
-Dialogue: 0,0:23:35.72,0:23:36.68,Default,,0,0,0,,没事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's okay.{\r}
-Dialogue: 0,0:23:36.71,0:23:38.90,Default,,0,0,0,,我只是想说我很抱歉没帮上您\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Just wanna say I'm sorry I couldn't be of more help.{\r}
-Dialogue: 0,0:23:39.04,0:23:41.99,Default,,0,0,0,,噢 让我女儿接电话 好吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, can you put my daughter on the phone, please?{\r}
-Dialogue: 0,0:23:43.20,0:23:44.92,Default,,0,0,0,,我妈妈没有告诉您吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did my mom not tell you?{\r}
-Dialogue: 0,0:23:45.35,0:23:46.77,Default,,0,0,0,,什么? 你什么意思?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What, what do you mean?{\r}
-Dialogue: 0,0:23:48.27,0:23:50.32,Default,,0,0,0,,她没去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She never came.{\r}
-Dialogue: 0,0:23:51.17,0:23:52.46,Default,,0,0,0,,什么? 你说什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What? What do you...?{\r}
-Dialogue: 0,0:23:52.96,0:23:54.22,Default,,0,0,0,,艾萨克 你什么意思?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Isaac, what do you mean?{\r}
-Dialogue: 0,0:23:54.25,0:23:55.33,Default,,0,0,0,,我是说 她没去露营\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I mean, she never came.{\r}
-Dialogue: 0,0:23:55.36,0:23:57.08,Default,,0,0,0,,周五晚上放学后我去接她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I even reached out to her after school on Friday{\r}
-Dialogue: 0,0:23:57.11,0:23:58.21,Default,,0,0,0,,当时我们所有人都在我车里集合准备启程\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}when we were all heading out{\r}
-Dialogue: 0,0:23:58.24,0:23:59.70,Default,,0,0,0,,所以我想她能看到我们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}in my car so I'd know she'll see.{\r}
-Dialogue: 0,0:24:00.04,0:24:01.36,Default,,0,0,0,,她说什么了?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did she say?{\r}
-Dialogue: 0,0:24:03.69,0:24:06.34,Default,,0,0,0,,她没有理我们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She didn't respond.{\r}
-Dialogue: 0,0:24:11.54,0:24:18.50,Default,,0,0,0,,{\fn方正黑体_GBK\fs20\c&H000000&\pos(106.4,97.733)}圣何塞失踪人口
-Dialogue: 0,0:24:12.12,0:24:13.93,Default,,0,0,0,,这里是911 你的紧急情况是?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}911, what's your emergency?{\r}
-Dialogue: 0,0:24:14.06,0:24:16.65,Default,,0,0,0,,嗨 我这边有可能...我...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, I'm calling about a possible... I...{\r}
-Dialogue: 0,0:24:16.73,0:24:18.62,Default,,0,0,0,,我要报告一起失踪事件\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm calling to report a missing person.{\r}
-Dialogue: 0,0:24:18.73,0:24:20.14,Default,,0,0,0,,好的 谁失踪了?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, who is this regarding?{\r}
-Dialogue: 0,0:24:18.90,0:24:22.80,Default,,0,0,0,,{\an8\pos(86.4,101.334)}{\c&HF52808&\s0\fn方正黑体_GBK\fs10}圣何塞失踪人口报告
-Dialogue: 0,0:24:18.90,0:24:22.80,Default,,0,0,0,,{\an8\pos(99.067,140.488)}{\c&HF52808&\s0\fn方正黑体_GBK\fs10}国家失踪及不明身份人员系统
-Dialogue: 0,0:24:20.18,0:24:21.43,Default,,0,0,0,,呃 我女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, my daughter.{\r}
-Dialogue: 0,0:24:21.49,0:24:23.50,Default,,0,0,0,,早知道我应该早点报警的 我还以为...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know I should've called sooner. I just thought that...{\r}
-Dialogue: 0,0:24:23.53,0:24:24.78,Default,,0,0,0,,-没关系 先生  -嗯\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- That's okay, sir. - Yeah.{\r}
-Dialogue: 0,0:24:24.76,0:24:26.80,Default,,0,0,0,,{\an8\fn宋体\b1\i1\c&H8F430B&\fs16\pos(283.2,75.6)}失踪人口数据库
-Dialogue: 0,0:24:24.85,0:24:26.77,Default,,0,0,0,,首先我们要提交一个报告\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The first thing we need to do is file a report.{\r}
-Dialogue: 0,0:24:26.92,0:24:29.19,Default,,0,0,0,,然后我会联络该地区的探员\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}After that, I'll put out a call to a detective in the area{\r}
-Dialogue: 0,0:24:29.22,0:24:30.85,Default,,0,0,0,,他将与你联系\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}who will be in touch with you.{\r}
-Dialogue: 0,0:24:30.73,0:24:33.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\move(172.8,26.534,170.8,20.667,27,2960)}州案例分类目录
-Dialogue: 0,0:24:31.07,0:24:32.04,Default,,0,0,0,,好吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right.{\r}
-Dialogue: 0,0:24:32.57,0:24:33.97,Default,,0,0,0,,现在 她的名字是什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Now let's start with her name.{\r}
-Dialogue: 0,0:24:33.86,0:24:38.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\c&H000000&\pos(251.6,66)}加利福尼亚州
-Dialogue: 0,0:24:34.00,0:24:38.34,Default,,0,0,0,,呃 玛戈·金 王字旁的玛 干戈的戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, Margot Kim, Ma- M-A-R-G-O-T.{\r}
-Dialogue: 0,0:24:38.46,0:24:39.85,Default,,0,0,0,,金 金色的金\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Kim, K-I-M.{\r}
-Dialogue: 0,0:24:38.50,0:24:44.94,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\move(98.4,106.533,76.8,125.733,23,6423)}未结案率\N\N已结案率
-Dialogue: 0,0:24:45.04,0:24:46.67,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&}来电
-Dialogue: 0,0:24:47.66,0:24:49.69,Default,,0,0,0,,嗨 是大卫·金吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, is this David Kim?{\r}
-Dialogue: 0,0:24:50.00,0:24:52.42,Default,,0,0,0,,是 呃 我是大卫·金 你应该...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes. Uh, this is David Kim. I'm assuming this is...{\r}
-Dialogue: 0,0:24:52.44,0:24:55.25,Default,,0,0,0,,早上好 金先生 我是罗丝玛莉·维克\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good morning, Mr. Kim. My name is Rosemary Vick.{\r}
-Dialogue: 0,0:24:55.27,0:24:57.83,Default,,0,0,0,,我被派来处理你女儿的案子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm the detective sergeant assigned to your daughter's case.{\r}
-Dialogue: 0,0:24:57.89,0:24:59.88,Default,,0,0,0,,嗯 早上好 我一直在等你的电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, good morning. I've been waiting for your call.{\r}
-Dialogue: 0,0:24:59.90,0:25:02.18,Default,,0,0,0,,当然 我们的工作就是尽可能的快\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Of course. We're working as fast as we can.{\r}
-Dialogue: 0,0:25:02.45,0:25:04.98,Default,,0,0,0,,目前我距离你家三十五分钟的路程\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm currently 35 minutes away from your house.{\r}
-Dialogue: 0,0:25:05.06,0:25:06.35,Default,,0,0,0,,在我赶过去这段时间\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But while I have you,{\r}
-Dialogue: 0,0:25:06.46,0:25:08.76,Default,,0,0,0,,你愿意给我讲讲你掌握的线索吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}do you feel comfortable telling me what you know?{\r}
-Dialogue: 0,0:25:08.92,0:25:10.89,Default,,0,0,0,,我一个小时前刚刚给电话里的人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just told every detail I know{\r}
-Dialogue: 0,0:25:10.91,0:25:12.77,Default,,0,0,0,,讲了我知道的每一个细节\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to whoever I got off the phone with an hour ago.{\r}
-Dialogue: 0,0:25:12.79,0:25:13.80,Default,,0,0,0,,真不知道你们这些人在干什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I don't know what you guys are doing.{\r}
-Dialogue: 0,0:25:13.82,0:25:15.60,Default,,0,0,0,,我向你保证 金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I promise you, Mr. Kim,{\r}
-Dialogue: 0,0:25:15.64,0:25:17.53,Default,,0,0,0,,我们非常重视这件事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we are taking this very seriously.{\r}
-Dialogue: 0,0:25:17.57,0:25:19.83,Default,,0,0,0,,我也是一个母亲 我完全理解\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And as a parent myself, I can only imagine{\r}
-Dialogue: 0,0:25:19.86,0:25:21.32,Default,,0,0,0,,你的感受\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}what you must be feeling.{\r}
-Dialogue: 0,0:25:21.42,0:25:22.34,Default,,0,0,0,,但是站在帮助你的立场上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But for me to help you,{\r}
-Dialogue: 0,0:25:22.36,0:25:25.17,Default,,0,0,0,,我必须知道所有的事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I do need to know how everything unfolded{\r}
-Dialogue: 0,0:25:25.25,0:25:26.67,Default,,0,0,0,,从你的视角是怎样的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}from your eyes.{\r}
-Dialogue: 0,0:25:27.51,0:25:28.74,Default,,0,0,0,,明白了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Understood,{\r}
-Dialogue: 0,0:25:28.90,0:25:31.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(124,115.067)}警探罗丝玛莉·维克
-Dialogue: 0,0:25:29.67,0:25:30.81,Default,,0,0,0,,警探\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}detective.{\r}
-Dialogue: 0,0:25:32.13,0:25:33.44,Default,,0,0,0,,{\an8\pos(107.467,90.888)}{\c&HF52808&\s0\fn方正黑体_GBK\fs10}杰出警务奖获得者罗丝玛莉·维克
-Dialogue: 0,0:25:32.13,0:25:33.44,Default,,0,0,0,,{\an8\pos(97.067,135.688)}{\c&HF52808&\s0\fn方正黑体_GBK\fs10}罗丝玛莉·维克的脸书主页
-Dialogue: 0,0:25:32.13,0:25:33.44,Default,,0,0,0,,{\an8\pos(97.067,169.822)}{\c&HF52808&\s0\fn方正黑体_GBK\fs10}警探-国家公仆 硅谷先驱报
-Dialogue: 0,0:25:35.08,0:25:37.33,Default,,0,0,0,,好的 你来听听我说的对不对\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, let's see if I got this right.{\r}
-Dialogue: 0,0:25:39.07,0:25:41.23,Default,,0,0,0,,一 一次学习小组学习后\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}One: after a group study session,{\r}
-Dialogue: 0,0:25:39.87,0:25:44.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs6\c&H000000&\pos(138.4,205.733)}杰出警务奖获得者罗丝玛莉·维克
-Dialogue: 0,0:25:41.27,0:25:44.74,Default,,0,0,0,,玛戈还有她的车在星期四晚上都失踪了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot, with her car, didn't return home Thursday evening.{\r}
-Dialogue: 0,0:25:46.76,0:25:47.80,Default,,0,0,0,,二\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Two:{\r}
-Dialogue: 0,0:25:47.87,0:25:50.39,Default,,0,0,0,,她在午夜十一点打过三次电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she called three times at 11:00 p.m.{\r}
-Dialogue: 0,0:25:48.70,0:25:52.97,Default,,0,0,0,,{\an8\fn微软雅黑\pos(105.6,31.334)}脸书
-Dialogue: 0,0:25:52.58,0:25:53.53,Default,,0,0,0,,三\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Three:{\r}
-Dialogue: 0,0:25:53.55,0:25:55.69,Default,,0,0,0,,星期五她没有上学\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she didn't attend school on Friday.{\r}
-Dialogue: 0,0:25:56.62,0:25:57.66,Default,,0,0,0,,四\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And four:{\r}
-Dialogue: 0,0:25:57.69,0:25:59.39,Default,,0,0,0,,她已经六个月\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she's been skipping piano classes{\r}
-Dialogue: 0,0:25:57.87,0:26:01.47,Default,,0,0,0,,{\an8\c&H000000&\fn楷体\fs16\pos(131.6,59.599)\b1}警探——国家公仆
-Dialogue: 0,0:25:57.87,0:26:01.47,Default,,0,0,0,,{\an8\c&H000000&\fn楷体\fs10\pos(163.2,97.999)}警探罗丝玛莉·维克同前科犯一起建造康复诊所
-Dialogue: 0,0:25:59.41,0:26:00.91,Default,,0,0,0,,都没去上钢琴课了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for the last six months.{\r}
-Dialogue: 0,0:26:01.34,0:26:02.44,Default,,0,0,0,,这些都正确吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Was all of that correct?{\r}
-Dialogue: 0,0:26:02.49,0:26:03.38,Default,,0,0,0,,对\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes.{\r}
-Dialogue: 0,0:26:03.43,0:26:05.05,Default,,0,0,0,,好的 金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay. Mr. Kim,{\r}
-Dialogue: 0,0:26:05.12,0:26:07.36,Default,,0,0,0,,我会挖掘出你女儿失踪的真相的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am going to find out what happened to your daughter.{\r}
-Dialogue: 0,0:26:07.66,0:26:10.13,Default,,0,0,0,,但我需要知道更多关于她的资讯 好吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But I'll need to know a lot more about her, okay?{\r}
-Dialogue: 0,0:26:10.22,0:26:11.58,Default,,0,0,0,,好 好 嗯\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes, yes, uh...{\r}
-Dialogue: 0,0:26:11.62,0:26:14.47,Default,,0,0,0,,你要我帮你什么?  我可以去和邻居问一问\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What do you want me to do? I-I-I'll go talk to neighbors,{\r}
-Dialogue: 0,0:26:14.49,0:26:16.66,Default,,0,0,0,,我们会负责询问 金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We'll handle the ground investigation, Mr. Kim.{\r}
-Dialogue: 0,0:26:16.68,0:26:17.75,Default,,0,0,0,,这是我们的工作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's our job.{\r}
-Dialogue: 0,0:26:18.01,0:26:19.92,Default,,0,0,0,,作为家长能帮到忙的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But if there's something a parent can do,{\r}
-Dialogue: 0,0:26:19.98,0:26:23.03,Default,,0,0,0,,就是告诉我们你所了解的女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}it's shedding light for us on who your daughter is{\r}
-Dialogue: 0,0:26:23.29,0:26:24.93,Default,,0,0,0,,还有她所接触的人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and the people she talks to.{\r}
-Dialogue: 0,0:26:29.86,0:26:31.62,Default,,0,0,0,,你能帮助我们吧?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Is that something you can help us with?{\r}
-Dialogue: 0,0:26:33.30,0:26:34.28,Default,,0,0,0,,可以\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes.{\r}
-Dialogue: 0,0:26:37.02,0:26:38.59,Default,,0,0,0,,我可以做到\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I can help with that.{\r}
-Dialogue: 0,0:27:04.87,0:27:07.44,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs8\pos(340.4,13.733)}关闭通知
-Dialogue: 0,0:27:17.44,0:27:22.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HEFB998&\pos(246.4,141.2)}忘记密码
-Dialogue: 0,0:27:24.33,0:27:25.87,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs8\c&H000000&\pos(202,120.934)}我们将把验证码发送到以下邮箱
-Dialogue: 0,0:27:28.26,0:27:28.90,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\c&H000000&\pos(132.8,41.467)}谷歌邮箱
-Dialogue: 0,0:27:32.50,0:27:33.76,Default,,0,0,0,,{\an8\c&HFD8941&\fn方正黑体_GBK\fs10\pos(179.2,190.799)}找回密码
-Dialogue: 0,0:27:36.80,0:27:38.46,Default,,0,0,0,,{\an8\c&HFD8941&\fn方正黑体_GBK\fs12\pos(192.4,191.867)}换一个问题
-Dialogue: 0,0:27:40.30,0:27:45.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(195.6,109.734)}重置邮箱-谷歌将发送一次性验证码到以下邮箱
-Dialogue: 0,0:27:45.36,0:27:46.46,Default,,0,0,0,,{\fn方正黑体_GBK\fs8\pos(193.2,161.733)}发送
-Dialogue: 0,0:27:46.86,0:27:49.43,Default,,0,0,0,,{\fn方正黑体_GBK\fs8\c&HD3BBAA&\pos(164.8,155.867)}输入六位验证码
-Dialogue: 0,0:28:19.40,0:28:20.56,Default,,0,0,0,,{\fn方正黑体_GBK\fs8\c&HD3BBAA&\pos(210.4,164.934)}创建新密码
-Dialogue: 0,0:28:19.40,0:28:20.56,Default,,0,0,0,,{\fn方正黑体_GBK\fs8\c&HD3BBAA&\pos(210.4,194.267)}确认新密码
-Dialogue: 0,0:28:29.94,0:28:30.83,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs9\pos(146.4,195.066)}你可以通过以下验证码重设密码
-Dialogue: 0,0:28:40.73,0:28:42.86,Default,,0,0,0,,{\an8\fn方正黑体_GBK\pos(192.8,156.667)}继续
-Dialogue: 0,0:28:47.13,0:28:48.19,Default,,0,0,0,,好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay.{\r}
-Dialogue: 0,0:28:48.42,0:28:51.62,Default,,0,0,0,,自从上次玛戈打给你已经三十六个小时了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's already been 36 hours since Margot's last call.{\r}
-Dialogue: 0,0:28:49.30,0:28:50.77,Default,,0,0,0,,{\an8\c&HB15A34&\fn方正黑体_GBK\pos(145.2,91.6)}好友数量
-Dialogue: 0,0:28:51.91,0:28:53.66,Default,,0,0,0,,所以我们动作要快点\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So we've gotta move a little quickly.{\r}
-Dialogue: 0,0:28:55.53,0:28:57.13,Default,,0,0,0,,{\an8\c&HB15A34&\fn方正黑体_GBK\an8}乔纳·艾米-图像另存为
-Dialogue: 0,0:28:56.95,0:29:00.14,Default,,0,0,0,,我们会拷贝玛戈的硬盘交给鉴证科\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We'll be taking a copy of Margot's hard drive to forensics.{\r}
-Dialogue: 0,0:29:01.02,0:29:02.57,Default,,0,0,0,,在这同时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But in the meantime,{\r}
-Dialogue: 0,0:29:01.06,0:29:05.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&}建立档案-照片-姓名-联系方式
-Dialogue: 0,0:29:03.09,0:29:05.59,Default,,0,0,0,,任何你所知道关于她的讯息\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}any information you can give me about her{\r}
-Dialogue: 0,0:29:05.68,0:29:08.74,Default,,0,0,0,,或她所熟识的人会对我们有帮助\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}or the people around her will help.{\r}
-Dialogue: 0,0:29:09.03,0:29:10.06,Default,,0,0,0,,{\an8\c&HF58D5C&\fn方正黑体_GBK\an8\fs10\pos(286.4,133.2)}拨打电话
-Dialogue: 0,0:29:09.03,0:29:10.06,Default,,0,0,0,,{\c&HF58D5C&\an8\fn方正黑体_GBK\fs10\pos(200.4,132.667)}视频通话
-Dialogue: 0,0:29:10.98,0:29:12.63,Default,,0,0,0,,等等 你找不到玛戈吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wait, you can't find Margot?{\r}
-Dialogue: 0,0:29:12.66,0:29:13.99,Default,,0,0,0,,是 嗯 我找不到\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No, uh, I can't.{\r}
-Dialogue: 0,0:29:14.02,0:29:15.80,Default,,0,0,0,,你介意回答一些问题来帮助我吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you mind answering some questions for me to help?{\r}
-Dialogue: 0,0:29:15.84,0:29:16.91,Default,,0,0,0,,好 没问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, sure.{\r}
-Dialogue: 0,0:29:16.94,0:29:18.77,Default,,0,0,0,,好的 上次你看到她是什么时候\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, when was the last time you saw her?{\r}
-Dialogue: 0,0:29:16.96,0:29:21.64,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(193.6,26.533)}建立档案-最后一次见-周二
-Dialogue: 0,0:29:18.84,0:29:21.77,Default,,0,0,0,,呃 周二 她的柜子在我隔壁\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, Tuesday. Her locker's near me.{\r}
-Dialogue: 0,0:29:21.76,0:29:29.20,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(193.6,29.733)}建立档案-学习小组-预修生物课
-Dialogue: 0,0:29:21.84,0:29:24.21,Default,,0,0,0,,好的 礼拜四晚上 她参加了生物课的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right, on Thursday evening, she attended a study group{\r}
-Dialogue: 0,0:29:24.24,0:29:25.40,Default,,0,0,0,,学习小组\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for her biology class.{\r}
-Dialogue: 0,0:29:25.42,0:29:26.63,Default,,0,0,0,,你知道吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you know anything about that?{\r}
-Dialogue: 0,0:29:26.70,0:29:28.24,Default,,0,0,0,,她应该是在预修生物的班 对吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's probably in AP Bio, right?{\r}
-Dialogue: 0,0:29:28.27,0:29:29.86,Default,,0,0,0,,对 她是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes, she is.{\r}
-Dialogue: 0,0:29:29.89,0:29:31.66,Default,,0,0,0,,嗯 我在上普通生物\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, no, I'm in regular.{\r}
-Dialogue: 0,0:29:30.84,0:29:33.50,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(192,15.333)}建立档案-学习小组--不知道...普通生物课
-Dialogue: 0,0:29:32.02,0:29:33.72,Default,,0,0,0,,好吧 那你周四晚上都在做些什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, what were you doing Thursday night?{\r}
-Dialogue: 0,0:29:33.63,0:29:36.83,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(192,15.333)}周四晚
-Dialogue: 0,0:29:33.85,0:29:37.27,Default,,0,0,0,,周四晚上 我在我爸屋里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Thursday night, I was at my dad's house.{\r}
-Dialogue: 0,0:29:36.96,0:29:40.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\c&H000000&\pos(192,15.333)}在爸爸家-期末考后接放学
-Dialogue: 0,0:29:37.29,0:29:39.35,Default,,0,0,0,,对 那天期末我爸来载我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, he picked me up after finals that day.{\r}
-Dialogue: 0,0:29:39.38,0:29:41.13,Default,,0,0,0,,好 谢谢你 Jonah\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All right, thank you, Jonah.{\r}
-Dialogue: 0,0:29:40.23,0:29:41.43,Default,,0,0,0,,{\an8\pos(226.4,121.467)\c&H595EFE&\fn方正黑体_GBK}结束通话
-Dialogue: 0,0:29:42.66,0:29:44.65,Default,,0,0,0,,这些 呃 这些看起来如何\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How does uh, how does this look?{\r}
-Dialogue: 0,0:29:48.97,0:29:50.00,Default,,0,0,0,,完美\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Perfect.{\r}
-Dialogue: 0,0:29:50.41,0:29:52.91,Default,,0,0,0,,嘿 有什么新消息就告诉我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, update me whenever you learn something.{\r}
-Dialogue: 0,0:29:52.93,0:29:54.20,Default,,0,0,0,,-不管大小事  -好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Big or small. - Okay.{\r}
-Dialogue: 0,0:29:54.25,0:29:55.51,Default,,0,0,0,,你要去哪里?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where are you going?{\r}
-Dialogue: 0,0:29:55.57,0:29:57.84,Default,,0,0,0,,找出剩下的人礼拜四都在干嘛\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Find out what the rest of her Thursday looked like.{\r}
-Dialogue: 0,0:29:58.48,0:30:01.25,Default,,0,0,0,,哦 哦 那些表格也要分享给我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, oh, and share that with me too.{\r}
-Dialogue: 0,0:30:06.70,0:30:09.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\pos(234,91.6)}分享
-Dialogue: 0,0:30:10.34,0:30:11.70,Default,,0,0,0,,那礼拜四晚上你都在做什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And what about Thursday night?{\r}
-Dialogue: 0,0:30:12.14,0:30:15.50,Default,,0,0,0,,礼拜四晚上 我在写我英文课的期末论文\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Thursday night, I was finishing up my final paper for English.{\r}
-Dialogue: 0,0:30:15.57,0:30:18.75,Default,,0,0,0,,我不知道 玩游戏 吃晚饭 看剧?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I dunno, Xbox, dinner, some Netflix?{\r}
-Dialogue: 0,0:30:18.83,0:30:20.71,Default,,0,0,0,,哦 我刚考完期末 也就是说\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, I just finished my last final which means{\r}
-Dialogue: 0,0:30:20.75,0:30:22.96,Default,,0,0,0,,我会在卡门家里玩乓\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I was at Carmen's house playing pong.{\r}
-Dialogue: 0,0:30:24.01,0:30:25.39,Default,,0,0,0,,乒 乒乓\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}P-Ping-pong.{\r}
-Dialogue: 0,0:30:25.60,0:30:28.57,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(317.6,67.6)}维克警探:县医院:0匹配
-Dialogue: 0,0:30:30.33,0:30:32.45,Default,,0,0,0,,那学习小组呢? 你知道在谁家办的吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What about study group? Do you know who hosted that?{\r}
-Dialogue: 0,0:30:32.53,0:30:34.21,Default,,0,0,0,,我去年就选生物课了 所以 我不知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I took bio last year, so, no.{\r}
-Dialogue: 0,0:30:34.23,0:30:35.11,Default,,0,0,0,,不清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No idea.{\r}
-Dialogue: 0,0:30:35.13,0:30:36.58,Default,,0,0,0,,我跟她选了不同的预修课\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She and I were on different AP paths,{\r}
-Dialogue: 0,0:30:36.61,0:30:37.84,Default,,0,0,0,,所以很难一直关注她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}so it was kinda hard to keep tabs.{\r}
-Dialogue: 0,0:30:37.89,0:30:39.14,Default,,0,0,0,,但你们是朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But you guys were friends.{\r}
-Dialogue: 0,0:30:40.76,0:30:41.74,Default,,0,0,0,,算是吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Kind of.{\r}
-Dialogue: 0,0:30:41.76,0:30:42.64,Default,,0,0,0,,你在说什么啊?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What are you talking about?{\r}
-Dialogue: 0,0:30:42.67,0:30:44.48,Default,,0,0,0,,你邀她参加露营\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You invited her on that camping trip.{\r}
-Dialogue: 0,0:30:44.64,0:30:47.22,Default,,0,0,0,,嗯 对 我的意思是 你知道我妈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Well, yeah, I mean, you know my mom.{\r}
-Dialogue: 0,0:30:47.25,0:30:48.43,Default,,0,0,0,,嗯 所以?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes, so?{\r}
-Dialogue: 0,0:30:49.32,0:30:51.40,Default,,0,0,0,,她和玛戈的妈妈是很好的朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She was really good friends with Margot's mom.{\r}
-Dialogue: 0,0:30:51.75,0:30:52.83,Default,,0,0,0,,对 所以?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, so?{\r}
-Dialogue: 0,0:30:54.33,0:30:55.50,Default,,0,0,0,,关于这些发生在你们身上的事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She felt bad{\r}
-Dialogue: 0,0:30:55.93,0:30:58.34,Default,,0,0,0,,她觉得很心痛\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}about everything that happened to you guys.{\r}
-Dialogue: 0,0:30:59.94,0:31:02.05,Default,,0,0,0,,但她有朋友的 是吧?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But she h-has friends, right?{\r}
-Dialogue: 0,0:31:02.52,0:31:04.48,Default,,0,0,0,,定义下怎样算朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Define friends.{\r}
-Dialogue: 0,0:31:04.51,0:31:06.06,Default,,0,0,0,,同学们有邀请她参加什么活动吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do people invite her to things?{\r}
-Dialogue: 0,0:31:06.09,0:31:07.96,Default,,0,0,0,,我想他们偶尔会邀她参加\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I think people occasionally invited her to things.{\r}
-Dialogue: 0,0:31:07.98,0:31:08.89,Default,,0,0,0,,但她从未去过\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She just never comes.{\r}
-Dialogue: 0,0:31:08.92,0:31:10.14,Default,,0,0,0,,她常常自己一个人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She keeps to herself a lot.{\r}
-Dialogue: 0,0:31:10.21,0:31:11.30,Default,,0,0,0,,她很安静\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's quiet.{\r}
-Dialogue: 0,0:31:11.32,0:31:13.11,Default,,0,0,0,,我看到她一个人独自吃午餐\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I did see her eat lunch alone.{\r}
-Dialogue: 0,0:31:13.13,0:31:14.53,Default,,0,0,0,,在礼拜四?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}On Thursday?{\r}
-Dialogue: 0,0:31:15.23,0:31:16.38,Default,,0,0,0,,每一天\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Every day.{\r}
-Dialogue: 0,0:31:19.03,0:31:23.37,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(308.4,68.133)}维克警探:监狱也一无所获
-Dialogue: 0,0:31:20.39,0:31:21.33,Default,,0,0,0,,大卫 听着\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Davey, look,{\r}
-Dialogue: 0,0:31:21.36,0:31:23.26,Default,,0,0,0,,我知道你现在不想听我说这些\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know you don't wanna hear this from me right now.{\r}
-Dialogue: 0,0:31:23.32,0:31:24.90,Default,,0,0,0,,但你先别那么紧张\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But you've gotta take it easy.{\r}
-Dialogue: 0,0:31:25.24,0:31:27.61,Default,,0,0,0,,我 我可以帮你一起查出所有你要查的事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I-I can help with everything that you're looking through.{\r}
-Dialogue: 0,0:31:27.77,0:31:29.95,Default,,0,0,0,,还有其他你还没聊过的脸书好友吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Are there any Facebook friends you haven't talked to yet?{\r}
-Dialogue: 0,0:31:30.00,0:31:32.35,Default,,0,0,0,,有 九十四个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yes. 94.{\r}
-Dialogue: 0,0:31:32.57,0:31:34.63,Default,,0,0,0,,没有任何一个是她真正的朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And apparently, since nobody was actually her friend,{\r}
-Dialogue: 0,0:31:34.65,0:31:36.24,Default,,0,0,0,,很显然 如果不和线上的这些人谈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I don't know who to talk to without calling{\r}
-Dialogue: 0,0:31:36.26,0:31:38.35,Default,,0,0,0,,我都不知道要和谁谈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}every name I read online.{\r}
-Dialogue: 0,0:31:40.43,0:31:41.82,Default,,0,0,0,,那电脑上的资料呢?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What about offline?{\r}
-Dialogue: 0,0:31:44.53,0:31:45.40,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(139.6,54.8)}我的电脑
-Dialogue: 0,0:31:50.40,0:31:51.43,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(144.4,84.133)}学校
-Dialogue: 0,0:31:52.13,0:31:53.20,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(154.4,108.133)}高二
-Dialogue: 0,0:31:54.96,0:31:56.03,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(175.2,74.533)}预修生物
-Dialogue: 0,0:31:57.30,0:31:58.93,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs9\pos(161.6,52.133)}生物课实验小组04_尼尔森和金.doc
-Dialogue: 0,0:32:03.53,0:32:04.90,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(194,59.066)}玛戈·金
-Dialogue: 0,0:32:03.53,0:32:04.90,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(247.2,98.533)}阿比盖尔·尼尔森
-Dialogue: 0,0:32:03.53,0:32:04.90,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(322.8,139.066)}预修生物 第二节课
-Dialogue: 0,0:32:03.53,0:32:04.90,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(207.2,179.6)}威金斯女士
-Dialogue: 0,0:32:05.17,0:32:06.43,Default,,0,0,0,,对 学习小组在我家办的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, that was at my place.{\r}
-Dialogue: 0,0:32:06.79,0:32:07.97,Default,,0,0,0,,在你家?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That was your place?{\r}
-Dialogue: 0,0:32:08.00,0:32:10.78,Default,,0,0,0,,星期四晚上的生物学习小组是你组织的吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You hosted the study group on Thursday night for bio?{\r}
-Dialogue: 0,0:32:10.81,0:32:11.60,Default,,0,0,0,,是的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah.{\r}
-Dialogue: 0,0:32:11.62,0:32:13.85,Default,,0,0,0,,所以那天晚上玛戈几乎都和你在一起?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So you were with Margot for the majority of the night?{\r}
-Dialogue: 0,0:32:13.88,0:32:16.38,Default,,0,0,0,,呃 晚上九点就结束了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Well, the study group only went till 9:00.{\r}
-Dialogue: 0,0:32:16.47,0:32:18.59,Default,,0,0,0,,不 不 她说的是整个晚上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No, no, she said it was going all night.{\r}
-Dialogue: 0,0:32:18.82,0:32:20.65,Default,,0,0,0,,不 她晚上九点肯定走了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No, she definitely left at 9:00.{\r}
-Dialogue: 0,0:32:20.75,0:32:22.25,Default,,0,0,0,,说不定更早\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Maybe even earlier.{\r}
-Dialogue: 0,0:32:24.30,0:32:25.85,Default,,0,0,0,,她有说过她要去哪里吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did she say where she was going?{\r}
-Dialogue: 0,0:32:26.43,0:32:27.39,Default,,0,0,0,,不太清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Not really.{\r}
-Dialogue: 0,0:32:27.46,0:32:28.88,Default,,0,0,0,,她看起来怎么样? 有没有焦虑害怕什么的?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How'd she look? Was she worried?{\r}
-Dialogue: 0,0:32:28.90,0:32:30.36,Default,,0,0,0,,她看起来有没有受到惊吓? 她有说过什么吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did she look scared? Was she talking?{\r}
-Dialogue: 0,0:32:30.38,0:32:31.92,Default,,0,0,0,,说实话 我不清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Honestly, I don't know.{\r}
-Dialogue: 0,0:32:31.94,0:32:33.09,Default,,0,0,0,,我们的关系没有那么亲密\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We're not really that close.{\r}
-Dialogue: 0,0:32:33.11,0:32:35.09,Default,,0,0,0,,那你为什么邀请她去学习小组?!\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why did you invite her to study group?!{\r}
-Dialogue: 0,0:32:37.54,0:32:39.64,Default,,0,0,0,,我想明年去伯克利大学\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm trying to get into Berkeley next year.{\r}
-Dialogue: 0,0:32:41.22,0:32:42.78,Default,,0,0,0,,好吧 那你...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, you were...{\r}
-Dialogue: 0,0:32:42.88,0:32:45.14,Default,,0,0,0,,但是 你和她是一个班的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You were in her class, though. Did she{\r}
-Dialogue: 0,0:32:45.20,0:32:47.30,Default,,0,0,0,,或许 她有没有提到过任何不寻常的事情?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}mention anything unusual going on, maybe?{\r}
-Dialogue: 0,0:32:47.36,0:32:48.86,Default,,0,0,0,,她有没有表现出奇怪的地方?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Was she acting strange?{\r}
-Dialogue: 0,0:32:50.68,0:32:53.02,Default,,0,0,0,,你应该知道 她经常逛汤不热\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, she did go on Tumblr a lot.{\r}
-Dialogue: 0,0:32:53.69,0:32:55.26,Default,,0,0,0,,什么? 什么是汤不热?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What? What is a tumbler?{\r}
-Dialogue: 0,0:33:00.93,0:33:05.07,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(188.8,125.2)}照片
-Dialogue: 0,0:33:05.33,0:33:06.66,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\move(141.2,211.6,143.2,208.933,27,1327)}宁静
-Dialogue: 0,0:33:07.03,0:33:07.93,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\move(179.2,251.6,179.2,251.6,27,-7)}巴博萨惬意时刻
-Dialogue: 0,0:33:12.30,0:33:13.93,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(153.2,224.933)}决定...
-Dialogue: 0,0:33:15.30,0:33:18.76,Default,,0,0,0,,{\an8\c&HBFBFBF&\fn宋体\i1\fs14\pos(180.8,172.667)}没有更多照片显示
-Dialogue: 0,0:33:26.70,0:33:29.76,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(297.2,55.333)}维克警探 转发:交通监控录像
-Dialogue: 0,0:33:32.70,0:33:34.85,Default,,0,0,0,,第一步 她加满了油\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}First, she fills up for gas.{\r}
-Dialogue: 0,0:33:38.75,0:33:40.91,Default,,0,0,0,,然后在101公路离开\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Then exits off the 101.{\r}
-Dialogue: 0,0:33:43.22,0:33:46.28,Default,,0,0,0,,再转到152公路向东驶去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And then turns onto the 152 east.{\r}
-Dialogue: 0,0:33:46.39,0:33:47.93,Default,,0,0,0,,时间是当晚22点2分\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}10:02 p.m.{\r}
-Dialogue: 0,0:33:50.29,0:33:52.04,Default,,0,0,0,,152公路向东方向?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}152 east?{\r}
-Dialogue: 0,0:33:54.10,0:33:57.26,Default,,0,0,0,,{\an8\pos(184.267,97.822)}{\c&H000000&\s0\fn方正黑体_GBK\fs12}玛戈最后出现的地方
-Dialogue: 0,0:33:58.33,0:34:00.03,Default,,0,0,0,,{\an8\c&HE77735&\fn方正黑体_GBK\fs10\move(63.6,258,68,189.2,27,800)}保存
-Dialogue: 0,0:34:00.76,0:34:01.84,Default,,0,0,0,,{\an8\pos(240.667,203.422)}{\c&H000000&\s0\fn方正黑体_GBK\fs12\3c&HFFFFFF&\b1\4c&HFFFFFF&}玛戈最后出现的地方
-Dialogue: 0,0:34:03.61,0:34:05.45,Default,,0,0,0,,那个方向是离开小镇的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That exits leads outta town.{\r}
-Dialogue: 0,0:34:05.89,0:34:07.13,Default,,0,0,0,,她是一个人去的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She took it alone.{\r}
-Dialogue: 0,0:34:07.15,0:34:08.54,Default,,0,0,0,,这根本没道理\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That doesn't make sense.{\r}
-Dialogue: 0,0:34:08.56,0:34:10.11,Default,,0,0,0,,这不像我女儿会做的事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This does not sound like my daughter.{\r}
-Dialogue: 0,0:34:10.14,0:34:11.76,Default,,0,0,0,,这感觉就像换了个人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's acting like a totally different person.{\r}
-Dialogue: 0,0:34:11.79,0:34:13.79,Default,,0,0,0,,好的 等下 不要挂电话 你刚让我产生了一个想法\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, hold on, hold on. You just gave me an idea.{\r}
-Dialogue: 0,0:34:15.43,0:34:16.69,Default,,0,0,0,,这期间\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}In the meantime,{\r}
-Dialogue: 0,0:34:16.88,0:34:20.26,Default,,0,0,0,,扩大调查范围 不仅仅局限在跟她有过联系的人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}start expanding from only the people she communicated with.{\r}
-Dialogue: 0,0:34:20.54,0:34:22.78,Default,,0,0,0,,她的行为表现也要调查一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Look into her behavior also.{\r}
-Dialogue: 0,0:34:27.63,0:34:28.70,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(201.2,68.667)}信息
-Dialogue: 0,0:34:29.93,0:34:31.13,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs8\pos(98,56.399)}爸爸
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(288,26)}宝贝儿 早安 今天我要很早出门
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(300.4,44.134)}钢琴课的学费放在桌上了
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(291.6,181.733)}谢谢啦!
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(226.4,196.133)}你什么时候回来啊?
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(205.6,222.799)}嘿 我把钱包放在家里了\N介意汇我点零钱吗?
-Dialogue: 0,0:34:32.57,0:34:37.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs10\c&H000000&\pos(229.2,248.934)}我会介意吗?
-Dialogue: 0,0:34:37.10,0:34:39.03,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(125.2,48.933)}美国银行
-Dialogue: 0,0:34:41.36,0:34:42.56,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs20\pos(62.4,155.6)}忘记密码
-Dialogue: 0,0:34:42.70,0:34:44.23,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(105.6,36.133)}设置新的登陆密码
-Dialogue: 0,0:34:44.56,0:34:45.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(169.2,90)}你好 玛戈
-Dialogue: 0,0:34:45.70,0:34:48.06,Default,,0,0,0,,{\an8\c&HBF8A5C&\fn方正黑体_GBK\fs9\pos(160.8,85.733)}余额 $1033.99
-Dialogue: 0,0:34:49.30,0:34:52.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\move(145.2,119.867,140,124.134,23,2957)}{\c&HBF8A5C&\fs8}正在处理 {\c&H000000&}     借记卡 05/11 雪佛龙     加油站                                       -37.67
-Dialogue: 0,0:34:52.39,0:34:57.04,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(63.2,39.334)}所有转账记录
-Dialogue: 0,0:34:58.84,0:34:59.96,Default,,0,0,0,,哦 天呐\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, my God.{\r}
-Dialogue: 0,0:35:00.14,0:35:01.17,Default,,0,0,0,,什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What?{\r}
-Dialogue: 0,0:35:01.21,0:35:03.35,Default,,0,0,0,,我每周给她的钢琴课的钱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's been depositing her piano cash{\r}
-Dialogue: 0,0:35:03.42,0:35:05.26,Default,,0,0,0,,她都存在了账户里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}into her checking account every week.{\r}
-Dialogue: 0,0:35:05.42,0:35:07.12,Default,,0,0,0,,她存着这些钱到底要用来干什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The hell was she doing with all that money?{\r}
-Dialogue: 0,0:35:10.37,0:35:12.94,Default,,0,0,0,,六天前 她向外转了一笔钱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Six days ago, she made an outgoing transaction{\r}
-Dialogue: 0,0:35:12.99,0:35:14.84,Default,,0,0,0,,金额是2500美元\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}of $2,500{\r}
-Dialogue: 0,0:35:15.00,0:35:16.33,Default,,0,0,0,,给Venmo\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to Venmo.{\r}
-Dialogue: 0,0:35:17.41,0:35:18.69,Default,,0,0,0,,小额转账?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The payment service?{\r}
-Dialogue: 0,0:35:21.05,0:35:23.21,Default,,0,0,0,,在这里 2500美元\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}There it is. $2,500.{\r}
-Dialogue: 0,0:35:23.62,0:35:25.04,Default,,0,0,0,,六天前\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Six days ago.{\r}
-Dialogue: 0,0:35:25.28,0:35:26.78,Default,,0,0,0,,有说是用来干什么的吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Does it say what it was for?{\r}
-Dialogue: 0,0:35:26.82,0:35:28.21,Default,,0,0,0,,没有 只有一个转账完成的手势符号\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Nothing but a peace sign.{\r}
-Dialogue: 0,0:35:28.27,0:35:29.56,Default,,0,0,0,,她给谁转的钱?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Who did she send it to?{\r}
-Dialogue: 0,0:35:33.10,0:35:37.47,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs26\pos(200.4,98.533)}该账号已被注销
-Dialogue: 0,0:35:35.31,0:35:36.45,Default,,0,0,0,,没有说明\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It doesn't say.{\r}
-Dialogue: 0,0:35:36.54,0:35:37.55,Default,,0,0,0,,好吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay.{\r}
-Dialogue: 0,0:35:37.69,0:35:38.80,Default,,0,0,0,,这很奇怪\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's weird.{\r}
-Dialogue: 0,0:35:38.94,0:35:40.27,Default,,0,0,0,,这真的很奇怪\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's really weird.{\r}
-Dialogue: 0,0:35:42.12,0:35:45.50,Default,,0,0,0,,你不会认为她卷入了什么不好的事情 对吧?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You don't think she's involved with anything serious, right?{\r}
-Dialogue: 0,0:35:47.70,0:35:48.71,Default,,0,0,0,,大卫?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Davey?{\r}
-Dialogue: 0,0:35:48.73,0:35:50.50,Default,,0,0,0,,我不知道 我得挂了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I don't know. I gotta go.{\r}
-Dialogue: 0,0:35:50.80,0:35:52.33,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs14\pos(141.6,63.866)}图享
-Dialogue: 0,0:35:59.83,0:36:01.96,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(278.8,114.8)}心情
-Dialogue: 0,0:35:59.83,0:36:01.96,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(214.8,106.267)}玛·金
-Dialogue: 0,0:35:59.83,0:36:01.96,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(325.2,131.867)}这是在哪儿?
-Dialogue: 0,0:35:59.83,0:36:01.96,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(217.6,122.8)}苏·安娜
-Dialogue: 0,0:36:02.10,0:36:03.46,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(306,113.2)}买哪个?
-Dialogue: 0,0:36:02.10,0:36:03.46,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(214,104.667)}玛·金
-Dialogue: 0,0:36:02.10,0:36:03.46,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(299.2,131.867)}嗨 玛戈
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs8\pos(341.2,113.733)\b0}期末把我折磨成这鬼样了
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\move(212.4,105.733,208.8,108.933,23,2223)}玛·金
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(338,131.866)}你好呀漂亮小妞
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\move(224,123.333,220.8,126,23,2223)}德瑞克·艾利斯
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(347.2,149.467)}为啥这么紧张 哈哈
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\move(218,140.934,214.8,143.601,23,2223)}贝茨·纽曼
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(310,167.6)}加了胶片滤镜吗?
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\move(221.6,158.533,217.6,162.266,23,2223)}威尔·梅里克
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs8\pos(348.8,185.2)}你看起来不错 玛戈!
-Dialogue: 0,0:36:03.60,0:36:05.83,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\move(220.8,176.667,217.6,182,23,2223)}茱莉亚·班德
-Dialogue: 0,0:36:05.96,0:36:07.13,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(286,119.067)}宁静
-Dialogue: 0,0:36:05.96,0:36:07.13,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(208.4,110.534)}玛·金
-Dialogue: 0,0:36:05.96,0:36:07.13,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(300.4,138.267)}太漂亮了
-Dialogue: 0,0:36:05.96,0:36:07.13,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(216.8,127.6)}瑞克·多布森
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(312.8,122.267)}星期五快乐
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(206.4,112.666)}玛·金
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs10\pos(321.2,147.867)}你知道你想要我
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(218,130.8)}德瑞克·艾利斯
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs10\pos(309.6,158)}哇哦 德瑞克
-Dialogue: 0,0:36:07.23,0:36:08.24,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(215.2,149.467)}艾比·尼尔森
-Dialogue: 0,0:36:11.13,0:36:12.86,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(290,91.334)}周天
-Dialogue: 0,0:36:11.13,0:36:12.86,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(145.6,76.934)}玛·金
-Dialogue: 0,0:36:11.13,0:36:12.86,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(266,108.934)}看起来不错
-Dialogue: 0,0:36:11.13,0:36:12.86,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(161.6,107.867)}德瑞克·艾利斯
-Dialogue: 0,0:36:13.00,0:36:14.63,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(161.6,107.867)}德瑞克·艾利斯
-Dialogue: 0,0:36:13.00,0:36:14.63,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(145.6,76.934)}玛·金
-Dialogue: 0,0:36:13.00,0:36:14.63,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(241.6,75.334)}又直播啦
-Dialogue: 0,0:36:13.00,0:36:14.63,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(282.8,110.001)}超牛逼噢噢噢噢
-Dialogue: 0,0:36:13.00,0:36:14.63,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(281.6,147.334)}咱俩外边现金交易
-Dialogue: 0,0:36:14.80,0:36:17.27,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(145.6,76.934)}玛·金
-Dialogue: 0,0:36:14.80,0:36:17.27,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs16\pos(241.6,75.334)}下雨天
-Dialogue: 0,0:36:14.80,0:36:17.27,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs12\pos(160.4,112.134)}德瑞克·艾利斯
-Dialogue: 0,0:36:18.70,0:36:20.20,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs9\pos(188.8,58.801)}德瑞克·艾利斯6969
-Dialogue: 0,0:36:26.83,0:36:29.06,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\fs7\pos(260,102.534)}我妈总是问我\N干嘛在房间里喷那么多\N空气清新剂 哈哈
-Dialogue: 0,0:36:32.16,0:36:33.20,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(197.6,144.934)}联系人
-Dialogue: 0,0:36:34.63,0:36:36.33,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(147.2,74.8)}德瑞克 无搜索结果
-Dialogue: 0,0:36:38.70,0:36:40.56,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(81.6,122.8)}查找电话号码
-Dialogue: 0,0:36:42.50,0:36:43.96,Default,,0,0,0,,{\pos(131.867,78.088)} {\an8\pos(168.667,71.155)}{\c&HF52808&\s0\fn方正黑体_GBK\fs16}人肉搜索                    查找任何电话号码
-Dialogue: 0,0:36:45.33,0:36:46.20,Default,,0,0,0,,{\an8\pos(108.8,125.733)\fn方正黑体_GBK\c&H6C6159&}查找
-Dialogue: 0,0:36:46.33,0:36:47.80,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(158,142)}德瑞克·艾利斯
-Dialogue: 0,0:36:48.53,0:36:49.36,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\move(316.8,146.533,267.2,146,27,260)}搜索
-Dialogue: 0,0:36:49.63,0:36:52.06,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H6C6159&\fs11\pos(118,116.667)}正在查找中:\N德瑞克·艾利斯
-Dialogue: 0,0:36:52.53,0:36:53.64,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(193.2,47.867)}{\fs10}点击选择查看电话号码的购买套餐
-Dialogue: 0,0:36:57.60,0:36:58.50,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\pos(212,113.467)}提交订单
-Dialogue: 0,0:36:58.60,0:37:00.26,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H000000&\pos(152.4,50.8)}德瑞克·艾利斯
-Dialogue: 0,0:37:00.40,0:37:02.50,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs9\c&H90928D&\pos(155.6,95.866)}当前号码
-Dialogue: 0,0:37:02.72,0:37:04.65,Default,,0,0,0,,先生 我没有义务告诉你任何事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sir, I don't have to tell you anything.{\r}
-Dialogue: 0,0:37:04.73,0:37:06.34,Default,,0,0,0,,我只想知道我女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just want to know where you were{\r}
-Dialogue: 0,0:37:06.37,0:37:07.95,Default,,0,0,0,,失踪的那个晚上你在哪里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the night my daughter went missing.{\r}
-Dialogue: 0,0:37:07.97,0:37:10.82,Default,,0,0,0,,我已经跟你说过了 我当时在约会\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Like I said, I had a prior engagement.{\r}
-Dialogue: 0,0:37:10.87,0:37:12.09,Default,,0,0,0,,-你想要隐瞒什么?  -我当时很忙\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- What are you hiding? - I was busy.{\r}
-Dialogue: 0,0:37:12.34,0:37:13.67,Default,,0,0,0,,-你想要隐瞒什么?  -我没有什么要隐瞒的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- What are you hiding? - Nothing!{\r}
-Dialogue: 0,0:37:13.73,0:37:15.06,Default,,0,0,0,,那就回答我的问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Then answer the damn question{\r}
-Dialogue: 0,0:37:15.09,0:37:16.70,Default,,0,0,0,,在警察上门之前\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}before there's a cop knocking on your door.{\r}
-Dialogue: 0,0:37:16.76,0:37:19.28,Default,,0,0,0,,我女儿失踪的那个晚上你到底在哪里?!\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where were you the night my daughter went missing?!{\r}
-Dialogue: 0,0:37:19.56,0:37:21.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\pos(192.4,5.2)}周四晚上
-Dialogue: 0,0:37:21.36,0:37:23.73,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H000000&\pos(198,71.067)}比伯演唱会
-Dialogue: 0,0:37:25.50,0:37:27.26,Default,,0,0,0,,{\fn方正黑体_GBK\fs16\c&H000000&\pos(194.8,131.333)}（已证实）
-Dialogue: 0,0:37:49.01,0:37:49.92,Default,,0,0,0,,喂?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hello?{\r}
-Dialogue: 0,0:37:50.01,0:37:52.09,Default,,0,0,0,,瑞秋·裘恩这个名字你熟悉吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Does the name Rachel Jeun ring a bell?{\r}
-Dialogue: 0,0:37:53.46,0:37:54.97,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(247.2,129.2)}维克警探
-Dialogue: 0,0:37:56.14,0:37:58.54,Default,,0,0,0,,{\fn方正黑体_GBK\fs14\c&H000000&\pos(114,105.2)}转发:瑞秋·裘恩车牌号
-Dialogue: 0,0:37:56.43,0:37:57.78,Default,,0,0,0,,不 怎么了?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No. Why?{\r}
-Dialogue: 0,0:38:02.66,0:38:03.63,Default,,0,0,0,,这是玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's Margot.{\r}
-Dialogue: 0,0:38:03.73,0:38:06.16,Default,,0,0,0,,你之前提到过她像换了个人一样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You mentioned earlier she was acting like a different person.{\r}
-Dialogue: 0,0:38:06.18,0:38:09.30,Default,,0,0,0,,所以我让鉴证组彻底调查了已删除的联系人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So I had our forensics team look through any deleted contacts{\r}
-Dialogue: 0,0:38:09.33,0:38:11.36,Default,,0,0,0,,在硬盘的拷贝件里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}on the copy of her hard drive.{\r}
-Dialogue: 0,0:38:11.84,0:38:14.83,Default,,0,0,0,,其中有一个是本地做假证件的人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}One of those contacts was a local forger.{\r}
-Dialogue: 0,0:38:14.87,0:38:17.51,Default,,0,0,0,,他说玛戈几天前取走了一张假证件\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He said Margot picked up an ID a few days ago.{\r}
-Dialogue: 0,0:38:17.55,0:38:20.68,Default,,0,0,0,,差不多的时间 她提现了全部的钱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Around the same time, she withdrew all that money.{\r}
-Dialogue: 0,0:38:21.40,0:38:22.67,Default,,0,0,0,,提现?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Withdrew?{\r}
-Dialogue: 0,0:38:23.95,0:38:25.60,Default,,0,0,0,,什么? 提现什么钱?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What? Withdrew what money?{\r}
-Dialogue: 0,0:38:25.65,0:38:28.59,Default,,0,0,0,,大卫 我和Venmo小额转账的安保人员也谈过了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}David, I also spoke to security at Venmo.{\r}
-Dialogue: 0,0:38:28.66,0:38:30.35,Default,,0,0,0,,想了解更多有关玛戈转账的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}To find out more about the account{\r}
-Dialogue: 0,0:38:30.38,0:38:32.44,Default,,0,0,0,,账户的详细资料\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot sent the $2,500 to.{\r}
-Dialogue: 0,0:38:32.51,0:38:34.10,Default,,0,0,0,,他们知道这个账户是谁的了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do they know who it belonged to?{\r}
-Dialogue: 0,0:38:34.43,0:38:35.98,Default,,0,0,0,,这个账户属于玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It belonged to Margot.{\r}
-Dialogue: 0,0:38:41.02,0:38:42.99,Default,,0,0,0,,她把这笔钱转给自己?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She sent the money to herself?{\r}
-Dialogue: 0,0:38:43.16,0:38:45.37,Default,,0,0,0,,她在做什么? 洗钱?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What was she doing? Running a- a laundering scheme?{\r}
-Dialogue: 0,0:38:45.40,0:38:46.80,Default,,0,0,0,,看起来是这样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's what it looks like.{\r}
-Dialogue: 0,0:38:48.09,0:38:50.15,Default,,0,0,0,,我在调查毒品案件的时候看过很多类似的事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'd see this a lot in narcotics.{\r}
-Dialogue: 0,0:38:50.32,0:38:52.20,Default,,0,0,0,,人们知道自己的钱一直被监管着\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}People who know their money's being watched{\r}
-Dialogue: 0,0:38:52.23,0:38:55.11,Default,,0,0,0,,就把他们的资金转到缺少监管的地方\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}just transfer their funds to somewhere much less monitored.{\r}
-Dialogue: 0,0:38:55.15,0:38:56.71,Default,,0,0,0,,缺少监管的地方 哪里?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Less monitored. Like where?{\r}
-Dialogue: 0,0:38:57.66,0:38:59.76,Default,,0,0,0,,{\fn方正黑体_GBK\fs10\c&H000000&\pos(225.6,89.733)}此账号已被注销
-Dialogue: 0,0:38:58.38,0:38:59.55,Default,,0,0,0,,网络\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The Internet.{\r}
-Dialogue: 0,0:39:07.26,0:39:09.85,Default,,0,0,0,,她制造假身份 给自己汇钱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She gets a fake ID, she sends money to herself.{\r}
-Dialogue: 0,0:39:09.89,0:39:11.18,Default,,0,0,0,,这是什么意思\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What does this mean?{\r}
-Dialogue: 0,0:39:12.04,0:39:15.38,Default,,0,0,0,,这意味着有很大可能\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That it's time to start considering the possibility{\r}
-Dialogue: 0,0:39:16.59,0:39:18.46,Default,,0,0,0,,玛戈是离家出走\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that Margot ran away.{\r}
-Dialogue: 0,0:39:22.20,0:39:23.51,Default,,0,0,0,,她为什么要这样做\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why would she do that?{\r}
-Dialogue: 0,0:39:23.93,0:39:25.52,Default,,0,0,0,,这正是我们所不明白的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's what we don't know.{\r}
-Dialogue: 0,0:39:26.08,0:39:27.32,Default,,0,0,0,,她为什么要这样做\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why would she do that?{\r}
-Dialogue: 0,0:39:27.34,0:39:29.54,Default,,0,0,0,,她在半夜给我打了三次电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She called me three times in the middle of the night.{\r}
-Dialogue: 0,0:39:29.57,0:39:31.06,Default,,0,0,0,,打给我三次 为什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Three times she called me, why?{\r}
-Dialogue: 0,0:39:31.09,0:39:32.50,Default,,0,0,0,,我们会查明原因的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We're going to figure out why.{\r}
-Dialogue: 0,0:39:32.58,0:39:33.76,Default,,0,0,0,,所以 我现在想查找的是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, what I want to look for now...{\r}
-Dialogue: 0,0:39:33.79,0:39:36.46,Default,,0,0,0,,不 不 不 不 不\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No, no, no, no, no.{\r}
-Dialogue: 0,0:39:36.89,0:39:38.13,Default,,0,0,0,,我了解我女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know my daughter.{\r}
-Dialogue: 0,0:39:38.32,0:39:39.82,Default,,0,0,0,,她不会逃走的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She did not run away.{\r}
-Dialogue: 0,0:39:51.60,0:39:53.20,Default,,0,0,0,,{\an8\fn方正黑体_GBK\pos(190,51.6)}排序
-Dialogue: 0,0:39:56.10,0:39:57.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H6C6159&\pos(137.2,203.6)}最常访问历史
-Dialogue: 0,0:40:00.50,0:40:02.10,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}汤不热
-Dialogue: 0,0:40:02.23,0:40:03.83,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}美国银行
-Dialogue: 0,0:40:03.93,0:40:05.20,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}埃弗克里克高中
-Dialogue: 0,0:40:05.33,0:40:06.93,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}换你了-直播平台
-Dialogue: 0,0:40:07.06,0:40:08.66,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}音乐学校
-Dialogue: 0,0:40:08.76,0:40:11.23,Default,,0,0,0,,{\an8}{\fn方正黑体_GBK\c&H000000&}换你了-直播平台
-Dialogue: 0,0:40:10.99,0:40:13.99,Default,,0,0,0,,{\fad(500,500)\an9\fs12\fnFZHei-B01\b1}观众您好\N如果给您分发的资源的人未明确指出是远鉴字幕组作品\N或是裁剪\去除掉了片头的字幕组制作人信息\N说明您可能获取的是二手资源
-Dialogue: 0,0:40:13.99,0:40:16.99,Default,,0,0,0,,{\fad(500,500)\an9\fs12\fnFZHei-B01\b1}获取一手资源 拒绝二手资源 从您做起\N更多精彩内容 敬请关注微博 @远鉴字幕组v
-Dialogue: 0,0:40:16.99,0:40:19.99,Default,,0,0,0,,{\fad(500,500)\an9\fs12\fnFZHei-B01\b1}热门电影字幕欢迎关注微博 @远鉴字幕组v\N远鉴字幕组招新群 483552098\N若想施展您的翻译才华\N让自己的名字出现在电影片头\N远鉴字幕组诚邀您的加入\N远鉴字幕组粉丝群 522218128
-Dialogue: 0,0:40:20.70,0:40:25.20,Default,,0,0,0,,{{\an8}{\fn方正黑体_GBK\c&H000000&}欢迎回来
-Dialogue: 0,0:40:38.99,0:40:41.81,Default,,0,0,0,,老兄 这是个好角度\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Dude. This is a good angle.{\r}
-Dialogue: 0,0:40:42.28,0:40:43.71,Default,,0,0,0,,同时 我的粉丝们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Also, to all my fans,{\r}
-Dialogue: 0,0:40:43.76,0:40:45.15,Default,,0,0,0,,我知道这条视频博客发得有点晚了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know this vlog is a little late.{\r}
-Dialogue: 0,0:40:46.55,0:40:48.39,Default,,0,0,0,,去年最爱的演唱会?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Favorite concert in the last year?{\r}
-Dialogue: 0,0:40:48.42,0:40:49.91,Default,,0,0,0,,那绝对是 21 Pilots的演唱会\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Definitely Twenty One Pilots.{\r}
-Dialogue: 0,0:40:50.40,0:40:51.43,Default,,0,0,0,,{\an8\pos(288.4,212.666)}{\fn方正黑体_GBK\fs14}我喜欢你的房间
-Dialogue: 0,0:40:51.29,0:40:53.41,Default,,0,0,0,,喔 谢谢你夸我 露西\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Well, thank you for the compliment, Lucy.{\r}
-Dialogue: 0,0:40:53.73,0:40:55.23,Default,,0,0,0,,{\an8\move(296,203.066,302.8,158.266,27,1460)}{\fn方正黑体_GBK\fs14}你从哪儿买的那件衬衫?
-Dialogue: 0,0:40:55.09,0:40:57.41,Default,,0,0,0,,噢 这身可是Fearless的衬衫\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, this is a Fearless core shirt,{\r}
-Dialogue: 0,0:40:55.50,0:40:59.57,Default,,0,0,0,,{\an8\pos(215.2,208.933)}{\fn方正黑体_GBK\fs14\c&H000000&}你能看到我吗
-Dialogue: 0,0:40:57.43,0:40:59.03,Default,,0,0,0,,花了我差不多四十刀\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}cost me like 40 bucks.{\r}
-Dialogue: 0,0:41:01.24,0:41:02.18,Default,,0,0,0,,呃...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um...{\r}
-Dialogue: 0,0:41:02.37,0:41:04.36,Default,,0,0,0,,我怎样才能看到你?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}H-How would I be able to see you?{\r}
-Dialogue: 0,0:41:07.74,0:41:09.20,Default,,0,0,0,,好吧 嗯 你知道吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, well, you know what?{\r}
-Dialogue: 0,0:41:08.76,0:41:11.56,Default,,0,0,0,,{\an8\pos(191.6,83.6)\fn方正黑体_GBK\i1}现在直播
-Dialogue: 0,0:41:09.24,0:41:11.74,Default,,0,0,0,,你们一直评论 但说实话 如果这有些...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You guys keep commenting, but honestly, if it's kinda...{\r}
-Dialogue: 0,0:41:18.16,0:41:20.46,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10}fish_n_chips\N进入你的直播间
-Dialogue: 0,0:41:23.20,0:41:25.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10}fish_n_chips\N退出你的直播间
-Dialogue: 0,0:41:30.76,0:41:32.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(329.2,265.466)}结束直播
-Dialogue: 0,0:41:36.87,0:41:39.97,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\pos(204.4,125.733)\i1}已保存的直播
-Dialogue: 0,0:41:47.83,0:41:49.50,Default,,0,0,0,,{\an8\fn仿宋\c&H000000&\fs16\pos(134.4,259.6)}上周
-Dialogue: 0,0:41:50.33,0:41:52.40,Default,,0,0,0,,{\an8\fn仿宋\c&H000000&\fs16\pos(138,259.6)}3周前
-Dialogue: 0,0:42:03.94,0:42:07.14,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs14\i1\pos(153.6,66)}播放全部
-Dialogue: 0,0:42:28.06,0:42:29.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}XxX5753\N{\c&H00FF00&}加入你的直播间
-Dialogue: 0,0:42:30.76,0:42:32.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}XxX5753\N{}露奶子 谢谢
-Dialogue: 0,0:42:37.36,0:42:39.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}XxX5753\N{\c&H0000FF&}被禁言
-Dialogue: 0,0:42:49.10,0:42:51.44,Default,,0,0,0,,{\c&H0000FF&\fn方正黑体_GBK\b1\pos(284.4,56.133)}被禁言
-Dialogue: 0,0:42:49.10,0:42:51.44,Default,,0,0,0,,{\fn方正黑体_GBK\c&H00FF00&\pos(292.8,136.134)}加入了直播间
-Dialogue: 0,0:42:49.10,0:42:51.44,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(267.6,196.399)}最爱的口袋妖怪是什么 为什么
-Dialogue: 0,0:42:53.29,0:42:54.31,Default,,0,0,0,,等一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hold on.{\r}
-Dialogue: 0,0:42:56.43,0:42:58.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}ablemaybel36\N{\c&H00FF00&}加入你的直播间
-Dialogue: 0,0:43:04.46,0:43:06.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}ablemaybel36\N{}喜欢这个
-Dialogue: 0,0:43:06.90,0:43:09.40,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(265.6,233.199)}你还没回答我的问题
-Dialogue: 0,0:43:10.16,0:43:11.54,Default,,0,0,0,,这是由克希\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's Uxie.{\r}
-Dialogue: 0,0:43:12.39,0:43:14.13,Default,,0,0,0,,它可以消除记忆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It can wipe out memories.{\r}
-Dialogue: 0,0:43:14.45,0:43:15.74,Default,,0,0,0,,它挺可爱的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's kinda cute.{\r}
-Dialogue: 0,0:43:16.04,0:43:17.74,Default,,0,0,0,,你怎么知道我喜欢《精灵宝可梦》\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How'd you know I like Pokémon?{\r}
-Dialogue: 0,0:43:18.46,0:43:20.53,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(260.8,227.333)}谁不喜欢呢
-Dialogue: 0,0:43:21.04,0:43:22.66,Default,,0,0,0,,很多人 实际上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A lot of people, actually.{\r}
-Dialogue: 0,0:43:23.08,0:43:24.78,Default,,0,0,0,,我是说 甚至从他们开始...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I mean, ever since they started...{\r}
-Dialogue: 0,0:43:24.40,0:43:26.36,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(318.4,216.132)}话说回来 还有变隐龙
-Dialogue: 0,0:43:26.46,0:43:27.90,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(300,237.999)}我最爱的口袋妖怪...
-Dialogue: 0,0:43:28.03,0:43:29.76,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(305.2,220.932)}谢谢你问我 哈哈
-Dialogue: 0,0:43:34.04,0:43:35.44,Default,,0,0,0,,这张是我在湖边拍的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This one I took at a lake.{\r}
-Dialogue: 0,0:43:38.62,0:43:41.28,Default,,0,0,0,,这张是在森林里拍的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This one I took at a forest.{\r}
-Dialogue: 0,0:43:38.73,0:43:40.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}thisjenlewis\N你的照片太好看了\N你该多拍点<3
-Dialogue: 0,0:43:43.39,0:43:44.16,Default,,0,0,0,,那...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That...{\r}
-Dialogue: 0,0:43:51.06,0:43:52.41,Default,,0,0,0,,我是玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm Margot.{\r}
-Dialogue: 0,0:43:53.46,0:43:55.10,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(258.8,228.932)}汉娜
-Dialogue: 0,0:43:55.87,0:43:58.73,Default,,0,0,0,,我十五岁 快十六了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm 15. Almost 16.{\r}
-Dialogue: 0,0:44:01.90,0:44:03.07,Default,,0,0,0,,学生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Student.{\r}
-Dialogue: 0,0:44:03.10,0:44:04.13,Default,,0,0,0,,{\an8\c&H90928D&\fn方正黑体_GBK\fs14\pos(187.6,181.733)}汉娜 20岁 服务员\N美国 匹兹堡
-Dialogue: 0,0:44:06.02,0:44:07.30,Default,,0,0,0,,圣何塞\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}San Jose.{\r}
-Dialogue: 0,0:44:09.91,0:44:11.17,Default,,0,0,0,,上班感觉如何?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's that like?{\r}
-Dialogue: 0,0:44:18.55,0:44:20.49,Default,,0,0,0,,相信我 也许要比上学好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Trust me, it's probably better than this.{\r}
-Dialogue: 0,0:44:24.16,0:44:25.26,Default,,0,0,0,,就是这儿了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is it.{\r}
-Dialogue: 0,0:44:27.40,0:44:29.37,Default,,0,0,0,,世界上虚度时光最佳的地方\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Best place in the world to do nothing.{\r}
-Dialogue: 0,0:44:35.23,0:44:37.98,Default,,0,0,0,,你在上学期间还工作二十五个小时?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You work 25 hours on top of school?{\r}
-Dialogue: 0,0:44:42.16,0:44:48.84,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(324.8,173.999)}我得一直工作到我妈离开医院
-Dialogue: 0,0:44:48.86,0:44:50.50,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(301.2,213.465)}该死的癌症
-Dialogue: 0,0:45:05.17,0:45:15.60,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(301.2,213.465)}我爸说今天我就要辍学了\N省钱付医院账单\N他甚至都不先问问我
-Dialogue: 0,0:45:16.60,0:45:20.00,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(275.6,154.799)}我希望我能跟我爸爸多亲近点
-Dialogue: 0,0:45:20.10,0:45:21.73,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(269.6,127.065)}就像你跟你爸爸一样
-Dialogue: 0,0:45:26.09,0:45:28.80,Default,,0,0,0,,我爸不知道我不再去上钢琴课了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}My dad doesn't know I stopped going to piano.{\r}
-Dialogue: 0,0:45:31.87,0:45:34.17,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(300,205.465)}你为什么不告度他
-Dialogue: 0,0:45:34.20,0:45:35.10,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(237.2,221.998)}*诉
-Dialogue: 0,0:45:37.70,0:45:39.08,Default,,0,0,0,,他不会理解的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He wouldn't get it.{\r}
-Dialogue: 0,0:45:44.37,0:45:45.45,Default,,0,0,0,,不管怎样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Anyway.{\r}
-Dialogue: 0,0:45:45.59,0:45:46.70,Default,,0,0,0,,你们没有...?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Don't you guys have...?{\r}
-Dialogue: 0,0:45:55.90,0:45:58.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\b1}fish_n_chips\N{}玛戈 发生什么了
-Dialogue: 0,0:45:58.92,0:45:59.98,Default,,0,0,0,,所以...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So...{\r}
-Dialogue: 0,0:46:00.75,0:46:03.69,Default,,0,0,0,,今天是这个大宝贝的生日\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Today is this megababe's birthday.{\r}
-Dialogue: 0,0:46:08.21,0:46:09.74,Default,,0,0,0,,生日快乐\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Happy birthday.{\r}
-Dialogue: 0,0:46:12.81,0:46:13.92,Default,,0,0,0,,你知道的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know,{\r}
-Dialogue: 0,0:46:14.61,0:46:16.77,Default,,0,0,0,,如果她今天还在的话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}if she were still here today,{\r}
-Dialogue: 0,0:46:16.84,0:46:19.54,Default,,0,0,0,,她绝对会让我们都...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}a hundred percent, she'd be making us all her...{\r}
-Dialogue: 0,0:46:24.18,0:46:25.45,Default,,0,0,0,,请进\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Come in!{\r}
-Dialogue: 0,0:46:29.08,0:46:30.67,Default,,0,0,0,,嘿 甜心 嗯...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, sweetheart, um...{\r}
-Dialogue: 0,0:46:33.84,0:46:35.90,Default,,0,0,0,,我...我...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I... I...{\r}
-Dialogue: 0,0:46:36.81,0:46:38.34,Default,,0,0,0,,忘了提前说...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}forgot to say earlier...{\r}
-Dialogue: 0,0:46:39.51,0:46:40.72,Default,,0,0,0,,呃...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}um...{\r}
-Dialogue: 0,0:46:45.24,0:46:46.38,Default,,0,0,0,,这...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's uh...{\r}
-Dialogue: 0,0:46:46.52,0:46:47.70,Default,,0,0,0,,嗯 今天是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, it's...{\r}
-Dialogue: 0,0:46:47.80,0:46:48.93,Default,,0,0,0,,星期二\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Tuesday.{\r}
-Dialogue: 0,0:46:49.91,0:46:52.41,Default,,0,0,0,,所以 美国之声 呃...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, The Voice, um...{\r}
-Dialogue: 0,0:46:53.33,0:46:54.83,Default,,0,0,0,,淘汰赛\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}elimination round.{\r}
-Dialogue: 0,0:46:57.66,0:46:59.05,Default,,0,0,0,,是的 当然\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, of course.{\r}
-Dialogue: 0,0:46:59.12,0:47:00.06,Default,,0,0,0,,我们接着看?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We're still on?{\r}
-Dialogue: 0,0:47:00.18,0:47:01.04,Default,,0,0,0,,是的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah.{\r}
-Dialogue: 0,0:47:01.07,0:47:02.43,Default,,0,0,0,,梅根会被淘汰的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Meghan's gonna get cut.{\r}
-Dialogue: 0,0:47:03.18,0:47:05.13,Default,,0,0,0,,是 她会的 那一会...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, she is. I'll see you...{\r}
-Dialogue: 0,0:47:05.36,0:47:06.19,Default,,0,0,0,,再见\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Bye.{\r}
-Dialogue: 0,0:47:06.24,0:47:07.14,Default,,0,0,0,,楼下见\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}downstairs.{\r}
-Dialogue: 0,0:47:29.93,0:47:32.00,Default,,0,0,0,,抱歉 大卫 又一个死胡同\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry, David, it's another dead end.{\r}
-Dialogue: 0,0:47:34.14,0:47:36.00,Default,,0,0,0,,你确定每个人你都调查了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You sure you looked into every one of them?{\r}
-Dialogue: 0,0:47:36.10,0:47:37.14,Default,,0,0,0,,对 每个人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Every one.{\r}
-Dialogue: 0,0:47:37.31,0:47:39.55,Default,,0,0,0,,玛戈接触过的"换你了"直播网站用户中\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}None of the YouCast users Margot interacted with{\r}
-Dialogue: 0,0:47:39.58,0:47:41.47,Default,,0,0,0,,没有人与她的失踪有联系\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}have a connection to her disappearance.{\r}
-Dialogue: 0,0:47:41.50,0:47:43.40,Default,,0,0,0,,-甚至f...  -甚至fish_n_chips也没有\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Even f... - Even fish_n_chips.{\r}
-Dialogue: 0,0:47:43.67,0:47:45.87,Default,,0,0,0,,通过她账户中的信息\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Using the information on her account,{\r}
-Dialogue: 0,0:47:45.91,0:47:48.24,Default,,0,0,0,,我们追踪到一家叫科奇克的餐馆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we traced her to a Kerchick's Diner{\r}
-Dialogue: 0,0:47:48.32,0:47:50.38,Default,,0,0,0,,位于距匹兹堡十英里外\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}10 miles outside Pittsburgh.{\r}
-Dialogue: 0,0:47:50.68,0:47:52.86,Default,,0,0,0,,我和她以及她的经理谈过话了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I spoke to her and her manager{\r}
-Dialogue: 0,0:47:52.99,0:47:56.68,Default,,0,0,0,,经理看过监控确认了她当时在上班\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}who confirmed with CCTV that she was on a shift.{\r}
-Dialogue: 0,0:47:57.76,0:47:58.77,Default,,0,0,0,,不在场证明对得上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Checks out.{\r}
-Dialogue: 0,0:48:06.48,0:48:07.81,Default,,0,0,0,,我不了解她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I didn't know her.{\r}
-Dialogue: 0,0:48:10.79,0:48:12.46,Default,,0,0,0,,我不了解我的女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I didn't know my daughter.{\r}
-Dialogue: 0,0:48:21.73,0:48:23.15,Default,,0,0,0,,几年前\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Couple of years ago,{\r}
-Dialogue: 0,0:48:24.33,0:48:26.76,Default,,0,0,0,,一个邻居气势汹汹地敲我家门\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}an angry neighbor starts banging on my door.{\r}
-Dialogue: 0,0:48:27.21,0:48:29.52,Default,,0,0,0,,我问她有什么事情的时候 她说\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}When I asked her what the trouble was, she said,{\r}
-Dialogue: 0,0:48:29.65,0:48:31.62,Default,,0,0,0,,她要二十五美元\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she wanted the $25{\r}
-Dialogue: 0,0:48:31.68,0:48:33.53,Default,,0,0,0,,我儿子从她那偷的二十五美元\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that my son had stolen from her.{\r}
-Dialogue: 0,0:48:33.97,0:48:35.82,Default,,0,0,0,,我不知道她在说什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Now, I didn't know what she was talkin' about.{\r}
-Dialogue: 0,0:48:36.33,0:48:37.69,Default,,0,0,0,,我了解我的儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know my son.{\r}
-Dialogue: 0,0:48:38.02,0:48:40.40,Default,,0,0,0,,她口中说的人一点都不像我的儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And that did not sound like the Robert I raised.{\r}
-Dialogue: 0,0:48:41.54,0:48:43.32,Default,,0,0,0,,但事实证明\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But as it turned out,{\r}
-Dialogue: 0,0:48:43.44,0:48:44.63,Default,,0,0,0,,她说的是对的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}it was true.{\r}
-Dialogue: 0,0:48:45.41,0:48:47.61,Default,,0,0,0,,我的儿子真的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}My son had{\r}
-Dialogue: 0,0:48:47.73,0:48:50.27,Default,,0,0,0,,两个星期挨家挨户的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}gone house to house in the neighborhood{\r}
-Dialogue: 0,0:48:50.38,0:48:53.60,Default,,0,0,0,,告诉邻居们他是我儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for two weeks telling people that he was my son.{\r}
-Dialogue: 0,0:48:54.07,0:48:57.26,Default,,0,0,0,,他正在筹款 为一个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And that he was raising money for a{\r}
-Dialogue: 0,0:48:57.82,0:48:59.13,Default,,0,0,0,,虚构的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}fictional{\r}
-Dialogue: 0,0:48:59.46,0:49:00.85,Default,,0,0,0,,名叫\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}police charity called{\r}
-Dialogue: 0,0:49:00.88,0:49:02.40,Default,,0,0,0,,警察父母慈善机构\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Moms and Dads in Blue.{\r}
-Dialogue: 0,0:49:05.32,0:49:06.98,Default,,0,0,0,,重点是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Point is...{\r}
-Dialogue: 0,0:49:08.54,0:49:10.79,Default,,0,0,0,,你不会一直都了解你的孩子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you don't always know your kid.{\r}
-Dialogue: 0,0:49:13.29,0:49:16.14,Default,,0,0,0,,那并不是你的错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And that is never your fault.{\r}
-Dialogue: 0,0:49:19.44,0:49:22.86,Default,,0,0,0,,我已让NCIC在十六个州中搜索这辆车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I have NCIC searching for the vehicle in 16 states.{\r}
-Dialogue: 0,0:49:19.44,0:49:22.86,Default,,0,0,0,,{\an8\c&H0091EC&\fnMicrosoft YaHei\fs14}NCIC:国家犯罪信息中心
-Dialogue: 0,0:49:22.94,0:49:25.01,Default,,0,0,0,,我们今晚都休息一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's both try and catch up on some sleep tonight.{\r}
-Dialogue: 0,0:49:25.09,0:49:26.36,Default,,0,0,0,,明早再联络\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Talk in the a.m.{\r}
-Dialogue: 0,0:49:26.73,0:49:28.02,Default,,0,0,0,,接着你怎么处理的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What'd you do after?{\r}
-Dialogue: 0,0:49:29.87,0:49:31.62,Default,,0,0,0,,你之后怎么和你的儿子处理这件事情的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}With your son, once you found out?{\r}
-Dialogue: 0,0:49:34.26,0:49:37.72,Default,,0,0,0,,呃 我告诉我的邻居\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, I told my neighbor that{\r}
-Dialogue: 0,0:49:38.29,0:49:40.32,Default,,0,0,0,,我确实\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I had, in fact,{\r}
-Dialogue: 0,0:49:40.49,0:49:42.96,Default,,0,0,0,,创立了这个慈善机构并感谢她的捐助\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}founded the charity and I thanked her for the money.{\r}
-Dialogue: 0,0:49:45.35,0:49:48.48,Default,,0,0,0,,但如果你再提起这件事我不会承认的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But I will deny it if you ever bring that up.{\r}
-Dialogue: 0,0:49:48.74,0:49:49.94,Default,,0,0,0,,好吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay.{\r}
-Dialogue: 0,0:49:53.16,0:49:54.94,Default,,0,0,0,,听着 我希望你知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Look, I hope you know how thankful I am{\r}
-Dialogue: 0,0:49:54.96,0:49:56.68,Default,,0,0,0,,我非常感激你能来帮我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that you were assigned to us.{\r}
-Dialogue: 0,0:49:58.77,0:50:01.72,Default,,0,0,0,,我只是不希望有有待处理的案件\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just wish there wasn't a case to be assigned to.{\r}
-Dialogue: 0,0:50:05.63,0:50:06.91,Default,,0,0,0,,好的 关了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Alright, shutting down.{\r}
-Dialogue: 0,0:50:07.04,0:50:08.35,Default,,0,0,0,,-好  -有事再联系\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Yeah. - Talk soon.{\r}
-Dialogue: 0,0:50:33.53,0:50:35.46,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs12\pos(250,170.533)}关机
-Dialogue: 0,0:50:50.76,0:50:51.83,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs12\pos(169.2,143.866)}取消
-Dialogue: 0,0:50:56.62,0:50:57.81,Default,,0,0,0,,就是这里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is it.{\r}
-Dialogue: 0,0:51:00.98,0:51:02.60,Default,,0,0,0,,世界上虚度时光最佳的地方\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Best place in the world to do nothing.{\r}
-Dialogue: 0,0:51:05.31,0:51:06.36,Default,,0,0,0,,就是这里了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is it.{\r}
-Dialogue: 0,0:51:19.10,0:51:20.93,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\move(272,215.333,272,219.6,23,1823)}巴博萨惬意时刻
-Dialogue: 0,0:51:30.53,0:51:32.20,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs20\pos(137.2,141.733)}巴博萨惬意时刻
-Dialogue: 0,0:51:44.13,0:51:45.30,Default,,0,0,0,,{\an8\pos(68.267,48.755)}{\c&HF52808&\s0\fn方正黑体_GBK\fs18}巴博萨湖
-Dialogue: 0,0:51:46.56,0:51:47.76,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(232,72.4)}地图
-Dialogue: 0,0:51:49.76,0:51:50.60,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs11\pos(222,86.267)}导航
-Dialogue: 0,0:51:52.56,0:51:53.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\pos(166.8,128.4)}巴博萨湖
-Dialogue: 0,0:51:54.10,0:51:55.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\pos(127.6,90)}玛戈
-Dialogue: 0,0:51:56.73,0:51:59.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs12\c&H000000&\move(97.2,160.4,108.8,116.667,27,1727)}最后一次{}见到玛戈
-Dialogue: 0,0:52:06.73,0:52:10.70,Default,,0,0,0,,{\an8\pos(230,131.6)}{\c&H0CC783&\fn微软雅黑}5分钟
-Dialogue: 0,0:52:06.73,0:52:10.70,Default,,0,0,0,,{\c&H64606B&\fn微软雅黑 Light\fs14\pos(247.6,186.267)}4.1英里
-Dialogue: 0,0:52:19.55,0:52:21.79,Default,,0,0,0,,我是警探罗丝玛莉·维克\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You've reached Detective Sergeant Rosemary Vick.{\r}
-Dialogue: 0,0:52:21.81,0:52:23.29,Default,,0,0,0,,请留下你的讯息 稍后我将回复\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Leave a message. I'll get back to you.{\r}
-Dialogue: 0,0:52:23.35,0:52:25.25,Default,,0,0,0,,维克 醒醒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Vick! Wake up.{\r}
-Dialogue: 0,0:52:25.57,0:52:27.34,Default,,0,0,0,,我知道她为什么出现在那个交叉口了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know why she was at that intersection.{\r}
-Dialogue: 0,0:52:27.41,0:52:28.76,Default,,0,0,0,,她不是要离开\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She wasn't leaving town,{\r}
-Dialogue: 0,0:52:28.79,0:52:30.98,Default,,0,0,0,,她是要开车到她最近五个月\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she was driving to the spot she's been visiting{\r}
-Dialogue: 0,0:52:31.04,0:52:32.26,Default,,0,0,0,,一直去的那个地方\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for the past five months.{\r}
-Dialogue: 0,0:52:32.86,0:52:34.40,Default,,0,0,0,,现在是凌晨3点45分\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's 3:45 a.m.{\r}
-Dialogue: 0,0:52:34.49,0:52:35.75,Default,,0,0,0,,我现在开车去那里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm headed there now.{\r}
-Dialogue: 0,0:52:37.33,0:52:39.86,Default,,0,0,0,,{\an8}{\fn微软雅黑\fs28}凌晨 4时22分
-Dialogue: 0,0:52:40.00,0:52:44.04,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs28\pos(192,45.2)}警探维克\N{}视频通话
-Dialogue: 0,0:52:44.03,0:52:45.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs24\pos(186,144.4)}连接中
-Dialogue: 0,0:52:45.07,0:52:46.10,Default,,0,0,0,,嘿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey!{\r}
-Dialogue: 0,0:52:46.66,0:52:47.91,Default,,0,0,0,,你在哪里?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where are you?{\r}
-Dialogue: 0,0:52:49.57,0:52:51.13,Default,,0,0,0,,你说她离家出走了 维克\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You told me she ran away, Vick.{\r}
-Dialogue: 0,0:52:51.16,0:52:52.13,Default,,0,0,0,,你是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Are...{\r}
-Dialogue: 0,0:52:52.45,0:52:53.89,Default,,0,0,0,,你是在湖边吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Are you at the lake?{\r}
-Dialogue: 0,0:52:54.48,0:52:55.73,Default,,0,0,0,,你说的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You told me{\r}
-Dialogue: 0,0:52:56.20,0:52:57.54,Default,,0,0,0,,她离家出走了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she ran away.{\r}
-Dialogue: 0,0:52:57.66,0:52:59.30,Default,,0,0,0,,好的 我立刻去那里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, I'm heading there right now.{\r}
-Dialogue: 0,0:53:00.07,0:53:01.23,Default,,0,0,0,,罗伯特 亲爱的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Robert, honey,{\r}
-Dialogue: 0,0:53:01.34,0:53:02.89,Default,,0,0,0,,回去睡觉 好吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}just go back to sleep, okay?{\r}
-Dialogue: 0,0:53:03.08,0:53:05.79,Default,,0,0,0,,好的 我希望你保持冷静 可以吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay. I need you to stay calm, all right?{\r}
-Dialogue: 0,0:53:05.87,0:53:08.03,Default,,0,0,0,,我们一起解决这件事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We're gonna figure this out together.{\r}
-Dialogue: 0,0:53:11.40,0:53:12.72,Default,,0,0,0,,你给我看的是什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What are you showing me?{\r}
-Dialogue: 0,0:53:14.65,0:53:16.10,Default,,0,0,0,,这是她的钥匙链\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is her keychain.{\r}
-Dialogue: 0,0:53:17.88,0:53:18.91,Default,,0,0,0,,天呐\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, my God.{\r}
-Dialogue: 0,0:53:22.32,0:53:23.81,Default,,0,0,0,,你报警了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did you call the cops?{\r}
-Dialogue: 0,0:53:25.11,0:53:27.20,Default,,0,0,0,,我来了 我...我赶过来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm heading, I'm-I'm on my way.{\r}
-Dialogue: 0,0:53:28.42,0:53:30.61,Default,,0,0,0,,是你说她离家出走的 维克\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You told me she ran away, Vick!{\r}
-Dialogue: 0,0:53:33.93,0:53:36.53,Default,,0,0,0,,早上好 湾区 我是娜塔莉·博伊德\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good morning, Bay Area. I'm Natalie Boyd.{\r}
-Dialogue: 0,0:53:36.72,0:53:38.50,Default,,0,0,0,,今天事情有了不好的进展\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A terrifying development today{\r}
-Dialogue: 0,0:53:38.53,0:53:42.00,Default,,0,0,0,,与一名来自圣何塞的青少年匹配的车辆\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}as a vehicle matching that of a missing San Jose teenager{\r}
-Dialogue: 0,0:53:42.02,0:53:45.73,Default,,0,0,0,,昨夜发现沉于圣克鲁斯湖底\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}was discovered late last night underneath a Santa Cruz lake.{\r}
-Dialogue: 0,0:53:46.13,0:53:48.10,Default,,0,0,0,,正在进行\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}An operation is currently underway{\r}
-Dialogue: 0,0:53:48.12,0:53:50.71,Default,,0,0,0,,玛戈·金驾驶的丰田凯美瑞打捞工作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to recover Margot Kim's Toyota Camry.{\r}
-Dialogue: 0,0:53:51.06,0:53:52.99,Default,,0,0,0,,但目前 仍不清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But at this moment, we still don't know{\r}
-Dialogue: 0,0:53:53.02,0:53:54.95,Default,,0,0,0,,是否这位埃弗克里克高二学生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}whether the Evercreek High sophomore{\r}
-Dialogue: 0,0:53:54.97,0:53:56.70,Default,,0,0,0,,在车中\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is actually inside the vehicle.{\r}
-Dialogue: 0,0:54:14.63,0:54:16.45,Default,,0,0,0,,看上去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay. It doesn't look like{\r}
-Dialogue: 0,0:54:16.47,0:54:19.10,Default,,0,0,0,,前座并没有人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}there's anyone at the front seat.{\r}
-Dialogue: 0,0:54:23.15,0:54:25.52,Default,,0,0,0,,啊 啊 他们好像\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, and uh, now it looks like they're...{\r}
-Dialogue: 0,0:54:25.59,0:54:27.00,Default,,0,0,0,,嗯 他们正在检查后备箱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}okay, they're checking the trunk.{\r}
-Dialogue: 0,0:54:43.46,0:54:44.47,Default,,0,0,0,,早上好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good morning.{\r}
-Dialogue: 0,0:54:44.51,0:54:46.12,Default,,0,0,0,,感谢你们迅速赶来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Thank you for being here on such short notice.{\r}
-Dialogue: 0,0:54:46.20,0:54:48.40,Default,,0,0,0,,我是罗丝玛莉·维克警探\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am Detective Sergeant Rosemary Vick,{\r}
-Dialogue: 0,0:54:48.43,0:54:50.04,Default,,0,0,0,,是这起案件的调查负责人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}lead investigator on this case.{\r}
-Dialogue: 0,0:54:50.06,0:54:52.06,Default,,0,0,0,,我身边这位是大卫\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am joined by David Kim.{\r}
-Dialogue: 0,0:54:52.33,0:54:53.62,Default,,0,0,0,,玛戈的父亲\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot's father.{\r}
-Dialogue: 0,0:54:54.03,0:54:56.60,Default,,0,0,0,,我们现提供事件的时间线\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We've provided you all with a timeline of events,{\r}
-Dialogue: 0,0:54:56.67,0:54:59.44,Default,,0,0,0,,上周四 五月十一号\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}starting with last Thursday, May 11th,{\r}
-Dialogue: 0,0:54:59.47,0:55:01.47,Default,,0,0,0,,是玛戈失踪的日子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}when Margot first went missing.{\r}
-Dialogue: 0,0:55:01.54,0:55:03.01,Default,,0,0,0,,这是你们都知道的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That is yours to circulate.{\r}
-Dialogue: 0,0:55:03.58,0:55:05.80,Default,,0,0,0,,重点在今天早上发生的事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But focusing on the events of this morning,{\r}
-Dialogue: 0,0:55:05.95,0:55:09.20,Default,,0,0,0,,硅谷的警察局打捞上了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The Silicon Valley Police Department was able to recover{\r}
-Dialogue: 0,0:55:09.23,0:55:10.44,Default,,0,0,0,,金女士的车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ms. Kim's vehicle.{\r}
-Dialogue: 0,0:55:10.46,0:55:12.12,Default,,0,0,0,,回答目前最急切的问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And to answer the most pressing question,{\r}
-Dialogue: 0,0:55:12.19,0:55:15.05,Default,,0,0,0,,玛戈·金不在车里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot Kim was not inside.{\r}
-Dialogue: 0,0:55:16.17,0:55:17.20,Default,,0,0,0,,然而\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}However,{\r}
-Dialogue: 0,0:55:17.55,0:55:19.79,Default,,0,0,0,,我们检查了车辆并且\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}our examination of the vehicle did reveal{\r}
-Dialogue: 0,0:55:19.81,0:55:23.87,Default,,0,0,0,,在副驾驶仪表盘上发现了少量血液\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}a small amount of blood on the passenger side dashboard.{\r}
-Dialogue: 0,0:55:23.96,0:55:27.62,Default,,0,0,0,,血液表明现场曾发生过肢体冲突\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Blood that points to a physical altercation.{\r}
-Dialogue: 0,0:55:27.89,0:55:33.50,Default,,0,0,0,,意味着这起案件被正式定性为绑架案\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Meaning that this case is now officially being considered an abduction.{\r}
-Dialogue: 0,0:55:34.03,0:55:36.67,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(274.8,76.133)}安珀警报\N加利福尼亚州 圣何塞 16岁亚洲女性
-Dialogue: 0,0:55:34.03,0:55:36.67,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H0091EC&&\fs12}安珀警报:发生绑架事件后 执法机构和广播业人士自愿\N启动的紧急通报系统 以动员社会人士协助寻找\N失踪人员 其名称来源于1996年的"安珀事件"
-Dialogue: 0,0:55:35.47,0:55:36.51,Default,,0,0,0,,下午好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good afternoon.{\r}
-Dialogue: 0,0:55:36.53,0:55:38.60,Default,,0,0,0,,警方正在圣克鲁斯森林中展开搜救\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A search through the Santa Cruz forest{\r}
-Dialogue: 0,0:55:38.62,0:55:40.52,Default,,0,0,0,,寻找一个当地青少年\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is now underway for a local teen{\r}
-Dialogue: 0,0:55:40.64,0:55:42.96,Default,,0,0,0,,她的汽车被发现沉在湖底\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}whose car was found dumped in a lake.{\r}
-Dialogue: 0,0:55:42.98,0:55:45.52,Default,,0,0,0,,当局请求任何知情人士\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Authorities are asking anyone with information{\r}
-Dialogue: 0,0:55:45.58,0:55:48.65,Default,,0,0,0,,立即拨打热线电话或911\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to please call the hotline or 911 immediately.{\r}
-Dialogue: 0,0:55:48.67,0:55:50.23,Default,,0,0,0,,从下午一点开始\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Starting at 1:00 p.m.,{\r}
-Dialogue: 0,0:55:50.31,0:55:53.30,Default,,0,0,0,,我们把志愿者分成若干小组\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we'll be assigning every volunteer to a search team{\r}
-Dialogue: 0,0:55:53.41,0:55:56.10,Default,,0,0,0,,每个小组负责一块区域\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Each team is in charge of a single section{\r}
-Dialogue: 0,0:55:56.13,0:55:58.48,Default,,0,0,0,,在方圆十二平方英里内展开搜索\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}of the critical 12-square-mile radius.{\r}
-Dialogue: 0,0:55:59.15,0:56:02.54,Default,,0,0,0,,受制于陡峭的峡谷和其他不安全的地形因素\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Because of the steep ravines and otherwise unsafe topography{\r}
-Dialogue: 0,0:56:02.59,0:56:07.34,Default,,0,0,0,,我们已经消除了玛戈在湖西这些区域的可能性\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}on the west side of the lake, we have already cleared the following zones.{\r}
-Dialogue: 0,0:56:08.14,0:56:11.17,Default,,0,0,0,,但是 还有很多区域要搜索\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But still, there's a lot of ground to cover.{\r}
-Dialogue: 0,0:56:11.73,0:56:13.56,Default,,0,0,0,,{\an8\fn黑体\fs16\pos(138.8,207.867)}寻找失踪少女行动开始
-Dialogue: 0,0:56:13.96,0:56:15.37,Default,,0,0,0,,玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot!{\r}
-Dialogue: 0,0:56:18.31,0:56:19.51,Default,,0,0,0,,玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot!{\r}
-Dialogue: 0,0:56:21.97,0:56:24.38,Default,,0,0,0,,离玛戈·金失踪已经四天之久了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's been four days since Margot Kim was last seen.{\r}
-Dialogue: 0,0:56:24.49,0:56:26.70,Default,,0,0,0,,到目前为止 除了令人痛苦的湖中神秘沉车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And so far, nothing to show for it{\r}
-Dialogue: 0,0:56:26.76,0:56:29.96,Default,,0,0,0,,没有再发现任何有价值的线索\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}except for the torturous mystery at its center.{\r}
-Dialogue: 0,0:56:31.03,0:56:37.89,Default,,0,0,0,,在玛戈的座位底下发现了装着2500美元的信封\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}$2,500 in cash was found in a Manila envelope on Margot's passenger seat.{\r}
-Dialogue: 0,0:56:38.73,0:56:40.10,Default,,0,0,0,,这是出逃资金吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Was it a runaway fund?{\r}
-Dialogue: 0,0:56:40.23,0:56:42.28,Default,,0,0,0,,就像警探暗示的一样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Like the lead detective is suggesting,{\r}
-Dialogue: 0,0:56:42.74,0:56:44.48,Default,,0,0,0,,还是另有隐情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}or was it something more?{\r}
-Dialogue: 0,0:56:44.73,0:56:46.03,Default,,0,0,0,,{\an8\fn黑体\fs16\pos(146.8,192.934)}搜寻结束第一天
-Dialogue: 0,0:56:46.18,0:56:50.07,Default,,0,0,0,,我们大约已经搜索了一半区域\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We covered about um... half the search zone already.{\r}
-Dialogue: 0,0:56:50.74,0:56:54.11,Default,,0,0,0,,明天还有一整天的搜救工作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And um, tomorrow is a full day.{\r}
-Dialogue: 0,0:56:54.21,0:56:57.62,Default,,0,0,0,,来的人越多 工作开展得越快\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And the more people came, the, the faster it went.{\r}
-Dialogue: 0,0:56:58.23,0:57:00.94,Default,,0,0,0,,我能...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, could I...{\r}
-Dialogue: 0,0:57:01.52,0:57:03.53,Default,,0,0,0,,如果你明天有时间的话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, if you have some time tomorrow,{\r}
-Dialogue: 0,0:57:03.69,0:57:06.91,Default,,0,0,0,,我们会很感谢你的帮助\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}uh, we would...  love the help.{\r}
-Dialogue: 0,0:57:12.56,0:57:13.90,Default,,0,0,0,,{\an8\fn黑体\fs16\pos(148.4,204.134)}夏季风暴延迟搜寻
-Dialogue: 0,0:57:14.32,0:57:16.73,Default,,0,0,0,,显然这不是我们想要的结果\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is obviously not the outcome we wanted.{\r}
-Dialogue: 0,0:57:16.81,0:57:18.83,Default,,0,0,0,,当能安全进入森林时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But we will resume the search{\r}
-Dialogue: 0,0:57:18.85,0:57:21.70,Default,,0,0,0,,我们会继续搜索的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the moment it is safe to walk through the forest again.{\r}
-Dialogue: 0,0:57:22.38,0:57:24.02,Default,,0,0,0,,同时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}In the meantime, however,{\r}
-Dialogue: 0,0:57:24.07,0:57:26.81,Default,,0,0,0,,调查不会停止\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the investigation will not stop{\r}
-Dialogue: 0,0:57:27.51,0:57:29.07,Default,,0,0,0,,直到我们找到玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}until we find Margot.{\r}
-Dialogue: 0,0:57:29.33,0:57:30.20,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs28\pos(40,49.466)}本地热搜
-Dialogue: 0,0:57:29.33,0:57:30.20,Default,,0,0,0,,{\an8\pos(123.2,86.266)}{\c&H000000&\i1}# {\i0\fn方正黑体_GBK\fs28}找到玛戈
-Dialogue: 0,0:57:29.33,0:57:30.20,Default,,0,0,0,,{\an8\pos(203.2,175.467)}{\c&HA39383&\fn方正黑体_GBK\fs20}推文
-Dialogue: 0,0:57:35.44,0:57:36.33,Default,,0,0,0,,{\an8\pos(109.6,23.333)}{\c&HD28D11&\i1}# {\i0\fn方正黑体_GBK\fs28}找到玛戈
-Dialogue: 0,0:57:36.50,0:57:37.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(90.4,202.533)}发现沉没的...
-Dialogue: 0,0:57:39.04,0:57:40.24,Default,,0,0,0,,{\an8\c&H000000&\pos(221.2,126.8)}{\fn方正黑体_GBK\fs14} 这就是在浪费纳税人的钱 她就在湖底
-Dialogue: 0,0:57:41.10,0:57:42.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs14\pos(257.067,6.445)}我们采访了当地市民对玛戈失踪的看法
-Dialogue: 0,0:57:42.43,0:57:43.42,Default,,0,0,0,,我想说 听着\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I mean, listen,{\r}
-Dialogue: 0,0:57:43.44,0:57:45.85,Default,,0,0,0,,我知道我没有权利对此评头论足\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I do not think it is my place to say anything,{\r}
-Dialogue: 0,0:57:45.92,0:57:47.03,Default,,0,0,0,,我只是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just...{\r}
-Dialogue: 0,0:57:47.07,0:57:50.59,Default,,0,0,0,,我认为这种问题的祸源一般都在家庭内部\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I feel that these problems usually start in the household.{\r}
-Dialogue: 0,0:57:51.36,0:57:52.60,Default,,0,0,0,,{\an8\pos(194.4,65.289)}{\c&HECB001&\i1}# {\i0\fn方正黑体_GBK\fs28}家长的失败
-Dialogue: 0,0:57:52.76,0:57:54.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(190.667,109.378)}我们都知道这种事情的真相             {\an8\pos(194.4,65.289)}{\c&HECB001&\i1}# {\i0\fn方正黑体_GBK\fs22\c&HECB001&}是亲爸干的
-Dialogue: 0,0:57:54.10,0:57:55.87,Default,,0,0,0,,{\an8\pos(185.6,171.956)}{\c&HECB001&\i1}# {\i0\fn方正黑体_GBK\fs22\c&HECB001&}是亲爸干的
-Dialogue: 0,0:57:55.93,0:57:57.13,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(79.467,139.956)}奖项颁发给...
-Dialogue: 0,0:57:58.13,0:58:00.13,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs36\pos(323.2,50.355)}年度\N\N\N\N\N\N\N\N\N父亲
-Dialogue: 0,0:58:03.96,0:58:05.16,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(60.267,79.511)}本地热门视频
-Dialogue: 0,0:58:06.47,0:58:08.37,Default,,0,0,0,,{\an8\pos(121.333,134.977)}{\c&HD28D11&\i0\fn微软雅黑\fs16}#{\i0\fn方正黑体_GBK\fs16}找到玛戈
-Dialogue: 0,0:58:06.95,0:58:08.05,Default,,0,0,0,,她是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She was...{\r}
-Dialogue: 0,0:58:08.33,0:58:09.47,Default,,0,0,0,,对不起\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry.{\r}
-Dialogue: 0,0:58:13.47,0:58:15.07,Default,,0,0,0,,她是我最好的朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She was my best friend.{\r}
-Dialogue: 0,0:58:15.66,0:58:17.24,Default,,0,0,0,,{\an8\pos(261.333,75.912)}{\c&H827F87&\fn方正黑体_GBK\fs20}浏览
-Dialogue: 0,0:58:19.13,0:58:20.10,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs26\pos(234.666,81.644)}情感至深                 {\fs26} {\c&HB97358&}#啜泣
-Dialogue: 0,0:58:21.46,0:58:22.56,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs9\move(168.534,68.134,168.534,30.445,30,197)}约翰·沃森 玛戈的同学\N我出名啦 看下面的采访
-Dialogue: 0,0:58:21.91,0:58:24.57,Default,,0,0,0,,我非常愿意参加社区志愿者活动\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm just a big believer in community service.{\r}
-Dialogue: 0,0:58:24.79,0:58:27.04,Default,,0,0,0,,审视着玛戈遭遇的一切\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Looking at all the things that happened to Margot,{\r}
-Dialogue: 0,0:58:27.12,0:58:28.55,Default,,0,0,0,,我对自己说\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just thought to myself,{\r}
-Dialogue: 0,0:58:28.67,0:58:30.26,Default,,0,0,0,,我觉得我能帮到他们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"I think they could use my help."{\r}
-Dialogue: 0,0:58:30.40,0:58:31.56,Default,,0,0,0,,{\an8\pos(241.067,107.956)\c&H000000&\fn方正黑体_GBK}为你骄傲 - 奶奶
-Dialogue: 0,0:58:33.00,0:58:35.00,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(200.533,34)}我不常在脸书上发文 我也对此没有兴趣
-Dialogue: 0,0:58:35.16,0:58:36.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(200.533,7.689)}她是一位很棒的朋友
-Dialogue: 0,0:58:36.46,0:58:38.56,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(200.533,7.689)}现在很难过 为玛戈祈祷
-Dialogue: 0,0:58:38.73,0:58:39.63,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(220.8,84.489)}听到我的好友玛戈·金失踪 我太伤心了
-Dialogue: 0,0:58:40.33,0:58:41.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(205.333,57.467)}反思与祈祷
-Dialogue: 0,0:58:41.50,0:58:42.64,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(205.333,68.134)}玛戈 无论你在哪儿 我们都爱你 想念你
-Dialogue: 0,0:58:42.64,0:58:43.84,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(205.333,68.134)}这几天非常情绪化 希望社区团结一致
-Dialogue: 0,0:58:43.96,0:58:44.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HAFA7A3&\pos(205.333,57.467)}感到担心
-Dialogue: 0,0:58:45.13,0:58:50.67,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(205.333,68.134)}她和我在一起
-Dialogue: 0,0:58:50.73,0:58:55.73,Default,,0,0,0,,{\an8\c&HB0593A&\fn方正黑体_GBK\fs16\pos(141.866,43.955)}德瑞克·艾利斯
-Dialogue: 0,0:58:50.73,0:58:55.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(212.266,106.533)}{\fs16}大家别大惊小怪了 她和我在一起\N那些钱是给拉皮条的 你们知道她喜欢做鸡
-Dialogue: 0,0:58:50.73,0:58:55.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(169.067,264.534)}{\fs16}哇哦 猛料啊兄弟
-Dialogue: 0,0:58:50.73,0:58:55.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(269.334,222.578)}{\fs16}你在开玩笑呢?
-Dialogue: 0,0:59:04.40,0:59:06.86,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(259.734,188.445)}{\fs9}午后看两场电影
-Dialogue: 0,0:59:07.03,0:59:11.04,Default,,0,0,0,,{\an8\c&HB0593A&\fn方正黑体_GBK\fs16\pos(228.799,46.799)}奥克菲尔剧院
-Dialogue: 0,0:59:11.83,0:59:17.94,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HAFA7A3&\pos(259.2,109.378)}7分钟前
-Dialogue: 0,0:59:24.88,0:59:25.98,Default,,0,0,0,,别对我撒谎\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Don't lie to me.{\r}
-Dialogue: 0,0:59:27.82,0:59:30.36,Default,,0,0,0,,你不能再参加调查工作了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You can't assist an investigation anymore.{\r}
-Dialogue: 0,0:59:31.97,0:59:32.95,Default,,0,0,0,,什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What?{\r}
-Dialogue: 0,0:59:33.19,0:59:34.51,Default,,0,0,0,,这什么 这什么意思\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What does that- what does that mean?{\r}
-Dialogue: 0,0:59:34.56,0:59:39.02,Default,,0,0,0,,意味着我们不允许一个与案件密切相关的人参与调查\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It means that we can't have someone this close to the case helping investigate it.{\r}
-Dialogue: 0,0:59:39.20,0:59:40.21,Default,,0,0,0,,是我的错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's my fault{\r}
-Dialogue: 0,0:59:40.23,0:59:42.33,Default,,0,0,0,,让你卷入整个案件\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for getting you involved in the first place.{\r}
-Dialogue: 0,0:59:42.61,0:59:45.74,Default,,0,0,0,,我这么做是因为我们已经错失了太多时机\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I did it because we had already lost so much time.{\r}
-Dialogue: 0,0:59:45.77,0:59:46.67,Default,,0,0,0,,你现在要把我踢出去?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You're cutting me off?{\r}
-Dialogue: 0,0:59:46.73,0:59:52.64,Default,,0,0,0,,每个相关的专业人士都已经参与其中\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Every professional who should be working on this case is working on this case.{\r}
-Dialogue: 0,0:59:52.66,0:59:55.32,Default,,0,0,0,,我想做的只是帮你找到我的女儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All I'm trying to do is to help you find my daughter!{\r}
-Dialogue: 0,0:59:55.38,0:59:58.14,Default,,0,0,0,,我知道 但是当局者迷\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know, but you can't see things clearly.{\r}
-Dialogue: 0,0:59:59.49,1:00:01.36,Default,,0,0,0,,谁帮你找到了沉车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Who's the one who brought you to the car?{\r}
-Dialogue: 0,1:00:01.64,1:00:03.55,Default,,0,0,0,,谁发现了那片湖\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Who's the one who found the lake{\r}
-Dialogue: 0,1:00:03.57,1:00:04.84,Default,,0,0,0,,然后带你找到了沉车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and brought you to the car?{\r}
-Dialogue: 0,1:00:04.92,1:00:07.53,Default,,0,0,0,,如果不是我 别说是你了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}If it wasn't for me, not you,{\r}
-Dialogue: 0,1:00:07.55,1:00:09.93,Default,,0,0,0,,我们俩现在都还在琢磨为什么玛戈要出走\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you and I would be thinking that my Margot ran away.{\r}
-Dialogue: 0,1:00:09.95,1:00:10.97,Default,,0,0,0,,就是因为我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But because of me...{\r}
-Dialogue: 0,1:00:10.99,1:00:12.55,Default,,0,0,0,,我们也不能断言玛戈不是离家出走\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We don't know that she didn't run away.{\r}
-Dialogue: 0,1:00:12.66,1:00:15.57,Default,,0,0,0,,她把钱带上了车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She had cash in her car.{\r}
-Dialogue: 0,1:00:15.83,1:00:17.33,Default,,0,0,0,,但我们能确定的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But what we do know{\r}
-Dialogue: 0,1:00:17.36,1:00:20.41,Default,,0,0,0,,一个十七岁的男孩现在正在医院治疗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is that a 17-year-old boy is in the hospital...{\r}
-Dialogue: 0,1:00:20.48,1:00:22.41,Default,,0,0,0,,-他会没事的  -你把他下巴打碎了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- He's gonna be fine. - You broke his jaw!{\r}
-Dialogue: 0,1:00:22.44,1:00:24.01,Default,,0,0,0,,-妈  -罗伯特 你怎么...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Mom? - Robert! What...?{\r}
-Dialogue: 0,1:00:27.03,1:00:29.45,Default,,0,0,0,,亲爱的 让我来说就行\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sweetheart, let me take care of this, please.{\r}
-Dialogue: 0,1:00:40.55,1:00:43.22,Default,,0,0,0,,如果你怀疑某人 没问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}If you have a suspicion about someone, that's fine.{\r}
-Dialogue: 0,1:00:43.99,1:00:46.52,Default,,0,0,0,,但接下来 是警方的工作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But then, it is the police's job{\r}
-Dialogue: 0,1:00:47.10,1:00:48.50,Default,,0,0,0,,来寻找证据\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to look for proof.{\r}
-Dialogue: 0,1:00:48.58,1:00:49.89,Default,,0,0,0,,而不是你的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Not yours{\r}
-Dialogue: 0,1:00:49.95,1:00:52.41,Default,,0,0,0,,去对一点碎片般的证据采取行动\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to act on flakes of evidence.{\r}
-Dialogue: 0,1:00:57.30,1:00:58.80,Default,,0,0,0,,好吧 我不应该打他的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay, I shouldn't have done that.{\r}
-Dialogue: 0,1:01:00.81,1:01:02.93,Default,,0,0,0,,从现在起 告诉我你们需要什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}From now on, just tell me what you need.{\r}
-Dialogue: 0,1:01:03.11,1:01:04.89,Default,,0,0,0,,我们不需要任何你的帮助\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We need nothing from you.{\r}
-Dialogue: 0,1:01:07.01,1:01:08.29,Default,,0,0,0,,我要工作了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm going back to the field.{\r}
-Dialogue: 0,1:01:08.36,1:01:11.10,Default,,0,0,0,,不要打电话给我 除非我打给你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do not call me until I call you.{\r}
-Dialogue: 0,1:01:11.28,1:01:13.37,Default,,0,0,0,,-维克 不要这样...维克  -去睡觉吧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Vick, please... Vick? - Get some sleep,{\r}
-Dialogue: 0,1:01:13.50,1:01:14.57,Default,,0,0,0,,金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mr. Kim.{\r}
-Dialogue: 0,1:01:25.34,1:01:27.53,Default,,0,0,0,,不要对我撒谎 不要走\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Don't lie to me. Don't walk away from me.{\r}
-Dialogue: 0,1:01:32.67,1:01:33.57,Default,,0,0,0,,{\fn方正黑体_GBK\c&H000000&\move(224.533,284.578,224,72.667,20,420)}疯狂老爸剧院打人
-Dialogue: 0,1:01:33.80,1:01:35.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\move(213.867,215.467,214.4,157.867,23,1890)}{\fs16}现实版《制造谋杀犯》...
-Dialogue: 0,1:01:33.80,1:01:35.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H0091EC&&\fs12}《制造谋杀犯》:网飞的纪录片 现已播出两季
-Dialogue: 0,1:01:38.96,1:01:42.24,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(240.001,223.289)}{\fs9}如果我的孩子也被这种朋克混子绑架了 我也会揍他的
-Dialogue: 0,1:01:43.63,1:01:45.66,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(230.401,182.756)}{\fs9}虽然很遗憾但必须承认 她不可能还活着
-Dialogue: 0,1:01:44.74,1:01:45.92,Default,,0,0,0,,该死的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, shit.{\r}
-Dialogue: 0,1:01:47.84,1:01:49.14,Default,,0,0,0,,你们 停下来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Guys, stop!{\r}
-Dialogue: 0,1:01:47.90,1:01:49.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\move(203.734,152.178,203.734,145.778,23,190)}{\fs9}他这是发出了什么声音呀哈哈哈
-Dialogue: 0,1:01:49.27,1:01:50.77,Default,,0,0,0,,嘿 嘿 别打了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey! Hey, stop!{\r}
-Dialogue: 0,1:01:51.11,1:01:52.17,Default,,0,0,0,,该死的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Shit!{\r}
-Dialogue: 0,1:01:53.95,1:01:54.98,Default,,0,0,0,,滚开\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Get off!{\r}
-Dialogue: 0,1:02:15.20,1:02:17.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(53.868,93.156)}{\fs12}同悼葬礼直播公司
-Dialogue: 0,1:02:15.20,1:02:17.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(190.934,91.734)}{\fs12}致以我们最深切的同情
-Dialogue: 0,1:02:19.70,1:02:27.70,Default,,0,0,0,,{\an8\c&H000000&\fn仿宋\fs9\pos(310.533,5.378)\b0}金先生您好 很遗憾在这样一个不幸的时刻联系您\N但我们想简短介绍一下我们的葬礼直播服务\N在我们都希冀玛戈安全归来的同时\N我们邀请您免费登陆我们平台\N您可以选择任意一种葬礼主持形式\N鉴于玛戈失踪事件持续发酵\N数以百计的好心人也许会申请参加\N而我们平台非常欢迎他们
-Dialogue: 0,1:02:29.63,1:02:32.53,Default,,0,0,0,,{\an8\pos(85.867,171.956)\fn方正黑体_GBK\c&H000000&}她没有死
-Dialogue: 0,1:02:35.96,1:02:39.56,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(246.934,119.334)}玛戈·金调查
-Dialogue: 0,1:02:41.93,1:02:43.40,Default,,0,0,0,,{\an8\pos(88.134,103.866)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}玛戈·金的失踪
-Dialogue: 0,1:02:46.36,1:02:48.30,Default,,0,0,0,,{\an8\pos(106.8,142.977)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}Reddit论坛:玛戈·金谜案
-Dialogue: 0,1:02:50.10,1:02:51.70,Default,,0,0,0,,{\an8\c&HAFA7A3&\fn方正黑体_GBK\fs9\move(87.467,174.089,92.267,117.911,23,1590)}发布于14天前
-Dialogue: 0,1:02:51.74,1:02:54.60,Default,,0,0,0,,{\an8}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}大卫·金杀了杀了玛戈的21个原因\N\N玛戈·金像《消失的女孩》里的女主那样疯了么?
-Dialogue: 0,1:02:54.76,1:02:57.46,Default,,0,0,0,,{\an8\pos(241.067,144.222)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}面对现实:她被变态拐走了
-Dialogue: 0,1:02:57.63,1:02:58.76,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs18\pos(238.4,32.578)}玛戈·金究竟怎么了
-Dialogue: 0,1:02:58.77,1:03:01.25,Default,,0,0,0,,有没有人想过有这样一种可能\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Has anyone even considered the possibility{\r}
-Dialogue: 0,1:03:01.28,1:03:03.46,Default,,0,0,0,,就是有一个陌生人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that it was an absolute stranger?{\r}
-Dialogue: 0,1:03:03.56,1:03:05.64,Default,,0,0,0,,某个精神反常的变态\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Some sick perv{\r}
-Dialogue: 0,1:03:05.70,1:03:08.04,Default,,0,0,0,,在森林里 看见了这个小女孩\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}in the middle of the woods, sees a little girl...{\r}
-Dialogue: 0,1:03:13.10,1:03:15.26,Default,,0,0,0,,{\an8\move(198.4,192.578,206.933,152.045,23,2123)}{\c&HF52808&\s0\fn方正黑体_GBK\fs12}查看沉车照片
-Dialogue: 0,1:03:15.60,1:03:16.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(158.934,109.378)}玛戈·金 沉车照片
-Dialogue: 0,1:03:18.16,1:03:22.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\fs11\i1\pos(121.6,257.289)}点击查看
-Dialogue: 0,1:03:23.50,1:03:26.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\move(283.201,72.4,283.201,78.089,23,1923)}{\fs9}玛戈·金出事车辆照片
-Dialogue: 0,1:03:51.36,1:03:53.53,Default,,0,0,0,,{\an8\pos(241.067,87.334)\frz52.89\fn黑体\fs16\c&HFFFFFF&}飞鳍\N冰球队
-Dialogue: 0,1:04:04.93,1:04:06.13,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(114.134,121.601)}{\fs9}皮特·金
-Dialogue: 0,1:04:09.63,1:04:12.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&}飞鳍冰球队
-Dialogue: 0,1:04:20.33,1:04:23.16,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(111.999,107.956)}你的生物书落在我这儿了
-Dialogue: 0,1:04:23.90,1:04:27.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(290.666,159.867)}此外 昨晚聊得很愉快
-Dialogue: 0,1:04:30.06,1:04:33.66,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(228.266,145.645)}昨晚很开心
-Dialogue: 0,1:04:34.90,1:04:37.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(63.999,105.823)}这样做我觉得很奇怪
-Dialogue: 0,1:04:38.46,1:04:41.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\move(253.332,45.378,253.865,78.8,30,1463)}不要告诉我爸爸
-Dialogue: 0,1:04:38.46,1:04:41.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\move(110.399,86.622,110.932,128.578,30,1797)}不然我们俩都会死定了
-Dialogue: 0,1:04:42.50,1:04:43.77,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(225.599,135.689)}如果被他发现
-Dialogue: 0,1:04:42.50,1:04:43.77,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(211.732,179.067)}一定会杀了我的
-Dialogue: 0,1:04:47.53,1:04:49.36,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(224.532,103.689)}今晚?
-Dialogue: 0,1:04:49.53,1:04:50.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(100.266,107.956)}昨天真的太浪了
-Dialogue: 0,1:04:50.93,1:04:51.93,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(230.932,182.623)}这样可以吗?
-Dialogue: 0,1:04:53.57,1:04:54.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(221.866,94.445)}没问题 蛮好笑的
-Dialogue: 0,1:04:53.57,1:04:54.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(201.066,136.4)}别紧张
-Dialogue: 0,1:04:53.57,1:04:54.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(142.399,176.934)}讲真
-Dialogue: 0,1:04:53.57,1:04:54.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(301.866,216.045)}你肯定马上就能见着我了
-Dialogue: 0,1:04:56.13,1:04:57.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(302.932,186.178)}今晚?
-Dialogue: 0,1:05:01.00,1:05:04.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(184.532,186.889)}到时候见
-Dialogue: 0,1:05:07.53,1:05:08.90,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(253.332,107.956)}收件人:罗丝玛莉·维克
-Dialogue: 0,1:05:10.36,1:05:13.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(113.066,125.023)}我认为我的弟弟...
-Dialogue: 0,1:05:26.66,1:05:30.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(106.132,93.023)}附近的电器商店
-Dialogue: 0,1:05:51.90,1:05:53.30,Default,,0,0,0,,在找喝的吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Looking for somethin' to drink?{\r}
-Dialogue: 0,1:05:53.43,1:05:55.02,Default,,0,0,0,,-是的  -咖啡可以吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Yeah. - Coffee?{\r}
-Dialogue: 0,1:05:55.22,1:05:56.93,Default,,0,0,0,,好啊 咖啡不错 谢了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, coffee would be awesome, thanks.{\r}
-Dialogue: 0,1:06:00.85,1:06:02.47,Default,,0,0,0,,不行 你知道吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No. You know what?{\r}
-Dialogue: 0,1:06:02.53,1:06:03.76,Default,,0,0,0,,你已经在过去的三天里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You've been probably straight chuggin'{\r}
-Dialogue: 0,1:06:03.78,1:06:05.08,Default,,0,0,0,,喝了很多咖啡了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}caffeine the last three days.{\r}
-Dialogue: 0,1:06:05.70,1:06:08.83,Default,,0,0,0,,我要给你泡点茶\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am going to make you some tea.{\r}
-Dialogue: 0,1:06:09.92,1:06:10.98,Default,,0,0,0,,草药\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Herbal.{\r}
-Dialogue: 0,1:06:11.48,1:06:14.43,Default,,0,0,0,,嗯 我要去看下我的车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Um, I-I gotta go to my car for a minute.{\r}
-Dialogue: 0,1:06:14.48,1:06:15.97,Default,,0,0,0,,我马上就回来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'll be right back, man.{\r}
-Dialogue: 0,1:06:39.26,1:06:41.00,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(175.999,67.423)}未命名
-Dialogue: 0,1:06:41.16,1:06:43.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(175.999,67.423)}证据
-Dialogue: 0,1:07:12.68,1:07:13.94,Default,,0,0,0,,警探那边调查得怎么样了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}How's the detective?{\r}
-Dialogue: 0,1:07:16.23,1:07:17.79,Default,,0,0,0,,她在调查什么新线索吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She working on any new leads?{\r}
-Dialogue: 0,1:07:20.01,1:07:20.99,Default,,0,0,0,,没有\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No.{\r}
-Dialogue: 0,1:07:21.26,1:07:22.49,Default,,0,0,0,,她没有\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's not.{\r}
-Dialogue: 0,1:07:34.42,1:07:36.71,Default,,0,0,0,,你和玛戈的关系怎么样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What was your relationship like with Margot?{\r}
-Dialogue: 0,1:07:39.02,1:07:40.06,Default,,0,0,0,,你是什么意思\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What do you mean?{\r}
-Dialogue: 0,1:07:40.41,1:07:41.81,Default,,0,0,0,,你们在一起待过 对吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You guys hung out, right?{\r}
-Dialogue: 0,1:07:44.24,1:07:45.26,Default,,0,0,0,,当然\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sure.{\r}
-Dialogue: 0,1:07:47.55,1:07:49.10,Default,,0,0,0,,你知道的 我们...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, it was uh...{\r}
-Dialogue: 0,1:07:52.01,1:07:53.88,Default,,0,0,0,,你知道 我们没有一起出去过很多次 但是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, we didn't hang out a bunch but{\r}
-Dialogue: 0,1:07:56.12,1:07:57.32,Default,,0,0,0,,我们只是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, it's just...{\r}
-Dialogue: 0,1:07:57.47,1:07:59.24,Default,,0,0,0,,顺便问一句 你最后一次见到她是什么时候\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}When's the last time you saw her, by the way?{\r}
-Dialogue: 0,1:08:05.26,1:08:06.82,Default,,0,0,0,,你知道的 我必须得好好想想...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You know, I'd have to think...{\r}
-Dialogue: 0,1:08:09.42,1:08:10.63,Default,,0,0,0,,我想我需要加点蜂蜜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I think this needs some honey.{\r}
-Dialogue: 0,1:08:17.70,1:08:19.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(329.066,2.712)}维克警探来电
-Dialogue: 0,1:08:21.66,1:08:22.95,Default,,0,0,0,,是谁啊\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Who was that?{\r}
-Dialogue: 0,1:08:24.52,1:08:25.59,Default,,0,0,0,,工作\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Work.{\r}
-Dialogue: 0,1:08:26.59,1:08:28.45,Default,,0,0,0,,哦 是啊 嗯...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, yeah, uh...{\r}
-Dialogue: 0,1:08:29.27,1:08:30.88,Default,,0,0,0,,过了这么久他们跟你说了什么没\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What have they been saying to you this whole time?{\r}
-Dialogue: 0,1:08:30.90,1:08:32.16,Default,,0,0,0,,回到之前的问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Going back to the previous question,{\r}
-Dialogue: 0,1:08:32.20,1:08:33.71,Default,,0,0,0,,你最后一次见到她是什么时候\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}when's the last time you saw her?{\r}
-Dialogue: 0,1:08:35.60,1:08:37.04,Default,,0,0,0,,兄弟...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Dude...{\r}
-Dialogue: 0,1:08:37.56,1:08:39.21,Default,,0,0,0,,我记不清了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I can barely remember.{\r}
-Dialogue: 0,1:08:40.18,1:08:41.72,Default,,0,0,0,,但是你知道吗 让我们...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But you know what? L-Let's...{\r}
-Dialogue: 0,1:08:41.77,1:08:43.98,Default,,0,0,0,,让我们先别管这件事 好吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's get our minds off this for a sec, huh?{\r}
-Dialogue: 0,1:08:44.51,1:08:45.85,Default,,0,0,0,,我感觉...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I feel like...{\r}
-Dialogue: 0,1:08:45.91,1:08:48.34,Default,,0,0,0,,谈论这件事情快要把我们都逼疯了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we're just gonna drive each other crazy talking about it.{\r}
-Dialogue: 0,1:08:48.98,1:08:50.43,Default,,0,0,0,,嘿 你的茶还可以吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, is your tea okay?{\r}
-Dialogue: 0,1:08:50.99,1:08:52.41,Default,,0,0,0,,还是想喝咖啡吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Still want that coffee?{\r}
-Dialogue: 0,1:08:52.66,1:08:54.26,Default,,0,0,0,,"昨晚很有趣"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"Last night was fun."{\r}
-Dialogue: 0,1:08:54.33,1:08:55.43,Default,,0,0,0,,什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's that?{\r}
-Dialogue: 0,1:09:01.56,1:09:03.70,Default,,0,0,0,,"我觉得这么做太奇怪了"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"I feel so weird doing this."{\r}
-Dialogue: 0,1:09:06.19,1:09:07.95,Default,,0,0,0,,"别告诉你爸爸"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"Don't tell your father."{\r}
-Dialogue: 0,1:09:10.31,1:09:11.74,Default,,0,0,0,,"他会杀了我的"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"He'd kill me."{\r}
-Dialogue: 0,1:09:12.74,1:09:14.60,Default,,0,0,0,,"真的 他会杀了我的"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"Seriously, he'd murder me."{\r}
-Dialogue: 0,1:09:16.53,1:09:18.61,Default,,0,0,0,,还有七次不同的时间\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And at seven different times...{\r}
-Dialogue: 0,1:09:19.24,1:09:20.74,Default,,0,0,0,,"今晚见"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"See you tonight."{\r}
-Dialogue: 0,1:09:22.36,1:09:24.31,Default,,0,0,0,,你对我女儿做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What'd you do to my daughter?{\r}
-Dialogue: 0,1:09:27.83,1:09:29.92,Default,,0,0,0,,你对我女儿做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What'd you do to my daughter?{\r}
-Dialogue: 0,1:09:32.89,1:09:34.78,Default,,0,0,0,,我可以解释 好吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I can explain, all right?{\r}
-Dialogue: 0,1:09:36.44,1:09:37.48,Default,,0,0,0,,但是你知道吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But you know what?{\r}
-Dialogue: 0,1:09:37.54,1:09:39.70,Default,,0,0,0,,让我们冷静下来 让我们坐下来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's calm down. Let's grab a seat.{\r}
-Dialogue: 0,1:09:40.98,1:09:41.88,Default,,0,0,0,,别...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Please...{\r}
-Dialogue: 0,1:09:42.31,1:09:43.37,Default,,0,0,0,,住手\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Stop.{\r}
-Dialogue: 0,1:09:45.91,1:09:47.06,Default,,0,0,0,,你对她做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What'd you do to her?!{\r}
-Dialogue: 0,1:09:47.08,1:09:48.61,Default,,0,0,0,,-别这样  -你对她做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Please! - What'd you do to her?!{\r}
-Dialogue: 0,1:09:48.85,1:09:50.17,Default,,0,0,0,,你对她做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What'd you do to her?!{\r}
-Dialogue: 0,1:09:50.53,1:09:52.35,Default,,0,0,0,,你和她一起做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What were you doing with her?!{\r}
-Dialogue: 0,1:09:53.83,1:09:55.17,Default,,0,0,0,,大麻\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Weed!{\r}
-Dialogue: 0,1:10:04.08,1:10:05.06,Default,,0,0,0,,什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What?{\r}
-Dialogue: 0,1:10:05.11,1:10:06.34,Default,,0,0,0,,大麻\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Weed!{\r}
-Dialogue: 0,1:10:09.07,1:10:11.22,Default,,0,0,0,,我让她吸毒了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I was smoking her out.{\r}
-Dialogue: 0,1:10:13.20,1:10:16.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(299.732,4.134)}维克警探:回电  紧急情况
-Dialogue: 0,1:10:28.22,1:10:30.67,Default,,0,0,0,,当你们都从新年聚会回来时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}When you guys all came back from New Year's.{\r}
-Dialogue: 0,1:10:31.40,1:10:33.29,Default,,0,0,0,,她发现了我的东西\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She found my piece.{\r}
-Dialogue: 0,1:10:34.64,1:10:36.92,Default,,0,0,0,,她想试试 然后...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She wanted to try it and...{\r}
-Dialogue: 0,1:10:37.47,1:10:38.98,Default,,0,0,0,,事情就一直这样发展下去了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It just kept happening.{\r}
-Dialogue: 0,1:10:39.00,1:10:41.34,Default,,0,0,0,,你让我女儿吸毒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You gave drugs to my daughter?{\r}
-Dialogue: 0,1:10:42.75,1:10:44.36,Default,,0,0,0,,我向她保证我不会说出去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I promised her I wouldn't tell.{\r}
-Dialogue: 0,1:10:44.38,1:10:46.31,Default,,0,0,0,,所以她会半夜去找你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So she would come to you in the middle of the night{\r}
-Dialogue: 0,1:10:46.33,1:10:48.60,Default,,0,0,0,,你除了给她大麻 鬼知道还发生了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and you would give her weed and do God knows what else?!{\r}
-Dialogue: 0,1:10:48.64,1:10:50.04,Default,,0,0,0,,没别的了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's it.{\r}
-Dialogue: 0,1:10:51.13,1:10:53.68,Default,,0,0,0,,我们只是爽一下 聊聊天 我发誓\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We'd get high and talk. I swear!{\r}
-Dialogue: 0,1:10:53.13,1:10:56.13,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(277.332,3.423)}维克警探:我们抓到他了  打给我
-Dialogue: 0,1:10:55.01,1:10:56.15,Default,,0,0,0,,是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Okay.{\r}
-Dialogue: 0,1:10:56.49,1:10:58.36,Default,,0,0,0,,我知道这听起来很糟糕\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know how wrong all this sounds.{\r}
-Dialogue: 0,1:10:58.39,1:11:00.91,Default,,0,0,0,,我也知道我应该早点告诉你 但是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I know I should've told you sooner, but...{\r}
-Dialogue: 0,1:11:01.57,1:11:04.54,Default,,0,0,0,,听着 我不觉得这和玛戈的失踪有任何关系\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Look, I-I didn't think it had anything to do with this.{\r}
-Dialogue: 0,1:11:06.00,1:11:08.10,Default,,0,0,0,,你配得上当我弟弟吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What kind of a brother are you?{\r}
-Dialogue: 0,1:11:10.79,1:11:12.36,Default,,0,0,0,,你问我?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You're asking me?{\r}
-Dialogue: 0,1:11:12.63,1:11:14.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(355.199,-0.132)}{\fs14}维克警探来电
-Dialogue: 0,1:11:14.81,1:11:16.36,Default,,0,0,0,,你闯进来\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You come in here,{\r}
-Dialogue: 0,1:11:16.39,1:11:18.69,Default,,0,0,0,,用莫名其妙的话质问我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and accuse me of something un-fucking-speakable{\r}
-Dialogue: 0,1:11:18.72,1:11:20.97,Default,,0,0,0,,你为什么不反思你自己呢?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and you're wondering what kind of family I am?!{\r}
-Dialogue: 0,1:11:23.27,1:11:24.85,Default,,0,0,0,,你想知道为什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You wanna know why{\r}
-Dialogue: 0,1:11:24.96,1:11:27.13,Default,,0,0,0,,她讨厌那些钢琴课吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she hated all those piano lessons?{\r}
-Dialogue: 0,1:11:28.72,1:11:30.75,Default,,0,0,0,,因为每次她进去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It's because every time she would walk in,{\r}
-Dialogue: 0,1:11:30.83,1:11:32.30,Default,,0,0,0,,她都会看到那架钢琴\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she would see that thing{\r}
-Dialogue: 0,1:11:32.33,1:11:34.10,Default,,0,0,0,,她就会想念她的妈妈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and she would think about her mother.{\r}
-Dialogue: 0,1:11:35.79,1:11:37.13,Default,,0,0,0,,她居然会跟你说这个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She told you that.{\r}
-Dialogue: 0,1:11:39.95,1:11:42.15,Default,,0,0,0,,她告诉你却不告诉我 为什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She told you that and not me. Why?{\r}
-Dialogue: 0,1:11:42.29,1:11:45.54,Default,,0,0,0,,因为你从来不问\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Because you never asked.{\r}
-Dialogue: 0,1:11:46.21,1:11:47.99,Default,,0,0,0,,自从潘姆过世之后\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ever since Pam,{\r}
-Dialogue: 0,1:11:48.05,1:11:50.21,Default,,0,0,0,,你再也没跟玛戈交流过\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you stopped talking to Margot about the only thing{\r}
-Dialogue: 0,1:11:50.24,1:11:52.99,Default,,0,0,0,,这两年来一直萦绕在她心头的想念\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that's been on her mind the last two years.{\r}
-Dialogue: 0,1:11:55.29,1:11:57.47,Default,,0,0,0,,她需要你跟她交流\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She needed you to talk to her.{\r}
-Dialogue: 0,1:11:58.92,1:12:00.50,Default,,0,0,0,,而不是她来找你交流\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Not the other way around.{\r}
-Dialogue: 0,1:12:15.24,1:12:17.51,Default,,0,0,0,,我只是以为时间会抚平这一切\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I just thought it would fix itself.{\r}
-Dialogue: 0,1:12:19.20,1:12:21.50,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(338.666,5.557)}{\fs14}维克警探  语音信箱
-Dialogue: 0,1:12:56.46,1:12:57.54,Default,,0,0,0,,大卫?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Davey?{\r}
-Dialogue: 0,1:13:00.93,1:13:01.93,Default,,0,0,0,,大卫?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}David?{\r}
-Dialogue: 0,1:13:01.97,1:13:03.53,Default,,0,0,0,,噢 天啊\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, God...{\r}
-Dialogue: 0,1:13:08.45,1:13:11.04,Default,,0,0,0,,这里是"目击者"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is Eyewitness News.{\r}
-Dialogue: 0,1:13:09.64,1:13:11.64,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(135.999,86.624)}{\fs14\c&HFFFFFF&}‘目击者’  新闻  最新消息
-Dialogue: 0,1:13:11.27,1:13:13.62,Default,,0,0,0,,我们带来新鲜爆炸的新闻\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}With live breaking news.{\r}
-Dialogue: 0,1:13:12.00,1:13:13.64,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(173.866,77.38)}{\fs14\c&HFFFFFF&}最新消息
-Dialogue: 0,1:13:14.51,1:13:16.29,Default,,0,0,0,,早上好 我是福斯汀·利\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Good morning, I'm Faustine Rhee.{\r}
-Dialogue: 0,1:13:14.56,1:13:16.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(145.599,188.313)}{\fs14\c&HFFFFFF&}最新消息  嫌疑人发布视频承认罪行
-Dialogue: 0,1:13:16.32,1:13:17.66,Default,,0,0,0,,今天早上 作为一位父亲\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A parent's worst nightmare{\r}
-Dialogue: 0,1:13:17.68,1:13:20.02,Default,,0,0,0,,大卫·金的最害怕的事情还是发生了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}comes true this morning for David Kim.{\r}
-Dialogue: 0,1:13:20.13,1:13:21.89,Default,,0,0,0,,这件轰动了湾区的案件\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}In a shocking and thoroughly mind-boggling{\r}
-Dialogue: 0,1:13:21.92,1:13:24.70,Default,,0,0,0,,有了令人震惊和让人完全不能接受的定论\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}conclusion to a story that's captivated the Bay Area,{\r}
-Dialogue: 0,1:13:24.77,1:13:27.73,Default,,0,0,0,,失踪了五天的玛戈·金\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot Kim, missing now for five days,{\r}
-Dialogue: 0,1:13:27.78,1:13:30.96,Default,,0,0,0,,在不久前不幸地被宣告死亡\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}has just been tragically declared dead.{\r}
-Dialogue: 0,1:13:31.03,1:13:32.02,Default,,0,0,0,,为什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why?{\r}
-Dialogue: 0,1:13:32.09,1:13:33.71,Default,,0,0,0,,线索来自于一份录制的认罪视频\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A taped confession.{\r}
-Dialogue: 0,1:13:33.80,1:13:36.60,Default,,0,0,0,,兰迪·卡托夫六年前被释放\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Randy Cartoff, released just six years ago{\r}
-Dialogue: 0,1:13:36.63,1:13:39.50,Default,,0,0,0,,罪名是藏毒以及性侵\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for felony drug possession and sexual assault{\r}
-Dialogue: 0,1:13:39.56,1:13:41.64,Default,,0,0,0,,在网络上传了这段认罪视频\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}uploaded the confession online{\r}
-Dialogue: 0,1:13:41.67,1:13:43.75,Default,,0,0,0,,在自杀前\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}before taking his own life.{\r}
-Dialogue: 0,1:13:44.24,1:13:45.34,Default,,0,0,0,,我们会向你们展示\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We're going to show you{\r}
-Dialogue: 0,1:13:45.41,1:13:47.58,Default,,0,0,0,,三分钟视频里的一段\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}a segment of the three-minute video now,{\r}
-Dialogue: 0,1:13:47.63,1:13:49.10,Default,,0,0,0,,要提醒各位的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but please be warned,{\r}
-Dialogue: 0,1:13:49.16,1:13:51.32,Default,,0,0,0,,接下来的视频包含着露骨的叙述\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the following contains graphic descriptions{\r}
-Dialogue: 0,1:13:51.37,1:13:53.17,Default,,0,0,0,,以及可能令人不安的部分\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and disturbing content.{\r}
-Dialogue: 0,1:13:53.24,1:13:55.62,Default,,0,0,0,,请观众酌情观看\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Viewer discretion is advised.{\r}
-Dialogue: 0,1:13:57.03,1:13:58.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&、}{\fs14\c&HFFFFFF&}最新消息  嫌疑人承认罪行  而后自杀
-Dialogue: 0,1:13:58.95,1:14:01.00,Default,,0,0,0,,绿色车里那个甜妞儿\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Dear girl in the green car,{\r}
-Dialogue: 0,1:14:01.54,1:14:03.30,Default,,0,0,0,,我很抱歉对你做了那些事情\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry for what I did to you.{\r}
-Dialogue: 0,1:14:04.19,1:14:07.35,Default,,0,0,0,,我很抱歉当你乞求我停下时 我没有听你的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry for not listening to you when you begged me to stop.{\r}
-Dialogue: 0,1:14:09.74,1:14:11.26,Default,,0,0,0,,我很抱歉打了你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm sorry for beating you.{\r}
-Dialogue: 0,1:14:12.06,1:14:13.43,Default,,0,0,0,,折磨你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And crushing you.{\r}
-Dialogue: 0,1:14:14.00,1:14:15.81,Default,,0,0,0,,再把你和的手提箱一起扔进湖里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And tossing you with your suitcases{\r}
-Dialogue: 0,1:14:15.90,1:14:17.49,Default,,0,0,0,,这样就没有人可以找到你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}so no one would ever find you.{\r}
-Dialogue: 0,1:14:20.41,1:14:23.01,Default,,0,0,0,,我以为藏尸是很简单的事情 事实证明我错了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I thought this would be easy but it isn't.{\r}
-Dialogue: 0,1:14:27.39,1:14:29.44,Default,,0,0,0,,当我们到达他在摩根山的住处时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}When we arrived at his Morgan Hill residence,{\r}
-Dialogue: 0,1:14:27.63,1:14:31.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(93.332,194.002)}{\fs14\c&HFFFFFF&}早些时候  青少年疑似死亡
-Dialogue: 0,1:14:29.46,1:14:31.20,Default,,0,0,0,,卡托夫先生已经死了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mr. Cartoff was deceased.{\r}
-Dialogue: 0,1:14:31.28,1:14:33.77,Default,,0,0,0,,看起来是用枪自杀\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Seemingly by a self-inflicted gun wound.{\r}
-Dialogue: 0,1:14:34.52,1:14:36.55,Default,,0,0,0,,有时候 这些认罪行为是恶作剧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sometimes, these confessions are hoaxes{\r}
-Dialogue: 0,1:14:36.57,1:14:39.25,Default,,0,0,0,,但是根据他的描述 我们回到\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}but based on his story, we were able to return{\r}
-Dialogue: 0,1:14:39.30,1:14:42.25,Default,,0,0,0,,我们发现微量DNA的湖的位置\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}to the lake site where we discovered trace DNA{\r}
-Dialogue: 0,1:14:42.29,1:14:44.75,Default,,0,0,0,,这些DNA被证实与卡托夫先生的相吻合\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}matching that of Mr. Cartoff{\r}
-Dialogue: 0,1:14:44.84,1:14:48.16,Default,,0,0,0,,同时这个湖是在搜寻区的关键位置\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}in critical areas of the search zone.{\r}
-Dialogue: 0,1:14:49.30,1:14:51.81,Default,,0,0,0,,我已经通知过她的父亲\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I've already spoken to her father.{\r}
-Dialogue: 0,1:14:52.51,1:14:54.26,Default,,0,0,0,,调查到这里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But at this point in the investigation,{\r}
-Dialogue: 0,1:14:54.37,1:14:56.54,Default,,0,0,0,,我们可以确信的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we are very confident{\r}
-Dialogue: 0,1:14:57.57,1:15:00.36,Default,,0,0,0,,金女士已经遇难\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that Ms. Kim's life was taken{\r}
-Dialogue: 0,1:15:00.67,1:15:02.70,Default,,0,0,0,,在她出城的路上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}on her way out of town.{\r}
-Dialogue: 0,1:15:02.80,1:15:04.71,Default,,0,0,0,,这周在圣何塞的市中心\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A private vigil will be held for Ms. Kim{\r}
-Dialogue: 0,1:15:04.81,1:15:07.28,Default,,0,0,0,,会为金女士举办一个私人性质的悼念会\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}in downtown San Jose this week...{\r}
-Dialogue: 0,1:15:14.59,1:15:16.44,Default,,0,0,0,,这依然说不通\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Still doesn't make sense.{\r}
-Dialogue: 0,1:15:19.14,1:15:20.64,Default,,0,0,0,,他用来绑架她的车在哪里?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where's the car that he took her in?{\r}
-Dialogue: 0,1:15:20.67,1:15:23.26,Default,,0,0,0,,那些手提箱在哪?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where's the... suitcases?{\r}
-Dialogue: 0,1:15:23.96,1:15:25.86,Default,,0,0,0,,他把血迹都清理干净了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did-Did he clean up the blood?{\r}
-Dialogue: 0,1:15:27.10,1:15:28.50,Default,,0,0,0,,维克 这个人是谁?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Vick, who is this guy?{\r}
-Dialogue: 0,1:15:29.14,1:15:30.28,Default,,0,0,0,,我不知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I don't know.{\r}
-Dialogue: 0,1:15:30.42,1:15:32.19,Default,,0,0,0,,我也希望我知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I wish I had an answer.{\r}
-Dialogue: 0,1:15:33.71,1:15:34.89,Default,,0,0,0,,我知道的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}All I know{\r}
-Dialogue: 0,1:15:35.05,1:15:36.64,Default,,0,0,0,,以及你需要知道的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and all you need to know{\r}
-Dialogue: 0,1:15:36.71,1:15:40.15,Default,,0,0,0,,玛戈的死和你没有关系\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is that this had nothing to do with you.{\r}
-Dialogue: 0,1:15:44.43,1:15:45.90,Default,,0,0,0,,我猜也是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I guess it don't.{\r}
-Dialogue: 0,1:15:55.38,1:15:58.61,Default,,0,0,0,,对于你女儿所遭遇的和你所经历的一切\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am so sorry for everything that happened to your daughter.{\r}
-Dialogue: 0,1:15:59.12,1:16:02.05,Default,,0,0,0,,我都感到非常痛心和抱歉\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And I'm so sorry for everything that happened to you.{\r}
-Dialogue: 0,1:16:03.97,1:16:06.14,Default,,0,0,0,,如果有什么我可以帮你的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And if there's anything I can do for you,{\r}
-Dialogue: 0,1:16:06.37,1:16:09.28,Default,,0,0,0,,尽管打给我\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}please do not hesitate to call.{\r}
-Dialogue: 0,1:16:15.13,1:16:16.65,Default,,0,0,0,,-好的  -好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Okay. - Okay.{\r}
-Dialogue: 0,1:16:28.20,1:16:32.10,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(313.067,70.978)}性侵犯者承认谋杀  而后自杀
-Dialogue: 0,1:16:36.86,1:16:37.86,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(95.468,109.512)}{\fs12}同悼葬礼直播公司
-Dialogue: 0,1:16:36.86,1:16:37.86,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(196.8,108.8)}{\fs12}今日守夜的视频
-Dialogue: 0,1:16:38.54,1:16:49.30,Default,,0,0,0,,{\an8\c&H000000&\fn仿宋\fs9\pos(317.2,7.511)}金先生 感谢您选择同悼葬礼直播公司\N我们衷心地希望今天的报道能够给您\N在爱女逝去的这段时间带来些许的安慰\N您可以在守夜期间上传一些\N有关于您爱女的照片或视频\N只需简单地将文件通过下面的链接上传\N剩下的就交给我们
-Dialogue: 0,1:16:49.46,1:16:51.33,Default,,0,0,0,,{\fn方正黑体_GBK\c&HFFAA0F&\u1\fs14\pos(103.6,190.177)}点击这里{\c&H6A6A6B&\u0}上传照片和视频
-Dialogue: 0,1:16:52.73,1:16:57.16,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs9\pos(207.6,192.578)}将文件拖拽至此区域完成上传  或选择文件上传
-Dialogue: 0,1:16:58.13,1:17:00.96,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\pos(127.6,164.667)}金_家庭_视频
-Dialogue: 0,1:17:04.90,1:17:05.96,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(141.6,120.4)}玛戈
-Dialogue: 0,1:17:08.16,1:17:09.50,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(201.2,63.867)}演奏会前夕_2015.mp4
-Dialogue: 0,1:17:18.00,1:17:19.00,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(116.4,114.533)}泡菜秋葵汤.2010.avi
-Dialogue: 0,1:17:20.07,1:17:21.67,Default,,0,0,0,,-把这些水倒了  -可以了吗?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Get all the water out. - Are these ready?{\r}
-Dialogue: 0,1:17:31.26,1:17:32.50,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs16\pos(316.8,127.867)}玛戈_父亲节.mp4
-Dialogue: 0,1:17:33.11,1:17:34.65,Default,,0,0,0,,爸爸快醒醒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Go wake up Daddy.{\r}
-Dialogue: 0,1:17:38.15,1:17:40.15,Default,,0,0,0,,醒醒 爸爸 醒醒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wake up, Daddy! Wake up!{\r}
-Dialogue: 0,1:17:40.65,1:17:41.76,Default,,0,0,0,,醒醒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wake up!{\r}
-Dialogue: 0,1:17:43.44,1:17:44.54,Default,,0,0,0,,醒醒\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Wake up!{\r}
-Dialogue: 0,1:17:44.61,1:17:46.91,Default,,0,0,0,,玛戈 给爸爸看看你今天在学校做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot, show Daddy what you made in school.{\r}
-Dialogue: 0,1:17:55.90,1:18:04.44,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs16\c&H000000&\pos(233.2,114.534)}最棒的\N{\c&H000000&}爸爸
-Dialogue: 0,1:17:56.63,1:17:57.91,Default,,0,0,0,,那是我的...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That's my...{\r}
-Dialogue: 0,1:18:08.30,1:18:09.70,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs18\pos(277.6,134.8)}移入废纸篓
-Dialogue: 0,1:18:13.23,1:18:15.46,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs12\pos(302.4,162.533)}清除废纸篓
-Dialogue: 0,1:18:26.60,1:18:27.86,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs10\pos(216.4,240.934)}上传
-Dialogue: 0,1:18:29.93,1:18:33.03,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs10\pos(213.6,216.934)}感谢上传  有问题请联系我们
-Dialogue: 0,1:18:52.86,1:18:54.06,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(150.8,212.133)}照片
-Dialogue: 0,1:19:05.03,1:19:06.06,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(155.2,20.133)}脸书
-Dialogue: 0,1:19:08.76,1:19:09.96,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs10\pos(231.2,101.2)}相册
-Dialogue: 0,1:19:19.06,1:19:21.26,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(262.8,93.734)}汤不热
-Dialogue: 0,1:19:21.96,1:19:24.46,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16\pos(321.6,93.2)}换你了-历史直播记录
-Dialogue: 0,1:19:29.37,1:19:30.79,Default,,0,0,0,,我是玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm Margot.{\r}
-Dialogue: 0,1:19:31.76,1:19:34.06,Default,,0,0,0,,{\fn方正黑体_GBK\fs12\pos(261.2,233.199)}汉娜
-Dialogue: 0,1:19:35.10,1:19:37.17,Default,,0,0,0,,{\an8\c&H90928D&\fn方正黑体_GBK\fs14\pos(201.6,158.266)}汉娜 20岁 服务员\N美国 匹兹堡
-Dialogue: 0,1:20:02.83,1:20:05.43,Default,,0,0,0,,{\an8\c&H000000&\fn方正黑体_GBK\fs16}图片搜索 尝试拖拽一张图片至此
-Dialogue: 0,1:20:11.30,1:20:12.76,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs12\pos(238.8,99.067)}空乘安全手册
-Dialogue: 0,1:20:14.50,1:20:15.37,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs12\move(235.2,107.067,234.4,80.4,23,190)}健身照片图库
-Dialogue: 0,1:20:16.83,1:20:18.33,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs12\pos(242.4,69.734)}学生用便携笔记本
-Dialogue: 0,1:20:18.50,1:20:20.36,Default,,0,0,0,,{\an8\c&HFFFFFF&\fn方正黑体_GBK\fs12\pos(247.2,69.734)}汉娜·帕迪 图库模特
-Dialogue: 0,1:20:18.50,1:20:20.36,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H0091EC&&\fs12\pos(192,22.622)}图库模特:一般为非职业模特\N其他公司可免费用其拍摄的照片做广告
-Dialogue: 0,1:20:20.53,1:20:23.76,Default,,0,0,0,,{\an8\c&H827F87&\fn方正黑体_GBK\fs12\pos(216.267,142.978)}作为图库模特界识别度最高的面孔之一  汉娜·帕迪获得的第一份工作便是拍摄沙拉广告...
-Dialogue: 0,1:20:23.91,1:20:24.77,Default,,0,0,0,,喂?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hello?{\r}
-Dialogue: 0,1:20:24.79,1:20:26.58,Default,,0,0,0,,喂 我想请你帮我接通汉娜\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, I'm wondering if I could speak to Hannah?{\r}
-Dialogue: 0,1:20:25.94,1:20:27.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(288,126.445)}人肉搜索
-Dialogue: 0,1:20:26.63,1:20:27.61,Default,,0,0,0,,我就是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Speaking.{\r}
-Dialogue: 0,1:20:27.68,1:20:30.57,Default,,0,0,0,,嗨 我想问问你关于我女儿的事 玛戈·金\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, I'm calling in regards to my daughter, Margot Kim.{\r}
-Dialogue: 0,1:20:30.60,1:20:32.89,Default,,0,0,0,,你和她聊过 她的网名是"mkmania"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You spoke to her online as 'mkmania'.{\r}
-Dialogue: 0,1:20:31.30,1:20:33.04,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(204.8,172.667)}汉娜·帕迪
-Dialogue: 0,1:20:32.93,1:20:35.12,Default,,0,0,0,,哦 呃 你肯定打错了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, um, you must have the wrong number.{\r}
-Dialogue: 0,1:20:35.15,1:20:37.09,Default,,0,0,0,,我只是模特之一 不发表任何言论\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I'm talent, not representation.{\r}
-Dialogue: 0,1:20:37.12,1:20:38.90,Default,,0,0,0,,但如果你愿意我可以帮你联系我的经纪人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But I can connect you to my agent, if you like.{\r}
-Dialogue: 0,1:20:38.93,1:20:41.36,Default,,0,0,0,,你那时是在演兼职的服务员吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, you work as a waitress part time then?{\r}
-Dialogue: 0,1:20:41.40,1:20:44.20,Default,,0,0,0,,因为警探打电话给你的时候 你说你在上班\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Because you told the detective you were on a shift when she called.{\r}
-Dialogue: 0,1:20:44.30,1:20:46.08,Default,,0,0,0,,呃 什么警探\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, what detective?{\r}
-Dialogue: 0,1:20:46.27,1:20:47.24,Default,,0,0,0,,我不明白\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I don't understand.{\r}
-Dialogue: 0,1:20:47.31,1:20:50.02,Default,,0,0,0,,维克警探 她四天前打了电话给你的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Detective Vick, she called you four days ago,{\r}
-Dialogue: 0,1:20:50.05,1:20:51.38,Default,,0,0,0,,然后你告诉她你正...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and you told her you were on a shift...{\r}
-Dialogue: 0,1:20:50.10,1:20:51.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\pos(298.667,132.845)}就是这个
-Dialogue: 0,1:20:51.40,1:20:53.79,Default,,0,0,0,,先生 我没有接到警局的任何电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sir, I never got a call from the police.{\r}
-Dialogue: 0,1:20:53.81,1:20:55.11,Default,,0,0,0,,你在说什么啊\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What are you talking about?{\r}
-Dialogue: 0,1:20:55.29,1:20:56.97,Default,,0,0,0,,可能我没有表达清楚\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Maybe I'm not being clear.{\r}
-Dialogue: 0,1:20:55.46,1:20:56.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&}汉娜·帕迪\N年龄 二十出头\N出生于3月9日
-Dialogue: 0,1:20:57.06,1:20:58.39,Default,,0,0,0,,这几个月\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}On YouCast,{\r}
-Dialogue: 0,1:20:58.42,1:21:00.46,Default,,0,0,0,,你一直在"换你了"直播网站上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you've been chatting with my daughter{\r}
-Dialogue: 0,1:21:00.49,1:21:01.50,Default,,0,0,0,,和我女儿聊天\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for months.{\r}
-Dialogue: 0,1:21:01.54,1:21:03.95,Default,,0,0,0,,你的网名是"fish_n_chips"\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Your user name is 'fish_n_chips'.{\r}
-Dialogue: 0,1:21:04.01,1:21:06.11,Default,,0,0,0,,你妈妈生病住院\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Your mother was in the hospital.{\r}
-Dialogue: 0,1:21:06.77,1:21:07.99,Default,,0,0,0,,对吧?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Right?{\r}
-Dialogue: 0,1:21:10.54,1:21:12.34,Default,,0,0,0,,什么是"换你了"?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What's youcast?{\r}
-Dialogue: 0,1:21:18.21,1:21:20.25,Default,,0,0,0,,我是罗丝玛莉·维克警探\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You've reached Detective Sergeant Rosemary Vick.{\r}
-Dialogue: 0,1:21:20.28,1:21:21.98,Default,,0,0,0,,请留言 稍后回复您\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Leave a message. I'll get back to you.{\r}
-Dialogue: 0,1:21:22.33,1:21:23.55,Default,,0,0,0,,维克...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Vick...{\r}
-Dialogue: 0,1:21:23.64,1:21:25.56,Default,,0,0,0,,我是大卫·金 我发现一些奇怪的线索\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is David Kim. Something doesn't add up.{\r}
-Dialogue: 0,1:21:25.58,1:21:27.43,Default,,0,0,0,,你收到了就给我回电话 好吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Call me back as soon as you get this, okay?{\r}
-Dialogue: 0,1:21:28.00,1:21:33.03,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs14\pos(265.6,38.979)}皮特·金:嘿 给你本人联系好多次了 试试联系玛戈...
-Dialogue: 0,1:21:34.06,1:21:35.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs14\pos(338.667,25.468)}守夜马上开始了...
-Dialogue: 0,1:21:35.54,1:21:36.56,Default,,0,0,0,,硅谷警局\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}SVPD.{\r}
-Dialogue: 0,1:21:36.59,1:21:39.25,Default,,0,0,0,,喂 我有急事 我必须要和\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hi, yes, this is an emergency. I need to speak to{\r}
-Dialogue: 0,1:21:39.31,1:21:41.66,Default,,0,0,0,,罗丝玛莉·维克警探讲话 请帮我接通一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Detective Rosemary Vick. Can you connect me, please?{\r}
-Dialogue: 0,1:21:41.69,1:21:43.76,Default,,0,0,0,,-先生 我很抱歉 这恐怕不行  -不行\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- I'm sorry, sir, that's not possible. - No.{\r}
-Dialogue: 0,1:21:43.78,1:21:45.21,Default,,0,0,0,,-呃 是有什么事吗  -呃...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Uh, what is this regarding? - Um...{\r}
-Dialogue: 0,1:21:45.35,1:21:48.37,Default,,0,0,0,,我是大卫·金 我需要和罗丝玛莉·维克说话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This is David Kim, I need to speak to Detective Rosemary Vick.{\r}
-Dialogue: 0,1:21:48.39,1:21:50.06,Default,,0,0,0,,哦 金先生\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Oh, Mr. Kim.{\r}
-Dialogue: 0,1:21:50.13,1:21:52.69,Default,,0,0,0,,玛戈的事我很抱歉\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I am so sorry to hear about Margot.{\r}
-Dialogue: 0,1:21:52.74,1:21:55.00,Default,,0,0,0,,我们已经在全力侦破了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We are all so torn up about it here.{\r}
-Dialogue: 0,1:21:55.05,1:21:56.01,Default,,0,0,0,,是 感谢你们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, thank you.{\r}
-Dialogue: 0,1:21:56.03,1:21:57.24,Default,,0,0,0,,尤其是罗丝玛莉\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Especially Rosemary.{\r}
-Dialogue: 0,1:21:57.26,1:21:59.41,Default,,0,0,0,,我还从来没见过谁这么投入一个案子中\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I have never seen someone so invested in a case.{\r}
-Dialogue: 0,1:21:59.45,1:22:00.38,Default,,0,0,0,,是的 我知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Yeah, I know.{\r}
-Dialogue: 0,1:22:00.41,1:22:02.00,Default,,0,0,0,,从她自愿接手这个案子那一刻开始\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}From the moment she volunteered to lead it,{\r}
-Dialogue: 0,1:22:02.03,1:22:03.09,Default,,0,0,0,,-案件的处理  -等等\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- to the way she handled - Wait.{\r}
-Dialogue: 0,1:22:03.11,1:22:04.13,Default,,0,0,0,,调查\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the investigation.{\r}
-Dialogue: 0,1:22:04.15,1:22:05.82,Default,,0,0,0,,以及应对媒体\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And really dealt with the media.{\r}
-Dialogue: 0,1:22:05.89,1:22:08.79,Default,,0,0,0,,喂 等等 她是...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Hey, w-w-wait, she did...{\r}
-Dialogue: 0,1:22:09.66,1:22:11.46,Default,,0,0,0,,你说她是自愿接手?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did you say volunteered?{\r}
-Dialogue: 0,1:22:11.77,1:22:12.85,Default,,0,0,0,,怎么了?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Sorry?{\r}
-Dialogue: 0,1:22:13.02,1:22:15.56,Default,,0,0,0,,你刚说她是自愿接手的?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Y-Y-You said she volunteered.{\r}
-Dialogue: 0,1:22:15.67,1:22:18.30,Default,,0,0,0,,那是不是 不 我一直以为\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Did, no, I-I was led to believe that she...{\r}
-Dialogue: 0,1:22:18.39,1:22:21.17,Default,,0,0,0,,她是被分配到这起案件的 不是吗? 被派来的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she was assigned to the case, right? She was assigned?{\r}
-Dialogue: 0,1:22:21.50,1:22:24.27,Default,,0,0,0,,不 她就是自愿申请的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No. She definitely volunteered.{\r}
-Dialogue: 0,1:22:28.90,1:22:30.51,Default,,0,0,0,,真的很不巧\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Unfortunately though, I,{\r}
-Dialogue: 0,1:22:30.70,1:22:32.93,Default,,0,0,0,,通过调度中心也不能帮你接通\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I still can't patch you through dispatch.{\r}
-Dialogue: 0,1:22:33.10,1:22:36.51,Default,,0,0,0,,她也许正在去玛戈的守夜礼上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She's probably on her way to Margot's vigil, though.{\r}
-Dialogue: 0,1:22:34.00,1:22:36.66,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(127.467,36.134)}罗丝玛莉·维克警探
-Dialogue: 0,1:22:39.19,1:22:42.79,Default,,0,0,0,,你愿意的话 我可以帮你接通她的语音邮箱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}If you'd like, I can connect you to her work voicemail instead.{\r}
-Dialogue: 0,1:22:43.40,1:22:48.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(142.933,58.89)}警探-人民的公仆 罗丝玛莉·维克警探与罪犯一起修建康复治疗诊所
-Dialogue: 0,1:22:53.07,1:22:54.32,Default,,0,0,0,,金先生?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mr. Kim?{\r}
-Dialogue: 0,1:23:08.21,1:23:09.42,Default,,0,0,0,,金先生?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mr. Kim?{\r}
-Dialogue: 0,1:23:19.39,1:23:21.21,Default,,0,0,0,,这样的话 你可不可以...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Actually, can you...{\r}
-Dialogue: 0,1:23:21.71,1:23:23.77,Default,,0,0,0,,帮我连线一下副警长呢\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}connect me to the deputy sheriff, please?{\r}
-Dialogue: 0,1:23:29.33,1:23:33.57,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HD5AE87&\fs10\pos(166.08,99.566)}输入私人直播密码
-Dialogue: 0,1:26:00.36,1:26:04.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\pos(206.4,137.113)}出现了一点问题\N致以最真诚歉意
-Dialogue: 0,1:26:00.36,1:26:04.70,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\pos(130.8,145.113)}同悼葬礼直播公司
-Dialogue: 0,1:26:26.63,1:26:29.26,Default,,0,0,0,,维克女士 已经通知了你的律师\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Ms. Vick, as your counsel was informed,{\r}
-Dialogue: 0,1:26:29.38,1:26:31.88,Default,,0,0,0,,来签署这份文件 你在这将确认\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}by signing this document, you hereby verify{\r}
-Dialogue: 0,1:26:31.91,1:26:33.52,Default,,0,0,0,,一周前被逮捕归案后\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the confession you provide today{\r}
-Dialogue: 0,1:26:33.54,1:26:35.43,Default,,0,0,0,,你所提供的有关你被指控的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}pertaining to the crimes you're accused of{\r}
-Dialogue: 0,1:26:35.46,1:26:37.80,Default,,0,0,0,,罪行的供诉\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}after your arrest one week ago.{\r}
-Dialogue: 0,1:26:38.31,1:26:39.89,Default,,0,0,0,,之后地检署会根据你的指控\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The DA's office will then consider{\r}
-Dialogue: 0,1:26:39.92,1:26:42.56,Default,,0,0,0,,酌情考虑宽大处理的可能\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}leniency in any charges related to the case.{\r}
-Dialogue: 0,1:26:43.46,1:26:45.60,Default,,0,0,0,,包括一级谋杀的指控\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Including first-degree murder.{\r}
-Dialogue: 0,1:26:47.15,1:26:50.67,Default,,0,0,0,,各位观众 现在我们将画面转到加利福尼亚圣何塞\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Excuse us, we're taking you now to San Jose, California,{\r}
-Dialogue: 0,1:26:50.69,1:26:52.23,Default,,0,0,0,,在那儿将报道的是\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}where we're getting word now that{\r}
-Dialogue: 0,1:26:50.70,1:27:07.27,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs14}警探在玛戈·金的守夜上被捕\N正在被遣往硅谷警察局的路上
-Dialogue: 0,1:26:52.31,1:26:56.17,Default,,0,0,0,,一名警探在当地一名青少年的守夜上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}a law enforcement officer has just been taken into custody{\r}
-Dialogue: 0,1:26:56.22,1:26:57.86,Default,,0,0,0,,被逮捕归案\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}at the vigil for a local teen{\r}
-Dialogue: 0,1:26:57.88,1:26:59.81,Default,,0,0,0,,该青少年于上周四失踪\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}who's been missing since last Thursday.{\r}
-Dialogue: 0,1:27:03.67,1:27:05.54,Default,,0,0,0,,我们从五月十一日的周四\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Let's start with Thursday, May 11th,{\r}
-Dialogue: 0,1:27:05.71,1:27:07.46,Default,,0,0,0,,玛戈失踪那天说起\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}when Margot Kim went missing.{\r}
-Dialogue: 0,1:27:08.04,1:27:09.46,Default,,0,0,0,,那晚发生了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What happened that night?{\r}
-Dialogue: 0,1:27:10.33,1:27:11.61,Default,,0,0,0,,我接了一个电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I got a phone call.{\r}
-Dialogue: 0,1:27:11.63,1:27:13.20,Default,,0,0,0,,谁打来的?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And who was calling?{\r}
-Dialogue: 0,1:27:15.41,1:27:16.61,Default,,0,0,0,,我儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}My son.{\r}
-Dialogue: 0,1:27:19.63,1:27:20.74,Default,,0,0,0,,妈妈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mom...{\r}
-Dialogue: 0,1:27:20.97,1:27:22.76,Default,,0,0,0,,我犯了一个大错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I made a big mistake.{\r}
-Dialogue: 0,1:27:22.92,1:27:25.23,Default,,0,0,0,,我想我要报警\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I think I, I need to call 911.{\r}
-Dialogue: 0,1:27:25.29,1:27:26.88,Default,,0,0,0,,你接到电话后做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did you do after hearing the call?{\r}
-Dialogue: 0,1:27:26.93,1:27:28.19,Default,,0,0,0,,我去找他了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I met him.{\r}
-Dialogue: 0,1:27:27.70,1:27:29.17,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(138.667,74.001)}玛戈最后出现的地方
-Dialogue: 0,1:27:28.82,1:27:29.81,Default,,0,0,0,,在哪\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Where?{\r}
-Dialogue: 0,1:27:29.99,1:27:31.28,Default,,0,0,0,,在巴博萨湖附近\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Near Barbosa Lake.{\r}
-Dialogue: 0,1:27:31.36,1:27:33.10,Default,,0,0,0,,他站在峡谷边上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He was standing on the edge of a ravine.{\r}
-Dialogue: 0,1:27:34.06,1:27:36.25,Default,,0,0,0,,你到之后罗伯特跟你说了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did Robert tell you when you got there?{\r}
-Dialogue: 0,1:27:34.36,1:27:37.14,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(177.067,126.801)}巴博萨峡谷
-Dialogue: 0,1:27:36.78,1:27:38.51,Default,,0,0,0,,他说 有一个女孩在下面\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He said, "There's a girl down there."{\r}
-Dialogue: 0,1:27:38.56,1:27:40.77,Default,,0,0,0,,我不小心把她推了下去\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}"I accidentally pushed a girl down there."{\r}
-Dialogue: 0,1:27:41.30,1:27:42.45,Default,,0,0,0,,我问他为什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I asked him why.{\r}
-Dialogue: 0,1:27:42.52,1:27:43.78,Default,,0,0,0,,他说了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did he say?{\r}
-Dialogue: 0,1:27:43.98,1:27:45.01,Default,,0,0,0,,你要知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You need to understand{\r}
-Dialogue: 0,1:27:45.03,1:27:46.89,Default,,0,0,0,,我儿子与其他人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that my son is not like other kids.{\r}
-Dialogue: 0,1:27:46.94,1:27:48.69,Default,,0,0,0,,不一样 他会受伤\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He's different. He can be hurt...{\r}
-Dialogue: 0,1:27:48.71,1:27:50.90,Default,,0,0,0,,他说了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did he say?{\r}
-Dialogue: 0,1:27:53.81,1:27:56.20,Default,,0,0,0,,六个月前罗伯特在一个\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Six months ago, Robert recognized Margot{\r}
-Dialogue: 0,1:27:56.22,1:27:58.15,Default,,0,0,0,,直播网站上发现了玛戈\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}on a live blogging website.{\r}
-Dialogue: 0,1:28:01.76,1:28:03.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(204.267,128.401)}欢迎回来 @fish_n_chips 您的脸书好友@mkmania首次直播
-Dialogue: 0,1:28:01.76,1:28:03.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(165.867,180.135)}进入
-Dialogue: 0,1:28:01.76,1:28:03.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs10\pos(243.067,180.135)}不进入
-Dialogue: 0,1:28:03.03,1:28:05.10,Default,,0,0,0,,他从小学就开始喜欢她了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He'd liked her since grade school.{\r}
-Dialogue: 0,1:28:06.93,1:28:08.33,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs14}XxX5753 {\c&H0000FF&}被屏蔽\N{\c&HFFFFFF&}fish_n_chips {\c&H00FF00&}加入群聊
-Dialogue: 0,1:28:09.67,1:28:10.90,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16}嘿 玛戈
-Dialogue: 0,1:28:10.07,1:28:11.76,Default,,0,0,0,,他很了解她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Knew all about her life.{\r}
-Dialogue: 0,1:28:12.37,1:28:14.77,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16}好奇怪 我们俩都在这里啦
-Dialogue: 0,1:28:16.21,1:28:17.46,Default,,0,0,0,,包括她的爱好\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Her interests.{\r}
-Dialogue: 0,1:28:17.50,1:28:19.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16}最喜欢的口袋妖怪是哪个 为什么
-Dialogue: 0,1:28:20.92,1:28:22.26,Default,,0,0,0,,他做了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, what did he do?{\r}
-Dialogue: 0,1:28:22.40,1:28:24.17,Default,,0,0,0,,{\c&H000000&\fn方正黑体_GBK\pos(222,123.867)}美女图片
-Dialogue: 0,1:28:24.68,1:28:26.10,Default,,0,0,0,,他编了一个故事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Made up a story.{\r}
-Dialogue: 0,1:28:27.83,1:28:29.39,Default,,0,0,0,,一个新身份\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}A new identity.{\r}
-Dialogue: 0,1:28:29.49,1:28:31.72,Default,,0,0,0,,这张 是我在森林里照的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}This one, I took at a forest.{\r}
-Dialogue: 0,1:28:32.10,1:28:33.53,Default,,0,0,0,,那六个月里 他们是朋友\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}For six months, they were friends.{\r}
-Dialogue: 0,1:28:33.66,1:28:36.62,Default,,0,0,0,,你放学后要打二十五个小时的工?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}You work 25 hours on top of school?{\r}
-Dialogue: 0,1:28:37.07,1:28:40.86,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16\pos(221.6,88.933)}工作到我妈离开医院 该死的癌症
-Dialogue: 0,1:28:38.15,1:28:40.73,Default,,0,0,0,,那只是角色扮演 无伤大雅\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was just role-playing. It was harmless.{\r}
-Dialogue: 0,1:28:40.87,1:28:44.77,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16\move(194,59.067,194,85.734,20,287)}我爸今天叫我辍学 交医疗费
-Dialogue: 0,1:28:43.04,1:28:44.40,Default,,0,0,0,,直到那笔钱\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Until the money.{\r}
-Dialogue: 0,1:28:45.14,1:28:49.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(277.6,97.466)}玛戈·金向您支付了2500美元
-Dialogue: 0,1:28:45.85,1:28:48.20,Default,,0,0,0,,她在Venmo小额转账上找到了他的账号\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She found his user name on Venmo.{\r}
-Dialogue: 0,1:28:49.02,1:28:52.77,Default,,0,0,0,,给他转了2500美金的住院费\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She sent $2,500 to cover hospital expenses.{\r}
-Dialogue: 0,1:28:53.46,1:28:55.60,Default,,0,0,0,,但那住院费不存在\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Expenses that didn't exist.{\r}
-Dialogue: 0,1:28:56.42,1:28:58.09,Default,,0,0,0,,她是个好女孩\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She was a good kid.{\r}
-Dialogue: 0,1:28:58.47,1:29:00.78,Default,,0,0,0,,所以他决定把钱还给她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So he decided to give her money back.{\r}
-Dialogue: 0,1:29:01.84,1:29:04.03,Default,,0,0,0,,他得坦白 这一切都结束了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He had to come clean. It was over.{\r}
-Dialogue: 0,1:29:04.88,1:29:06.75,Default,,0,0,0,,他为什么不在学校给她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why didn't he just give it to her in school?{\r}
-Dialogue: 0,1:29:07.46,1:29:10.78,Default,,0,0,0,,玛戈可能会在公众场合做出过激的反应\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot could have reacted the wrong way in public.{\r}
-Dialogue: 0,1:29:11.37,1:29:13.81,Default,,0,0,0,,罗伯特不想这样\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Robert does not like that kind of attention.{\r}
-Dialogue: 0,1:29:16.82,1:29:18.19,Default,,0,0,0,,所以他跟踪她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So he followed her.{\r}
-Dialogue: 0,1:29:19.56,1:29:20.88,Default,,0,0,0,,他跟踪她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He followed her.{\r}
-Dialogue: 0,1:29:21.63,1:29:23.53,Default,,0,0,0,,当你儿子到了湖边\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And what was Margot doing{\r}
-Dialogue: 0,1:29:23.56,1:29:25.11,Default,,0,0,0,,玛戈在做什么?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}when your son arrived at the lake?{\r}
-Dialogue: 0,1:29:25.22,1:29:27.05,Default,,0,0,0,,她在车里嗑嗨了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Getting high in her car.{\r}
-Dialogue: 0,1:29:27.17,1:29:28.28,Default,,0,0,0,,然后呢\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Then what happened?{\r}
-Dialogue: 0,1:29:28.34,1:29:29.60,Default,,0,0,0,,他进到车里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He got in.{\r}
-Dialogue: 0,1:29:29.68,1:29:31.75,Default,,0,0,0,,她尖叫着打他\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She screamed. She hit him.{\r}
-Dialogue: 0,1:29:31.87,1:29:33.50,Default,,0,0,0,,当时他还没意识到他在流血\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Before he could even realize that he was bleeding,{\r}
-Dialogue: 0,1:29:33.59,1:29:35.40,Default,,0,0,0,,她逃走了 打电话求助\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}she was running, calling for help.{\r}
-Dialogue: 0,1:29:35.43,1:29:36.44,Default,,0,0,0,,他去追她了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But he ran after her.{\r}
-Dialogue: 0,1:29:36.49,1:29:37.80,Default,,0,0,0,,那里漆黑一片\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was pitch black.{\r}
-Dialogue: 0,1:29:42.25,1:29:43.80,Default,,0,0,0,,他没有想过伤害她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He was not trying to hurt her.{\r}
-Dialogue: 0,1:29:43.88,1:29:45.61,Default,,0,0,0,,他试着解释\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He was trying to explain.{\r}
-Dialogue: 0,1:29:45.77,1:29:48.87,Default,,0,0,0,,但她在打他 尖叫着 然后他\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But she was punching him and screaming, and he...{\r}
-Dialogue: 0,1:29:48.99,1:29:50.46,Default,,0,0,0,,他就还手了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He just, he reacted.{\r}
-Dialogue: 0,1:29:50.53,1:29:52.30,Default,,0,0,0,,他 他推了一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He-He pushed back.{\r}
-Dialogue: 0,1:29:53.56,1:29:55.10,Default,,0,0,0,,她就掉下去了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And she fell.{\r}
-Dialogue: 0,1:29:56.42,1:29:57.45,Default,,0,0,0,,就\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Just...{\r}
-Dialogue: 0,1:29:58.59,1:29:59.99,Default,,0,0,0,,就不见了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Just disappeared.{\r}
-Dialogue: 0,1:30:02.67,1:30:04.30,Default,,0,0,0,,然后你儿子给你打电话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, your son calls you.{\r}
-Dialogue: 0,1:30:04.54,1:30:06.51,Default,,0,0,0,,问你怎么掩盖一场谋杀\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Asked you to help cover up a murder.{\r}
-Dialogue: 0,1:30:06.59,1:30:08.11,Default,,0,0,0,,不 不\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}No. No.{\r}
-Dialogue: 0,1:30:08.99,1:30:10.45,Default,,0,0,0,,是我决定的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was my decision.{\r}
-Dialogue: 0,1:30:10.56,1:30:12.72,Default,,0,0,0,,宝贝 你不要打给任何人\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Baby, I don't want you calling anyone.{\r}
-Dialogue: 0,1:30:12.92,1:30:14.74,Default,,0,0,0,,妈妈会解决一切的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Mommy's gonna take care of everything.{\r}
-Dialogue: 0,1:30:14.91,1:30:16.52,Default,,0,0,0,,是我的决定\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was my decision.{\r}
-Dialogue: 0,1:30:16.63,1:30:19.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16\pos(149.2,192.4)}最新消息 玛戈·金一案嫌疑人被捕
-Dialogue: 0,1:30:17.92,1:30:19.25,Default,,0,0,0,,不是他的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Not his.{\r}
-Dialogue: 0,1:30:20.25,1:30:22.24,Default,,0,0,0,,你向峡谷下方看\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, now, you're looking down a ravine.{\r}
-Dialogue: 0,1:30:22.57,1:30:24.57,Default,,0,0,0,,-你下去了吗  -我尝试了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}- Did you go down? - I tried.{\r}
-Dialogue: 0,1:30:24.63,1:30:27.50,Default,,0,0,0,,但峡谷又窄又崎岖 没有搜救队是下不去的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But it was narrow, jagged, impossible without SAR.{\r}
-Dialogue: 0,1:30:27.53,1:30:28.87,Default,,0,0,0,,那你怎么知道\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, how did you figure that...{\r}
-Dialogue: 0,1:30:28.96,1:30:30.19,Default,,0,0,0,,她已经死了?\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}That she was dead?{\r}
-Dialogue: 0,1:30:30.26,1:30:31.89,Default,,0,0,0,,峡谷又窄又崎岖\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was narrow, jagged,{\r}
-Dialogue: 0,1:30:31.92,1:30:34.57,Default,,0,0,0,,至少有五十尺深\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and at least 50 feet to rock bottom.{\r}
-Dialogue: 0,1:30:35.39,1:30:37.23,Default,,0,0,0,,而且一片死寂\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And it was dead quiet.{\r}
-Dialogue: 0,1:30:38.03,1:30:39.60,Default,,0,0,0,,所以你帮了你的儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, you helped your son.{\r}
-Dialogue: 0,1:30:41.45,1:30:43.18,Default,,0,0,0,,我把车丢到湖里\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I dumped the car in the lake.{\r}
-Dialogue: 0,1:30:43.35,1:30:45.38,Default,,0,0,0,,然后接手了这次案件的调查权\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And took charge of the investigation.{\r}
-Dialogue: 0,1:30:46.24,1:30:48.51,Default,,0,0,0,,我让大卫相信他的女儿逃走了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I convinced David his daughter ran away.{\r}
-Dialogue: 0,1:30:49.65,1:30:52.09,Default,,0,0,0,,骗他说鉴证科有玛戈的硬盘\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Said forensics had Margot's hard drive.{\r}
-Dialogue: 0,1:30:49.80,1:30:51.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H1819E4&\fs16\move(121.2,243.6,120.8,162.534,23,23)}注销账号
-Dialogue: 0,1:30:51.60,1:30:53.96,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(201.2,129.999)}这个账号已经注销
-Dialogue: 0,1:30:53.80,1:30:55.28,Default,,0,0,0,,然后告诉执法队\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And told the law enforcement team{\r}
-Dialogue: 0,1:30:55.30,1:30:58.07,Default,,0,0,0,,我们排除了那片有她尸体的区域的嫌疑\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we'd already cleared the zone I knew her body was in.{\r}
-Dialogue: 0,1:30:58.56,1:31:00.11,Default,,0,0,0,,但找到她\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But still, it was only a matter of time{\r}
-Dialogue: 0,1:31:00.14,1:31:01.80,Default,,0,0,0,,只是时间问题\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}before they'd found the spot.{\r}
-Dialogue: 0,1:31:03.05,1:31:05.26,Default,,0,0,0,,这就是为什么我需要一个人来坦白\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Which is why I needed a confession.{\r}
-Dialogue: 0,1:31:07.40,1:31:09.99,Default,,0,0,0,,这是唯一能让调查终止的东西\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}It was the only thing that would make it stop.{\r}
-Dialogue: 0,1:31:10.76,1:31:13.20,Default,,0,0,0,,所以你用毒品收买了你认识的一个前科犯\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So you drugged up an ex-con you knew,{\r}
-Dialogue: 0,1:31:13.30,1:31:14.64,Default,,0,0,0,,让他演一个剧本\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}fed him a script.{\r}
-Dialogue: 0,1:31:17.24,1:31:19.20,Default,,0,0,0,,他真的自杀了吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Was it really a suicide?{\r}
-Dialogue: 0,1:31:24.95,1:31:26.51,Default,,0,0,0,,他是我儿子\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He's my son.{\r}
-Dialogue: 0,1:31:29.40,1:31:38.07,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs16\pos(192.4,11.6)}加州警探全力保护儿子免受重罪指控\N圣何塞市前警探罗丝玛莉·维克签署"法律协议"\N愿意全部坦白 来减轻对她儿子的指控\N"没有其他选择"
-Dialogue: 0,1:31:30.91,1:31:34.02,Default,,0,0,0,,你知道监狱会对他有多大的影响吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Do you know what prison would do to someone like him?{\r}
-Dialogue: 0,1:31:40.17,1:31:41.67,Default,,0,0,0,,他犯了一个错\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He made a mistake.{\r}
-Dialogue: 0,1:31:48.43,1:31:50.07,Default,,0,0,0,,那些刚刚坐下的观众听好了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}For those of you just joining,{\r}
-Dialogue: 0,1:31:50.11,1:31:53.67,Default,,0,0,0,,我们现在正跟随着转移维克警探的警车\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we are now following the police SUV transporting Detective Vick{\r}
-Dialogue: 0,1:31:53.76,1:31:55.26,Default,,0,0,0,,而金女士的爸爸...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}and the father of Ms. Kim...{\r}
-Dialogue: 0,1:31:55.34,1:31:57.70,Default,,0,0,0,,所以在你被捕后  在去警局的路上\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}So, after your arrest, on your way to the station,{\r}
-Dialogue: 0,1:31:57.78,1:31:59.45,Default,,0,0,0,,你没有跟任何人说话\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}you didn't say a word to anyone{\r}
-Dialogue: 0,1:31:59.48,1:32:01.00,Default,,0,0,0,,直到金先生问你\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}until Mr. Kim asked you,{\r}
-Dialogue: 0,1:32:01.09,1:32:03.13,Default,,0,0,0,,他的女儿是不是真的死了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}was his daughter actually dead.{\r}
-Dialogue: 0,1:32:03.46,1:32:04.80,Default,,0,0,0,,你对他说了什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}What did you tell him?{\r}
-Dialogue: 0,1:32:04.91,1:32:07.29,Default,,0,0,0,,我说即使玛戈在摔下去之后没有死\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}I said even if Margot had survived the fall she took,{\r}
-Dialogue: 0,1:32:07.38,1:32:08.62,Default,,0,0,0,,也无济于事\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}it wouldn't have mattered.{\r}
-Dialogue: 0,1:32:08.82,1:32:11.74,Default,,0,0,0,,她仍然需要在没有水的情况下活五天\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She still would've had to live five days without water.{\r}
-Dialogue: 0,1:32:12.43,1:32:13.93,Default,,0,0,0,,大卫是什么反应\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And how did David respond?{\r}
-Dialogue: 0,1:32:14.53,1:32:15.92,Default,,0,0,0,,车队现在正到达...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The procession is now approaching...{\r}
-Dialogue: 0,1:32:15.98,1:32:17.84,Default,,0,0,0,,他让他们调头\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He told them to turn the car around.{\r}
-Dialogue: 0,1:32:19.68,1:32:21.03,Default,,0,0,0,,为什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Why?{\r}
-Dialogue: 0,1:32:22.93,1:32:24.87,Default,,0,0,0,,他说已经过去两天了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}He said it had been two days.{\r}
-Dialogue: 0,1:32:25.00,1:32:27.52,Default,,0,0,0,,而且  等一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And uh, hold on a second...{\r}
-Dialogue: 0,1:32:27.66,1:32:30.62,Default,,0,0,0,,她只需要在没有水的情况下活两天\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}She'd only have to live without water for two days.{\r}
-Dialogue: 0,1:32:31.23,1:32:33.83,Default,,0,0,0,,他们似乎调头了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And it looks as though they're making a u-turn...{\r}
-Dialogue: 0,1:32:34.06,1:32:36.21,Default,,0,0,0,,周一的时候下了一场暴雨\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}There was a storm on Monday.{\r}
-Dialogue: 0,1:32:46.08,1:32:48.30,Default,,0,0,0,,我们现在正在收看\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We are currently watching live footage{\r}
-Dialogue: 0,1:32:48.33,1:32:49.96,Default,,0,0,0,,由湾区的第二现场发来的\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}from our affiliates in the Bay Area{\r}
-Dialogue: 0,1:32:50.00,1:32:53.19,Default,,0,0,0,,对失踪青少年玛戈·金的实时营救画面\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}of a recovery operation for missing teen, Margot Kim{\r}
-Dialogue: 0,1:32:53.21,1:32:54.71,Default,,0,0,0,,警方现确认其方位\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}who authorities now believe{\r}
-Dialogue: 0,1:32:54.74,1:32:57.27,Default,,0,0,0,,在这个北加州峡谷的谷底\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is at the bottom of this Northern California ravine.{\r}
-Dialogue: 0,1:32:57.30,1:32:59.17,Default,,0,0,0,,被疑死亡仅几个小时\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Presumed dead only hours ago,{\r}
-Dialogue: 0,1:32:59.23,1:33:02.48,Default,,0,0,0,,对玛戈·金的搜救在今天晚上重新启动\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}the search for Margot Kim is revitalized this evening.{\r}
-Dialogue: 0,1:33:02.53,1:33:05.59,Default,,0,0,0,,嫌疑犯落网后提供给了警方\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}After a suspect in custody has provided authorities{\r}
-Dialogue: 0,1:33:05.61,1:33:08.05,Default,,0,0,0,,金女士的确切方位\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}with Ms. Kim's exact location.{\r}
-Dialogue: 0,1:33:08.11,1:33:12.19,Default,,0,0,0,,现在唯一的疑问就是  玛戈还活着吗\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}The only question that remains: Is Margot still alive?{\r}
-Dialogue: 0,1:33:12.30,1:33:14.59,Default,,0,0,0,,还是说已经太迟了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Or is it already too late?{\r}
-Dialogue: 0,1:33:14.67,1:33:16.87,Default,,0,0,0,,我们持续关注地面情况\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}We are continuing to monitor the ground{\r}
-Dialogue: 0,1:33:16.90,1:33:19.91,Default,,0,0,0,,大家似乎仍在等待\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}as it appears that everyone is still just waiting{\r}
-Dialogue: 0,1:33:19.93,1:33:22.01,Default,,0,0,0,,下方营救队的最新消息\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}for any update on the operation below.{\r}
-Dialogue: 0,1:33:22.03,1:33:23.86,Default,,0,0,0,,但  等等  等一下\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But hold on, hold on...{\r}
-Dialogue: 0,1:33:23.90,1:33:25.18,Default,,0,0,0,,我们刚刚收到消息\NWe‘re just getting word now
-Dialogue: 0,1:33:25.22,1:33:27.30,Default,,0,0,0,,救援人员开始爬坡\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that rescue responders are beginning an ascent.{\r}
-Dialogue: 0,1:33:27.38,1:33:28.73,Default,,0,0,0,,重申一遍  各位观众\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Uh, again, for our viewers,{\r}
-Dialogue: 0,1:33:28.78,1:33:30.21,Default,,0,0,0,,我们不知道接下来会看到什么\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}we do not know what we're about to see{\r}
-Dialogue: 0,1:33:30.24,1:33:31.78,Default,,0,0,0,,我们看到了一点\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}here as we get a peek around...{\r}
-Dialogue: 0,1:33:31.88,1:33:34.53,Default,,0,0,0,,她在那  我们现在得到了一个更近的视野\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And there she is. We are getting a closer look now{\r}
-Dialogue: 0,1:33:34.60,1:33:37.49,Default,,0,0,0,,两名救援人员正在将包着玛戈·金的救援袋\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}as two rescue responders are pulling up what appears to be{\r}
-Dialogue: 0,1:33:37.57,1:33:41.57,Default,,0,0,0,,向山谷的顶部拉起\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Margot Kim in-in a body basket to the top of this ravine here...{\r}
-Dialogue: 0,1:33:41.65,1:33:43.18,Default,,0,0,0,,再一次提醒我们的观众们\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Again, we just want to warn our viewers{\r}
-Dialogue: 0,1:33:43.22,1:33:46.12,Default,,0,0,0,,我们并不知道她现在的情况\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}that we do not know what state she's in.{\r}
-Dialogue: 0,1:33:46.19,1:33:48.37,Default,,0,0,0,,我们的镜头来到玛戈爸爸那边\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}As we get a look at Margot's father there...{\r}
-Dialogue: 0,1:33:48.41,1:33:50.69,Default,,0,0,0,,他们正在向顶部攀升\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}But they are making their way up to the top.{\r}
-Dialogue: 0,1:33:50.72,1:33:52.91,Default,,0,0,0,,看起来救援人员已经把她拉上来了\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And it looks like responders have gotten her up.{\r}
-Dialogue: 0,1:33:53.01,1:33:55.32,Default,,0,0,0,,再次重申 还没有关于她状况的任何消息\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Again, no word yet as to her status...{\r}
-Dialogue: 0,1:33:55.39,1:33:56.71,Default,,0,0,0,,可以看到她的爸爸\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}And there, you can see her father{\r}
-Dialogue: 0,1:33:56.73,1:33:58.54,Default,,0,0,0,,搜救队似乎正在准备\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}as it appears that Search and Rescue{\r}
-Dialogue: 0,1:33:58.56,1:34:01.13,Default,,0,0,0,,将玛戈·金的救援袋\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is now preparing to lift Margot's body basket{\r}
-Dialogue: 0,1:34:01.15,1:34:03.06,Default,,0,0,0,,抬上他们事先准备好的担架\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}onto a stretcher they've just prepared.{\r}
-Dialogue: 0,1:34:03.09,1:34:05.06,Default,,0,0,0,,重申  这里是实时画面\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}Again, this is live footage here{\r}
-Dialogue: 0,1:34:05.09,1:34:08.47,Default,,0,0,0,,于上周失踪的玛戈·金\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}as Margot Kim, who has been missing for the last week{\r}
-Dialogue: 0,1:34:08.51,1:34:11.87,Default,,0,0,0,,正在被抬上...\N{\c&H0091EC&\fnMicrosoft YaHei\fs14}is now being lifted onto...{\r}
-Dialogue: 0,1:34:40.86,1:34:45.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(186.4,9.466)}有什么消息吗
-Dialogue: 0,1:34:52.03,1:34:54.16,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(218,182.266)}没 我刚查过邮箱
-Dialogue: 0,1:35:00.20,1:35:02.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs9\pos(220,21.199)}帕洛阿尔托大学音乐学院
-Dialogue: 0,1:35:03.13,1:35:04.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HC4C864&\fs16\pos(226.8,106.533)}申请状态
-Dialogue: 0,1:35:04.53,1:35:07.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(190.8,70.266)}您{\c&HC4C864&\b1}钢琴{\c&H000000&}课的申请
-Dialogue: 0,1:35:07.90,1:35:10.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(190.8,164.133)}正在审核中
-Dialogue: 0,1:35:11.43,1:35:13.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(117.2,197.199)}对了
-Dialogue: 0,1:35:13.90,1:35:16.23,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(236.8,200.399)}那张照片我还没发给你呢
-Dialogue: 0,1:35:16.40,1:35:17.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(136.8,228.666)}什么照片
-Dialogue: 0,1:35:17.60,1:35:19.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs14\frz30.62\frx10\fry322\pos(220.4,15.332)}欢迎回来
-Dialogue: 0,1:35:17.60,1:35:19.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs10\frz7.831\pos(226.4,65.465)\frx6\fry314}埃弗克里克中学
-Dialogue: 0,1:35:20.36,1:35:22.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(191.467,227.421)}哦爸爸 我看上去好丑
-Dialogue: 0,1:35:24.53,1:35:25.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(136,196.132)}开玩笑吧!!
-Dialogue: 0,1:35:25.50,1:35:27.00,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(150.933,228.843)}不聊了
-Dialogue: 0,1:35:27.93,1:35:35.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(190.8,105.11)}您{\c&HC4C864&\b1}钢琴{\c&H000000&}课的申请
-Dialogue: 0,1:35:27.93,1:35:35.40,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(190.8,184.755)}正在审核中
-Dialogue: 0,1:35:35.50,1:35:37.10,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(195.067,199.688)}完全理解
-Dialogue: 0,1:35:37.26,1:35:38.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(295.333,204.666)}不要一直刷新申请网页啦
-Dialogue: 0,1:35:38.90,1:35:40.50,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(240.933,230.977)}我没有
-Dialogue: 0,1:35:43.30,1:35:44.80,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(135.333,201.822)}好吧
-Dialogue: 0,1:35:46.40,1:35:47.60,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(109.2,201.111)}对了
-Dialogue: 0,1:35:48.30,1:35:50.53,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(204.667,199.688)}我为你感到骄傲
-Dialogue: 0,1:35:59.23,1:36:03.06,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs29\pos(187.067,131.421)}妈妈也是
-Dialogue: 0,1:36:07.76,1:36:11.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs20\pos(120.934,128.577)}谢谢你 老爸
-Dialogue: 0,1:36:12.70,1:36:14.26,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(123.6,216.755)}好啦 真的不和你聊了
-Dialogue: 0,1:36:16.66,1:36:18.46,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\pos(171.6,208.933)}今晚见
-Dialogue: 0,1:36:20.73,1:36:21.73,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&HFFFFFF&\fs15\pos(82.533,164.133)}关机
-Dialogue: 0,1:36:25.76,1:36:26.76,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs9\pos(173.733,152.755)}取消关机
-Dialogue: 0,1:36:30.90,1:36:32.30,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs16\move(303.867,241.644,303.334,125.733,23,823)}将图片设为桌面
-Dialogue: 0,1:36:34.83,1:36:35.83,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs18\pos(192.4,150.622)}关机
-Dialogue: 0,1:36:36.23,1:36:39.43,Default,,0,0,0,,{\an8\fn方正黑体_GBK\c&H000000&\fs20\pos(180.667,90.888)}确认关机
-Dialogue: 0,1:37:41.80,1:37:45.83,Default,,0,0,0,,{\fad(000,933)\an8\fn方正黑体_GBK\fs19\pos(317.2,151.866)}网络迷踪
+4
+00:01:42,660 --> 00:01:44,640
+这儿是宿舍吗
+Am I in a dorm room?
+
+5
+00:01:45,840 --> 00:01:47,970
+是的
+Uh... yeah.
+
+6
+00:01:51,420 --> 00:01:53,540
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+7
+00:01:53,740 --> 00:01:55,860
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+8
+00:02:00,950 --> 00:02:02,280
+我的衣服呢
+Where are my clothes?
+
+9
+00:02:02,680 --> 00:02:04,030
+就在梳妆台上
+On the dresser.
+
+10
+00:02:09,030 --> 00:02:11,910
+我昨晚把你的裤子叠好了放在这儿了
+I folded your pants last night.
+
+11
+00:02:12,110 --> 00:02:14,080
+我不确定
+And I wasn't sure if that material
+
+12
+00:02:14,580 --> 00:02:15,980
+它会不会起皱
+gets wrinkled.
+
+13
+00:02:16,000 --> 00:02:17,280
+很好
+Great.
+
+14
+00:02:20,250 --> 00:02:22,550
+你可能都不记得我叫什么了吧
+Don't know if you remember my name or not.
+
+15
+00:02:22,750 --> 00:02:24,170
+昨晚真是喝多了
+Uh, pretty wasted last night
+
+16
+00:02:24,180 --> 00:02:25,920
+- 你有泰诺吗 – 你说什么
+- Got Tylenol? - What?
+
+17
+00:02:26,120 --> 00:02:30,000
+我头疼得厉害 你这儿有没有泰诺
+Ugh. My head is killing me. Do you have any Tylenol?
+
+18
+00:02:30,200 --> 00:02:31,300
+有
+Yes...
+
+19
+00:02:31,800 --> 00:02:33,200
+应该有
+I do.
+
+20
+00:02:34,300 --> 00:02:36,000
+你等一下
+Uh, sorry.
+
+21
+00:02:43,200 --> 00:02:44,700
+谢谢
+Thanks.
+
+22
+00:02:47,000 --> 00:02:48,340
+那个
+I'm Carter.
+
+23
+00:02:48,350 --> 00:02:49,540
+我叫卡特
+By the way.
+
+24
+00:02:51,740 --> 00:02:53,950
+这事儿不许和别人说 明白了吗
+Not a word of this to anyone. Got it?
+
+25
+00:02:56,250 --> 00:02:57,470
+明白
+Yeah.
+
+26
+00:02:57,890 --> 00:02:58,900
+绝对不会的
+Sure.
+
+27
+00:03:00,900 --> 00:03:03,520
+哥们儿 你有没有把那个大美妞办了
+Dude, you hit that fine vagine or what?
+
+28
+00:03:10,670 --> 00:03:11,960
+瞧你干的好事儿 你个智障
+Nice one, dickhead.
+
+29
+00:03:28,560 --> 00:03:29,660
+你好
+Hey.
+
+30
+00:03:30,760 --> 00:03:32,280
+阻止全球变暖
+Stop global warming?
+
+31
+00:03:36,870 --> 00:03:38,200
+我的天啊
+- Oh! - Oh!
+
+32
+00:03:39,300 --> 00:03:40,500
+快点儿
+Come on.
+
+33
+00:03:41,300 --> 00:03:43,290
+♪ 还剩63瓶 ♪
+♪ 63 bottles of beer on the wall. ♪
+
+34
+00:03:46,490 --> 00:03:48,390
+才26小时 你们就这点儿能耐吗
+26 hours, that's all you got?
+
+35
+00:03:49,090 --> 00:03:50,640
+大点儿声
+I can't hear you!
+
+36
+00:03:51,840 --> 00:03:53,770
+♪ 还剩62瓶 ♪
+♪ 62 bottles of beer ♪
+
+37
+00:03:53,970 --> 00:03:55,920
+♪ 又干掉一瓶 往下传 ♪
+♪ Take one down, pass it around ♪
+
+38
+00:03:56,120 --> 00:03:57,460
+继续
+Keep going!
+
+39
+00:04:05,760 --> 00:04:06,940
+嗨
+Hey.
+
+40
+00:04:08,240 --> 00:04:09,340
+你好
+Hi.
+
+41
+00:04:10,240 --> 00:04:12,000
+我给你发的短信你一条都没回
+You haven't returned any of my texts.
+
+42
+00:04:12,700 --> 00:04:15,270
+是啊 抱歉 最近有点忙
+Yeah. Sorry, I've been busy.
+
+43
+00:04:16,870 --> 00:04:18,680
+嗯 看出来了
+Yeah. I can see that.
+
+44
+00:04:18,880 --> 00:04:20,840
+好吧 听着蒂姆 我们是约会过一次
+Okay, Tim, we went on a date.
+
+45
+00:04:21,340 --> 00:04:22,520
+也就那么一次而已
+One.
+
+46
+00:04:23,220 --> 00:04:25,440
+我没必要给你回短信 我们之间什么都算不上
+I don't have to text you back. We're not like a thing.
+
+47
+00:04:25,640 --> 00:04:27,180
+好吧 我只是…
+Okay. I just...
+
+48
+00:04:27,380 --> 00:04:29,180
+那个 我以为上次我们在一起玩得还蛮开心的
+You know, I figured we had a nice time.
+
+49
+00:04:29,180 --> 00:04:30,760
+是你觉得开心
+You had a nice time.
+
+50
+00:04:30,960 --> 00:04:32,280
+我觉得简直是悲哀
+I was miserable.
+
+51
+00:04:32,480 --> 00:04:35,020
+谁会在第一次和女孩约会的时候 带她去赛百味
+I mean, who takes their first date to Subway?
+
+52
+00:04:35,320 --> 00:04:37,670
+你的那话儿还没他们家的热狗长
+It's not like you have a footlong.
+
+53
+00:04:57,970 --> 00:04:59,170
+碍着你什么事了
+Does this look infected to you?
+
+54
+00:05:01,870 --> 00:05:03,200
+谁喝了我的酒
+Someone drank my booze.
+
+55
+00:05:03,900 --> 00:05:05,240
+又没盖盖儿 还以为你不喝了呢
+It's open!
+
+56
+00:05:05,240 --> 00:05:07,240
+是啊 当然
+Yeah Of course
+
+57
+00:05:09,870 --> 00:05:11,030
+我的天啊
+Oh, my God.
+
+58
+00:05:11,230 --> 00:05:13,000
+你这个小婊砸鬼鬼祟祟地
+You sneaky little biotch.
+
+59
+00:05:13,050 --> 00:05:14,250
+说 他是谁
+Who was it?
+
+60
+00:05:15,050 --> 00:05:16,550
+没谁
+Nobody.
+
+61
+00:05:16,750 --> 00:05:17,930
+姐妹之间不应该有秘密
+Sisters don't keep secrets.
+
+62
+00:05:18,130 --> 00:05:19,950
+真的没有
+Seriously, it was nobody.
+
+63
+00:05:20,150 --> 00:05:22,990
+那好吧 但愿你那个“没谁”戴了套
+Well, I hope nobody used a condom.
+
+64
+00:05:23,190 --> 00:05:25,400
+我可不想我们里面出个荡妇
+We don't want somebody looking like a whore.
+
+65
+00:05:25,600 --> 00:05:27,880
+谢了 丹妮尔 多谢关心
+Thanks, Danielle. Super helpful.
+
+66
+00:05:27,880 --> 00:05:29,080
+谁让咱是好姐妹呢
+What are sisters for?
+
+67
+00:05:29,280 --> 00:05:32,190
+对了 别忘了宿舍午餐会
+Oh, and don't forget. House meeting at lunch.
+
+68
+00:05:32,190 --> 00:05:33,490
+放心吧 死都忘不了
+Living for it.
+
+69
+00:05:38,690 --> 00:05:40,120
+某人总算是回来了
+She finally rolls in.
+
+70
+00:05:43,420 --> 00:05:45,590
+我昨天晚上是不是又出糗了
+Did I totally embarrass myself last night?
+
+71
+00:05:45,790 --> 00:05:47,190
+没有的事儿
+Not at all.
+
+72
+00:05:47,790 --> 00:05:49,070
+也就是
+Unless you consider
+
+73
+00:05:49,270 --> 00:05:51,590
+在桌子上狂歌乱舞 打了两场架
+dancing on a table, starting two fights,
+
+74
+00:05:51,590 --> 00:05:54,100
+把椒盐脆饼块吐的到处都是
+and barfing pretzel chunks all over the bar embarrassing.
+
+75
+00:05:54,110 --> 00:05:55,660
+快告诉我这不是真的
+Please, tell me you're kidding.
+
+76
+00:05:56,360 --> 00:05:58,750
+还有 你昨天还和尼克西姆斯上演了一场法式深吻真人秀
+Oh, and you also rammed your tongue down Nick Sims' throat
+
+77
+00:05:58,760 --> 00:06:00,270
+就当着丹妮尔的面
+right in front of Danielle.
+
+78
+00:06:00,470 --> 00:06:04,200
+天啊 不过她刚才还关心我来着
+Oh, God, but she was so nice to me this morning.
+
+79
+00:06:04,210 --> 00:06:06,130
+是啊 估计她昨天也喝高了
+Yeah, I think she was as drunk as you last night.
+
+80
+00:06:06,130 --> 00:06:07,940
+就当是集体失忆吧
+So, consider it collective amnesia.
+
+81
+00:06:07,940 --> 00:06:09,420
+老天保佑
+Thank God for that.
+
+82
+00:06:11,720 --> 00:06:13,200
+我的天 糟糕
+Oh, crap.
+
+83
+00:06:13,200 --> 00:06:14,650
+上课要迟到了
+I'm so late for class.
+
+84
+00:06:18,500 --> 00:06:20,820
+我的书呢
+Can't find my damn book!
+
+85
+00:06:27,040 --> 00:06:29,230
+别以为你不说我就不知道
+Did you really think you could keep it a secret from me?
+
+86
+00:06:29,300 --> 00:06:30,660
+你是怎么发现的
+How did you find out?
+
+87
+00:06:30,660 --> 00:06:31,860
+驾照上有出生日期
+Driver's license.
+
+88
+00:06:32,060 --> 00:06:33,460
+另外 那张证件照真不咋地
+Not the best picture, I might add.
+
+89
+00:06:33,660 --> 00:06:35,330
+我的手机铃声也是你改的吧
+I assume you changed my ringer too.
+
+90
+00:06:35,330 --> 00:06:36,430
+我吗
+Who me?
+
+91
+00:06:36,530 --> 00:06:37,630
+绝对不是我
+Never.
+
+92
+00:06:43,300 --> 00:06:44,500
+许的什么愿
+What'd you wish for?
+
+93
+00:06:44,510 --> 00:06:45,770
+换个室友
+A new roommate.
+
+94
+00:06:45,770 --> 00:06:47,170
+天真
+Wench.
+
+95
+00:06:49,570 --> 00:06:51,180
+我好不容易才学会做的
+I made that from scratch!
+
+96
+00:06:51,480 --> 00:06:52,900
+对不起啦 蛋糕热量太高了
+Sorry, too many carbs.
+
+97
+00:06:53,100 --> 00:06:54,300
+拜拜
+Toodles.
+
+98
+00:06:54,800 --> 00:06:57,650
+对这种物质的活性响应水平检测表明
+Locomotive response in the subject shows
+
+99
+00:06:57,860 --> 00:07:00,220
+存在量子平面的加速现象
+an acceleration across quantum plane.
+
+100
+00:07:01,850 --> 00:07:04,680
+这导致了部分显正价β碳离子
+This creates greater orbital overlap
+
+101
+00:07:04,680 --> 00:07:07,580
+和显负价羟基对之间
+between the partially positive beta carbon
+
+102
+00:07:07,780 --> 00:07:11,260
+存在着大量分子轨道交叠
+and the partially negative hydrogen alkalI group.
+
+103
+00:07:12,360 --> 00:07:13,390
+谢谢
+Thanks.
+
+104
+00:07:13,660 --> 00:07:16,710
+大赛在即 弘扬校风
+Get your school spirit on before the big game.
+
+105
+00:07:16,910 --> 00:07:19,530
+学生证9折
+10% off with your student ID.
+
+106
+00:07:19,540 --> 00:07:20,730
+都听明白了吗
+Okay?
+
+107
+00:07:20,930 --> 00:07:22,490
+此外 我们还要进行今年的慈善项目遴选
+And we still need to pick this year's charity.
+
+108
+00:07:22,500 --> 00:07:23,690
+就目前而言
+I can say right now,
+
+109
+00:07:23,890 --> 00:07:25,120
+我们不能再举办
+There's no way we're doing
+
+110
+00:07:25,120 --> 00:07:26,400
+面向残障人士的艺展活动了
+the special needs art fair again.
+
+111
+00:07:26,600 --> 00:07:27,600
+我简直是吓尿了
+Totally freaked my shit out.
+
+112
+00:07:27,800 --> 00:07:29,060
+你们说呢
+Thoughts?
+
+113
+00:07:34,360 --> 00:07:35,530
+怎么啦
+What's wrong?
+
+114
+00:07:35,730 --> 00:07:37,010
+我也不知道
+Oh, I don't know...
+
+115
+00:07:37,210 --> 00:07:38,540
+你说说 小树
+What's wrong, Tree?
+
+116
+00:07:38,740 --> 00:07:40,170
+也没什么
+Nothing.
+
+117
+00:07:40,370 --> 00:07:43,420
+也就是你把一份猫女郎自助餐摆在我们桌子上了
+Except for that cat lady buffet you just dumped at our table.
+
+118
+00:07:43,620 --> 00:07:45,060
+我没看错吧 那是巧克力牛奶吗
+And is that chocolate milk I see?
+
+119
+00:07:45,260 --> 00:07:46,560
+我还没吃早餐呢
+I missed breakfast.
+
+120
+00:07:46,760 --> 00:07:49,340
+世界上有早餐这种东西存在吗 贝基
+What is breakfast, Becky?
+
+121
+00:07:55,540 --> 00:07:57,260
+- 混蛋– 对不起
+- Asshole! - I'm sorry.
+
+122
+00:07:57,460 --> 00:07:58,660
+对不起 小树
+I'm sorry, Tree.
+
+123
+00:07:58,670 --> 00:08:00,200
+等等 你们俩认识吗
+Wait, you two know each other?
+
+124
+00:08:00,200 --> 00:08:01,500
+- 是的 – 不认识
+- Yeah. - No!
+
+125
+00:08:03,000 --> 00:08:06,360
+我们俩 去年修过同一门课
+We had uh, a class together last year.
+
+126
+00:08:06,560 --> 00:08:08,890
+我是来把这个还给你的
+Look, I was bringing you this back.
+
+127
+00:08:14,090 --> 00:08:15,650
+抱歉 我不知道你住在哪儿
+Sorry, I didn't know where you live.
+
+128
+00:08:15,650 --> 00:08:16,850
+我…
+You know, I...
+
+129
+00:08:20,900 --> 00:08:23,960
+好吧 真的很抱歉给你添麻烦了
+Yeah. I'm sorry again about the- the mess.
+
+130
+00:08:26,360 --> 00:08:27,680
+真够人渣的
+What a douchebag.
+
+131
+00:08:32,050 --> 00:08:34,300
+莫里斯医生请到门诊部
+Dr. Morris to outpatient services.
+
+132
+00:08:34,500 --> 00:08:36,210
+莫里斯医生请到门诊部
+Dr. Morris to outpatient services.
+
+133
+00:08:36,220 --> 00:08:37,680
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+134
+00:08:37,880 --> 00:08:40,280
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+135
+00:08:45,390 --> 00:08:46,670
+洛瑞
+Lori.
+
+136
+00:08:46,870 --> 00:08:47,870
+嗨
+Hi.
+
+137
+00:08:48,070 --> 00:08:49,080
+嗨
+Hi.
+
+138
+00:08:49,680 --> 00:08:50,800
+呃
+Um...
+
+139
+00:08:51,700 --> 00:08:54,000
+我一直以为你只上晚班的
+So, I thought you only worked nights.
+
+140
+00:08:54,200 --> 00:08:56,200
+我今天替简代白班 她得流感了
+Doing a double for Jan. She has the flu.
+
+141
+00:08:56,400 --> 00:08:57,500
+你人真不错
+That's nice of you.
+
+142
+00:08:58,200 --> 00:09:00,060
+我猜我不用问你到这儿来做什么
+So, I guess I don't need to ask what you're doing here.
+
+143
+00:09:03,360 --> 00:09:04,590
+该走啦
+Gotta go.
+
+144
+00:09:06,290 --> 00:09:07,600
+那个 小树
+Look, Tree...
+
+145
+00:09:08,000 --> 00:09:09,920
+我知道这不关我的事
+It's none of my business, but...
+
+146
+00:09:09,930 --> 00:09:11,710
+但是我觉得你这么做
+I think something like this is
+
+147
+00:09:11,720 --> 00:09:13,830
+会惹出大麻烦来的
+bound to have some pretty serious consequences.
+
+148
+00:09:14,030 --> 00:09:17,690
+你说得没错 这不关你的事
+You're right. It is none of your business.
+
+149
+00:09:24,010 --> 00:09:27,060
+塞尔丁医生 马尔科医生 请到2476病房
+Dr. Cerdin, Dr. Marco in 2476
+
+150
+00:09:28,100 --> 00:09:31,020
+塞尔丁医生 马尔科医生 请到2476病房
+Dr. Cerdin, Dr. Marco in 2476
+
+151
+00:09:51,020 --> 00:09:52,490
+今天不行
+I can't do this today.
+
+152
+00:09:52,890 --> 00:09:54,280
+医院里事情太多
+There's too much going on in the building.
+
+153
+00:09:57,680 --> 00:09:58,870
+我还有病人
+I have patients.
+
+154
+00:09:59,670 --> 00:10:00,960
+我控制不住自己
+And I'm losing mine.
+
+155
+00:10:06,060 --> 00:10:07,360
+格雷戈里
+Gregory?
+
+156
+00:10:10,860 --> 00:10:12,340
+嗨 亲爱的
+Hi, sweetie.
+
+157
+00:10:12,640 --> 00:10:14,030
+门怎么了
+What's with the door?
+
+158
+00:10:14,330 --> 00:10:15,790
+什么地方卡住了吧
+Uh, stupid thing got jammed.
+
+159
+00:10:15,990 --> 00:10:17,120
+我这儿也刚好完事
+Oh, just wrapping up here.
+
+160
+00:10:17,130 --> 00:10:18,600
+你见过我的学生特蕾莎吧
+Have you met my student, Teresa?
+
+161
+00:10:19,400 --> 00:10:20,960
+不 我没见过
+No, I haven't.
+
+162
+00:10:21,310 --> 00:10:23,300
+你好 幸会
+Hi, it's nice to meet you.
+
+163
+00:10:23,400 --> 00:10:24,580
+多谢帮忙
+Thank you so much for helping me out.
+
+164
+00:10:25,880 --> 00:10:27,510
+你来真是个惊喜
+This is a nice surprise.
+
+165
+00:10:31,210 --> 00:10:34,370
+自从上次我们大吵了一架之后 内森就好像变了一个人
+Nathan's been acting really strange since our big fight.
+
+166
+00:10:34,570 --> 00:10:37,390
+今天早上 他开车去亚特兰大
+And this morning, he drove to Atlanta for a last-minute
+
+167
+00:10:37,400 --> 00:10:40,200
+说是去参加一个新健身馆的紧急会议
+business meeting about opening a new gym.
+
+168
+00:10:40,200 --> 00:10:41,500
+进来
+Enter.
+
+169
+00:10:41,550 --> 00:10:44,370
+这里面有点古怪 之前从没听他提起过这个项目
+It's weird because I've never heard anything about it before.
+
+170
+00:10:44,570 --> 00:10:46,520
+我试着让自己不把这件事太当回事儿
+But I'm trying not to let that bring me down.
+
+171
+00:10:46,720 --> 00:10:48,540
+- 你穿的是我的上衣吗 - 我穿着好看吗
+- Is that my top? - How cute is it on me?
+
+172
+00:10:48,840 --> 00:10:52,500
+无所谓啦 拜托别把它弄脏就行
+Whatever. Just don't get anything on it, please.
+
+173
+00:10:52,700 --> 00:10:54,590
+你是说 小心别让尼克把“奶油”弄到上面 是吗
+You mean like Nick's nutter butter?
+
+174
+00:10:54,790 --> 00:10:56,580
+哇 厉害了我的姐
+Wow. Classy, Danielle.
+
+175
+00:10:56,590 --> 00:10:57,880
+你晚上几点来聚会
+What time are you going to the party tonight?
+
+176
+00:10:58,080 --> 00:10:59,510
+不知道 一会儿吧
+I dunno, later.
+
+177
+00:11:00,210 --> 00:11:02,890
+我呸 我们的学费算是白交了
+Ugh. Our tuition dollars at work.
+
+178
+00:11:03,490 --> 00:11:05,080
+反正
+Anyhoo...
+
+179
+00:11:05,380 --> 00:11:07,960
+别太晚了 不然X∑K兄弟会的小鲜肉们就被抢光了
+Don't be too late, or all the cute Sigma boys will be taken.
+
+180
+00:11:07,970 --> 00:11:10,180
+-知道了 拜 -拜
+- 'kay. Byeee. - Byeee.
+
+181
+00:11:10,180 --> 00:11:11,870
+谁拿了我的吹风机
+Who took my hair dryer?
+
+182
+00:11:11,870 --> 00:11:13,260
+疯婆子
+Crazy bitch.
+
+183
+00:11:16,600 --> 00:11:18,040
+特蕾莎 是我 爸爸
+Teresa, it's Dad.
+
+184
+00:11:18,050 --> 00:11:20,920
+我在餐厅等了你一个多小时
+I sat in that restaurant waiting for you for over an hour.
+
+185
+00:11:21,120 --> 00:11:23,020
+你怎么能这样对我呢
+I can't believe you would do this to me.
+
+186
+00:11:23,020 --> 00:11:24,220
+偏偏是今天
+Today, of all days!
+
+187
+00:11:27,420 --> 00:11:29,090
+贝菲尔德必胜 贝菲尔德宝贝必胜
+Bayfield, baby!
+
+188
+00:11:29,590 --> 00:11:31,180
+快点儿 别晚了
+Can't miss tonight!
+
+189
+00:12:18,600 --> 00:12:20,650
+好啦 你们这些家伙真会玩
+Okay, you guys are hilarious!
+
+190
+00:12:21,350 --> 00:12:23,000
+别躲着啦
+You can come out now!
+
+191
+00:12:25,900 --> 00:12:27,090
+胆小鬼
+Losers.
+
+192
+00:12:50,990 --> 00:12:53,440
+喂 你的朋友往那边去了
+Yo, I think your friends went the other way.
+
+193
+00:12:59,140 --> 00:13:01,200
+有什么问题吗
+Can I help you?
+
+194
+00:13:05,800 --> 00:13:08,160
+听着 怪人 我才不怕你呢
+Look, weirdo, I'm not scared.
+
+195
+00:13:08,160 --> 00:13:09,440
+你怎么不拿这套把戏去吓唬吓唬
+Why don't you go try this with
+
+196
+00:13:09,440 --> 00:13:11,440
+三八协会的那些小婊砸去
+one of the heffers at Delta Gamma?
+
+197
+00:13:11,440 --> 00:13:12,850
+她们就喜欢角色扮演
+They're into cosplay.
+
+198
+00:13:21,230 --> 00:13:23,240
+我要叫警察啦
+Okay, I'm calling the cops!
+
+199
+00:14:17,040 --> 00:14:18,510
+闭嘴
+Shut up!
+
+200
+00:14:20,350 --> 00:14:22,810
+嘿 你醒啦
+Oh, hey, you're up.
+
+201
+00:14:23,920 --> 00:14:27,360
+我不太确定你要不要睡在这儿 就
+I wasn't sure if you wanted to sleep in or not, so.
+
+202
+00:14:33,760 --> 00:14:35,920
+哦…对
+Oh... right.
+
+203
+00:14:36,290 --> 00:14:38,840
+我昨晚把你的裤子叠好了放在这儿了
+I folded your pants for you last night
+
+204
+00:14:38,860 --> 00:14:42,970
+我不确定它会不会起皱
+I wasn't sure if the material gets wrinkled.
+
+205
+00:14:43,040 --> 00:14:44,010
+呃…
+Uh...
+
+206
+00:14:46,940 --> 00:14:48,250
+你可能都不记得我叫什么了吧
+I don't know if you remember my name or not
+
+207
+00:14:48,270 --> 00:14:51,000
+你昨晚上真是喝大了
+You know you were pretty wasted last night.
+
+208
+00:14:51,040 --> 00:14:51,770
+不过
+But uh...
+
+209
+00:14:53,050 --> 00:14:54,640
+- 我叫 - 卡特
+- I'm... - Carter.
+
+210
+00:14:56,040 --> 00:14:57,600
+你记得啊
+You remembered.
+
+211
+00:14:59,220 --> 00:15:00,450
+嗯 泰诺
+Ugh. Tylenol?
+
+212
+00:15:00,470 --> 00:15:01,550
+你说什么
+What?
+
+213
+00:15:01,580 --> 00:15:03,840
+我头疼得厉害 你这儿有没有泰诺
+Uh, my head is killing me. Do you have any Tylenol?
+
+214
+00:15:03,850 --> 00:15:05,800
+哦 有的
+Oh, uh, yes.
+
+215
+00:15:06,500 --> 00:15:07,570
+呃
+Um...
+
+216
+00:15:08,070 --> 00:15:09,510
+那边
+It's over there.
+
+217
+00:15:10,010 --> 00:15:11,170
+对
+Right.
+
+218
+00:15:13,080 --> 00:15:14,330
+在你衣服底下
+It's underneath your clothes...
+
+219
+00:15:14,530 --> 00:15:17,850
+- 就在… - 对对
+- on the... - Right, right.
+
+220
+00:15:22,380 --> 00:15:23,240
+谢谢
+Thanks.
+
+221
+00:15:23,290 --> 00:15:24,450
+水
+And...
+
+222
+00:15:26,350 --> 00:15:28,570
+好像你以前来过一样
+It's like you've been here before.
+
+223
+00:15:33,300 --> 00:15:34,600
+你还好吧
+Are you okay?
+
+224
+00:15:36,400 --> 00:15:37,150
+小树
+Tree?
+
+225
+00:15:38,560 --> 00:15:39,920
+你没事吧
+Are you okay?
+
+226
+00:15:43,440 --> 00:15:45,710
+哥们儿 你有没有把那个大美妞办了
+Dude, did you hit that fine vagine or what?
+
+227
+00:15:48,430 --> 00:15:49,550
+哦
+Oh.
+
+228
+00:15:52,450 --> 00:15:53,690
+我…
+I'm...
+
+229
+00:15:54,190 --> 00:15:55,320
+我很抱歉
+I'm sorry.
+
+230
+00:16:00,540 --> 00:16:02,350
+瞧你干的好事儿 你个智障
+Nice one, dickhead.
+
+231
+00:16:14,650 --> 00:16:17,380
+你好 阻止全球变暖
+Hey. Stop global warming? I...
+
+232
+00:16:18,080 --> 00:16:19,340
+抱歉 不 谢谢
+Sorry, no, thanks.
+
+233
+00:16:22,800 --> 00:16:24,390
+我的天啊
+- Oh. - Oh.
+
+234
+00:16:25,590 --> 00:16:26,730
+快点儿
+Come on.
+
+235
+00:16:27,420 --> 00:16:29,060
+♪ 还剩64瓶啤酒 ♪
+♪ 64 bottles of beer on the wall ♪
+
+236
+00:16:29,060 --> 00:16:30,710
+♪ 还剩64瓶♪
+♪ 64 bottles of beer ♪
+
+237
+00:16:30,710 --> 00:16:33,360
+♪ 又干掉一瓶 往下传 ♪
+♪ Take one down, pass it around ♪
+
+238
+00:16:33,370 --> 00:16:35,600
+♪ 还剩63瓶 ♪
+♪ 63 bottles of beer on the wall ♪
+
+239
+00:16:39,500 --> 00:16:41,740
+才26小时 你们就这点儿能耐吗
+26 hours, that's all you've got?
+
+240
+00:16:41,940 --> 00:16:43,480
+继续
+Keep going!
+
+241
+00:16:43,490 --> 00:16:44,800
+快点儿
+Faster!
+
+242
+00:16:44,810 --> 00:16:46,200
+♪ 还剩62瓶啤酒 ♪
+♪ 62 bottles of beer on the wall ♪
+
+243
+00:16:46,400 --> 00:16:48,000
+♪ 还剩62瓶 ♪
+♪ 62 bottles of beer ♪
+
+244
+00:16:48,010 --> 00:16:49,500
+继续 别停
+Keep going!
+
+245
+00:16:49,600 --> 00:16:51,190
+大点儿声
+I can't hear you!
+
+246
+00:16:59,390 --> 00:17:00,630
+嗨
+Hey.
+
+247
+00:17:02,330 --> 00:17:04,830
+我给你发的短信你一条都没回
+You haven't returned any of my texts.
+
+248
+00:17:05,660 --> 00:17:06,860
+蒂姆 今天是几号
+Tim, what day is it?
+
+249
+00:17:07,480 --> 00:17:09,910
+呃 18号 星期一
+Uh, Monday, the 18th.
+
+250
+00:17:10,410 --> 00:17:11,730
+你确定没搞错吗
+You're sure?
+
+251
+00:17:11,730 --> 00:17:12,990
+当然
+I'm pretty sure.
+
+252
+00:17:14,790 --> 00:17:16,200
+我…
+I um...
+
+253
+00:17:18,600 --> 00:17:20,320
+我得走了
+I gotta go.
+
+254
+00:17:23,320 --> 00:17:24,380
+打给我
+Call me?
+
+255
+00:17:43,580 --> 00:17:44,580
+我的天啊
+Oh, my God.
+
+256
+00:17:44,780 --> 00:17:46,890
+你这个小婊砸鬼鬼祟祟地
+You sneaky little biotch.
+
+257
+00:17:47,090 --> 00:17:48,420
+说 他是谁
+Who was it?
+
+258
+00:17:52,120 --> 00:17:53,900
+好姐妹之间不应该有秘密
+Sisters don't keep secrets.
+
+259
+00:17:55,890 --> 00:17:58,650
+我有一种现在这一切都经历过的错觉
+I'm totally having déjà vu right now.
+
+260
+00:17:58,660 --> 00:18:00,190
+哦 我每时每刻都有这样的错觉
+Oh, I have it all the time.
+
+261
+00:18:00,200 --> 00:18:01,150
+这就好像
+It's supposed to mean like
+
+262
+00:18:01,160 --> 00:18:03,120
+某人一边想着你一边打飞机一样
+someone's thinking about you while they're masturbating.
+
+263
+00:18:03,130 --> 00:18:04,670
+我一天里至少有五次这种感觉
+I have it at least five times a day.
+
+264
+00:18:06,390 --> 00:18:08,580
+我没开玩笑 我现在整天都有这样的感觉 太诡异了
+Seriously, I've been having it all day. It's so weird.
+
+265
+00:18:08,780 --> 00:18:11,140
+下次也许你要多喝点水了 宝贝儿
+Maybe you should switch to water next time, hun.
+
+266
+00:18:11,540 --> 00:18:15,200
+我…好的 谢了 我会记得的
+I...yeah, thanks. I'll keep that in mind.
+
+267
+00:18:15,400 --> 00:18:16,790
+谁让咱们是好姐妹呢
+What are sisters for?
+
+268
+00:18:16,800 --> 00:18:19,370
+对了 别忘了宿舍午餐会
+Oh, uh, and don't forget. House meeting at lunch.
+
+269
+00:18:20,370 --> 00:18:21,880
+你不会是真不记得了吧
+Hello?
+
+270
+00:18:22,080 --> 00:18:24,280
+上星期四就通知了 小树
+It's been on the board since last Thursday, Tree.
+
+271
+00:18:24,480 --> 00:18:27,720
+对…我记得 我…
+Yeah... I remember. I...
+
+272
+00:18:31,620 --> 00:18:33,240
+某人总算是回来了
+She finally rolls in.
+
+273
+00:18:34,540 --> 00:18:36,100
+太匪夷所思了
+That's so weird.
+
+274
+00:18:36,300 --> 00:18:37,300
+你没事吧
+You okay?
+
+275
+00:18:37,800 --> 00:18:39,350
+你昨晚的洋相出得可是够大的
+You were kind of a mess last night.
+
+276
+00:18:41,650 --> 00:18:44,640
+该死 上课要晚了
+Oh, shhit. I'm so late for class.
+
+277
+00:18:51,140 --> 00:18:53,490
+别以为你不说我就不知道
+Did you really think you'd keep it a secret from me?
+
+278
+00:18:57,370 --> 00:18:58,730
+不想知道我是怎么发现的吗
+Don't you wanna know how I found out?
+
+279
+00:18:58,740 --> 00:18:59,930
+你看我驾照了
+Driver's license?
+
+280
+00:18:59,930 --> 00:19:01,130
+真聪明
+Clever girl.
+
+281
+00:19:01,330 --> 00:19:02,990
+至于你的证件照嘛
+That picture, though.
+
+282
+00:19:03,190 --> 00:19:04,520
+我得走了
+I gotta go.
+
+283
+00:19:05,620 --> 00:19:08,290
+可你还没吹蜡…
+But, you didn't even blow out the c...
+
+284
+00:19:09,690 --> 00:19:10,820
+蜡烛呢
+Candle.
+
+285
+00:19:13,310 --> 00:19:14,850
+我们真的是要抓紧了
+We really need to step up our game.
+
+286
+00:19:16,540 --> 00:19:18,980
+此外 我们还要决定今年的慈善项目遴选
+And we still need to pick this year's charity.
+
+287
+00:19:18,980 --> 00:19:20,230
+就目前而言
+I can say right now,
+
+288
+00:19:20,430 --> 00:19:21,730
+我们不能
+There's no way we're doing
+
+289
+00:19:21,730 --> 00:19:23,180
+再举办面向残障人士的艺展活动了
+the special needs art fair again.
+
+290
+00:19:23,380 --> 00:19:26,350
+大赛在即 弘扬校风
+Get your school spirit on before the big game.
+
+291
+00:19:26,350 --> 00:19:28,800
+学生证9折
+10% off with your student ID.
+
+292
+00:19:36,500 --> 00:19:37,840
+你怎么了 小树
+What's wrong, Tree?
+
+293
+00:19:40,040 --> 00:19:42,930
+我想我只是有点儿累
+Um... I'm just a little tired, I guess.
+
+294
+00:19:42,940 --> 00:19:44,300
+胡扯
+No, dumbass.
+
+295
+00:19:44,500 --> 00:19:46,310
+那又是怎么回事
+What's wrong with that?
+
+296
+00:19:48,810 --> 00:19:51,110
+也不像你的范儿了
+So not Kappa cuisine.
+
+297
+00:19:51,310 --> 00:19:53,180
+我没看错吧 那是巧克力奶吗
+And is that chocolate milk I see?
+
+298
+00:19:53,380 --> 00:19:54,890
+我还没吃早餐呢
+I missed breakfast.
+
+299
+00:19:55,090 --> 00:19:56,560
+我们都没吃早餐呢 贝基
+We all missed breakfast, Becky.
+
+300
+00:19:59,870 --> 00:20:01,170
+贝基 当心
+Becky, look out!
+
+301
+00:20:03,770 --> 00:20:05,530
+我很抱歉
+I'm so sorry.
+
+302
+00:20:05,530 --> 00:20:06,710
+对不起 小树
+I'm sorry, Tree.
+
+303
+00:20:06,710 --> 00:20:08,640
+等等 你们是不是认识
+Wait, you two know each other?
+
+304
+00:20:08,640 --> 00:20:09,490
+- 是的 – 不认识
+- Yeah. - No!
+
+305
+00:20:09,690 --> 00:20:13,530
+我是说 我们俩去年修过同一门课
+I mean, we had a class together last year.
+
+306
+00:20:13,530 --> 00:20:14,730
+就这些
+That's all.
+
+307
+00:20:16,260 --> 00:20:18,180
+对不起啦
+I'm sorry about all this.
+
+308
+00:20:19,280 --> 00:20:20,350
+等等
+Hey!
+
+309
+00:20:24,140 --> 00:20:25,230
+什么
+What?
+
+310
+00:20:25,230 --> 00:20:26,400
+我的手链呢
+My bracelet.
+
+311
+00:20:26,400 --> 00:20:27,630
+对
+Oh.
+
+312
+00:20:30,900 --> 00:20:33,410
+真的抱歉给你添麻烦了
+You know, I'm sorry again about the mess.
+
+313
+00:20:36,110 --> 00:20:38,140
+真够人渣的
+What a douchebag.
+
+314
+00:20:42,310 --> 00:20:43,640
+今天不行
+I can't do this today.
+
+315
+00:20:43,640 --> 00:20:44,840
+医院里事情太多
+There's too much going on in the building.
+
+316
+00:20:44,840 --> 00:20:45,900
+我有话要跟你说
+I need to talk to you.
+
+317
+00:20:49,500 --> 00:20:50,850
+小树 我…
+Tree, I...
+
+318
+00:20:52,350 --> 00:20:54,050
+我知道你想说什么
+I know what you're gonna say.
+
+319
+00:20:54,050 --> 00:20:55,250
+你知道
+You do?
+
+320
+00:20:55,550 --> 00:20:56,760
+听着…
+Look...
+
+321
+00:20:57,460 --> 00:20:59,290
+你这样的年轻女孩喜欢上一个老男人
+It's normal for a young girl
+
+322
+00:20:59,300 --> 00:21:02,280
+也不算是什么稀奇事儿
+to have feelings for an older man.
+
+323
+00:21:02,290 --> 00:21:04,160
+但你不能让自己陷得太深
+But you can't fall in love.
+
+324
+00:21:04,860 --> 00:21:06,780
+我并没有爱上你
+I'm not falling in love with you.
+
+325
+00:21:07,480 --> 00:21:08,870
+没有吗
+You're not?
+
+326
+00:21:09,070 --> 00:21:11,870
+我这一整天都过得诡异至极
+No. I've been having the weirdest day...
+
+327
+00:21:15,370 --> 00:21:16,490
+你老婆
+Your wife.
+
+328
+00:21:17,540 --> 00:21:20,050
+这可是有点煞风景
+Uh, that's kind of a buzz kill.
+
+329
+00:21:21,650 --> 00:21:24,160
+格雷戈里 你在里面吗
+Gregory, are you in there?
+
+330
+00:21:24,360 --> 00:21:25,860
+谢天谢地 你把门锁上了
+Thank God you locked the door.
+
+331
+00:21:31,760 --> 00:21:32,940
+嗨 亲爱的
+Hey, sweetie.
+
+332
+00:21:33,140 --> 00:21:35,120
+我没注意我什么时候把门锁上了 呃…
+Ah, I didn't realize I'd locked the door, um...
+
+333
+00:21:35,320 --> 00:21:37,040
+我这儿也刚好完事了
+Uh, just wrapping up here.
+
+334
+00:21:37,040 --> 00:21:38,340
+你见过我的学生特蕾莎吧
+Have you met my student, Teresa?
+
+335
+00:21:38,440 --> 00:21:39,640
+没有
+No.
+
+336
+00:21:39,740 --> 00:21:41,420
+我没见过
+I haven't.
+
+337
+00:21:42,120 --> 00:21:43,610
+幸会
+Nice to meet you.
+
+338
+00:21:47,670 --> 00:21:50,740
+♪ 祝我们生日快乐 ♪
+♪ ...birthday to u-u-us ♪
+
+339
+00:21:50,940 --> 00:21:54,840
+♪ 祝我们生日快乐 ♪
+♪ Happy birthday to us ♪
+
+340
+00:21:54,840 --> 00:21:56,540
+我最爱的女孩们 吹蜡烛吧
+My favorite girls. Blow it out!
+
+341
+00:21:57,240 --> 00:21:59,020
+太棒了
+There you go.
+
+342
+00:21:59,220 --> 00:22:01,090
+- 我们跟这个蛋糕一样甜蜜 - 等等 这儿好像有一只小虫子
+- That was us. - Wait, I think I found a bug.
+
+343
+00:22:01,300 --> 00:22:03,040
+- 就在这 - 仔细看
+- Right there. - Take a look.
+
+344
+00:22:03,230 --> 00:22:04,230
+我的天啊
+Oh, my God!
+
+345
+00:22:04,230 --> 00:22:05,360
+妈妈要出大招了
+Mom goes in for the kill!
+
+346
+00:22:05,560 --> 00:22:07,740
+不 别这样
+No! Oh, no!
+
+347
+00:22:08,440 --> 00:22:09,680
+不许看
+Don't look at me.
+
+348
+00:22:10,980 --> 00:22:13,210
+好吧 看来我是没的吃了…
+Well, I guess I'm not having...
+
+349
+00:22:13,810 --> 00:22:17,350
+…一个新健身会馆的会议
+...business meeting about opening a new gym.
+
+350
+00:22:17,550 --> 00:22:19,870
+好啦 我就借穿这一个晚上
+I know. I'm just borrowing it for tonight.
+
+351
+00:22:20,470 --> 00:22:22,150
+你晚上几点来聚会
+What time are you going to the party?
+
+352
+00:22:22,350 --> 00:22:23,710
+我试着让自己不要把这件事太当回事儿
+But I'm trying not to let that bring me down.
+
+353
+00:22:24,510 --> 00:22:25,910
+你在听吗
+Hello?
+
+354
+00:22:26,110 --> 00:22:27,560
+走神婊
+Earth to space bitch.
+
+355
+00:22:27,760 --> 00:22:28,820
+你说什么
+What?
+
+356
+00:22:28,820 --> 00:22:30,840
+我问你啥时来轰趴呀
+What time are you going to the pah-ty?
+
+357
+00:22:31,340 --> 00:22:34,340
+不知道 一会儿吧
+Uh pff, I don't know... later.
+
+358
+00:22:35,440 --> 00:22:38,430
+咱们的学费算是白交了
+Ugh, our tuition dollars at work.
+
+359
+00:22:40,640 --> 00:22:41,850
+好吧 喔
+Okay, whoa.
+
+360
+00:22:41,850 --> 00:22:44,250
+没事儿的 宝贝儿 估计又是跳闸之类的
+Chill out. It's just another rolling blackout, sweetie.
+
+361
+00:22:44,450 --> 00:22:45,980
+之前有过这事儿吗
+It happened before?
+
+362
+00:22:46,180 --> 00:22:48,110
+有过 两星期前
+Yeah, like two weeks ago.
+
+363
+00:22:48,120 --> 00:22:49,410
+反正
+Anyhoo...
+
+364
+00:22:49,420 --> 00:22:51,850
+别太晚了 不然X∑K兄弟会的小鲜肉们就被抢光了
+Don't be too late, or all the cute Sigma boys will be taken.
+
+365
+00:22:52,750 --> 00:22:54,830
+谁拿了我的吹风机
+Who took my hair dryer?
+
+366
+00:22:56,930 --> 00:22:58,210
+特蕾莎 是我 爸爸
+Teresa, it's Dad.
+
+367
+00:22:58,410 --> 00:23:00,960
+我在餐厅等了你一个多…
+I sat in that restaurant waiting for you for over an...
+
+368
+00:23:02,760 --> 00:23:04,620
+贝菲尔德必胜 贝菲尔德宝贝必胜
+Bayfield, baby!
+
+369
+00:23:04,820 --> 00:23:06,590
+快点儿 别晚了
+Can't miss tonight!
+
+370
+00:23:19,660 --> 00:23:22,070
+喂 麦克 赶紧着哥们
+Yo, Mike, come on, hurry up, man.
+
+371
+00:23:22,170 --> 00:23:23,830
+我来啦
+Yeah, yeah, I'm coming.
+
+372
+00:23:54,030 --> 00:23:55,490
+不是吧
+No way.
+
+373
+00:24:56,690 --> 00:24:58,870
+惊喜
+Surprise?
+
+374
+00:24:59,270 --> 00:25:00,880
+见鬼 小树 你下手也太狠了吧
+What the hell, Tree?
+
+375
+00:25:01,080 --> 00:25:03,630
+我的天 对不起 我以为你…
+Oh, my God, I'm so sorry, I thought that you...
+
+376
+00:25:03,830 --> 00:25:05,940
+我实在是太抱歉了
+I am so, so sorry, I...
+
+377
+00:25:06,140 --> 00:25:08,510
+看谁还敢招惹咱姐妹花辣妹
+Don't mess with a Kappa bitch!
+
+378
+00:25:09,610 --> 00:25:11,710
+♪ 如驹时光 莫失我望 ♪
+♪ Don't fail me now ♪
+
+379
+00:25:11,910 --> 00:25:13,300
+♪ 飞旋舞步 莫要辜负我此刻欢愉 ♪
+♪ Feet don't fail me now ♪
+
+380
+00:25:14,300 --> 00:25:16,000
+♪ 如驹时光 莫失我望 ♪
+♪ Don't fail me now ♪
+
+381
+00:25:16,200 --> 00:25:17,680
+♪ 飞旋舞步 莫要辜负我此刻欢愉 ♪
+♪ Feet don't fail me now ♪
+
+382
+00:25:17,880 --> 00:25:20,420
+♪ 便足上奢若新履 ♪
+♪ Fresh suit Alligator shoes ♪
+
+383
+00:25:20,620 --> 00:25:22,680
+♪ 等闲变却故人心 ♪
+♪ Did you get the news about me? ♪
+
+384
+00:25:22,880 --> 00:25:24,680
+- 是的 - 你玩儿真格的
+- Yeah. - Are you serious?
+
+385
+00:25:24,690 --> 00:25:25,880
+没错
+Yes.
+
+386
+00:25:25,890 --> 00:25:27,860
+- 那个贱人呢 - 你说谁
+- That slut. - Who?
+
+387
+00:25:27,870 --> 00:25:29,690
+洛瑞 她说她会来的
+Lori. She said she'd be here.
+
+388
+00:25:29,690 --> 00:25:32,100
+她明年甭想再和咱们一起住
+She's so out of the house next year.
+
+389
+00:25:32,110 --> 00:25:34,070
+我记得她好像说过她可能要两班倒
+I think she said she had like a double shift.
+
+390
+00:25:34,080 --> 00:25:36,670
+无所谓啦 她最近和一群神秘人打得火热
+Whatevs. She's been boning some mystery guy.
+
+391
+00:25:39,370 --> 00:25:41,070
+那不是你的跟踪狂吗
+There's your stalker.
+
+392
+00:25:41,270 --> 00:25:42,860
+还挺性感的
+He's so hot.
+
+393
+00:25:42,870 --> 00:25:44,230
+- 丹妮尔 – 怎么啦
+- Danielle! - What?
+
+394
+00:25:44,230 --> 00:25:45,430
+- 太恶心了 吧 - 好吧
+- That's so gross. - Oh, okay.
+
+395
+00:25:47,230 --> 00:25:48,450
+停战
+Truce?
+
+396
+00:25:48,950 --> 00:25:50,350
+嗨
+Hi.
+
+397
+00:25:50,550 --> 00:25:53,080
+为什么你要戴那个愚蠢的面具
+Why were you wearing that stupid mask anyway?
+
+398
+00:25:53,080 --> 00:25:54,470
+星期五有好戏
+Big game's on Friday, I just...
+
+399
+00:25:54,480 --> 00:25:56,130
+我只是想展示下校风
+thought I'd show a little school spirit.
+
+400
+00:25:56,150 --> 00:25:58,320
+没想到因此被打了
+Never thought I'd get clocked for it.
+
+401
+00:26:01,320 --> 00:26:03,240
+我真的很抱歉 你冰敷了吗
+I really am sorry. Did you ice it?
+
+402
+00:26:03,270 --> 00:26:04,530
+还好
+It's fine.
+
+403
+00:26:04,730 --> 00:26:07,230
+待会儿你可以弥补我一下
+You can make it up to me later.
+
+404
+00:26:10,630 --> 00:26:12,050
+怎么
+What?
+
+405
+00:26:12,250 --> 00:26:13,670
+别给我装傻
+Don't what me.
+
+406
+00:26:13,670 --> 00:26:15,650
+你很清楚你在做什么 小树
+You know exactly what you're doing, Tree.
+
+407
+00:26:15,650 --> 00:26:17,460
+我又做了什么 丹妮尔
+What am I doing, Danielle?
+
+408
+00:26:17,660 --> 00:26:19,080
+丹妮尔
+Danielle!
+
+409
+00:26:21,550 --> 00:26:23,510
+♪ 我将要失去什么♪
+♪ How my gunna lose? ♪
+
+410
+00:26:23,710 --> 00:26:25,870
+♪ 我所做的一切都是因为我 ♪
+♪ I been movin' like this since I was two ♪
+
+411
+00:26:26,070 --> 00:26:27,830
+♪ 我在你这里沉沦 ♪
+♪ Down town I'm fadin' into you ♪
+
+412
+00:26:31,030 --> 00:26:34,490
+♪ 你影响了我 ♪
+♪ You infect me ♪
+
+413
+00:26:34,690 --> 00:26:38,660
+♪ 无比理智地 ♪
+♪ The insects feed ♪
+
+414
+00:26:39,060 --> 00:26:42,250
+♪ 让我沉沦 ♪
+♪ on the sane ♪
+
+415
+00:26:48,630 --> 00:26:49,940
+尼克
+Nick?
+
+416
+00:27:08,180 --> 00:27:09,290
+哇
+Wow.
+
+417
+00:27:27,300 --> 00:27:28,910
+卧槽
+Shit.
+
+418
+00:27:29,110 --> 00:27:31,070
+讨厌 尼克 你吓到我了
+Oh, shit, Nick, you scared me.
+
+419
+00:27:34,180 --> 00:27:36,280
+你还想让我往你脸上再打一拳吗
+You want me to punch you in the face again?
+
+420
+00:27:49,880 --> 00:27:51,330
+欢迎来到
+Welcome...
+
+421
+00:27:52,630 --> 00:27:54,660
+欢乐宫
+to the Pleasure Dome.
+
+422
+00:28:09,860 --> 00:28:12,230
+你不觉得有点吵吗
+It's a little loud, don't you think?
+
+423
+00:28:50,330 --> 00:28:54,140
+好 我真的受够了
+Okay, I'm officially over this.
+
+424
+00:28:54,340 --> 00:28:56,320
+你自己在沙哈拉沙漠帐篷里尽情玩吧
+Have fun in the Sahara tent.
+
+425
+00:28:57,520 --> 00:29:01,260
+拜托 尼克 说真的 丹妮尔气坏了
+Come on. Nick, seriously. Danielle's like freaking out.
+
+426
+00:29:23,760 --> 00:29:25,190
+救命
+Help me!
+
+427
+00:29:25,390 --> 00:29:26,580
+救命
+Help me!
+
+428
+00:29:28,520 --> 00:29:30,290
+混蛋
+You asshole!
+
+429
+00:29:43,190 --> 00:29:44,570
+你还好吧
+Is everything okay?
+
+430
+00:29:44,770 --> 00:29:47,150
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+431
+00:29:47,160 --> 00:29:49,370
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+432
+00:29:50,470 --> 00:29:51,600
+怎么了
+What...
+
+433
+00:29:51,800 --> 00:29:53,940
+不知道你还记不记得我的名字
+I don't know if you remember my name or not.
+
+434
+00:29:53,940 --> 00:29:55,150
+- 你昨晚 - 喝大了
+- You were... - Pretty wasted?
+
+435
+00:29:55,160 --> 00:29:56,370
+对啊
+Yeah.
+
+436
+00:29:58,670 --> 00:30:00,430
+你叫卡特
+And your name's Carter?
+
+437
+00:30:00,440 --> 00:30:01,530
+没错
+Yeah.
+
+438
+00:30:01,530 --> 00:30:03,000
+我们以前从未见过面吗
+And we've never met before?
+
+439
+00:30:03,000 --> 00:30:04,300
+昨晚之前没有
+I mean, no, not until last night.
+
+440
+00:30:04,700 --> 00:30:06,700
+我的天哪 真是一场噩梦
+Oh, my God. This is a nightmare.
+
+441
+00:30:08,300 --> 00:30:08,920
+请你搞清楚
+I'm sorry.
+
+442
+00:30:08,950 --> 00:30:11,000
+是你想要和我回来的
+You were the one who wanted to come home with me.
+
+443
+00:30:12,800 --> 00:30:14,980
+哥们 你把那个大美妞上了吗
+Dude, did you hit that fine vagina?
+
+444
+00:30:18,780 --> 00:30:20,250
+瞧你干的好事儿 你个智障
+Nice one, dickhead.
+
+445
+00:30:27,410 --> 00:30:28,890
+阻止全球变暖
+Stop global warming?
+
+446
+00:30:29,390 --> 00:30:31,490
+说“不用”就好啦
+A simple 'no, thanks' would do.
+
+447
+00:30:40,090 --> 00:30:42,930
+才坚持26个小时 你们就这点能耐吗
+26 hours, that's all you got?
+
+448
+00:30:43,000 --> 00:30:45,410
+别停
+Keep going!
+
+449
+00:30:45,420 --> 00:30:47,410
+♪ 还剩62瓶 ♪
+♪ 62 bottles of beer ♪
+
+450
+00:30:47,410 --> 00:30:48,740
+♪ 又干掉一瓶 ♪
+♪ Take one down... ♪
+
+451
+00:30:48,740 --> 00:30:50,500
+大点声
+I can't hear you!
+
+452
+00:30:52,800 --> 00:30:53,780
+嘿
+Hey.
+
+453
+00:30:53,780 --> 00:30:54,780
+你还好吗
+You okay?
+
+454
+00:30:54,780 --> 00:30:56,560
+我给你发的短信你一条都没回
+You haven't returned any of my texts.
+
+455
+00:31:08,160 --> 00:31:10,030
+某人总算是回来了
+She finally rolls in.
+
+456
+00:31:13,430 --> 00:31:14,810
+嘿 你还好吗
+Hey, you okay?
+
+457
+00:31:17,390 --> 00:31:18,460
+小树
+Tree?
+
+458
+00:31:25,160 --> 00:31:27,410
+小树 怎么了 说点什么啊
+Tree, what's wrong? Say something.
+
+459
+00:31:29,210 --> 00:31:30,750
+洛瑞 我
+Lori, I...
+
+460
+00:31:30,950 --> 00:31:33,650
+我觉得我快要疯了
+I feel like I'm losing my mind.
+
+461
+00:31:33,850 --> 00:31:36,390
+我不知道发生什么
+I don't know what's happening to me.
+
+462
+00:31:36,990 --> 00:31:38,550
+别怕
+Okay...
+
+463
+00:31:38,750 --> 00:31:41,470
+冷静下来 告诉我怎么回事
+Just calm down. Tell me what's going on.
+
+464
+00:31:44,310 --> 00:31:46,810
+听着 我知道这难以置信
+Look, I know this isn't gonna make any sense.
+
+465
+00:31:46,810 --> 00:31:49,410
+但是我已经过完今天了
+But I have already lived through this day.
+
+466
+00:31:49,610 --> 00:31:51,110
+两次
+Twice.
+
+467
+00:31:53,810 --> 00:31:55,210
+小树
+Tree, I uh...
+
+468
+00:31:55,220 --> 00:31:57,610
+不 不 不 相信我 我知道这听起来很疯狂
+No, no, no. Believe me, I know it sounds totally crazy.
+
+469
+00:31:57,610 --> 00:32:01,050
+我向上天发誓 这是真的
+But this is happening to me. I swear to God.
+
+470
+00:32:01,060 --> 00:32:02,650
+小树 我相信你是感觉你经历过了今天
+Tree, I'm sure it feels like you...
+
+471
+00:32:02,660 --> 00:32:04,440
+好吧 你给我做了纸杯蛋糕
+Okay, okay, you made me a cupcake!
+
+472
+00:32:04,440 --> 00:32:06,720
+为了我生日 对吧
+For my birthday, right?
+
+473
+00:32:06,730 --> 00:32:08,320
+你准备给我的
+You're about to give it to me.
+
+474
+00:32:08,320 --> 00:32:10,900
+今晚也会有惊喜派对
+And then later on tonight, there's a surprise party.
+
+475
+00:32:12,380 --> 00:32:14,680
+呃 谁告诉你的
+Ugh. Who told you?
+
+476
+00:32:14,690 --> 00:32:15,880
+是贝基吗
+Was it Becky?
+
+477
+00:32:15,880 --> 00:32:17,260
+不 不 没人告诉我 我说我已经过完今天了
+No, no! Nobody told me. That's what I mean.
+
+478
+00:32:17,270 --> 00:32:18,280
+你还不明白吗
+Don't you see?
+
+479
+00:32:18,280 --> 00:32:20,720
+我知道将会发生什么
+I know what is going to happen before it happens.
+
+480
+00:32:20,720 --> 00:32:22,570
+- 你应该 - 洛瑞
+- You should... - Lori.
+
+481
+00:32:22,770 --> 00:32:25,550
+洛瑞 有人想要在今晚杀了我
+Lori, somebody's gonna kill me tonight.
+
+482
+00:32:27,750 --> 00:32:28,850
+噢
+Oh...
+
+483
+00:32:29,950 --> 00:32:31,070
+好吧
+Okay.
+
+484
+00:32:31,270 --> 00:32:33,760
+好吧 我懂了 谁让你设计我的
+Okay, I get it. Who put you up to this?
+
+485
+00:32:33,960 --> 00:32:35,480
+- 是丹妮尔吗 - 不 不 不
+- Was it Danielle? - No! No! No!
+
+486
+00:32:35,480 --> 00:32:37,600
+这不是开玩笑
+This isn't some stupid joke!
+
+487
+00:32:37,610 --> 00:32:39,450
+这是真实发生的
+This is actually happening to me.
+
+488
+00:32:39,460 --> 00:32:40,550
+我不知道谁要杀我
+I don't know who's going to kill me.
+
+489
+00:32:40,550 --> 00:32:42,650
+但是肯定有人要杀我 我只是不知道是谁
+But someone is. I just don't know who it is yet.
+
+490
+00:32:42,850 --> 00:32:44,660
+小树 你吓到我了
+Tree, you're starting to freak me out!
+
+491
+00:32:44,660 --> 00:32:46,060
+你以为我不害怕吗
+Well, how do you think I feel?
+
+492
+00:32:47,060 --> 00:32:48,910
+小树 看着我
+Tree, look at me.
+
+493
+00:32:49,810 --> 00:32:51,500
+没有人要杀你
+Nobody is trying to kill you.
+
+494
+00:32:51,500 --> 00:32:53,030
+不 有人要杀我 洛瑞
+Yes, they are, Lori.
+
+495
+00:32:53,130 --> 00:32:54,430
+小树 看着我
+Tree! Look at me.
+
+496
+00:32:54,430 --> 00:32:56,730
+我知道 今天对你妈妈和所有人来说都很难过
+I know that today is hard, with your mom and all.
+
+497
+00:32:58,130 --> 00:33:00,250
+为什么你不翘课呢
+Why don't you skip class?
+
+498
+00:33:00,250 --> 00:33:03,580
+请假休息一天
+Just take the day off and get some rest.
+
+499
+00:33:04,280 --> 00:33:06,680
+我保证 明天你就好了
+I promise you, you'll feel better tomorrow.
+
+500
+00:33:07,480 --> 00:33:08,690
+好吗
+Okay?
+
+501
+00:33:14,990 --> 00:33:17,210
+混蛋 看看你还进得来么
+Let's see you get in here now, asshole.
+
+502
+00:33:36,810 --> 00:33:38,430
+小树 为什么把门给锁了
+Tree, why is the door locked?
+
+503
+00:33:38,630 --> 00:33:42,550
+我想一个人静静
+Um... I just need some alone time.
+
+504
+00:33:42,550 --> 00:33:44,470
+今晚你什么时候去派对
+What time are you going to the party tonight?
+
+505
+00:33:45,170 --> 00:33:47,520
+我不知道
+I don't know.
+
+506
+00:33:49,520 --> 00:33:52,980
+我们的学费算是白交了
+Ugh. Our tuition dollars at work.
+
+507
+00:33:53,880 --> 00:33:55,060
+无论如何
+Anyhoo...
+
+508
+00:33:55,070 --> 00:33:58,190
+别来太晚 不然X∑K兄弟会的小鲜肉们就被抢光了
+Don't be too late, or all the cute Sigma boys will be taken.
+
+509
+00:33:58,390 --> 00:34:00,780
+好的 拜拜
+Okay, see you soon.
+
+510
+00:34:00,820 --> 00:34:03,060
+谁拿了我的吹风机
+Who took my hair dryer?
+
+511
+00:34:06,560 --> 00:34:08,600
+新健身房开业
+...opening a new gym.
+
+512
+00:34:08,630 --> 00:34:12,520
+我觉得这里面有点古怪 之前从来没听他提起过这个项目
+Which is weird because I've never heard anything about it before.
+
+513
+00:34:12,540 --> 00:34:14,880
+我试着让自己不把这件事太当回事儿
+But I'm trying not to let that bring me down.
+
+514
+00:34:14,900 --> 00:34:17,900
+因为我在接杰斯的路上
+Because I'm on my way to pick up Jace.
+
+515
+00:34:19,830 --> 00:34:22,250
+我太高兴了 我要见到杰斯了
+I'm just happy I get to see Jace, so.
+
+516
+00:34:22,270 --> 00:34:24,880
+我知道 已经快一个月了
+I know, it's been like almost a month.
+
+517
+00:34:24,890 --> 00:34:27,240
+见到你我太激动了
+I'm just so excited to see you.
+
+518
+00:34:27,250 --> 00:34:29,390
+洛瑞把遥控器放哪了
+Where'd LorI put the freaking remote?
+
+519
+00:34:34,190 --> 00:34:35,630
+你好啊 杰斯
+Hey, Jace!
+
+520
+00:34:36,430 --> 00:34:37,800
+嘿
+He-ey!
+
+521
+00:34:41,700 --> 00:34:43,440
+你好
+Hi.
+
+522
+00:34:43,840 --> 00:34:45,140
+我是芭芭拉
+I'm Barbara.
+
+523
+00:34:48,040 --> 00:34:49,700
+和妈妈说再见好吗
+Wanna say bye to meme?
+
+524
+00:34:49,740 --> 00:34:50,930
+再见
+Goodbye.
+
+525
+00:34:50,990 --> 00:34:52,870
+乖乖的 好好玩啊
+Stay buckled, have a good time...
+
+526
+00:34:54,670 --> 00:34:56,720
+G-48
+G-48
+
+527
+00:34:56,730 --> 00:34:57,970
+好棒呀
+Ain't that great.
+
+528
+00:35:20,310 --> 00:35:22,810
+我不知道你和那男的之间是
+I don't know what's going on with you
+
+529
+00:35:22,810 --> 00:35:25,610
+怎么回事
+and that other guy, okay.
+
+530
+00:35:25,620 --> 00:35:27,640
+因枪伤被送去抢救
+...is being treated for a gunshot wound
+
+531
+00:35:27,640 --> 00:35:29,690
+在今早的致命枪击后
+following a deadly shootout this morning
+
+532
+00:35:29,690 --> 00:35:31,670
+导致的一名警察殉职
+that left one officer dead.
+
+533
+00:35:31,670 --> 00:35:33,740
+图姆斯是作为
+Tombs was the subject of...
+
+534
+00:37:10,840 --> 00:37:12,170
+发型没新意
+...boring hairstyle?
+
+535
+00:37:12,220 --> 00:37:14,090
+你是否为了让自己的秀发变得浓密
+Do you go through a can of hairspray
+
+536
+00:37:14,880 --> 00:37:17,270
+而用了一整罐发胶
+trying to get that full-volumized look?
+
+537
+00:37:17,270 --> 00:37:19,220
+那就用邦佩特喷一喷
+Then bump it up with Bumpits!
+
+538
+00:37:19,220 --> 00:37:21,320
+就能达到专业美发效果
+And get that salon-style look.
+
+539
+00:37:21,350 --> 00:37:24,100
+完美发型 轻松见效
+Flat to fabulous, instantly
+
+540
+00:37:24,110 --> 00:37:26,820
+想象创造了今天的
+Imagine being able to create today's hot...
+
+541
+00:37:54,620 --> 00:37:56,130
+怎么了
+What's wrong?
+
+542
+00:37:56,330 --> 00:37:57,740
+你怎么了
+What's going on?
+
+543
+00:37:57,940 --> 00:38:00,040
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+544
+00:38:00,040 --> 00:38:00,800
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+545
+00:38:00,820 --> 00:38:02,250
+-啊 - 小树 你还好吗
+- Ow! - Tree, are you okay?
+
+546
+00:38:02,270 --> 00:38:04,500
+- 你生病了吗 - 闭嘴
+- Are you sick? - Shut up!
+
+547
+00:38:04,520 --> 00:38:06,690
+我不听 我不听 我不听
+Shut up! Shut up! Shut uuuup!
+
+548
+00:38:06,710 --> 00:38:07,660
+噢 天呐 停下来吧 停下来
+Oh, my God, make it stop! Make it stop!
+
+549
+00:38:07,710 --> 00:38:09,630
+- 停下来 - 你怎么了
+- Make it stop! - Are you okay?
+
+550
+00:38:09,650 --> 00:38:11,020
+离我远点
+Get away from me!
+
+551
+00:38:11,030 --> 00:38:12,930
+好吧
+All right.
+
+552
+00:38:12,960 --> 00:38:14,560
+冷静
+Come on, just...
+
+553
+00:38:29,000 --> 00:38:31,500
+阻止全球变暖
+Stop global warming.
+
+554
+00:38:36,300 --> 00:38:37,670
+啊
+Oh.
+
+555
+00:38:41,570 --> 00:38:43,160
+别停
+Keep going!
+
+556
+00:38:43,160 --> 00:38:45,240
+62瓶啤酒
+62 bottles of beer
+
+557
+00:38:45,240 --> 00:38:47,870
+♪ 又干掉一瓶 往下传 ♪
+♪ You can take one down, pass it around ♪
+
+558
+00:38:47,870 --> 00:38:49,380
+♪ 61瓶啤酒 ♪
+♪ 61 bottles of beer on the wall ♪
+
+559
+00:38:50,640 --> 00:38:52,100
+♪ 61瓶啤酒 ♪
+♪ 61 bottles of beer on the wall ♪
+
+560
+00:38:52,100 --> 00:38:54,060
+♪ 又干掉一瓶 往下传 ♪
+♪ You take one down, pass it around ♪
+
+561
+00:38:54,060 --> 00:38:55,760
+大点声
+I can't hear you!
+
+562
+00:38:56,060 --> 00:38:57,390
+抱歉
+I'm sorry.
+
+563
+00:38:57,590 --> 00:38:59,690
+你忘了你的东西
+You forgot your stuff.
+
+564
+00:39:01,490 --> 00:39:03,270
+帮我
+Help me.
+
+565
+00:39:07,370 --> 00:39:09,470
+你能别一直看着我吗
+Will you please stop staring at me
+
+566
+00:39:09,480 --> 00:39:11,540
+好像我脸上有东西一样
+like I took a dump on your mom's head?
+
+567
+00:39:11,560 --> 00:39:16,630
+不好意思 我只是在整理思路
+I'm sorry. I'm just tryna wrap my brain around this.
+
+568
+00:39:18,230 --> 00:39:20,140
+你怎么想的
+How's that going for you?
+
+569
+00:39:20,150 --> 00:39:23,010
+假设你说的有一丁点可能的话
+Assuming that I believe any of this is even remotely possible...
+
+570
+00:39:23,010 --> 00:39:25,260
+你被困在今天一定是有原因的
+There has to be a reason you're stuck in this day.
+
+571
+00:39:25,260 --> 00:39:26,460
+在你的一生中
+Out of all the days in your life,
+
+572
+00:39:26,460 --> 00:39:28,200
+是什么让今天变得特别
+what makes this day special?
+
+573
+00:39:28,200 --> 00:39:29,400
+或是什么让这一天有意义
+What gives this day meaning?
+
+574
+00:39:29,410 --> 00:39:32,170
+- 什么都没有 - ♪ 哦耶 老子今天过生日 ♪
+- Nothing. - ♪ Yeah, it's my birthday ♪
+
+575
+00:39:32,170 --> 00:39:33,170
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+576
+00:39:33,170 --> 00:39:34,660
+今天你过生日吗
+Its' your birthday?
+
+577
+00:39:34,700 --> 00:39:36,740
+- 是的 - 拜托
+- Yeah. - Hello?
+
+578
+00:39:36,750 --> 00:39:39,050
+那又怎样 生日只不过是
+So? Birthdays are just excuses to like
+
+579
+00:39:39,080 --> 00:39:41,620
+吃蛋糕和拆礼物的借口 根本没有任何意义
+eat cake and open presents. There's no real meaning...
+
+580
+00:39:41,700 --> 00:39:43,740
+不 它有象征意义的 好吧
+No, it's symbolic. Okay?
+
+581
+00:39:43,780 --> 00:39:46,770
+谁会在你生日的时候杀你
+Whoever's killing you knows it's your birthday.
+
+582
+00:39:46,970 --> 00:39:48,510
+天呐
+Ew.
+
+583
+00:39:48,710 --> 00:39:50,320
+好吧 听着
+All right, look.
+
+584
+00:39:51,130 --> 00:39:52,650
+给我一张知道
+Give me a list of names
+
+585
+00:39:52,650 --> 00:39:53,890
+你生日的人的名单
+of everybody who knows it's your birthday
+
+586
+00:39:53,920 --> 00:39:55,440
+以及想要杀你的人的名单
+and whoever's trying to kill you.
+
+587
+00:39:56,860 --> 00:39:58,710
+多亏了姐妹会
+Well, thanks to my sorority,
+
+588
+00:39:58,710 --> 00:40:01,370
+差不多全校的人都知道我今天过生日
+pretty much the entire school knows it's my birthday.
+
+589
+00:40:01,370 --> 00:40:04,070
+天呐 今晚他们还要给我办一个惊喜派对
+God, they're throwing me this stupid surprise party tonight.
+
+590
+00:40:04,070 --> 00:40:06,460
+真的 谁都有可能杀了我
+I mean, it literally could be anyone.
+
+591
+00:40:06,960 --> 00:40:09,190
+谁有动机呢
+I mean, who has motive?
+
+592
+00:40:11,090 --> 00:40:13,770
+好吧 可能是丹妮尔
+Okay, maybe it's Danielle.
+
+593
+00:40:13,870 --> 00:40:14,830
+好的
+All right.
+
+594
+00:40:14,920 --> 00:40:16,410
+显然 昨晚我当着她的面
+Apparently, I made out with some guy she liked
+
+595
+00:40:16,870 --> 00:40:18,530
+和她喜欢的男生亲热
+right in front of her last night.
+
+596
+00:40:19,930 --> 00:40:21,020
+好吧
+Oh.
+
+597
+00:40:22,830 --> 00:40:24,690
+一定是我们见面以前发生的
+Must've been before we met.
+
+598
+00:40:24,990 --> 00:40:26,780
+晚上挺忙的哈
+Busy night.
+
+599
+00:40:26,880 --> 00:40:28,480
+好吧
+Okay, Mister I'm-gonna-
+
+600
+00:40:28,490 --> 00:40:31,080
+“捡尸体占人便宜”先生
+take-this-drunk-girl-home- and-take-advantage-of-her.
+
+601
+00:40:31,090 --> 00:40:32,600
+不要对我评头论足
+Don't judge.
+
+602
+00:40:32,600 --> 00:40:34,510
+我必须纠正一下 我昨晚并没有占你便宜好吧
+For the record, I didn't take advantage of you last night. Okay?
+
+603
+00:40:34,510 --> 00:40:36,420
+我在瑞恩床上睡的
+I slept on Ryan's bed.
+
+604
+00:40:37,410 --> 00:40:40,570
+所以 我们并没有
+So, we didn't?
+
+605
+00:40:40,570 --> 00:40:41,790
+- 做那个 - 没有
+- Have s... - No!
+
+606
+00:40:41,810 --> 00:40:43,610
+你昨晚喝大了
+You were wasted last night.
+
+607
+00:40:43,610 --> 00:40:45,040
+我是怕你倒下
+You know, I was afraid you were gonna fall or
+
+608
+00:40:45,340 --> 00:40:47,250
+像詹尼斯 乔普林一样 被自己的呕吐物呛死
+choke on your own vomit like Janis Joplin.
+
+609
+00:40:56,450 --> 00:40:57,950
+我们说到哪了
+Uh, what were we...?
+
+610
+00:40:57,970 --> 00:40:59,520
+- 嫌疑人 - 对 嫌疑人
+- Suspects. - Right, suspects.
+
+611
+00:40:59,820 --> 00:41:01,360
+好吧 丹妮尔
+Um, okay so, Danielle.
+
+612
+00:41:02,160 --> 00:41:06,910
+格雷戈里 还有他老婆
+Pfff... Gregory? Um... his wife.
+
+613
+00:41:07,240 --> 00:41:08,240
+跟踪狂蒂姆
+Creepy Tim.
+
+614
+00:41:08,240 --> 00:41:12,260
+哦 还有把我从TJ Max开除的那个小个子女生
+Ooh, that tiny girl from T.J. Maxx that I got fired.
+
+615
+00:41:12,260 --> 00:41:15,120
+还有上周被我吐唾沫的优步司机
+And maybe the Uber driver that I spit on last week.
+
+616
+00:41:15,460 --> 00:41:17,680
+我记得他叫 怎么嘛
+I think his name was... what?
+
+617
+00:41:17,680 --> 00:41:19,180
+人无完人
+Nobody's perfect.
+
+618
+00:41:20,380 --> 00:41:22,440
+好吧 这根本没用
+Okay, this isn't helping.
+
+619
+00:41:23,140 --> 00:41:25,670
+毫无意义 是吗
+This is pointless, isn't it?
+
+620
+00:41:25,750 --> 00:41:28,220
+好吧 听着 在我看来
+All right, look, the way I see it, is, is...
+
+621
+00:41:29,300 --> 00:41:31,460
+你有了无限的生命
+You have unlimited amount of lives.
+
+622
+00:41:31,470 --> 00:41:34,180
+所以你有了无限的机会去抓到杀你的人
+So, you have unlimited opportunities to solve your own murder.
+
+623
+00:41:34,190 --> 00:41:36,390
+你的意思是 在我找到杀我的凶手之前
+So, I'm just supposed to keep
+
+624
+00:41:36,400 --> 00:41:39,650
+我还要一遍一遍地死去
+dying unitl I figure out who my killer is?
+
+625
+00:41:39,660 --> 00:41:41,620
+这就是你的好主意吗
+That's your genius plan?
+
+626
+00:41:41,620 --> 00:41:43,420
+你有更好的办法吗
+Do you have a better idea?
+
+627
+00:41:57,500 --> 00:41:59,120
+♪ 哈 ♪
+♪ Ha ♪
+
+628
+00:42:00,900 --> 00:42:03,300
+♪ 到我掌控的时间了 ♪
+♪ It's time for me to take it ♪
+
+629
+00:42:03,310 --> 00:42:05,170
+♪ 我就是此刻的王 ♪
+♪ I'm the boss right now ♪
+
+630
+00:42:05,170 --> 00:42:07,300
+♪ 不用再假装它不存在 ♪
+♪ Not gonna fake it ♪
+
+631
+00:42:07,310 --> 00:42:09,300
+♪ 在你低谷的时候 ♪
+♪ Not when you go down ♪
+
+632
+00:42:09,310 --> 00:42:10,880
+♪因为这是我的主场 ♪
+♪ 'Cause this is my game ♪
+
+633
+00:42:10,880 --> 00:42:14,050
+♪ 你最好参与进来 ♪
+♪ And you better come to play ♪
+
+634
+00:42:16,100 --> 00:42:18,010
+♪ 我总是藏起我的古怪 ♪
+♪ I used to hold my freak back ♪
+
+635
+00:42:18,010 --> 00:42:20,440
+♪ 现在我要释放♪
+♪ Now I'm letting go ♪
+
+636
+00:42:20,440 --> 00:42:20,440
+蒂姆
+Tim
+
+637
+00:42:20,440 --> 00:42:22,070
+♪ 我自己做主 ♪
+♪ I make my own choice ♪
+
+638
+00:42:22,070 --> 00:42:24,140
+♪ 贱人 我掌控全场 ♪
+♪ Bitch, I run this show ♪
+
+639
+00:42:24,140 --> 00:42:25,660
+♪ 让灯光闪耀 ♪
+♪ So leave the lights on ♪
+
+640
+00:42:25,670 --> 00:42:29,040
+♪ 你不能控制我 ♪
+♪ No, you can't make me behave ♪
+
+641
+00:42:29,040 --> 00:42:31,040
+哦 他是同性恋
+Oh he's gay
+
+642
+00:42:33,150 --> 00:42:36,480
+♪ 你说我很复杂 ♪
+♪ So you say I'm complicated ♪
+
+643
+00:42:36,490 --> 00:42:39,950
+♪ 我一定是失去了理智 ♪
+♪ That I must be outta my mind ♪
+
+644
+00:42:39,950 --> 00:42:43,780
+♪ 但是你低估了我 ♪
+♪ But you had me underrated ♪
+
+645
+00:42:43,790 --> 00:42:46,230
+♪ 估计 估计 ♪
+♪ Rated, rated Uh uh huh ♪
+
+646
+00:42:46,240 --> 00:42:50,080
+♪ 有什么错 有什么错 ♪
+♪ What's wrong with being, what's wrong with being ♪
+
+647
+00:42:50,090 --> 00:42:53,160
+♪ 自信有什么错 ♪
+♪ What's wrong with being confident? ♪
+
+648
+00:42:54,660 --> 00:42:57,740
+♪ 有什么错 有什么错 ♪
+♪ What's wrong with being, what's wrong with being ♪
+
+649
+00:42:57,750 --> 00:43:00,830
+♪ 自信有什么错 ♪
+♪ What's wrong with being confident? ♪
+
+650
+00:43:02,230 --> 00:43:04,320
+♪ 是时候解开束缚 ♪
+♪ It's time to get the chains out ♪
+
+651
+00:43:04,320 --> 00:43:06,550
+♪ 闭紧嘴巴 ♪
+♪ Is your tongue tied up? ♪
+
+652
+00:43:06,550 --> 00:43:07,990
+♪ 因为这是我的地盘 ♪
+♪ 'Cause this is my ground ♪
+
+653
+00:43:07,990 --> 00:43:10,130
+♪ 我如此危险 ♪
+♪ And I'm dangerous ♪
+
+654
+00:43:10,140 --> 00:43:11,860
+♪ 你可以逃走 ♪
+♪ And you can get out ♪
+
+655
+00:43:11,860 --> 00:43:14,930
+♪ 但是今天都是我的主场
+♪ But it's all about me tonight ♪
+
+656
+00:43:19,330 --> 00:43:22,710
+♪ 你说我很复杂 ♪
+♪ So you say I'm complicated ♪
+
+657
+00:43:22,720 --> 00:43:24,110
+太累了
+It's so exhausting.
+
+658
+00:43:24,310 --> 00:43:25,600
+混蛋
+Asshole.
+
+659
+00:43:26,800 --> 00:43:30,040
+♪ 但是你低估了我 ♪
+♪ But you had me underrated ♪
+
+660
+00:43:31,240 --> 00:43:33,330
+你个贱人
+You bitch!
+
+661
+00:43:34,830 --> 00:43:36,580
+我就知道是你
+I knew it was you!
+
+662
+00:43:37,080 --> 00:43:38,580
+过来
+Come here!
+
+663
+00:43:38,980 --> 00:43:40,270
+滚开
+Get off me!
+
+664
+00:43:40,280 --> 00:43:42,030
+我要杀了你
+I'm gonna kill you!
+
+665
+00:43:44,030 --> 00:43:46,950
+♪ 自信有什么错 ♪
+♪ What's wrong with being confident? ♪
+
+666
+00:43:54,300 --> 00:43:57,430
+♪ 你说我很复杂 ♪
+♪ So you say I'm complicated ♪
+
+667
+00:44:01,530 --> 00:44:06,600
+♪ 但是你低估了我 ♪
+♪ But you had me underrated ♪
+
+668
+00:44:13,840 --> 00:44:16,800
+♪ 有什么错 有什么错 ♪
+♪ What's wrong with being, what's wrong with being ♪
+
+669
+00:44:16,800 --> 00:44:21,420
+♪ 自信有什么错 ♪
+♪ What's wrong with being confident? Ooh, yeah ♪
+
+670
+00:44:30,600 --> 00:44:33,700
+我的天 贝基
+Oh, my God! Becky?
+
+671
+00:44:33,900 --> 00:44:35,480
+贝基
+Becky!
+
+672
+00:44:35,880 --> 00:44:37,550
+贝基
+Becky!
+
+673
+00:44:38,250 --> 00:44:39,800
+贝基
+Becky!
+
+674
+00:44:58,400 --> 00:45:00,420
+- 闭嘴 - 噢
+- Shut up! - Ow
+
+675
+00:45:01,020 --> 00:45:02,900
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+676
+00:45:02,920 --> 00:45:03,970
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up... ♪
+
+677
+00:45:04,000 --> 00:45:06,410
+嘿 你醒了
+Oh hey! You're up.
+
+678
+00:45:06,610 --> 00:45:08,670
+我不太确定你要不要睡在这儿 就
+I wasn't sure if you wanted to sleep in or...
+
+679
+00:45:08,680 --> 00:45:11,010
+你的主意糟糕透了
+Your plan totally sucks.
+
+680
+00:45:11,020 --> 00:45:12,310
+什么
+What?
+
+681
+00:45:17,710 --> 00:45:20,310
+你可能都不记得我叫什么了吧
+I don't know if you remember my name or not.
+
+682
+00:45:20,510 --> 00:45:22,930
+你昨晚喝大了
+You know, you were pretty wasted last night.
+
+683
+00:45:23,630 --> 00:45:25,580
+自我介绍下 我叫卡特
+Um, but I'm Carter.
+
+684
+00:45:25,780 --> 00:45:27,230
+你还好嘛
+Are you okay?
+
+685
+00:45:27,930 --> 00:45:29,630
+不能更好了
+Never better.
+
+686
+00:45:35,430 --> 00:45:37,040
+你确定你没事吗
+Are you sure you're okay?
+
+687
+00:45:37,050 --> 00:45:38,240
+我没事
+I'm fine.
+
+688
+00:45:38,940 --> 00:45:40,710
+哥儿们 你有没有把那个大美妞办了
+Dude, did you hit that fine vagine, or what?
+
+689
+00:45:40,910 --> 00:45:42,340
+怎么了
+Sup, hey...
+
+690
+00:45:42,540 --> 00:45:44,820
+不好意思打扰你们了
+Um, I'm sorry to bother you guys, uh...
+
+691
+00:45:45,020 --> 00:45:47,030
+怎么样了
+How's it go?
+
+692
+00:45:47,230 --> 00:45:50,040
+我昨晚睡车里 所以
+I had to sleep in my car, so...
+
+693
+00:45:53,440 --> 00:45:55,380
+卡特 拜托 帮帮我
+Carter, please, a little help.
+
+694
+00:45:55,390 --> 00:45:56,560
+卡特
+Carter!
+
+695
+00:46:33,560 --> 00:46:35,000
+小树
+Tree.
+
+696
+00:46:35,600 --> 00:46:38,200
+冷静 是我
+Hey, hey, hey, calm down. I-It's just me.
+
+697
+00:46:41,200 --> 00:46:42,620
+你还好吗
+How you doing?
+
+698
+00:46:43,520 --> 00:46:46,140
+我怎么了
+Wh-what happened?
+
+699
+00:46:46,740 --> 00:46:48,850
+今天早上你昏倒了
+You collapsed this morning.
+
+700
+00:46:48,860 --> 00:46:50,050
+今天是哪天
+What day is it?
+
+701
+00:46:50,150 --> 00:46:51,700
+星期一
+It's Monday.
+
+702
+00:46:51,700 --> 00:46:52,900
+什么日期
+What's the date?
+
+703
+00:46:53,200 --> 00:46:54,840
+18号
+Uh, it's the 18th.
+
+704
+00:46:56,160 --> 00:46:58,720
+我们试着联系你父母
+Oh, we've been trying to get in contact with your parents.
+
+705
+00:46:58,760 --> 00:47:00,780
+但是因为一些原因
+But for some reason...
+
+706
+00:47:03,500 --> 00:47:05,540
+- 吓我一跳 - 有事吗
+- Jeez! - Can I help you?
+
+707
+00:47:05,740 --> 00:47:07,540
+我只是来看看她
+Uh, I'm just checkin' on her.
+
+708
+00:47:07,540 --> 00:47:09,570
+没事 他是我朋友
+It's okay. He's a friend.
+
+709
+00:47:09,930 --> 00:47:12,110
+抱歉 探视时间到了
+Sorry, visiting hours are over.
+
+710
+00:47:12,600 --> 00:47:13,200
+好吧
+Got it.
+
+711
+00:47:15,370 --> 00:47:16,420
+谢谢你 卡特
+Thanks, Carter.
+
+712
+00:47:18,400 --> 00:47:19,390
+早日康复
+Feel better.
+
+713
+00:47:22,490 --> 00:47:24,450
+我什么时候能出院
+When can I get out of here?
+
+714
+00:47:30,350 --> 00:47:32,700
+你的病历真让我为难
+I'm having a hard time pulling your medical records.
+
+715
+00:47:34,700 --> 00:47:36,280
+为什么
+Why?
+
+716
+00:47:36,780 --> 00:47:39,570
+这是刚从影像科拿到的
+We just got these back from imaging.
+
+717
+00:47:40,370 --> 00:47:43,580
+这些重大外伤的标记
+These are signs of major trauma.
+
+718
+00:47:43,780 --> 00:47:48,600
+标明了疤痕组织和损害面积的严重程度
+Given the severity of the scar tissue and the size of the lesions,
+
+719
+00:47:51,500 --> 00:47:53,310
+这听起来很奇怪 但
+This is gonna sound crazy, but...
+
+720
+00:47:53,510 --> 00:47:57,150
+理论上说 你应该死了
+technically, you should be dead.
+
+721
+00:47:59,950 --> 00:48:03,850
+嘿 你要干什么
+Hey, hey, hey, what are you doing?
+
+722
+00:48:04,050 --> 00:48:05,370
+我要离开这
+I need to get out of here.
+
+723
+00:48:05,370 --> 00:48:07,170
+不行 你要留院观察
+No way, no. You need to stay here for observation.
+
+724
+00:48:07,170 --> 00:48:09,180
+如果我不离开这 我会死
+If I don't get out of here, I'm gonna die.
+
+725
+00:48:09,180 --> 00:48:11,840
+小树 嘘 听我说
+Tree, shh, listen to me.
+
+726
+00:48:11,850 --> 00:48:15,730
+你在这很安全
+You are absolutely safe here.
+
+727
+00:48:19,100 --> 00:48:21,810
+好吧
+Okay.
+
+728
+00:48:21,820 --> 00:48:23,840
+我不会让你有事的
+I won't let anything happen to you.
+
+729
+00:48:30,440 --> 00:48:31,880
+我真的很渴
+I'm really thirsty.
+
+730
+00:48:32,380 --> 00:48:34,090
+你可以给我瓶汽水吗吗
+Could you get me a soda?
+
+731
+00:48:34,290 --> 00:48:35,540
+没问题
+Sure.
+
+732
+00:48:36,740 --> 00:48:38,100
+谢谢
+Thank you.
+
+733
+00:49:01,700 --> 00:49:03,500
+可爱小快递
+Special delivery.
+
+734
+00:49:36,800 --> 00:49:38,700
+钥匙呢
+Keys, keys, keys...
+
+735
+00:49:43,000 --> 00:49:45,500
+戈里 你的车钥匙在哪里 快出现啊
+Greg, where are the car keys, come on!
+
+736
+00:50:47,400 --> 00:50:49,700
+小树 别怕
+Tree, Tree, it's okay.
+
+737
+00:50:49,710 --> 00:50:51,200
+别怕 是我
+It's okay, it's just me.
+
+738
+00:50:51,250 --> 00:50:52,800
+格雷戈里 小心
+Gregory, look out!
+
+739
+00:51:20,000 --> 00:51:22,300
+快点 快点
+Come on, come on, come on!
+
+740
+00:53:16,500 --> 00:53:18,000
+我做到了
+I did it.
+
+741
+00:53:18,200 --> 00:53:19,900
+我做到了
+I did it!
+
+742
+00:53:20,100 --> 00:53:21,900
+我做到了
+I did it!
+
+743
+00:53:22,100 --> 00:53:24,400
+哇
+Whoo!
+
+744
+00:53:24,600 --> 00:53:26,100
+太棒了
+Yeah!
+
+745
+00:53:26,300 --> 00:53:29,480
+来抓我啊 贱人
+Catch me now, bitch!
+
+746
+00:53:29,680 --> 00:53:32,500
+啊
+Whoo!
+
+747
+00:53:35,700 --> 00:53:37,160
+什么
+What?
+
+748
+00:53:38,060 --> 00:53:39,760
+噢 不要啊 不要啊
+Oh, no, no, no!
+
+749
+00:53:39,960 --> 00:53:41,460
+快点
+Come on!
+
+750
+00:53:41,560 --> 00:53:42,960
+不要
+No!
+
+751
+00:53:43,160 --> 00:53:44,560
+哦 惨了
+Oh, shit!
+
+752
+00:53:59,960 --> 00:54:01,760
+糟了 糟了 糟了
+Shit, shit, shit.
+
+753
+00:54:04,760 --> 00:54:06,900
+警官 我知道我超速了
+I know I was speeding, officer, I just...
+
+754
+00:54:07,100 --> 00:54:08,400
+请关掉引擎
+Turn off the engine, please.
+
+755
+00:54:09,700 --> 00:54:11,210
+好的 警官
+Yes, officer.
+
+756
+00:54:12,010 --> 00:54:13,450
+驾照和车辆注册证
+License and registration.
+
+757
+00:54:14,850 --> 00:54:16,350
+我
+I um...
+
+758
+00:54:19,100 --> 00:54:20,950
+我没带
+I don't have it.
+
+759
+00:54:21,650 --> 00:54:24,620
+- 你说什么 - 他还想杀我一次
+- Pardon me? - He's trying to kill me again.
+
+760
+00:54:24,820 --> 00:54:26,420
+- 再一次 - 是的
+- Again? - Yes.
+
+761
+00:54:26,620 --> 00:54:27,920
+我的意思是
+I mean, no, I...
+
+762
+00:54:27,920 --> 00:54:29,530
+他以前想杀我 但这次我跑掉了
+He was trying before, but this time I got away.
+
+763
+00:54:29,540 --> 00:54:32,150
+但是我没时间拿衣服了
+But I-I didn't have time to grab my clothes
+
+764
+00:54:32,160 --> 00:54:33,630
+我的驾照在口袋里
+and my driver's license is in my pocket.
+
+765
+00:54:36,830 --> 00:54:38,700
+女士 你是喝酒了
+Ma'am, are you under the influence of alcohol
+
+766
+00:54:38,700 --> 00:54:40,280
+还是嗑药了呢
+or any other controlled substance?
+
+767
+00:54:40,280 --> 00:54:42,480
+没有 我只是想
+No! That is what I am trying to...
+
+768
+00:54:45,380 --> 00:54:46,880
+等等
+Wait.
+
+769
+00:54:48,180 --> 00:54:49,980
+如果是 这是不是意味着
+If I am, does that mean
+
+770
+00:54:49,980 --> 00:54:51,430
+你要逮捕我
+that you're going to arrest me
+
+771
+00:54:51,430 --> 00:54:53,310
+把我关进监狱里
+and lock me in a jail cell?
+
+772
+00:54:53,310 --> 00:54:55,560
+按照程序是这样的
+That's how it usually works.
+
+773
+00:54:55,570 --> 00:54:57,060
+我酗酒了
+I'm drunk.
+
+774
+00:54:57,760 --> 00:55:00,360
+- 真的吗 - 喝大了
+- You are? - Wasted.
+
+775
+00:55:00,370 --> 00:55:03,050
+还嗑药了 药丸 大麻
+And I'm high. You know, pills, weed.
+
+776
+00:55:03,050 --> 00:55:04,650
+我什么都吸
+You name it, man, I'm on it.
+
+777
+00:55:06,450 --> 00:55:08,350
+既然这样
+Um, well...
+
+778
+00:55:09,450 --> 00:55:12,010
+那我只能逮捕你了
+Then I'm gonna put you under arrest.
+
+779
+00:55:12,810 --> 00:55:15,420
+好主意
+That's a good idea.
+
+780
+00:55:16,020 --> 00:55:17,800
+让我帮你
+Let me help you.
+
+781
+00:55:18,400 --> 00:55:20,330
+好吧
+Uh, all right.
+
+782
+00:55:24,330 --> 00:55:26,500
+我还是第一次被抓
+Never been arrested before.
+
+783
+00:55:26,520 --> 00:55:27,900
+哦
+Uh-huh.
+
+784
+00:55:31,600 --> 00:55:33,050
+谢谢
+Thank you!
+
+785
+00:55:33,050 --> 00:55:35,680
+通往78大学医院的各单位注意了
+All units who have got a way to 78 University Hospital,
+
+786
+00:55:35,680 --> 00:55:37,180
+嫌疑犯在逃
+Suspect is...
+
+787
+00:55:56,080 --> 00:55:57,500
+卧槽
+Shit.
+
+788
+00:55:57,700 --> 00:55:59,500
+天哪 快让我出去
+Oh, God, get me out!
+
+789
+00:55:59,700 --> 00:56:01,700
+让我出去 让我出去
+Get me out, get me out!
+
+790
+00:56:15,400 --> 00:56:17,280
+你想要做什么
+What do you want?!
+
+791
+00:56:17,780 --> 00:56:20,580
+为什么要对我这样做
+Why are you doing this to me?
+
+792
+00:56:20,780 --> 00:56:22,270
+你到底是谁
+Who are you?
+
+793
+00:56:22,570 --> 00:56:24,900
+你个胆小鬼 有本事露出你的脸
+Show your face, you pussy!
+
+794
+00:56:33,200 --> 00:56:35,080
+你要去哪
+Where are you going?
+
+795
+00:57:00,480 --> 00:57:02,280
+哦 该死
+Oh, shit!
+
+796
+00:57:19,180 --> 00:57:20,880
+完蛋了
+Oh, fuck.
+
+797
+00:57:34,280 --> 00:57:36,080
+嘿 你醒啦
+Oh, hey. You're up.
+
+798
+00:57:36,080 --> 00:57:37,580
+安静
+Silence!
+
+799
+00:57:39,080 --> 00:57:41,700
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+800
+00:57:41,700 --> 00:57:43,300
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+801
+00:57:47,300 --> 00:57:49,230
+怎么 你之前来过吗
+What, you've been here before?
+
+802
+00:57:49,830 --> 00:57:52,830
+嘿 我觉得你不应该吃那么多
+Hey, uh, you know, I don't think you should be taking that many...
+
+803
+00:57:53,030 --> 00:57:54,830
+我的意思是 你可能会死的
+I mean you could... you could die.
+
+804
+00:57:55,030 --> 00:57:56,430
+如果那么简单就好了
+If only it were that easy.
+
+805
+00:57:56,630 --> 00:57:59,630
+劳驾拿下水
+Water, por favor, mhm.
+
+806
+00:58:12,030 --> 00:58:13,710
+哥们儿 你跟那个大美妞
+Dude, did you hit that...
+
+807
+00:58:13,710 --> 00:58:16,180
+嗨 我就是你说的那个大美妞
+Hi, I'm the so-called "fine vagine".
+
+808
+00:58:16,180 --> 00:58:18,000
+如果你打算一直这么称呼女孩
+If that's the way you refer to girls,
+
+809
+00:58:18,010 --> 00:58:19,380
+你就跟你的右手
+you and your hand are going to have
+
+810
+00:58:19,380 --> 00:58:20,880
+度过下半生吧
+a very lasting relationship.
+
+811
+00:58:21,080 --> 00:58:23,060
+祝你开心哦
+Have a nice day.
+
+812
+00:58:26,060 --> 00:58:27,700
+怎么了
+What?
+
+813
+00:58:27,900 --> 00:58:31,140
+嗯 你每天早上都这么迷人么
+I mean, are you-you always this charming in the morning?
+
+814
+00:58:31,340 --> 00:58:32,690
+就这个早上是这样
+Just this one.
+
+815
+00:58:37,290 --> 00:58:39,870
+嗯 你做噩梦了吗
+So, you having a bad dream or something?
+
+816
+00:58:39,880 --> 00:58:41,270
+什么
+Sorry?
+
+817
+00:58:41,470 --> 00:58:43,740
+你刚才尖叫着醒来的
+You were just screamin' before you woke up.
+
+818
+00:58:43,940 --> 00:58:47,350
+呃 我当时快死了
+Well... I was dying.
+
+819
+00:58:47,550 --> 00:58:48,700
+又一次
+Again.
+
+820
+00:58:48,900 --> 00:58:50,310
+什么意思
+What?
+
+821
+00:58:50,710 --> 00:58:52,400
+呃 说来话长
+Uh, it's a long story.
+
+822
+00:58:54,960 --> 00:58:56,400
+没事 我有时间
+Well, I mean, I got, you know, time.
+
+823
+00:58:56,410 --> 00:58:58,990
+如果你想说的话 我随时奉陪
+I'm not doing anything today if you wanna.
+
+824
+00:58:59,190 --> 00:59:00,590
+说实话
+Seriously.
+
+825
+00:59:00,790 --> 00:59:02,840
+我讨厌这个贴纸
+I hate this sticker.
+
+826
+00:59:08,740 --> 00:59:10,440
+嘿 等等
+Hey, wait!
+
+827
+00:59:10,640 --> 00:59:12,330
+你为什么要跟着我
+Why are you following me?
+
+828
+00:59:12,530 --> 00:59:13,850
+我想听听你的故事
+I wanna hear your story.
+
+829
+00:59:14,050 --> 00:59:15,550
+听着 无意冒犯 但是上次
+Look, no offense, but the last time
+
+830
+00:59:15,550 --> 00:59:18,630
+我跟你说的时候 并没有什么作用 所以
+I explained it to you, it got me nowhere. So.
+
+831
+00:59:19,230 --> 00:59:21,050
+上一次
+The last time?
+
+832
+00:59:21,250 --> 00:59:22,450
+嘿
+Hey.
+
+833
+00:59:23,450 --> 00:59:25,440
+所以你最近在做噩梦
+So you-you're having bad dreams.
+
+834
+00:59:25,640 --> 00:59:28,480
+我选修了神经认知和梦理学
+I took an elective course on neurocognition and dream content.
+
+835
+00:59:28,480 --> 00:59:29,880
+为你欢呼哦
+Hooray for you.
+
+836
+00:59:29,880 --> 00:59:31,480
+我只是说
+I'm just saying, I...
+
+837
+00:59:31,680 --> 00:59:33,450
+我也许可以帮到你
+I might be able to help, you know.
+
+838
+00:59:33,650 --> 00:59:35,050
+你能帮我停止重复度过同样的一天么
+Can you help me stop reliving the same day
+
+839
+00:59:35,050 --> 00:59:36,750
+一遍又一遍 最后都被某个
+over and over only to be murdered
+
+840
+00:59:36,750 --> 00:59:38,550
+我可能认识又可能不认识的人谋杀致死
+by someone I may or may not know?
+
+841
+00:59:38,750 --> 00:59:40,930
+对 我觉得可以
+Yup. Thought so.
+
+842
+00:59:41,130 --> 00:59:42,430
+阻止全球变暖
+Stop global warming?
+
+843
+00:59:45,030 --> 00:59:48,400
+等等 你真的认为你在重复度过同一天吗
+So, wait, you literally think you're reliving the same day?
+
+844
+00:59:48,400 --> 00:59:49,700
+是的
+Yup.
+
+845
+00:59:49,700 --> 00:59:50,900
+然后某人会杀你
+And somebody kills you?
+
+846
+00:59:50,900 --> 00:59:52,100
+是啊 一次又一次
+Yup again.
+
+847
+00:59:54,600 --> 00:59:56,800
+好啦 你只是在糊弄我呢吧
+All right, come on, you're just messin' with me, right?
+
+848
+00:59:57,600 --> 00:59:59,430
+洒水器
+Sprinklers.
+
+849
+01:00:01,430 --> 01:00:02,700
+车鸣笛
+Car alarm.
+
+850
+01:00:05,800 --> 01:00:08,100
+你看到那边兄弟会的候选人了吗
+Now, see that pledge over there,
+
+851
+01:00:08,100 --> 01:00:09,890
+戴着棒球帽的伙计
+the one in the baseball hat?
+
+852
+01:00:09,900 --> 01:00:12,470
+他马上就要晕过去了
+He's going to fall right now.
+
+853
+01:00:12,570 --> 01:00:13,960
+别停下
+Keep going!
+
+854
+01:00:14,370 --> 01:00:16,040
+还有问题吗
+Any questions?
+
+855
+01:00:20,000 --> 01:00:22,260
+- 你的薯条好吃么 - 嗯 还不错
+- How are your fries? Hmm. - Yeah, they're good.
+
+856
+01:00:26,460 --> 01:00:28,530
+真让人印象深刻
+That's impressive.
+
+857
+01:00:28,730 --> 01:00:30,280
+呃 没什么啦
+Hmm. That was nothing.
+
+858
+01:00:39,280 --> 01:00:40,980
+都排出去了吗
+Did you get it all out?
+
+859
+01:00:41,180 --> 01:00:43,380
+随便啦 反正到时候你也不会记得
+Whatever. You won't remember it, anyway.
+
+860
+01:00:43,390 --> 01:00:45,050
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+861
+01:00:45,250 --> 01:00:47,150
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+862
+01:00:47,350 --> 01:00:48,950
+今天是你生日吗
+It's your birthday?
+
+863
+01:00:48,950 --> 01:00:50,670
+♪ 老子今天过生日 就不能留点 ♪
+♪ it's my birthday Can't you just leave... ♪
+
+864
+01:00:53,650 --> 01:00:57,260
+是你爸爸 你不接吗
+It's your dad. You wanna- wanna get that?
+
+865
+01:01:02,460 --> 01:01:04,240
+我和我爸不怎么亲近
+I was never close to my dad.
+
+866
+01:01:04,440 --> 01:01:06,100
+都想不起来上次他
+Can't even remember the last time
+
+867
+01:01:06,100 --> 01:01:07,300
+在我生日打给我是什么时候
+he called me on my birthday.
+
+868
+01:01:07,500 --> 01:01:09,600
+他老忘事
+He kinda always forgets.
+
+869
+01:01:09,800 --> 01:01:11,900
+是吗 我本该和我老爸在一起的
+Yeah. I'm supposed to be with mine.
+
+870
+01:01:12,500 --> 01:01:14,900
+我不知道 我没法忍受两个人坐在那里
+I don't know, I couldn't bear the thought of sitting through
+
+871
+01:01:14,900 --> 01:01:16,900
+尴尬地庆祝生日
+another uncomfortable celebration
+
+872
+01:01:16,900 --> 01:01:19,300
+假装一切都很好什么的
+while we both pretend that everything is awesome.
+
+873
+01:01:19,700 --> 01:01:21,650
+你和你妈妈亲吗
+Are you closer with your mom?
+
+874
+01:01:21,850 --> 01:01:23,140
+以前亲
+Was.
+
+875
+01:01:23,150 --> 01:01:24,430
+发生了什么
+What happened?
+
+876
+01:01:26,230 --> 01:01:27,630
+哦 她
+Oh, she...
+
+877
+01:01:27,630 --> 01:01:28,920
+嗯
+Yeah.
+
+878
+01:01:28,920 --> 01:01:30,220
+三年前
+Three years ago.
+
+879
+01:01:31,620 --> 01:01:32,940
+我很抱歉
+I'm sorry.
+
+880
+01:01:33,940 --> 01:01:35,440
+那一定很糟
+That-that sucks.
+
+881
+01:01:35,440 --> 01:01:36,840
+对啊
+Yeah.
+
+882
+01:01:37,140 --> 01:01:39,760
+我们其实在同一天生日
+We actually share the same birthday, though.
+
+883
+01:01:39,960 --> 01:01:41,970
+真的吗 难以置信
+Seriously? That's crazy.
+
+884
+01:01:44,070 --> 01:01:46,770
+嗯 我小的时候
+You know, when I was a kid,
+
+885
+01:01:46,970 --> 01:01:49,450
+总是逃学
+I always got to skip school.
+
+886
+01:01:49,650 --> 01:01:51,780
+我们会去海滩
+We'd go to the beach.
+
+887
+01:01:53,080 --> 01:01:57,670
+我爸就会给我们买那种超大的蛋糕
+My dad would buy us this like huge birthday cake.
+
+888
+01:01:58,270 --> 01:02:00,290
+只放一根蜡烛在上面
+And put just one candle on it.
+
+889
+01:02:00,690 --> 01:02:02,280
+我们就一起吹蜡烛
+We'd blow it out together.
+
+890
+01:02:02,980 --> 01:02:05,040
+我打赌你肯定很想她
+I bet you miss her.
+
+891
+01:02:06,540 --> 01:02:08,150
+嗯
+Yeah.
+
+892
+01:02:08,850 --> 01:02:11,010
+说起来很好笑
+You know, it's funny,
+
+893
+01:02:11,020 --> 01:02:13,740
+当你重复度过着同一天
+you relive the same day over and over again
+
+894
+01:02:15,540 --> 01:02:18,260
+你就会开始发现真正的自己
+you kind of start to see who you really are.
+
+895
+01:02:21,360 --> 01:02:22,990
+如果我妈妈现在看到我
+If my mom saw me now,
+
+896
+01:02:23,190 --> 01:02:25,110
+看到我变成了什么样子
+and who I've become,
+
+897
+01:02:26,310 --> 01:02:29,580
+我不觉得她会很自豪
+I don't think she'd be very proud.
+
+898
+01:02:29,680 --> 01:02:30,880
+别这么说
+Don't say that.
+
+899
+01:02:30,880 --> 01:02:32,180
+是真的
+It's true.
+
+900
+01:02:33,280 --> 01:02:36,110
+我不是一个好人 卡特
+I'm not a good person, Carter.
+
+901
+01:02:36,610 --> 01:02:40,670
+也许是罪有应得吧 我活该
+Maybe it's karma, maybe I deserve it.
+
+902
+01:02:45,370 --> 01:02:48,100
+听着 我不是很了解你
+Well, look, I don't know you all that well, but...
+
+903
+01:02:48,170 --> 01:02:50,100
+但改变永远不迟
+It's never too late to change.
+
+904
+01:02:50,300 --> 01:02:51,850
+特别是如果你说的都是真的
+I mean, especially if what you're saying is true,
+
+905
+01:02:52,050 --> 01:02:54,110
+每个新的一天都是
+Each new day is
+
+906
+01:02:54,310 --> 01:02:56,700
+做一个更好的自己的机会
+it's a chance to be somebody better.
+
+907
+01:02:56,900 --> 01:02:58,470
+看 就是这样
+See, that's just it.
+
+908
+01:03:00,670 --> 01:03:03,410
+我不认为我还有多少机会了
+I don't think I have that many chances left.
+
+909
+01:03:06,710 --> 01:03:09,050
+我每次回来都会变得更虚弱
+I keep on getting weaker every time I come back.
+
+910
+01:03:09,950 --> 01:03:13,800
+我觉得 也许我就像猫咪有九条命一样
+You know, maybe I'm like that cat with nine lives.
+
+911
+01:03:14,800 --> 01:03:17,420
+最终 我还是会死的
+Eventually, I'm gonna run out.
+
+912
+01:03:18,420 --> 01:03:21,620
+现在在贝尔菲德大学附属医院为您直播
+Let's go live now to Bayfield University Hospital
+
+913
+01:03:21,820 --> 01:03:24,810
+詹妮弗 崔特带来最新进展
+Where Jennifer Trite has the latest on this developing situation.
+
+914
+01:03:25,010 --> 01:03:27,500
+我现在站在贝尔菲德大学附属医院外
+I'm standing outside the Bayfield University Hospital
+
+915
+01:03:27,700 --> 01:03:29,660
+杀手 约翰 图姆斯在这里
+where suspected murderer John Tombs
+
+916
+01:03:29,670 --> 01:03:32,020
+接受枪伤的治疗
+is being treated for a gunshot wound
+
+917
+01:03:32,220 --> 01:03:33,880
+您能把音量调大些么
+Can you turn that up, please?
+
+918
+01:03:34,080 --> 01:03:35,890
+导致一名警官死亡
+that left one officer dead.
+
+919
+01:03:36,090 --> 01:03:39,130
+图姆斯是全国通缉犯
+Tombs was the subject of a nationwide manhunt
+
+920
+01:03:39,830 --> 01:03:41,330
+怎么啦
+What's goin' on?
+
+921
+01:03:41,530 --> 01:03:43,480
+- 跨越四个州界后被捕 - 小树
+- across four state lines - Tree?
+
+922
+01:03:43,480 --> 01:03:45,580
+有六名女性受害者
+that left six female victims.
+
+923
+01:03:45,590 --> 01:03:49,540
+官方仍然不确定图姆斯是否为此负责
+Authorities are still not sure if Tombs is responsible
+
+924
+01:03:49,740 --> 01:03:51,190
+哦 我的天
+Oh, my God.
+
+925
+01:03:51,390 --> 01:03:53,300
+他声称大多数受害者都在广袤沙漠里
+for various victims he claims to have buried
+
+926
+01:03:53,500 --> 01:03:56,420
+- 被焚烧了 - 他一直都在这
+- across the vast desert... - He's been here the whole time.
+
+927
+01:03:56,420 --> 01:03:58,440
+怎么啦 小树
+What? Tree!
+
+928
+01:03:59,540 --> 01:04:02,130
+嘿 小树
+Hey... Tree!
+
+929
+01:04:04,530 --> 01:04:06,510
+他马上就要逃走了 快打电话报警
+He's going to escape. Call the police.
+
+930
+01:04:06,510 --> 01:04:07,350
+谁啊
+Who?
+
+931
+01:04:07,350 --> 01:04:08,910
+约翰 图姆斯 快打给警察
+John Tombs. Just call the police.
+
+932
+01:04:08,910 --> 01:04:10,210
+什么
+What?
+
+933
+01:04:10,210 --> 01:04:11,310
+等等 别去那里
+Wait, don't go in there!
+
+934
+01:04:11,310 --> 01:04:12,510
+该死
+Shit.
+
+935
+01:04:12,510 --> 01:04:13,970
+等一下 你在做什么
+Excuse me, what are you doing?
+
+936
+01:05:11,000 --> 01:05:12,160
+他有枪
+He has a gun.
+
+937
+01:05:12,360 --> 01:05:13,860
+他有枪 快跑
+He has a gun, run!
+
+938
+01:05:19,560 --> 01:05:21,630
+快点 快点
+Come on. Come on.
+
+939
+01:05:34,160 --> 01:05:35,330
+嘿
+Hey!
+
+940
+01:05:36,230 --> 01:05:37,490
+卡特
+Carter!
+
+941
+01:05:40,090 --> 01:05:41,730
+停下
+Stop!
+
+942
+01:05:42,130 --> 01:05:44,470
+停下 现在就停下 嘿
+Stop it! Right now! Hey!
+
+943
+01:05:50,770 --> 01:05:51,970
+不
+No.
+
+944
+01:05:52,570 --> 01:05:53,840
+卡特
+Carter!
+
+945
+01:06:30,040 --> 01:06:32,130
+你逃不掉的 小姑娘
+There's nowhere to hide, little girl!
+
+946
+01:06:44,930 --> 01:06:46,070
+卡特
+Carter.
+
+947
+01:06:48,870 --> 01:06:51,230
+如果我不重复这一天 他就会永远死了
+If I don't reset this day, he's gone forever.
+
+948
+01:07:14,330 --> 01:07:16,890
+你本应该杀了我
+You should've killed me when you had the chance.
+
+949
+01:07:22,290 --> 01:07:25,360
+来吧 哦里哦里 啦啦啦
+Come on, olly olly oxen free.
+
+950
+01:07:25,860 --> 01:07:27,400
+嘿
+Hey!
+
+951
+01:07:35,100 --> 01:07:37,300
+待会见 混蛋
+See you soon, asshole.
+
+952
+01:07:48,000 --> 01:07:50,300
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+953
+01:07:50,800 --> 01:07:52,340
+嘿 你醒啦
+Oh, hey, you're up.
+
+954
+01:07:53,640 --> 01:07:55,640
+我不太确定你是不是想
+I wasn't sure if you wanna...
+
+955
+01:07:55,640 --> 01:07:57,180
+你竟然试图去救我
+I can't believe you tried to save my life.
+
+956
+01:07:57,180 --> 01:07:58,580
+太感谢你了
+Thank you so much!
+
+957
+01:07:59,380 --> 01:08:01,280
+嗯 对 没什么啦
+Yeah, yeah, no biggie.
+
+958
+01:08:01,290 --> 01:08:02,980
+我只是 把你带回到我家而已
+I just, you know, brought you home.
+
+959
+01:08:04,880 --> 01:08:06,810
+你可能都不记得我叫什么了吧
+Uh, I don't know if you remember my name.
+
+960
+01:08:06,810 --> 01:08:08,010
+卡特
+Carter.
+
+961
+01:08:08,810 --> 01:08:10,110
+对
+Yeah.
+
+962
+01:08:11,610 --> 01:08:12,500
+哦
+Oh!
+
+963
+01:08:13,900 --> 01:08:15,700
+你不介意我用一下这个吧
+Do you mind if I borrow this?
+
+964
+01:08:16,400 --> 01:08:18,800
+当然不
+Uh, y-yeah. Sure.
+
+965
+01:08:18,850 --> 01:08:20,200
+午餐见
+See you at lunch.
+
+966
+01:08:23,100 --> 01:08:24,800
+哥们儿 你有没有把那个大美妞办了
+Dude, did you hit that fine vagine, or what?
+
+967
+01:08:25,900 --> 01:08:27,600
+你个调皮 调皮鬼
+You naughty, naughty boy!
+
+968
+01:08:27,900 --> 01:08:29,300
+大美妞走咯
+Fine vagine out!
+
+969
+01:08:31,100 --> 01:08:32,500
+刚刚发生了什么
+What just happened?
+
+970
+01:08:38,000 --> 01:08:40,710
+♪ 爱情困在了我的思绪中 ♪
+♪ I've got my love stuck in my thoughts ♪
+
+971
+01:08:41,010 --> 01:08:42,110
+♪ 我的思绪中 ♪
+♪ In my thoughts ♪
+
+972
+01:08:42,120 --> 01:08:45,410
+♪ 我把我的爱放到了一边 ♪
+♪ I left my love out in the cold ♪
+
+973
+01:08:45,420 --> 01:08:47,010
+-阻止全球变暖 -当然
+- Hi, stop global warming? - Sure.
+
+974
+01:08:48,810 --> 01:08:50,610
+你拯救了地球 姐们
+You save that planet, girl.
+
+975
+01:08:50,810 --> 01:08:54,010
+♪ 我要把我的爱给 ♪
+♪ I've got to give my love ♪
+
+976
+01:08:54,210 --> 01:08:56,510
+嘿 洒水器马上就要洒水了
+Yo, sprinklers about to go on.
+
+977
+01:08:57,410 --> 01:08:59,210
+♪ 我的天使飞走了 ♪
+♪ My angel flew away ♪
+
+978
+01:08:59,410 --> 01:09:00,820
+不客气
+You're welcome.
+
+979
+01:09:01,320 --> 01:09:03,120
+♪ 我不知道如何挽留她 ♪
+♪ I didn't know how to keep her ♪
+
+980
+01:09:03,620 --> 01:09:06,320
+♪ 老天知道我需要她留在我身边 ♪
+♪ Heaven knows I needed her to stay ♪
+
+981
+01:09:06,320 --> 01:09:08,110
+♪ 我希望她张开她的翅膀 ♪
+♪ I hope she spreads her wings ♪
+
+982
+01:09:08,120 --> 01:09:09,010
+大点声
+I can't hear you!
+
+983
+01:09:10,020 --> 01:09:11,820
+♪ 在阳光下犯懒 ♪
+♪ Slouching on a sunbeam ♪
+
+984
+01:09:12,020 --> 01:09:15,120
+♪ 随着一首我不会唱的歌起舞 ♪
+♪ And dancing to a song I couldn't sing ♪
+
+985
+01:09:15,420 --> 01:09:17,320
+♪ 但是我在街上遇到她的话 ♪
+♪ But if I saw her on the street ♪
+
+986
+01:09:17,520 --> 01:09:18,520
+♪ 我会说 ♪
+♪ I'd say ♪
+
+987
+01:09:18,720 --> 01:09:22,220
+♪ 我的宝贝 飞回来吧 ♪
+♪ My baby, fly back to me ♪
+
+988
+01:09:22,820 --> 01:09:24,620
+哦 蒂姆
+Oh, Tim!
+
+989
+01:09:24,720 --> 01:09:26,120
+我知道你在那边
+I know you're back there.
+
+990
+01:09:26,320 --> 01:09:27,420
+嗨 蒂姆
+Hey, Tim.
+
+991
+01:09:27,420 --> 01:09:29,100
+- 嘿 - 嗨
+- Hey. - Hi.
+
+992
+01:09:29,400 --> 01:09:31,320
+我给你发的短信你一条都没回
+Uh, you haven't returned any of my texts.
+
+993
+01:09:31,520 --> 01:09:32,910
+听着 蒂姆
+Look, Tim.
+
+994
+01:09:32,910 --> 01:09:35,200
+我就直说了 我知道你是弯的
+Let's get real. I know you don't like girls.
+
+995
+01:09:35,400 --> 01:09:37,800
+别再装了
+Stop trying to be someone you're not.
+
+996
+01:09:38,000 --> 01:09:40,800
+真爱至上 对吧
+Love is love, right?
+
+997
+01:09:40,800 --> 01:09:42,100
+你赶紧滚
+Now you go out there
+
+998
+01:09:42,100 --> 01:09:45,400
+给自己找个好基友吧
+and get yourself a fine piece of man ass.
+
+999
+01:09:45,600 --> 01:09:48,700
+♪ 爱情困在了我的思绪中 ♪
+♪ 'Cause I've got my love stuck in my head ♪
+
+1000
+01:09:48,900 --> 01:09:50,300
+♪ 我的思绪中 ♪
+♪ In my head ♪
+
+1001
+01:09:50,500 --> 01:09:53,500
+♪ 我要把我的爱给 ♪
+♪ I've got to give my love ♪
+
+1002
+01:09:53,500 --> 01:09:55,200
+♪ 我的灵魂 ♪
+♪ To my soul ♪
+
+1003
+01:09:55,400 --> 01:09:57,900
+♪ 然后 放手 ♪
+♪ And let go ♪
+
+1004
+01:09:58,100 --> 01:10:01,900
+♪ 哦 ♪
+♪ Oh ♪
+
+1005
+01:10:02,200 --> 01:10:03,620
+早上好
+Good morning!
+
+1006
+01:10:03,720 --> 01:10:05,540
+♪ 然后 放手 ♪
+♪ And let go ♪
+
+1007
+01:10:08,140 --> 01:10:09,640
+我的老天
+Oh, my God.
+
+1008
+01:10:09,840 --> 01:10:11,340
+你这个小婊砸鬼鬼祟祟地
+You sneaky little biotch.
+
+1009
+01:10:11,340 --> 01:10:12,640
+他叫 卡特
+His name's Carter.
+
+1010
+01:10:12,640 --> 01:10:14,540
+不 我们并没有上床
+No, we did not have sex.
+
+1011
+01:10:14,740 --> 01:10:16,840
+但是 如果我能活过今天的话
+But, if I finally make it through this day somehow,
+
+1012
+01:10:16,840 --> 01:10:18,340
+我要给他生宝宝
+I'm gonna have his babies.
+
+1013
+01:10:18,540 --> 01:10:20,040
+很多事情得去做呢 得走了
+Lots to do. Gotta go.
+
+1014
+01:10:22,840 --> 01:10:24,340
+某人总算是回来了
+She finally rolls in.
+
+1015
+01:10:32,040 --> 01:10:33,400
+怎么了
+What's wrong?
+
+1016
+01:10:33,600 --> 01:10:36,700
+- 嗯 - 哦 没什么 我只是
+- Ugh. - Oh, nothing. I was...
+
+1017
+01:10:36,700 --> 01:10:38,600
+听着 洛瑞
+Look, Lori.
+
+1018
+01:10:39,100 --> 01:10:42,200
+我一直都是最烂的室友
+I have been the worst roommate.
+
+1019
+01:10:44,100 --> 01:10:45,500
+但你一直都陪在我身边
+You've always been there for me
+
+1020
+01:10:45,500 --> 01:10:47,960
+但我太过自私 都没有感谢过你
+but I've been way too selfish to even appreciate it.
+
+1021
+01:10:48,480 --> 01:10:50,660
+我们能重新来过么
+Can we start over?
+
+1022
+01:10:51,060 --> 01:10:53,360
+我保证不会再像个混蛋了
+I promise not to be such a loser.
+
+1023
+01:10:55,760 --> 01:10:57,260
+你嗑药了吗
+Are you high?
+
+1024
+01:10:57,760 --> 01:10:59,910
+活明白了
+On life.
+
+1025
+01:11:02,110 --> 01:11:05,410
+哦对了 我想听听你这个神秘男孩的事
+Oh, by the way, I want to hear about this mystery guy.
+
+1026
+01:11:08,610 --> 01:11:10,110
+当剧烈搅动时
+When extreme agitation occurs,
+
+1027
+01:11:10,110 --> 01:11:11,710
+对这种物质的活性响应水平检测表明
+the locomotive response in the subject
+
+1028
+01:11:11,710 --> 01:11:12,910
+呈现出加速状况
+shows an accelaration...
+
+1029
+01:11:12,910 --> 01:11:14,310
+巴特勒博士
+Dr. Butler.
+
+1030
+01:11:15,510 --> 01:11:17,020
+我能和你单独谈一下吗
+Can I have a word, please?
+
+1031
+01:11:24,920 --> 01:11:26,220
+你到底想要做
+What the hell do...
+
+1032
+01:11:26,420 --> 01:11:28,420
+你知道你自己在做什么么
+What the hell do you think you're doing?
+
+1033
+01:11:28,620 --> 01:11:29,820
+我要结束我们之间的关系
+I'm ending this.
+
+1034
+01:11:32,020 --> 01:11:34,220
+等一下 什么
+Wait. What?
+
+1035
+01:11:35,020 --> 01:11:37,220
+我一开始就不该和你约会
+I never should've started seeing you.
+
+1036
+01:11:37,820 --> 01:11:39,120
+这是错误的
+It was wrong.
+
+1037
+01:11:39,320 --> 01:11:40,420
+然后 我
+And I...
+
+1038
+01:11:43,320 --> 01:11:45,420
+总之 过去的已经无法改变 但是
+Anyway, I can't change what I've done, but
+
+1039
+01:11:45,620 --> 01:11:47,320
+我可以今天开始试着成为一个更好的人
+I can start trying to be a better person today.
+
+1040
+01:11:50,020 --> 01:11:53,320
+你从什么励志的小破书里学到这些的
+What lame little self-help book did you get that from?
+
+1041
+01:11:55,320 --> 01:11:58,420
+你知道吗 你有一个那么爱你的妻子
+You know what, you have a wife who loves you so much.
+
+1042
+01:11:59,520 --> 01:12:01,620
+所以 如果你不能对她忠诚
+So, if you can't be faithful to her,
+
+1043
+01:12:01,620 --> 01:12:03,420
+至少你应该有勇气离开她
+at least have the balls to leave.
+
+1044
+01:12:06,620 --> 01:12:08,620
+以后别想在我的课上划水了
+Don't expect me to let you coast by my class now.
+
+1045
+01:12:09,120 --> 01:12:10,820
+我已经退掉了
+Already dropped it.
+
+1046
+01:12:16,620 --> 01:12:18,220
+我想跟你们说
+I just have to say
+
+1047
+01:12:18,420 --> 01:12:22,220
+当某些人在强制宿舍聚餐时缺席
+how totally sad and disappointing it is
+
+1048
+01:12:22,420 --> 01:12:24,320
+我有多么
+when certain people can't be bothered
+
+1049
+01:12:24,320 --> 01:12:26,420
+失望和沮丧
+to make it to a mandatory House meeting.
+
+1050
+01:12:26,620 --> 01:12:29,420
+我们本应该讨论今年的慈善活动
+We were supposed to be picking this year's charity.
+
+1051
+01:12:31,420 --> 01:12:32,620
+贝基
+Becky...
+
+1052
+01:12:32,820 --> 01:12:34,820
+那是巧克力牛奶么
+Is that chocolate milk I see?
+
+1053
+01:12:36,320 --> 01:12:37,320
+我还没吃早饭呢
+I skipped breakfast.
+
+1054
+01:12:37,320 --> 01:12:38,920
+哦
+Oh!
+
+1055
+01:12:41,120 --> 01:12:43,120
+好吃
+Mmm, mmm.
+
+1056
+01:12:43,320 --> 01:12:45,720
+嗯 大伙们 这真的是太好吃了
+Mmm, guys, it's so good.
+
+1057
+01:12:45,720 --> 01:12:46,920
+这是肥胖聚会的节奏吗
+What's up with the fat fest?
+
+1058
+01:12:46,920 --> 01:12:48,120
+我们可是姐妹花辣妹
+We're Kappas.
+
+1059
+01:12:48,320 --> 01:12:51,320
+来嘛 活的潇洒一点 一点卡路里又不会要命
+Come on, hun, live a little. A few calories won't kill ya.
+
+1060
+01:12:51,520 --> 01:12:55,520
+不会死 它只是会让我像贝基一样
+No. It'll just turn me into a chunker.
+
+1061
+01:12:56,020 --> 01:12:57,220
+变成大块头
+Like Becky here.
+
+1062
+01:13:02,020 --> 01:13:03,020
+等等
+Wait.
+
+1063
+01:13:22,820 --> 01:13:24,120
+我的天呐
+Oh, my God!
+
+1064
+01:13:25,920 --> 01:13:27,120
+会没事的
+It'll be okay.
+
+1065
+01:13:27,720 --> 01:13:28,820
+嘿 小树
+Hey, Tree.
+
+1066
+01:13:29,520 --> 01:13:30,520
+嘿
+Hey.
+
+1067
+01:13:31,020 --> 01:13:32,720
+我只是顺路来
+I just uh, came on by to...
+
+1068
+01:13:40,920 --> 01:13:42,320
+这是干嘛
+What was that for?
+
+1069
+01:13:43,020 --> 01:13:45,720
+我得走了 不过你晚上要做什么吗
+I have to run, but what are you doing later tonight?
+
+1070
+01:13:45,920 --> 01:13:47,110
+没事儿
+Nothing.
+
+1071
+01:13:47,120 --> 01:13:49,450
+你想带我出去过生日吗
+Do you wanna take me out for my birthday?
+
+1072
+01:13:49,650 --> 01:13:50,850
+不会在逗我吧
+What's the punchline?
+
+1073
+01:13:51,050 --> 01:13:52,950
+听我说 我知道看起来真的很随便 但是
+Look, I know it's really random, but...
+
+1074
+01:13:53,150 --> 01:13:54,850
+我保证我明天都会解释给你的
+I promise I'll explain everything tomorrow.
+
+1075
+01:13:55,050 --> 01:13:56,550
+假如有明天的话
+Assuming there is one.
+
+1076
+01:13:56,950 --> 01:13:58,250
+答应就行了
+Just say yes.
+
+1077
+01:13:59,350 --> 01:14:00,650
+好吧 可以
+All right, yeah.
+
+1078
+01:14:01,050 --> 01:14:02,150
+太棒了
+Cool.
+
+1079
+01:14:04,050 --> 01:14:05,150
+好
+Okay.
+
+1080
+01:14:21,150 --> 01:14:22,250
+不好意思
+Excuse me.
+
+1081
+01:14:24,450 --> 01:14:26,050
+咖啡多少钱
+Can I pay for my coffee, please?
+
+1082
+01:14:26,050 --> 01:14:28,750
+- 你不吃吗 - 不了 结账就行了 谢谢
+- You're not gonna eat? - No, just the check, please.
+
+1083
+01:14:29,150 --> 01:14:30,330
+我马上就回来
+I'll be right back.
+
+1084
+01:14:40,730 --> 01:14:42,830
+嘿 爸爸 抱歉我来迟了
+Hi, Daddy. Sorry I'm late.
+
+1085
+01:14:45,430 --> 01:14:46,830
+我喜欢你的领带
+Like your tie.
+
+1086
+01:14:49,530 --> 01:14:50,630
+谢谢
+Thanks.
+
+1087
+01:14:50,930 --> 01:14:52,030
+学校生活还好么
+How's school?
+
+1088
+01:14:53,230 --> 01:14:54,330
+挺好的
+Fine.
+
+1089
+01:14:54,830 --> 01:14:56,230
+喜欢你的课程吗
+You like your classes?
+
+1090
+01:14:56,530 --> 01:15:00,230
+还可以 爸 我不想再这样做了
+They're fine, Dad. I don't wanna do that anymore.
+
+1091
+01:15:00,430 --> 01:15:01,530
+做什么
+Do what?
+
+1092
+01:15:02,930 --> 01:15:04,330
+寒暄
+Small talk.
+
+1093
+01:15:05,430 --> 01:15:06,630
+就是
+It's just that
+
+1094
+01:15:08,030 --> 01:15:09,100
+今天
+this day
+
+1095
+01:15:10,300 --> 01:15:12,300
+今天真的对我来说很艰难
+this day is really hard for me.
+
+1096
+01:15:13,800 --> 01:15:15,100
+然后
+And um...
+
+1097
+01:15:19,000 --> 01:15:20,700
+我很想妈妈
+I miss Mom.
+
+1098
+01:15:21,300 --> 01:15:23,240
+你知道的 我非常的想她
+You know, miss her so much.
+
+1099
+01:15:23,440 --> 01:15:25,240
+我想念她的微笑
+I miss the way that she smells.
+
+1100
+01:15:26,340 --> 01:15:30,140
+我想念她的大笑
+I miss that crazy horse laugh she has.
+
+1101
+01:15:32,840 --> 01:15:34,440
+我也是
+Yeah, me too.
+
+1102
+01:15:35,040 --> 01:15:38,740
+我以前觉得
+And I... I guess I thought that if
+
+1103
+01:15:39,640 --> 01:15:41,640
+如果我逃避这一切
+I avoided all of it,
+
+1104
+01:15:42,540 --> 01:15:46,440
+逃避你的话 就会变得更容易一些
+or avoided you that somehow it would be easier.
+
+1105
+01:15:46,640 --> 01:15:47,640
+但却并非如此
+But it's not.
+
+1106
+01:15:49,440 --> 01:15:52,440
+只会变得更糟
+It's been so much worse.
+
+1107
+01:15:54,840 --> 01:15:57,140
+逃避只会让我
+All of this running and hiding
+
+1108
+01:15:57,140 --> 01:15:59,320
+更加悲痛
+has made me so miserable.
+
+1109
+01:16:00,420 --> 01:16:03,520
+我觉得我终于想通了
+And I think I finally figured it out.
+
+1110
+01:16:04,320 --> 01:16:07,920
+我是说 我做了一些很疯狂的事情 但是
+I mean, it took something like totally crazy, but...
+
+1111
+01:16:10,020 --> 01:16:11,820
+但是我回来了
+But I'm here.
+
+1112
+01:16:12,120 --> 01:16:14,120
+我爱你
+And I love you.
+
+1113
+01:16:14,320 --> 01:16:18,420
+我真的 真的很抱歉我伤害了你
+And I am so, so sorry that I hurt you.
+
+1114
+01:16:29,620 --> 01:16:31,720
+生日快乐 宝贝
+Happy birthday, baby.
+
+1115
+01:17:07,220 --> 01:17:08,620
+保持镇静
+Stay calm.
+
+1116
+01:17:09,120 --> 01:17:11,220
+慢慢站起来
+I need you to stand up.
+
+1117
+01:17:11,820 --> 01:17:13,120
+慢慢地
+Slowly.
+
+1118
+01:17:16,120 --> 01:17:17,520
+慢慢地
+Slowly.
+
+1119
+01:17:18,220 --> 01:17:19,620
+好的
+Okay, good.
+
+1120
+01:17:23,520 --> 01:17:26,820
+你这么做可不是个好主意
+I guess this is a really bad idea.
+
+1121
+01:17:26,920 --> 01:17:28,720
+死了16次也不是
+Well, so is dying for the 16th time.
+
+1122
+01:17:29,240 --> 01:17:31,020
+好了
+Okay.
+
+1123
+01:17:31,220 --> 01:17:33,020
+现在 转过来
+Now, turn around.
+
+1124
+01:17:34,620 --> 01:17:37,620
+我需要你认真听我说
+I need you to listen to me.
+
+1125
+01:17:37,820 --> 01:17:39,420
+他就要逃走了
+He's going to escape.
+
+1126
+01:17:39,820 --> 01:17:42,120
+有话好好说 把枪收起来
+We could talk about this, just put the gun down.
+
+1127
+01:17:42,320 --> 01:17:44,320
+他就要跑了 快去找人帮忙
+He is going to escape. Go get help.
+
+1128
+01:17:44,520 --> 01:17:45,720
+- 快去 - 好
+- Go! - Okay.
+
+1129
+01:18:30,520 --> 01:18:32,150
+我知道你没睡
+I know you're not asleep.
+
+1130
+01:18:32,350 --> 01:18:33,650
+睁开你的眼睛
+Open your eyes.
+
+1131
+01:18:41,350 --> 01:18:42,960
+保险还上着呢 小姑娘
+Safety's on, little girl.
+
+1132
+01:18:51,360 --> 01:18:52,760
+看看这是什么
+Look what we have here.
+
+1133
+01:18:52,960 --> 01:18:54,260
+嗯
+Mmm?
+
+1134
+01:18:58,760 --> 01:19:00,080
+你知道吗
+You know,
+
+1135
+01:19:00,360 --> 01:19:03,560
+你直接来找我真的是个大惊喜
+It's a real nice surprise you comin' and visit me like this.
+
+1136
+01:19:13,460 --> 01:19:14,560
+哦
+Hoo.
+
+1137
+01:19:14,760 --> 01:19:16,260
+我喜欢你
+I like you.
+
+1138
+01:19:17,160 --> 01:19:18,860
+真是丢人
+Damn shame.
+
+1139
+01:19:20,860 --> 01:19:23,260
+你就喜欢瞎闹腾 是吧
+You're a feisty little shit, ain't ya?
+
+1140
+01:19:27,860 --> 01:19:29,560
+这就对了 爬吧 小姑娘 爬吧
+That's right, crawl, little girl, crawl.
+
+1141
+01:19:31,460 --> 01:19:32,760
+别担心
+Don't worry.
+
+1142
+01:19:33,160 --> 01:19:36,160
+我会给你个痛快的 好么
+I'll just make this one real quick for ya, okay?
+
+1143
+01:19:49,760 --> 01:19:50,860
+嘿
+Hey!
+
+1144
+01:19:51,260 --> 01:19:54,360
+保险去了 谢谢你的提示
+Safety's off. Thanks for the tip.
+
+1145
+01:20:08,560 --> 01:20:10,160
+谁拿了我的吹风机
+Who took my hair dryer?
+
+1146
+01:20:14,360 --> 01:20:15,430
+这是你
+So this has gotta be like
+
+1147
+01:20:15,430 --> 01:20:17,380
+有史以来过的最奇怪的生日了吧
+the strangest birthday you've ever had, huh?
+
+1148
+01:20:17,880 --> 01:20:19,380
+你都无法想象
+You have no idea.
+
+1149
+01:20:21,580 --> 01:20:23,980
+你弄清楚图姆斯怎么越狱的了吗
+Did you ever figure out how Tombs got free?
+
+1150
+01:20:25,230 --> 01:20:26,990
+不 没人知道
+No. No one knows.
+
+1151
+01:20:29,120 --> 01:20:30,920
+嗯 大概吧
+Yeah, I guess.
+
+1152
+01:20:42,320 --> 01:20:43,720
+你准备许什么愿啊
+What are you gonna wish for?
+
+1153
+01:20:47,520 --> 01:20:48,720
+明天
+Tomorrow.
+
+1154
+01:20:48,920 --> 01:20:50,020
+明天
+Tomorrow?
+
+1155
+01:20:50,920 --> 01:20:53,220
+这不是理所当然吗
+What, is that kind of a given?
+
+1156
+01:20:54,420 --> 01:20:56,320
+不许一个更好的么
+Aiming for anything higher?
+
+1157
+01:20:57,820 --> 01:20:58,920
+不了
+Nah.
+
+1158
+01:20:59,620 --> 01:21:01,820
+明天对我来说就足够了
+Tomorrow's good enough for me.
+
+1159
+01:21:24,220 --> 01:21:25,820
+闭嘴
+Shut up!
+
+1160
+01:21:26,220 --> 01:21:28,320
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+1161
+01:21:28,520 --> 01:21:30,620
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+1162
+01:21:30,820 --> 01:21:32,100
+嘿 你醒啦
+Oh, hey, you're up.
+
+1163
+01:21:32,500 --> 01:21:33,600
+卡特
+Carter?
+
+1164
+01:21:33,800 --> 01:21:35,700
+对 你居然还记得我的名字
+Yeah. I'm surprised you remember my name.
+
+1165
+01:21:35,900 --> 01:21:37,600
+昨晚你喝高了
+You were pretty wasted last night.
+
+1166
+01:21:37,700 --> 01:21:38,800
+这不可能
+This can't be happening.
+
+1167
+01:21:39,000 --> 01:21:40,300
+-这不可能 -什么
+- This can't be happening. - What?
+
+1168
+01:21:40,310 --> 01:21:41,760
+我明明杀了他
+I killed him!
+
+1169
+01:21:41,770 --> 01:21:43,160
+我明明阻止了他
+I stopped it!
+
+1170
+01:21:43,360 --> 01:21:45,260
+谁 你在说什么呢
+Who? What are you talkin' about?
+
+1171
+01:21:46,460 --> 01:21:48,150
+怎么啦
+What's goin' on?
+
+1172
+01:21:49,950 --> 01:21:51,150
+你可能就是做了个噩梦
+I mean, look, you were probably just having a
+
+1173
+01:21:51,160 --> 01:21:52,250
+或者什么的
+bad dream or something.
+
+1174
+01:21:52,260 --> 01:21:53,450
+我睡觉的时候
+Like it happens to me all the time
+
+1175
+01:21:53,450 --> 01:21:55,350
+也经常做噩梦 我是说我
+when I'm dreaming, you know, I...
+
+1176
+01:21:58,550 --> 01:22:00,220
+瞧你干的好事儿 你个智障
+Nice one, dickhead.
+
+1177
+01:22:01,820 --> 01:22:03,420
+某人总算是回来了
+She finally rolls in.
+
+1178
+01:22:07,020 --> 01:22:08,360
+你要去哪里吗
+Going somewhere?
+
+1179
+01:22:08,560 --> 01:22:09,560
+对
+Yes.
+
+1180
+01:22:09,760 --> 01:22:11,660
+越远越好
+As far away as possible.
+
+1181
+01:22:11,860 --> 01:22:12,960
+小树 怎么啦
+Tree, what's wrong?
+
+1182
+01:22:13,160 --> 01:22:14,160
+我
+Me.
+
+1183
+01:22:14,360 --> 01:22:15,360
+我错了
+I was wrong.
+
+1184
+01:22:15,560 --> 01:22:17,550
+我以为只要我不逃避的话 我就能打败它
+I thought that if I stopped running that I could beat it.
+
+1185
+01:22:17,750 --> 01:22:19,250
+但是它永远不会停下
+But it's never gonna stop.
+
+1186
+01:22:19,450 --> 01:22:20,850
+小树你吓坏我了
+Tree, you're freaking me out.
+
+1187
+01:22:21,050 --> 01:22:22,650
+对啊 那就是我 我很可怕
+Oh, well, that's me, a freak!
+
+1188
+01:22:31,450 --> 01:22:32,650
+小树
+Tree.
+
+1189
+01:22:33,950 --> 01:22:35,270
+小树 看
+Tree, look.
+
+1190
+01:22:36,870 --> 01:22:38,350
+生日快乐
+Happy birthday.
+
+1191
+01:22:39,150 --> 01:22:41,950
+谢谢 但我昨天晚上已经吃了
+Thanks. But I already ate it last night.
+
+1192
+01:22:48,950 --> 01:22:50,280
+哦 我的老天
+Oh, my God.
+
+1193
+01:22:52,080 --> 01:22:53,880
+我在睡梦中死掉了
+I died in my sleep.
+
+1194
+01:22:55,480 --> 01:22:56,680
+什么
+What?
+
+1195
+01:23:00,580 --> 01:23:01,980
+你杀了我
+You killed me.
+
+1196
+01:23:04,080 --> 01:23:05,280
+什么
+What?
+
+1197
+01:23:07,580 --> 01:23:09,280
+你下了毒
+You poisoned it.
+
+1198
+01:23:11,080 --> 01:23:12,980
+但我从来都没有吃过
+But I never ate it before.
+
+1199
+01:23:19,680 --> 01:23:21,680
+所以你得找到别的办法
+So you had to find another way.
+
+1200
+01:23:22,380 --> 01:23:24,880
+然后图姆斯刚好住进你的医院
+Then Tombs fell right into your lap.
+
+1201
+01:23:27,680 --> 01:23:29,480
+完美的替罪羊
+Perfect scapegoat.
+
+1202
+01:23:32,980 --> 01:23:34,950
+你能接近他
+You had access to him.
+
+1203
+01:23:36,250 --> 01:23:38,150
+你先给他下了药吗
+Did you drug him first?
+
+1204
+01:23:45,550 --> 01:23:47,150
+你知道如果他逃出来的话
+You knew that if he escaped,
+
+1205
+01:23:47,150 --> 01:23:48,850
+所有人都会认为是他杀了我
+everyone would assume that he killed me.
+
+1206
+01:23:51,650 --> 01:23:53,350
+但是其实一直都是你
+But it was always you.
+
+1207
+01:23:57,900 --> 01:24:00,450
+小树 你在说笑么
+Tree, are... Is this a joke?
+
+1208
+01:24:00,650 --> 01:24:02,450
+你觉得我会拿一个小蛋糕
+You think I would actually try to poison you
+
+1209
+01:24:02,450 --> 01:24:03,850
+毒杀你吗
+with a freaking cupcake?
+
+1210
+01:24:05,450 --> 01:24:06,550
+那好吧
+Okay then.
+
+1211
+01:24:08,150 --> 01:24:09,250
+证明一下吧
+Prove it.
+
+1212
+01:24:14,250 --> 01:24:15,450
+吃吧 洛瑞
+Go on, Lori.
+
+1213
+01:24:17,650 --> 01:24:19,030
+咬一口
+Take a bite.
+
+1214
+01:24:21,730 --> 01:24:23,010
+吃啊 洛瑞
+Go on, Lori.
+
+1215
+01:24:24,510 --> 01:24:26,410
+你真的疯掉了
+You really are crazy.
+
+1216
+01:24:27,810 --> 01:24:28,910
+那好吧
+Okay then.
+
+1217
+01:24:29,310 --> 01:24:30,910
+我会把这个带到警察局去
+I'll take it down to the police.
+
+1218
+01:24:31,010 --> 01:24:32,010
+我确定他们能告诉我们
+I'm sure they can tell us
+
+1219
+01:24:32,010 --> 01:24:34,250
+你的小蛋糕是拿什么做的
+what your little birthday treat is made of.
+
+1220
+01:24:43,050 --> 01:24:44,950
+你个愚蠢的婊子
+You stupid little whore.
+
+1221
+01:24:45,150 --> 01:24:47,250
+我知道我是个坏室友 但是
+I know I've been a bad roommate, but...
+
+1222
+01:24:47,260 --> 01:24:48,550
+这样不会太过了么
+Isn't this a bit much?
+
+1223
+01:24:48,750 --> 01:24:49,950
+搞毛啊
+What the hell?
+
+1224
+01:24:50,050 --> 01:24:51,250
+我也不知道
+Oh, I don't know.
+
+1225
+01:24:51,260 --> 01:24:53,650
+也许是因为你一直和他睡吧
+Maybe because you wouldn't stop sleeping with him.
+
+1226
+01:24:53,850 --> 01:24:55,250
+什么
+What?
+
+1227
+01:24:55,850 --> 01:24:57,250
+格雷戈里
+Gregory?
+
+1228
+01:24:59,650 --> 01:25:02,650
+他就是选择你不选我
+But he just kept choosing you over me.
+
+1229
+01:25:03,450 --> 01:25:06,250
+他就是想要你这样的荡妇
+I guess all he wanted was a cheap slut like you!
+
+1230
+01:25:07,150 --> 01:25:11,250
+等等 你就为了一个蠢男人不断地杀我吗
+Wait, you've been killing me over some stupid guy?
+
+1231
+01:25:11,850 --> 01:25:13,640
+不只是因为这个
+Oh, that's not the only reason.
+
+1232
+01:25:14,540 --> 01:25:16,640
+还因为你是个贱人
+You're a dumb bitch, too!
+
+1233
+01:25:18,140 --> 01:25:19,940
+我想知道的是
+What I really wanna know is,
+
+1234
+01:25:22,720 --> 01:25:24,340
+你怎么发现的
+How did you figure it out?
+
+1235
+01:25:24,840 --> 01:25:26,550
+因为你已经杀过我了
+Because you've killed me before.
+
+1236
+01:25:30,450 --> 01:25:32,850
+那我只能再杀一次了
+Then I guess I'm just gonna have to do it again.
+
+1237
+01:25:55,250 --> 01:25:56,500
+住手
+Stop.
+
+1238
+01:25:56,900 --> 01:25:58,200
+不 婊子
+No! Bitch!
+
+1239
+01:25:58,400 --> 01:25:59,500
+去你的
+Fuck you.
+
+1240
+01:26:00,000 --> 01:26:01,000
+不
+No!
+
+1241
+01:26:01,900 --> 01:26:03,400
+发生了什么
+What the hell's going on in there?
+
+1242
+01:26:04,000 --> 01:26:07,200
+没什么 小树摔倒了 都好着呢
+Nothing. Tree just fell. Everything's fine.
+
+1243
+01:26:07,400 --> 01:26:09,400
+随便啦 小笨蛋
+Whatever. Clumsy hos.
+
+1244
+01:26:09,600 --> 01:26:10,900
+聚会见啦
+I better see you at the meeting today.
+
+1245
+01:26:10,900 --> 01:26:12,110
+聚会见
+We'll be there.
+
+1246
+01:26:15,210 --> 01:26:16,910
+吃吧 婊子
+Eat it, bitch!
+
+1247
+01:26:55,110 --> 01:26:57,130
+你们这些傻逼在做什么
+What are you losers doing in there?
+
+1248
+01:26:57,430 --> 01:26:58,530
+洛瑞
+Lori
+
+1249
+01:26:59,330 --> 01:27:00,430
+吃了
+ate
+
+1250
+01:27:02,450 --> 01:27:03,730
+我的蛋糕
+my cupcake.
+
+1251
+01:27:14,450 --> 01:27:16,660
+我就知道洛瑞有问题
+I just knew there was something wrong with Lori.
+
+1252
+01:27:16,860 --> 01:27:18,460
+她从来都不化妆
+She never wore makeup.
+
+1253
+01:27:18,660 --> 01:27:20,460
+从来不发什么可爱的自拍
+Never posted any cute selfies.
+
+1254
+01:27:20,660 --> 01:27:23,090
+她居然还穿洞洞鞋
+And she literally owned a pair of Crocs.
+
+1255
+01:27:23,290 --> 01:27:25,190
+所有迹象表明 她是一个变态杀人狂
+All the signs of a psycho killer would...
+
+1256
+01:27:25,390 --> 01:27:26,490
+能小声点吗
+Hello?
+
+1257
+01:27:26,500 --> 01:27:28,390
+我正在接受采访呢
+I'm trying to get interviewed here.
+
+1258
+01:27:29,590 --> 01:27:32,320
+我的天 她真是个牛逼人物
+Oh, my God, she is such a tool.
+
+1259
+01:27:32,420 --> 01:27:33,520
+不管怎么说
+Anyhoo...
+
+1260
+01:27:33,720 --> 01:27:35,320
+洛瑞的杀人计划真是愚蠢
+LorI's little plot was super lame.
+
+1261
+01:27:35,520 --> 01:27:37,650
+拿毒蛋糕杀人 想什么呢
+Poisoning a cupcake? Really?
+
+1262
+01:27:37,850 --> 01:27:40,150
+我们可是姐妹花辣妹 我们不吃蛋糕
+We're Kappas. We don't eat cupcakes.
+
+1263
+01:27:40,550 --> 01:27:42,350
+这是本地新闻还是全国新闻啊
+Is this local or national?
+
+1264
+01:27:42,550 --> 01:27:43,550
+本地的
+Local.
+
+1265
+01:27:44,050 --> 01:27:46,150
+- 嗨 爸爸 - 小树 你还好么
+- Hey, Dad. Dad. - Tree, are you okay?
+
+1266
+01:27:46,550 --> 01:27:48,350
+- 你受伤了吗 - 爸爸 没有 我很好
+- Are you hurt? - Dad, no, Dad. I'm fine.
+
+1267
+01:27:48,550 --> 01:27:49,750
+我保证
+I promise.
+
+1268
+01:27:49,950 --> 01:27:51,250
+- 你确定 - 对啊
+- Are you sure? - Yeah.
+
+1269
+01:27:51,650 --> 01:27:53,550
+就是擦伤了点
+Just a little scratched up.
+
+1270
+01:27:53,590 --> 01:27:56,450
+- 好吧 - 好 待会见
+- All right. - Okay. I'll see you soon.
+
+1271
+01:27:56,450 --> 01:27:58,450
+- 我爱你 - 我也爱你 拜拜
+- I love you. - I love you, too. Bye.
+
+1272
+01:27:59,850 --> 01:28:01,350
+现在 你的卧室
+So uh, now that your
+
+1273
+01:28:01,350 --> 01:28:04,350
+变成了一个犯罪现场
+bedroom is officially a crime scene and all.
+
+1274
+01:28:04,550 --> 01:28:06,450
+你准备住哪啊
+Where are you planning on crashing?
+
+1275
+01:28:07,850 --> 01:28:10,150
+那算是个邀请吗
+Is that an invitation?
+
+1276
+01:28:11,250 --> 01:28:13,250
+你确定你还想在宿舍里醒来吗
+You sure you wanna wake up in the dorm room again?
+
+1277
+01:28:15,050 --> 01:28:16,550
+是你的话就没问题
+Only if it's yours.
+
+1278
+01:28:19,150 --> 01:28:21,250
+当然你得去瑞恩的床上睡
+Only of course, you'll have to sleep in Ryan's bed.
+
+1279
+01:28:21,450 --> 01:28:23,000
+- 当然 - 嗯
+- Of course. - Yeah.
+
+1280
+01:28:24,100 --> 01:28:26,000
+我们可以 你知道
+We can, you know...
+
+1281
+01:28:27,700 --> 01:28:29,000
+哦呃
+Oh, uh...
+
+1282
+01:28:29,300 --> 01:28:31,500
+我差点忘了
+I almost forgot.
+
+1283
+01:28:32,000 --> 01:28:33,600
+你忘了这个
+You left this little guy.
+
+1284
+01:28:37,800 --> 01:28:39,020
+谢谢
+Thanks.
+
+1285
+01:28:40,000 --> 01:28:42,600
+你知道你的这让我想起了什么吗
+Hey, you know what your little scenario reminds me of?
+
+1286
+01:28:42,610 --> 01:28:44,000
+- 什么 - 呃
+- What? - Uh...
+
+1287
+01:28:44,010 --> 01:28:45,800
+- 什么啊 - 偷天情缘
+- What's that? - Groundhog Day.
+
+1288
+01:28:45,810 --> 01:28:47,230
+电影偷天情缘吗
+The movie Groundhog Day?
+
+1289
+01:28:47,430 --> 01:28:49,840
+- 没看过 - 比尔 默里演的
+- I don't know. - with Bill Murray?
+
+1290
+01:28:49,840 --> 01:28:51,030
+谁是比尔 默里
+Who's Bill Murray?
+
+1291
+01:28:51,330 --> 01:28:53,670
+你没看过捉鬼敢死队吗
+Are you kidding me? Ghostbusters.
+
+1292
+01:28:53,670 --> 01:28:54,980
+抱歉
+Sorry.
+
+1293
+01:28:55,180 --> 01:28:58,080
+- 我 我不知道 - 你昨晚睡得好吗
+- I... I don't know. - How do you sleep at night?
+
+1294
+01:28:58,080 --> 01:28:59,380
+你从没看过偷天情缘么
+You've never seen Groundhog Day?
+
+1295
+01:28:59,580 --> 01:29:00,680
+没有
+No.
+
+1296
+01:29:00,880 --> 01:29:03,720
+♪ 在走过的陈旧的苦痛中 ♪
+♪ In walked old misery ♪
+
+1297
+01:29:07,920 --> 01:29:09,920
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+1298
+01:29:09,930 --> 01:29:10,920
+♪ 你丫倒是快点儿接电话啊 ♪
+♪ And now you gotta pick up the phone ♪
+
+1299
+01:29:10,930 --> 01:29:13,070
+嘿 你醒了
+Oh, hey, you're up.
+
+1300
+01:29:13,080 --> 01:29:14,270
+♪ 哦耶 老子今天过生日 ♪
+♪ Yeah, it's my birthday ♪
+
+1301
+01:29:14,470 --> 01:29:18,670
+我不太确定你要不要睡在这儿
+I wasn't sure if you wanted to uh, sleep in or not.
+
+1302
+01:29:22,370 --> 01:29:24,170
+我开玩笑啦 是
+I'm kidding. It was...
+
+1303
+01:29:24,180 --> 01:29:25,570
+是我啦
+It was me.
+
+1304
+01:29:25,580 --> 01:29:27,080
+我刚才给你打电话了
+I just called your phone.
+
+1305
+01:29:27,090 --> 01:29:28,280
+什么
+What?
+
+1306
+01:29:28,480 --> 01:29:30,820
+今天是十九号 星期二 你做到了哦
+It's Tuesday, the 19th. You made it.
+
+1307
+01:29:31,920 --> 01:29:33,980
+我的天
+Oh, my God.
+
+1308
+01:29:33,980 --> 01:29:36,380
+你真是个混蛋
+You are such a jerk!
+
+1309
+01:29:36,580 --> 01:29:38,080
+我要杀了你
+I'm gonna kill you.
+
+1310
+01:29:38,280 --> 01:29:40,350
+- 嘿 别这样 - 你有病吧
+- Hey, that's not fair. - What is wrong with you?
+
+1311
+01:29:40,550 --> 01:29:43,450
+那一点都不搞笑
+That was not funny!
+
+1312
+01:29:43,650 --> 01:29:45,550
+你真是个坏蛋
+You are such a punk!
+
+1313
+01:29:45,750 --> 01:29:47,050
+我讨厌你
+I hate y...
+
+1314
+01:29:52,650 --> 01:29:54,030
+她回来了
+She's back?
+
+1315
+01:29:54,030 --> 01:29:55,030
+出去
+Out.
+
+1316
+01:29:55,030 --> 01:29:56,150
+我可不想再睡自己车里了
+I'm not sleeping in my car again.
+
+1317
+01:29:56,150 --> 01:29:57,550
+闻起来像热三明治和臭脚丫
+It smells like Hot Pockets and feet.
+
+1318
+01:29:57,550 --> 01:29:59,550
+- 出去 - 我只是要拿干净的内裤
+- Get out. - I just want clean underwear!
+
+1319
+01:30:24,550 --> 01:30:27,550
+♪ 我一直在用和平烟管吸烟 ♪
+♪ I've been smoking on the peace pipe ♪
+
+1320
+01:30:28,250 --> 01:30:32,500
+♪ 我一直在想和平会是什么样子的 ♪
+♪ I've been wondering just what would peace be like ♪
+
+1321
+01:30:32,700 --> 01:30:35,400
+♪ 我一直在注视着车灯 ♪
+♪ I've been staring into headlights ♪
+
+1322
+01:30:35,900 --> 01:30:40,400
+♪ 忍受一切 寻找我思维中的平静 ♪
+♪ Swallow me whole, finding my peace of mind ♪
+
+1323
+01:30:40,600 --> 01:30:43,210
+♪ 我只是试图抓到这一刻 ♪
+♪ I'm just trying to seize the moment ♪
+
+1324
+01:30:43,220 --> 01:30:45,130
+♪ 试图去爱这些小事物 ♪
+♪ Trying to love the little things ♪
+
+1325
+01:30:45,140 --> 01:30:48,320
+♪ 尽管他们很难去爱 ♪
+♪ Even if they're hard to love ♪
+
+1326
+01:30:48,320 --> 01:30:51,120
+♪ 未说之爱的纪念碑啊 ♪
+♪ A monument to love unspoken ♪
+
+1327
+01:30:51,320 --> 01:30:56,150
+♪ 雕刻成石头 不愿未完就走 ♪
+♪ Carved into stone, unwilling to come undone ♪
+
+1328
+01:30:56,150 --> 01:30:59,150
+♪ 从恶魔手中逃走感觉真不错 ♪
+♪ It feels good to be running from the devil ♪
+
+1329
+01:30:59,350 --> 01:31:02,890
+♪ 吸一口气我又到了新的境界 ♪
+♪ Another breath and I'm up another level ♪
+
+1330
+01:31:03,090 --> 01:31:06,940
+♪ 在云层上面感觉真不错 ♪
+♪ It feels good to be up above the clouds ♪
+
+1331
+01:31:07,140 --> 01:31:11,550
+♪ 很久没有感受到这么爽 ♪
+♪ It feels good for the first time in a long time now ♪
+
+1332
+01:31:15,000 --> 01:31:19,640
+♪ 很久没有做我自己感到这么爽了 ♪
+♪ It feels good for the first time in a long time to be me ♪
+
+1333
+01:31:23,040 --> 01:31:27,610
+♪ 很久没有终于得到自由 感到自由这样爽了 ♪
+♪ It feels good for the first time in a while I'm free ♪
+
+1334
+01:31:27,810 --> 01:31:31,110
+♪ 我嗨了 注视着天花板 ♪
+♪ I'm high, staring at the ceiling ♪
+
+1335
+01:31:31,120 --> 01:31:34,610
+♪ 寄托我的爱 真是奇妙的感觉 ♪
+♪ Sending my love, what a wonderful feeling ♪
+
+1336
+01:31:34,620 --> 01:31:38,360
+♪ 下面会来什么呢 我看到一束光 ♪
+♪ What comes next, I see a light ♪
+
+1337
+01:31:38,370 --> 01:31:42,870
+♪ 在我上天的同时 我真想去骑个车 ♪
+♪ I'm along for a ride as I'm taking flight ♪
+
+1338
+01:20:27,840 --> 01:20:29,150
+有点像魔法师胡迪尼一样
+It's kinda like Houdini.
+
+1339
+01:30:23,020 --> 01:30:25,120
+今 天 是 你 余 生 的 第 一 天
+
+1340
+00:01:57,020 --> 00:01:57,630
+{\pos(769.062,307.325)}9月18日 星期一
+
+1341
+00:01:57,020 --> 00:01:57,630
+{\pos(972.138,359.133)}老爸的未接电话
+
+1342
+00:08:28,560 --> 00:08:31,080
+{\pos(745.319,381.09)}贝菲尔德大学附属医院
+
+1343
+00:08:28,560 --> 00:08:31,080
+{\pos(1313.299,233.53)}急救医疗中心
+
+1344
+00:34:57,920 --> 00:35:00,440
+{\pos(791.775,551.09)}祝你愉快
+好好享受今天 因为没有明天
+
+1345
+00:41:59,240 --> 00:42:00,570
+{\pos(790.849,522.51)}嫌疑人名单
+
+1346
+00:42:55,960 --> 00:42:56,640
+{\pos(1125.15,518.826)}斯蒂芬妮
+
+1347
+00:42:02,410 --> 00:42:03,310
+{\pos(953.01,579.631)}蒂姆
+
+1348
+01:04:17,720 --> 01:04:20,810
+{\pos(696.061,185.17)}紧 急 情 况 下 打 破 玻 璃 使 用
+
+1349
+01:27:18,830 --> 01:27:21,920
+{\pos(990.599,611.199)}突发新闻 女生宿舍惨剧
+
+1350
+01:03:48,570 --> 01:03:49,360
+{\pos(1085.829,512.315)}突发新闻
+
+1351
+01:03:48,570 --> 01:03:49,360
+贝菲尔德大学附属医院
+
+1352
+01:06:19,870 --> 01:06:20,220
+{\pos(953.01,575.945)}钟 楼
+
+1353
+00:10:27,000 --> 00:10:27,720
+{\pos(1025.894,300.74)}少女母亲
+
+1354
+00:15:34,810 --> 00:15:37,470
+{\pos(961.617,310.611)}今天是你余生的第一天
+
+1355
+00:26:45,700 --> 00:26:47,420
+{\pos(1647.685,500.858)}禁止入内
+
+1356
+00:28:21,740 --> 00:28:25,260
+{\pos(449.602,439.347)}你在哪儿?!
+你和他在一起吗?!
+
+1357
+00:28:36,910 --> 00:28:39,160
+{\pos(423.512,561.99)}你不会再到处勾搭了吗?!
+别忘了大一时候的事 婊子.
+
+1358
+00:28:43,210 --> 00:28:44,320
+{\pos(528.917,576.732)}你们俩去死吧
+
+1359
+00:34:42,160 --> 00:34:43,280
+{\pos(1204.361,436.368)}今天是你生日
+
+1360
+00:34:48,670 --> 00:34:50,680
+{\pos(1441.632,557.563)}又大了一岁
+来玩个
+游戏吧
+
+1361
+00:28:34,810 --> 00:28:39,160
+{\pos(646.653,456.857)}不 我永远不会那样对你
+
+1362
+00:28:40,890 --> 00:28:42,650
+{\pos(791.348,500.03)}至少我的外号不是河豚
+
+1363
+01:30:28,560 --> 01:30:31,900
+{\pos(960.495,474.142)}忌日快乐
+
+1364
+01:28:45,810 --> 01:28:47,230
+{\pos(928.063,85.078)}《偷天情缘》讲述了一个人不断重复同一天的故事
+
+1365
+00:04:32,480 --> 00:04:35,020
+{\pos(951.941,78.97)}赛百味：世界快餐业知名品牌，主打美味健康的三明治
+
+1366
+00:11:05,380 --> 00:11:07,960
+{\pos(943.031,86.342)}X∑K兄弟会：大学男生联谊会
 
 
 */};
