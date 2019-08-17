@@ -88,11 +88,9 @@
                 // p[i], p[i + 1] === \r\n && p[i + 2], p[i + 3] === \r\n
                 // means the end of a block
             } while (i < max && p[i + 2] !== '\r' && p[i + 2] !== '\n');
-            // drop this block when english or chinese is missing
-            if (ct && et) {
-                cn.push(ct);
-                en.push(et);
-            }
+            
+            cn.push(ct);
+            en.push(et);
         }
         function processSRT(p) {
             while(i <= max) {
@@ -147,14 +145,12 @@
                     i++;
                 }
                 i++;
-                if (cl && el) {
-                    if (/[\u4e00-\u9fa5]/.test(cl) && /[a-zA-Z]/.test(el)) {
-                        cn.push(cl);
-                        en.push(el);
-                    } else if (/[a-zA-Z]/.test(cl) && /[\u4e00-\u9fa5]/.test(el)) {
-                        en.push(cl);
-                        cn.push(el);
-                    }
+                if (/[\u4e00-\u9fa5]/.test(cl)) {
+                    cn.push(cl);
+                    en.push(el);
+                } else if (/[\u4e00-\u9fa5]/.test(el)) {
+                    cn.push(el);
+                    en.push(cl);
                 }
             }
         }
