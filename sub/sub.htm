@@ -89,8 +89,8 @@
                 // means the end of a block
             } while (i < max && p[i + 2] !== '\r' && p[i + 2] !== '\n');
             
-            cn.push(ct);
-            en.push(et);
+            cn.push(ct ? ct : '-');
+            en.push(et ? et : '-');
         }
         function processSRT(p) {
             while(i <= max) {
@@ -146,11 +146,11 @@
                 }
                 i++;
                 if (/[\u4e00-\u9fa5]/.test(cl)) {
-                    cn.push(cl);
-                    en.push(el);
+                    cn.push(cl ? cl : '-');
+                    en.push(el ? el : '-');
                 } else if (/[\u4e00-\u9fa5]/.test(el)) {
-                    cn.push(el);
-                    en.push(cl);
+                    cn.push(el ? el : '-');
+                    en.push(cl ? cl : '-');
                 }
             }
         }
