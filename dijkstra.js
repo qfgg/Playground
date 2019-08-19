@@ -1,3 +1,13 @@
+function cp(a, b) {
+	if (a[1] === undefined) {
+		return 1;
+	} else if (b[1] === undefined) {
+		return -1;
+	} else {
+		return a[1] - b[1];
+	}
+}
+
 function dijkstra(chart, start = 0) {
 	var short = [];
 	short[start] = 0;
@@ -7,17 +17,8 @@ function dijkstra(chart, start = 0) {
 
 	for(i = 0; i < count; i++) {
 		if (i !== start) {
-			waitlist[i] = chart[start][i];
+			insertHeap(waitlist, [i, chart[start][i]], cp);
 		}
 	}
+	console.log(waitlist);
 }
-
-var chart = [
-	[0, 4, undefined, 2, undefined],
-	[4, 0, 4, 1, undefined],
-	[undefined, 4, 0, 1, 3],
-	[2, 1, 1, 0, 7],
-	[undefined, undefined, 3, 7, 0]
-];
-
-dijkstra(chart);

@@ -1,4 +1,4 @@
-function insertOne(heap, n) {
+function insertHeap(heap, n) {
     heap.push(n);
 
     var i = heap.length - 1;
@@ -15,15 +15,15 @@ function insertOne(heap, n) {
     }
 }
 
-function insertHeap(heap, n) {
-    if (Object.prototype.toString.call(n) === '[object Array]') {
-        for(var i = 0, len = n.length; i < len; i++) {
-            this.insertOne(heap, n[i]);
-        }
-    } else {
-        this.insertOne(n);
-    }
-}
+// function insertHeap(heap, n) {
+//     if (Object.prototype.toString.call(n) === '[object Array]') {
+//         for(var i = 0, len = n.length; i < len; i++) {
+//             this.insertOne(heap, n[i]);
+//         }
+//     } else {
+//         this.insertOne(heap, n);
+//     }
+// }
 
 function popHeap(heap) {
     var result = heap[0];
