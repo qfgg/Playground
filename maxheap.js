@@ -31,12 +31,11 @@ function popHeap(heap) {
     heap[0] = heap[len - 1];
     heap.pop();
 
-    goDown(heap, 0);
+    goDown(heap, 0, len - 1);
 
     return result;
 }
-function goDown(heap, i) {
-    var len = heap.length;
+function goDown(heap, i, len) {
     var swap, tmp;
     var lchild = i * 2 + 1;
     var rchild = lchild + 1;
@@ -73,18 +72,26 @@ function createHeap(heap) {
     var lchild, rchild;
 
     while (i >= 0) {
-        goDown(heap, i);
+        goDown(heap, i, len);
         i--;
     }
 }
-function heapSort(heap) {}
+function heapSort(heap) {
+    var heapSize = heap.length;
+    var i = heapSize - 1;
+    
+    while (i > 0) {
+        var tmp = heap[i];
+        heap[i] = heap[0];
+        heap[0] = tmp;
+
+        heapSize--;
+        goDown(heap, 0, heapSize);
+        i--;
+    }
+}
 
 var heap = [79,66,43,83,30,87,38,55,91,72,49,9];
 createHeap(heap);
+heapSort(heap);
 console.log(heap);
-
-var arr = [20, 15, 2, 14, 10, 1];
-var h = [];
-insertHeap(h, arr);
-console.log(popHeap(h));
-console.log(h);
