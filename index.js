@@ -85,13 +85,17 @@ window.onload = function() {
 //     return arr.slice(2);
 // }
 
-  var chart = [
-    [0, 4, undefined, 2, undefined],
-    [4, 0, 4, 1, undefined],
-    [undefined, 4, 0, 1, 3],
-    [2, 1, 1, 0, 7],
-    [undefined, undefined, 3, 7, 0]
-  ];
+	var chart = [
+	    [0, 4, undefined, 2, undefined],
+	    [4, 0, 4, 1, undefined],
+	    [undefined, 4, 0, 1, 3],
+	    [2, 1, 1, 0, 7],
+	    [undefined, undefined, 3, 7, 0]
+  	];
 
-  dijkstra(chart);
+  	var tuple = dijkstra(chart, 4);
+  	var dist = tuple[0];
+  	var path = tuple[1];
+  	console.log(dist);
+  	console.log(path);
 };

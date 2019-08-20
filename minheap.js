@@ -1,7 +1,10 @@
 function insertHeap(heap, n, fn) {
     heap.push(n);
 
-    var i = heap.length - 1;
+    goUp(heap, heap.length - 1, fn);    
+}
+
+function goUp(heap, i, fn) {
     var parent = Math.floor((i - 1) / 2);
 
     while (parent >= 0) {
