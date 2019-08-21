@@ -1,10 +1,10 @@
 // dynamically import algorithm
-var js = document.createElement('script');
-js.src = 'minheap.js';
-document.body.appendChild(js);
-var js1 = document.createElement('script');
-js1.src = 'dijkstra.js';
-document.body.appendChild(js1);
+// var js = document.createElement('script');
+// js.src = 'minheap.js';
+// document.body.appendChild(js);
+// var js1 = document.createElement('script');
+// js1.src = 'dijkstra.js';
+// document.body.appendChild(js1);
 
 // after script has been loaded, run test code
 window.onload = function() {
@@ -35,37 +35,37 @@ window.onload = function() {
 //     }
 //     console.log(arr);
 // }
-// function swap(arr, i, j) {
-//     var tmp = arr[i];
-//     arr[i] = arr[j];
-//     arr[j] = tmp;
-// }
-// function qsort(arr, s, e, fn) {
-//     if (s >= e) {
-//         return;
-//     }
-//     var i = s;
-//     var j = e;
-//     while(j > i) {
-//         while(j > i && ((fn && fn(arr[j], arr[s]) >=0) || (!fn && arr[j] >= arr[s]))) {
-//             j--;
-//         }
-//         while(j > i && ((fn && fn(arr[i], arr[s]) <=0) || (!fn && arr[i] <= arr[s]))) {
-//             i++
-//         }
-//         if (i !== j) {
-//             swap(arr, i, j);
-//         }
-//     }
-//     if (s !== j) {
-//         swap(arr, s, j);
-//     }
-//     qsort(arr, s, j - 1, fn);
-//     qsort(arr, j + 1, e, fn);
-// }
-// function quicksort(arr, fn) {
-//     qsort(arr, 0, arr.length - 1, fn);
-// }
+function swap(arr, i, j) {
+    var tmp = arr[i];
+    arr[i] = arr[j];
+    arr[j] = tmp;
+}
+function qsort(arr, s, e, fn) {
+    if (s >= e) {
+        return;
+    }
+    var i = s;
+    var j = e;
+    while(j > i) {
+        while(j > i && ((fn && fn(arr[j], arr[s]) >=0) || (!fn && arr[j] >= arr[s]))) {
+            j--;
+        }
+        while(j > i && ((fn && fn(arr[i], arr[s]) <=0) || (!fn && arr[i] <= arr[s]))) {
+            i++
+        }
+        if (i !== j) {
+            swap(arr, i, j);
+        }
+    }
+    if (s !== j) {
+        swap(arr, s, j);
+    }
+    qsort(arr, s, j - 1, fn);
+    qsort(arr, j + 1, e, fn);
+}
+function quicksort(arr, fn) {
+    qsort(arr, 0, arr.length - 1, fn);
+}
 
 
 // function gen() {
@@ -85,17 +85,29 @@ window.onload = function() {
 //     return arr.slice(2);
 // }
 
-	var chart = [
-	    [0, 4, undefined, 2, undefined],
-	    [4, 0, 4, 1, undefined],
-	    [undefined, 4, 0, 1, 3],
-	    [2, 1, 1, 0, 7],
-	    [undefined, undefined, 3, 7, 0]
-  	];
+    // var maxArea = function(height) {
+    //     var i, j;
+    //     var len = height.length;
+    //     var max = 0;
+    //     var maxDist;
 
-  	var tuple = dijkstra(chart, 4);
-  	var dist = tuple[0];
-  	var path = tuple[1];
-  	console.log(dist);
-  	console.log(path);
+    //     for(i = 0; i < len; i++) {
+    //         maxDist = 0;
+    //         for (j = i - 1; j >= 0; j--) {
+    //             if(height[j] >= height[i]) {
+    //                 maxDist = Math.max(i - j, maxDist);
+    //             }
+    //         }
+    //         for (j = i + maxDist + 1; j < len; j++) {
+    //             if(height[j] >= height[i]) {
+    //                 maxDist = Math.max(j - i, maxDist);
+    //             }
+    //         }
+    //         if (maxDist > 0) {
+    //             max = Math.max(max, maxDist * height[i]);
+    //         }
+    //     }
+    //     return max;
+    // };
+    
 };
