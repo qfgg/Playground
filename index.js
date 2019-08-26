@@ -85,29 +85,5 @@ function quicksort(arr, fn) {
 //     return arr.slice(2);
 // }
 
-    // var maxArea = function(height) {
-    //     var i, j;
-    //     var len = height.length;
-    //     var max = 0;
-    //     var maxDist;
-
-    //     for(i = 0; i < len; i++) {
-    //         maxDist = 0;
-    //         for (j = i - 1; j >= 0; j--) {
-    //             if(height[j] >= height[i]) {
-    //                 maxDist = Math.max(i - j, maxDist);
-    //             }
-    //         }
-    //         for (j = i + maxDist + 1; j < len; j++) {
-    //             if(height[j] >= height[i]) {
-    //                 maxDist = Math.max(j - i, maxDist);
-    //             }
-    //         }
-    //         if (maxDist > 0) {
-    //             max = Math.max(max, maxDist * height[i]);
-    //         }
-    //     }
-    //     return max;
-    // };
     
 };
