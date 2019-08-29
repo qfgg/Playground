@@ -68,22 +68,34 @@ function quicksort(arr, fn) {
 }
 
 
-// function gen() {
-//     var arr = [];
-//     for(var i = 0; i < 10; i++) {
-//         arr[i] = i + 1;
-//     }
+function change(coins, amount) {
+    var detail = [];
+    var dp = [];
+    var tmp;
 
-//     var count = 10;
-//     while(count > 1) {
-//         var pick = Math.floor(Math.random() * count);
-//         if (arr[pick] !== arr[count - 1]) {
-//             swap(arr, pick, count - 1);
-//         }
-//         count--;
-//     }
-//     return arr.slice(2);
-// }
+    for (var i = 1; i <= amount; i++) {
+        for (var j = 0, len = coins.length; j < len; j++) {
+            if (i === coins[j]) {
+                dp[i] = 1;
+                detail[i] = [coins[j]];
+            } else if (i > coins[j]) {
+                tmp = i - coins[j];
+                if (dp[tmp] !== undefined && dp[tmp] !== -1) {
+                    dp[i] = dp[i] === undefined ? dp[tmp] + 1 : Math.min(dp[i], dp[tmp] + 1);
+                    detail[i] = detail[i] === undefined ? detail[tmp].concat([coins[j]]) : dp[i] < dp[tmp] + 1 ? detail[i] : detail[tmp].concat([coins[j]]);
+                }
+            }
+        }
+        if (dp[i] === undefined) {
+            dp[i] = - 1;
+            detail[i] = [];
+        }
+    }
 
+    return [dp[amount], detail[amount]];
+}
+
+var r = change([3,7,13], 53);
+console.log(r);
     
 };
