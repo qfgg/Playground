@@ -1,14 +1,14 @@
-function insertHeap(heap, n) {
+function insertHeap(heap, n, fn = function(a, b) { return a - b; }) {
     heap.push(n);
 
-    goUp(heap, heap.length - 1);
+    goUp(heap, heap.length - 1, fn);
 }
 
-function goUp(heap, i) {
+function goUp(heap, i, fn) {
     var parent = Math.floor((i - 1) / 2);
 
     while (parent >= 0) {
-        if (heap[parent] < heap[i]) {
+        if (fn(heap[parent], heap[i]) < 0) {
             var tmp = heap[parent];
             heap[parent] = heap[i];
             heap[i] = tmp;
@@ -18,68 +18,58 @@ function goUp(heap, i) {
     }
 }
 
-// function insertHeap(heap, n) {
-//     if (Object.prototype.toString.call(n) === '[object Array]') {
-//         for(var i = 0, len = n.length; i < len; i++) {
-//             this.insertOne(heap, n[i]);
-//         }
-//     } else {
-//         this.insertOne(heap, n);
-//     }
-// }
+function popHeap(nums, fn = function(a, b) { return a - b; }) {
+    var r = nums[0];
+    nums[0] = nums.pop();
+    goDown(nums, 0, nums.length - 1, fn);
 
-function popHeap(heap) {
-    var result = heap[0];
-    var len = heap.length;
-    heap[0] = heap[len - 1];
-    heap.pop();
-
-    goDown(heap, 0, len - 1);
-
-    return result;
+    return r;
 }
-function goDown(heap, i, len) {
-    var swap, tmp;
-    var lchild = i * 2 + 1;
-    var rchild = lchild + 1;
-    
-    while (lchild < len) {
-        if (heap[i] >= heap[lchild] && (rchild >= len || heap[i] >= heap[rchild])) {
-            break;
-        }
-        
-        if (rchild >= len) {
-            swap = lchild;
+
+function createHeap(nums, fn = function(a, b) { return a - b; }) {
+    var max = nums.length - 1;
+    var start = Math.floor((max - 1) / 2);
+
+    for(var i = start; i >= 0; i--) {
+        goDown(nums, i, max, fn);
+    }
+}
+
+function goDown(nums, i, max, fn) {
+    var tmp, swapIdx;
+    var leftChild = 2 * i + 1;
+    var rightChild = 2 * i + 2;
+
+    while (leftChild <= max) {
+        if (rightChild > max) {
+            if (fn(nums[leftChild], nums[i]) > 0) {
+                swapIdx = leftChild;
+            }
         } else {
-            if (heap[i] < heap[lchild] && heap[i] < heap[rchild]) {
-                swap = heap[lchild] > heap[rchild] ? lchild : rchild;
-            } else if (heap[i] >= heap[lchild]) {
-                swap = rchild;
-            } else {
-                swap = lchild;
+            if (fn(nums[leftChild], nums[i]) > 0 && fn(nums[rightChild], nums[i]) > 0) {
+                swapIdx = fn(nums[leftChild], nums[rightChild]) > 0 ?
+                    leftChild : rightChild;
+            } else if (fn(nums[leftChild], nums[i]) > 0) {
+                swapIdx = leftChild;
+            } else if(fn(nums[rightChild], nums[i]) > 0) {
+                swapIdx = rightChild;
             }
         }
-        
-        tmp = heap[swap];
-        heap[swap] = heap[i];
-        heap[i] = tmp;
-        i = swap;
-        lchild = i * 2 + 1;
-        rchild = lchild + 1;
+        if (swapIdx !== undefined) {
+            tmp = nums[swapIdx];
+            nums[swapIdx] = nums[i];
+            nums[i] = tmp;
+            i = swapIdx;
+            leftChild = 2 * i + 1;
+            rightChild = 2 * i + 2;
+            swapIdx = undefined;
+        } else  {
+            break;
+        }
     }
 }
 
-function createHeap(heap) {
-    var len = heap.length;
-    var i = Math.floor((len - 2) / 2);
-    var lchild, rchild;
-
-    while (i >= 0) {
-        goDown(heap, i, len);
-        i--;
-    }
-}
-function heapSort(heap) {
+function heapSort(heap, fn = function(a, b) { return a - b; }) {
     var heapSize = heap.length;
     var i = heapSize - 1;
     
@@ -89,7 +79,7 @@ function heapSort(heap) {
         heap[0] = tmp;
 
         heapSize--;
-        goDown(heap, 0, heapSize);
+        goDown(heap, 0, heapSize - 1, fn);
         i--;
     }
 }

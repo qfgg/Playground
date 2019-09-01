@@ -1,6 +1,6 @@
 // dynamically import algorithm
 // var js = document.createElement('script');
-// js.src = 'minheap.js';
+// js.src = 'maxheap.js';
 // document.body.appendChild(js);
 // var js1 = document.createElement('script');
 // js1.src = 'dijkstra.js';
@@ -35,6 +35,7 @@ window.onload = function() {
 //     }
 //     console.log(arr);
 // }
+/*
 function swap(arr, i, j) {
     var tmp = arr[i];
     arr[i] = arr[j];
@@ -66,10 +67,38 @@ function qsort(arr, s, e, fn) {
 function quicksort(arr, fn) {
     qsort(arr, 0, arr.length - 1, fn);
 }
+*//*
+function TreeNode(val) {
+    this.val = val;
+    this.left = this.right = null;
+}
+
+function createBinary(arr) {
+    var tmp = arr.map(function(item){
+        return item === null ? item : new TreeNode(item);
+    });
+    var max = arr.length - 1;
+    var i = 0;
+    var l = 2 * i + 1;
+    var r = l + 1;
+
+    while (l <= max) {
+        tmp[i].left = tmp[l];
+        if (r <= max) {
+            tmp[i].right = tmp[r];
+        }
+        i++;
+        l = 2 * i + 1;
+        r = l + 1;
+    }
+    return tmp[0];
+}
+
+var tree = createBinary([3,9,20,1,2,15,7]);
+*/
 
 
-
-var r = wordBreak(s, wordDict);
+var r = combinationSum(ncandidates, target);
 console.log(r);
-    
+
 };
