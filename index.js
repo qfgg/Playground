@@ -97,8 +97,48 @@ function createBinary(arr) {
 var tree = createBinary([3,9,20,1,2,15,7]);
 */
 
+var findItinerary = function(tickets) {
+    var res = [];
+    var ticketsMap = {};
+    var visited = {};
+    var maxIdx = tickets.length;
 
-var r = combinationSum(ncandidates, target);
+    for (var i = 0; i < maxIdx; i++) {
+        if (ticketsMap[tickets[i][0]] === undefined) {
+            ticketsMap[tickets[i][0]] = [tickets[i][1]];
+        } else {
+            ticketsMap[tickets[i][0]].push(tickets[i][1]);
+        }
+    }
+
+    search(ticketsMap, 'JFK', 0, maxIdx, [], res, visited);
+
+    return res[0];
+};
+
+function search(ticketsMap, cur, idx, maxIdx, oneway, res, visited) {
+    if (idx === maxIdx) {
+        var newway = oneway.concat([cur]);
+        if (res.length === 0 || (res.length === 1 && newway.join('').localeCompare(res[0].join('')) < 0)) {
+            res[0] = newway;
+        }
+    }
+    if (ticketsMap[cur]) {
+        for(var i = 0, len = ticketsMap[cur].length; i < len; i++) {
+            if (!visited[cur + ticketsMap[cur][i]]) {
+                visited[cur + ticketsMap[cur][i]] = true;
+                oneway.push(cur);
+                search(ticketsMap, ticketsMap[cur][i], idx + 1, maxIdx, oneway, res, visited);
+                oneway.pop(cur);
+                visited[cur + ticketsMap[cur][i]] = false;
+            }
+        }
+    }
+    
+}
+
+var tickets = [["JFK","DEF"],["DEF","JFK"],["DEF","GHI"],["GHI","DEF"]];
+var r = findItinerary(tickets);
 console.log(r);
 
 };
