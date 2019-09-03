@@ -19,6 +19,10 @@ function goUp(heap, i, fn) {
 }
 
 function popHeap(nums, fn = function(a, b) { return a - b; }) {
+    if (nums.length === 1) {
+        return nums.pop();
+    }
+    
     var r = nums[0];
     nums[0] = nums.pop();
     goDown(nums, 0, nums.length - 1, fn);
