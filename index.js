@@ -210,31 +210,38 @@ var ladderLength = function(beginWord, endWord, wordList) {
     if (endIdx === -1) {
         return 0;
     }
-    if (isConnect(beginWord, endWord)) {
-        return 2;
-    }
 
-    var res = [0];
-    var visited = [];
-
-    find(1, beginWord, endIdx, wordList, visited, res);
-
-    return res[0];
-};
-
-function find(count, cur, endIdx, wordList, visited, res) {
-    for (var i = 0, len = wordList.length; i < len; i++) {
-        if (i !== cur && !visited[i] && isConnect(wordList[i], cur)) {
-            if (i === endIdx) {
-                res[0] = res[0] === 0 || (res[0] !== 0 && (count + 1) < res[0]) ?
-                    count + 1 : res[0];
-            }
-            visited[i] = true;
-            find(count + 1, wordList[i], endIdx, wordList, visited, res);
-            visited[i] = false;
+    var candidates = [];
+    var clen = candidates.length;
+    var i, j, k, len = wordList.length;
+    for (i = 0; i < len; i++) {
+        if (isConnect(beginWord, wordList[i])) {
+            candidates.push(i);
         }
     }
-}
+
+    if (clen === 0) {
+        return 0;
+    }
+
+    var min = 0;
+    var dp = [];
+
+    for (i = 0; i < len; i++) {
+        for (j = i + 1; j < len; j++) {
+            if (isConnect(wordList[i], wordList[j])) {
+                if (dp[i] === undefined) {
+                    dp[i] = [];
+                }
+                dp[i][j] = 1;
+            }
+        }
+    }
+
+    for (k = 0; k < clen; k++) {
+        
+    }
+};
 
 function isConnect(wd1, wd2) {
     var count = 0;
@@ -248,6 +255,11 @@ function isConnect(wd1, wd2) {
     }
     return count === 1;
 }
+
+// var beginWord = "qa";
+// var endWord = "sq";
+// var wordList = ["si","go","se","cm","so","ph","mt","db","mb","sb","kr","ln","tm","le","av","sm","ar","ci","ca","br","ti","ba","to","ra","fa","yo","ow","sn","ya","cr","po","fe","ho","ma","re","or","rn","au","ur","rh","sr","tc","lt","lo","as","fr","nb","yb","if","pb","ge","th","pm","rb","sh","co","ga","li","ha","hz","no","bi","di","hi","qa","pi","os","uh","wm","an","me","mo","na","la","st","er","sc","ne","mn","mi","am","ex","pt","io","be","fm","ta","tb","ni","mr","pa","he","lr","sq","ye"];
+
 
 var beginWord = "hit",
 endWord = "cog",
