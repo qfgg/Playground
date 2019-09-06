@@ -206,12 +206,12 @@ function cmp (a, b) {
 // var r = findItinerary(tickets);
 // console.log(r);
 var ladderLength = function(beginWord, endWord, wordList) {
+    wordList.unshift(beginWord);
+
     var endIdx = wordList.indexOf(endWord);
     if (endIdx === -1) {
         return 0;
     }
-
-    wordList.unshift(beginWord);
     
     var dp = [];
     var len = wordList.length;
@@ -231,8 +231,32 @@ var ladderLength = function(beginWord, endWord, wordList) {
         }
     }
 
-    for (i = 0; i < len; i++) {
-        for (j = i + 1; j < len; j++) {}
+    // different from ladder length, which is the word's count,
+    // curDistance is the edge count
+    var curDistance = 1;
+    var isEnd = true;
+
+    while (true) {
+        for (i = 1; i < len; i++) {
+            if (dp[0] && dp[0][i] === curDistance) {
+                isEnd = false;
+                for (j = i; j < len; j++) {
+                    if (dp[i] && dp[i][j] === 1) {
+                        if (j === endIdx) {
+                            return curDistance + 1 + 1;
+                        }
+                        if (dp[0] && dp[0][j] === undefined) {
+                            dp[0][j] = curDistance + 1;
+                        }
+                    }
+                }
+            }
+        }
+        if (isEnd) {
+            return 0;
+        }
+        isEnd = true;
+        curDistance++;
     }
 };
 
@@ -254,9 +278,9 @@ function isConnect(wd1, wd2) {
 // var wordList = ["si","go","se","cm","so","ph","mt","db","mb","sb","kr","ln","tm","le","av","sm","ar","ci","ca","br","ti","ba","to","ra","fa","yo","ow","sn","ya","cr","po","fe","ho","ma","re","or","rn","au","ur","rh","sr","tc","lt","lo","as","fr","nb","yb","if","pb","ge","th","pm","rb","sh","co","ga","li","ha","hz","no","bi","di","hi","qa","pi","os","uh","wm","an","me","mo","na","la","st","er","sc","ne","mn","mi","am","ex","pt","io","be","fm","ta","tb","ni","mr","pa","he","lr","sq","ye"];
 
 
-var beginWord = "hit",
-endWord = "cog",
-wordList = ["hot","dot","dog","lot","log","cog"];
+var beginWord = "hot";
+var endWord = "dog";
+var wordList = ["hot","dog","dot"];
 var r = ladderLength(beginWord, endWord, wordList);
 console.log(r);
 
