@@ -206,7 +206,15 @@ function cmp (a, b) {
 // var r = findItinerary(tickets);
 // console.log(r);
 var ladderLength = function(beginWord, endWord, wordList) {
-    wordList.unshift(beginWord);
+    var startIdx = wordList.indexOf(beginWord);
+
+    if (startIdx === -1) {
+        wordList.unshift(beginWord);
+    } else if (startIdx !== 0) {
+        var tmp = wordList[startIdx];
+        wordList[startIdx] = wordList[0];
+        wordList[0] = tmp;
+    }
 
     var endIdx = wordList.indexOf(endWord);
     if (endIdx === -1) {
@@ -252,7 +260,7 @@ var ladderLength = function(beginWord, endWord, wordList) {
                 }
             }
         }
-        if (isEnd) {
+        if (isEnd) {console.log(dp);
             return 0;
         }
         isEnd = true;
