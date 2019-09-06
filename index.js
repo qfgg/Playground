@@ -258,9 +258,19 @@ var ladderLength = function(beginWord, endWord, wordList) {
                         }
                     }
                 }
+                for (j = 1; j < len; j++) {
+                    if (dp[j] && dp[j][i] === 1) {
+                        if (j === endIdx) {
+                            return curDistance + 1 + 1;
+                        }
+                        if (dp[0] && dp[0][j] === undefined) {
+                            dp[0][j] = curDistance + 1;
+                        }
+                    }
+                }
             }
         }
-        if (isEnd) {console.log(dp);
+        if (isEnd) {
             return 0;
         }
         isEnd = true;
