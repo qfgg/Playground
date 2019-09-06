@@ -211,25 +211,18 @@ var ladderLength = function(beginWord, endWord, wordList) {
         return 0;
     }
 
-    var candidates = [];
-    var clen = candidates.length;
-    var i, j, k, len = wordList.length;
-    for (i = 0; i < len; i++) {
-        if (isConnect(beginWord, wordList[i])) {
-            candidates.push(i);
-        }
-    }
-
-    if (clen === 0) {
-        return 0;
-    }
-
-    var min = 0;
+    wordList.unshift(beginWord);
+    
     var dp = [];
+    var len = wordList.length;
+    var i, j;
 
     for (i = 0; i < len; i++) {
         for (j = i + 1; j < len; j++) {
             if (isConnect(wordList[i], wordList[j])) {
+                if (i === 0 && j === endIdx) {
+                    return 2;
+                }
                 if (dp[i] === undefined) {
                     dp[i] = [];
                 }
@@ -238,8 +231,8 @@ var ladderLength = function(beginWord, endWord, wordList) {
         }
     }
 
-    for (k = 0; k < clen; k++) {
-        
+    for (i = 0; i < len; i++) {
+        for (j = i + 1; j < len; j++) {}
     }
 };
 
