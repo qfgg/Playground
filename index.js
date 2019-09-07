@@ -205,101 +205,103 @@ function cmp (a, b) {
 // // var tickets = [["JFK","SFO"],["JFK","ATL"],["SFO","ATL"],["ATL","JFK"],["ATL","SFO"]];
 // var r = findItinerary(tickets);
 // console.log(r);
-var ladderLength = function(beginWord, endWord, wordList) {
-    var startIdx = wordList.indexOf(beginWord);
+// var ladderLength = function(beginWord, endWord, wordList) {
+//     var startIdx = wordList.indexOf(beginWord);
 
-    if (startIdx === -1) {
-        wordList.unshift(beginWord);
-    } else if (startIdx !== 0) {
-        var tmp = wordList[startIdx];
-        wordList[startIdx] = wordList[0];
-        wordList[0] = tmp;
-    }
+//     if (startIdx === -1) {
+//         wordList.unshift(beginWord);
+//     } else if (startIdx !== 0) {
+//         var tmp = wordList[startIdx];
+//         wordList[startIdx] = wordList[0];
+//         wordList[0] = tmp;
+//     }
 
-    var endIdx = wordList.indexOf(endWord);
-    if (endIdx === -1) {
-        return 0;
-    }
+//     var endIdx = wordList.indexOf(endWord);
+//     if (endIdx === -1) {
+//         return 0;
+//     }
     
-    var dp = [];
-    var len = wordList.length;
-    var i, j;
+//     var dp = [];
+//     var len = wordList.length;
+//     var i, j;
 
-    for (i = 0; i < len; i++) {
-        for (j = i + 1; j < len; j++) {
-            if (isConnect(wordList[i], wordList[j])) {
-                if (i === 0 && j === endIdx) {
-                    return 2;
-                }
-                if (dp[i] === undefined) {
-                    dp[i] = [];
-                }
-                dp[i][j] = 1;
-            }
-        }
-    }
+//     for (i = 0; i < len; i++) {
+//         for (j = i + 1; j < len; j++) {
+//             if (isConnect(wordList[i], wordList[j])) {
+//                 if (i === 0 && j === endIdx) {
+//                     return 2;
+//                 }
+//                 if (dp[i] === undefined) {
+//                     dp[i] = [];
+//                 }
+//                 dp[i][j] = 1;
+//             }
+//         }
+//     }
 
-    // different from ladder length, which is the word's count,
-    // curDistance is the edge count
-    var curDistance = 1;
-    var isEnd = true;
+//     // different from ladder length, which is the word's count,
+//     // curDistance is the edge count
+//     var curDistance = 1;
+//     var isEnd = true;
 
-    while (true) {
-        for (i = 1; i < len; i++) {
-            if (dp[0] && dp[0][i] === curDistance) {
-                isEnd = false;
-                for (j = i; j < len; j++) {
-                    if (dp[i] && dp[i][j] === 1) {
-                        if (j === endIdx) {
-                            return curDistance + 1 + 1;
-                        }
-                        if (dp[0] && dp[0][j] === undefined) {
-                            dp[0][j] = curDistance + 1;
-                        }
-                    }
-                }
-                for (j = 1; j < len; j++) {
-                    if (dp[j] && dp[j][i] === 1) {
-                        if (j === endIdx) {
-                            return curDistance + 1 + 1;
-                        }
-                        if (dp[0] && dp[0][j] === undefined) {
-                            dp[0][j] = curDistance + 1;
-                        }
-                    }
-                }
-            }
-        }
-        if (isEnd) {
-            return 0;
-        }
-        isEnd = true;
-        curDistance++;
-    }
-};
+//     while (true) {
+//         for (i = 1; i < len; i++) {
+//             if (dp[0] && dp[0][i] === curDistance) {
+//                 isEnd = false;
+//                 for (j = i; j < len; j++) {
+//                     if (dp[i] && dp[i][j] === 1) {
+//                         if (j === endIdx) {
+//                             return curDistance + 1 + 1;
+//                         }
+//                         if (dp[0] && dp[0][j] === undefined) {
+//                             dp[0][j] = curDistance + 1;
+//                         }
+//                     }
+//                 }
+//                 for (j = 1; j < len; j++) {
+//                     if (dp[j] && dp[j][i] === 1) {
+//                         if (j === endIdx) {
+//                             return curDistance + 1 + 1;
+//                         }
+//                         if (dp[0] && dp[0][j] === undefined) {
+//                             dp[0][j] = curDistance + 1;
+//                         }
+//                     }
+//                 }
+//             }
+//         }
+//         if (isEnd) {
+//             return 0;
+//         }
+//         isEnd = true;
+//         curDistance++;
+//     }
+// };
 
-function isConnect(wd1, wd2) {
-    var count = 0;
-    for (var i = 0, len = wd1.length; i < len; i++) {
-        if (wd1[i] !== wd2[i]) {
-            if (count === 1) {
-                return false;
-            }
-            count++;
-        }
-    }
-    return count === 1;
-}
+// function isConnect(wd1, wd2) {
+//     var count = 0;
+//     for (var i = 0, len = wd1.length; i < len; i++) {
+//         if (wd1[i] !== wd2[i]) {
+//             if (count === 1) {
+//                 return false;
+//             }
+//             count++;
+//         }
+//     }
+//     return count === 1;
+// }
 
 // var beginWord = "qa";
 // var endWord = "sq";
 // var wordList = ["si","go","se","cm","so","ph","mt","db","mb","sb","kr","ln","tm","le","av","sm","ar","ci","ca","br","ti","ba","to","ra","fa","yo","ow","sn","ya","cr","po","fe","ho","ma","re","or","rn","au","ur","rh","sr","tc","lt","lo","as","fr","nb","yb","if","pb","ge","th","pm","rb","sh","co","ga","li","ha","hz","no","bi","di","hi","qa","pi","os","uh","wm","an","me","mo","na","la","st","er","sc","ne","mn","mi","am","ex","pt","io","be","fm","ta","tb","ni","mr","pa","he","lr","sq","ye"];
+// var r = ladderLength(beginWord, endWord, wordList);
+// console.log(r);
 
+// var maximalSquare = function(matrix) {
+// };
 
-var beginWord = "hot";
-var endWord = "dog";
-var wordList = ["hot","dog","dot"];
-var r = ladderLength(beginWord, endWord, wordList);
-console.log(r);
+// var A = [["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]];
 
+// var r = maximalSquare(A);
+// console.log(r);
 };
