@@ -8,92 +8,6 @@
 
 // after script has been loaded, run test code
 window.onload = function() {
-// function ListNode(val) {
-//     this.val = val;
-//     this.next = null;
-// }
-
-// function makeList(arr) {
-//     if (arr.length === 0) {
-//         return null;
-//     }
-//     var head = new ListNode();
-//     var cur = head;
-//     for (var i = 0, len = arr.length; i < len; i++) {
-//         cur.val = arr[i];
-//         cur.next = i < len - 1 ? new ListNode() : null;
-//         cur = cur.next;
-//     }
-//     return head;
-// }
-
-// function printList(l) {
-//     var arr = [];
-//     while (l !== null) {
-//         arr.push(l.val);
-//         l = l.next;
-//     }
-//     console.log(arr);
-// }
-
-// function swap(arr, i, j) {
-//     var tmp = arr[i];
-//     arr[i] = arr[j];
-//     arr[j] = tmp;
-// }
-// function qsort(arr, s, e, fn) {
-//     if (s >= e) {
-//         return;
-//     }
-//     var i = s;
-//     var j = e;
-//     while(j > i) {
-//         while(j > i && ((fn && fn(arr[j], arr[s]) >=0) || (!fn && arr[j] >= arr[s]))) {
-//             j--;
-//         }
-//         while(j > i && ((fn && fn(arr[i], arr[s]) <=0) || (!fn && arr[i] <= arr[s]))) {
-//             i++
-//         }
-//         if (i !== j) {
-//             swap(arr, i, j);
-//         }
-//     }
-//     if (s !== j) {
-//         swap(arr, s, j);
-//     }
-//     qsort(arr, s, j - 1, fn);
-//     qsort(arr, j + 1, e, fn);
-// }
-// function quicksort(arr, fn) {
-//     qsort(arr, 0, arr.length - 1, fn);
-// }
-
-function TreeNode(val) {
-    this.val = val;
-    this.left = this.right = null;
-}
-
-function createBinary(arr) {
-    var tmp = arr.map(function(item){
-        return item === null ? item : new TreeNode(item);
-    });
-    var max = arr.length - 1;
-    var i = 0;
-    var l = 2 * i + 1;
-    var r = l + 1;
-
-    while (l <= max) {
-        tmp[i].left = tmp[l];
-        if (r <= max) {
-            tmp[i].right = tmp[r];
-        }
-        i++;
-        l = 2 * i + 1;
-        r = l + 1;
-    }
-    return tmp[0];
-}
-
 // function insertHeap(heap, n, fn = function(a, b) { return a - b; }) {
 //     heap.push(n);
 
@@ -303,37 +217,9 @@ function createBinary(arr) {
 // var r = maximalSquare(A);
 // console.log(r);
 
-var serialize = function(root) {
-    var stack = [];
-    var res = '';
-    var cur = root;
 
-    while (stack.length > 0 || cur !== null) {
-        while (cur !== null) {
-            stack.push(cur);
-            cur = cur.left;
-        }
-        cur = stack.pop();
-        if (cur.left === null) {
-            res += '#_';
-        }
-        res = res + cur.val + '_';
-        if (cur.right === null) {
-            res += '#_';
-        }
-        cur = cur.right;
-    }
 
-    return res;
-};
 
-var deserialize = function(data) {
-    
-};
-
-var tree = createBinary([1,2,3,4,5,6,7]);
 var r = serialize(tree);
 console.log(r);
-t = deserialize(r);
-console.log(t);
 };
