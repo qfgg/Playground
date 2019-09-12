@@ -13,6 +13,6 @@ function MaxAjax(max = 6) {
 	this.ajaxPool = new AjaxPool(max);
 }
 
-MaxAjax.prototype.add = function(ajaxObj) {
+MaxAjax.prototype.ajax = function(ajaxObj, callback) {
 	this.ajaxPool.set(ajaxObj)
 }
