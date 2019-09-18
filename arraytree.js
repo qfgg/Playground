@@ -26,4 +26,4 @@ function createBinary(arr) {
     return tmp[0];
 }
 
-var tree = createBinary([1,2,4,null,3,5,null,null,null,null,null,6]);
+var tree = createBinary([10,5,15,null,null,6,20]);
