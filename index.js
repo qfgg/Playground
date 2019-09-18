@@ -9,8 +9,15 @@
 // after script has been loaded, run test code
 window.onload = function() {
 
+var findMedianSortedArrays = function(nums1, nums2) {
+	var len1 = nums1.length;
+	var len2 = nums2.length;
+	var md1 = Math.floor((len1 - 1) / 2);
+    var md2 = Math.floor((len2 - 1) / 2);
+};
 
-var r = climbStairs(n);
+var r = findMedianSortedArrays([5,15,22], [2,3,4,10,18,25]);
 console.log(r);
+
 };
 
