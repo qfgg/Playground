@@ -19,8 +19,26 @@ var findMedianSortedArrays = function(nums1, nums2) {
 	var len1 = nums1.length;
 	var len2 = nums2.length;
 
+	// if nums1 is empty
+	var mid;
+
+	if (len1 === 0) {
+		mid = Math.floor((len2 - 1) / 2);
+		if (len2 % 2 === 0) {
+			return (nums2[mid] + nums2[mid + 1]) / 2;
+		}
+		return nums2[mid];
+	}
+	if (len2 === 0) {
+		mid = Math.floor((len1 - 1) / 2);
+		if (len1 % 2 === 0) {
+			return (nums1[mid] + nums1[mid + 1]) / 2;
+		}
+		return nums1[mid];
+	}
+
 	// if there's no intersection between nums1 and nums2
-	var mid = Math.floor((len1 + len2 - 1) / 2);
+	mid = Math.floor((len1 + len2 - 1) / 2);
 	var tmp = (len1 + len2) % 2 === 0;
 
 	if (nums1[0] >= nums2[len2 - 1]) {
@@ -208,12 +226,13 @@ function findInterval(source, arr, start, end) {
     return left;
 }
 
-var n1 = genArr(undefined, 20);
-var n2 = genArr(undefined, 20);
-quicksort(n1);
-quicksort(n2);
-console.log(n1, n2);
-var r = findMedianSortedArrays(n1, n2);
+// var n1 = genArr(undefined, 20);
+// var n2 = genArr(undefined, 20);
+// quicksort(n1);
+// quicksort(n2);
+// console.log(n1, n2);
+// var r = findMedianSortedArrays([1,1,3,3], [1,1,3,3]);
+var r = findInterval(1, [1,1,3,3], 0, 3);
 console.log(r);
 
 };
