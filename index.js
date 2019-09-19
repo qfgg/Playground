@@ -8,6 +8,9 @@
 var js1 = document.createElement('script');
 js1.src = 'randomArr.js';
 document.body.appendChild(js1);
+var js1 = document.createElement('script');
+js1.src = 'quicksort.js';
+document.body.appendChild(js1);
 
 // after script has been loaded, run test code
 window.onload = function() {
@@ -205,11 +208,12 @@ function findInterval(source, arr, start, end) {
     return left;
 }
 
-// var n1 = genArr();
-// var n2 = genArr();
-// console.log(n1, n2);
-// var r = findMedianSortedArrays(n1, n2);
-var r = findMedianSortedArrays([2], [1,4,7,8,9]);
+var n1 = genArr(undefined, 20);
+var n2 = genArr(undefined, 20);
+quicksort(n1);
+quicksort(n2);
+console.log(n1, n2);
+var r = findMedianSortedArrays(n1, n2);
 console.log(r);
 
 };
