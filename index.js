@@ -105,7 +105,7 @@ var findMedianSortedArrays = function(nums1, nums2) {
 
     // binary search between cur and next
     if ((pivot[0] > 0 && nextPivot[0] < 0) || (pivot[0] < 0 && nextPivot[0] > 0)) {
-	    while (cur + 1 !== next) {
+	    while (cur + 1 !== next && cur !== next + 1) {
 	    	mid = Math.floor((cur + next) / 2);
 	    	tmp = getDifference(shortArr, left, right, longArr, mid);
 	    	if (tmp[0] === 0) {
@@ -120,8 +120,10 @@ var findMedianSortedArrays = function(nums1, nums2) {
 		    if (tmp[0] > 0) {
 		    	if (pivot[0] < 0) {
 		    		next = mid;
+		    		nextPivot = tmp;
 		    	} else {
 		    		cur = mid;
+		    		pivot = cur;
 		    	}
 		    }
 	    }
@@ -148,7 +150,8 @@ function getMedianInGap(outArr, cur, next, pivot, nextPivot, inArr) {
 		diff = pivot[0];
 	}
 
-	var tmp = inArr.slice(inStart, inEnd + 1);console.log(inArr.slice(inStart, inEnd + 1));
+	var tmp = inStart >= 0 && inEnd < inArr.length && inStart <= inEnd ?
+		inArr.slice(inStart, inEnd + 1) : [];
 	tmp.unshift(outArr[left]);
 	tmp.push(outArr[right]);
 
