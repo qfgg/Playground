@@ -148,7 +148,7 @@ function getMedianInGap(outArr, cur, next, pivot, nextPivot, inArr) {
 		diff = pivot[0];
 	}
 
-	var tmp = inArr.slice(inStart, inEnd + 1);
+	var tmp = inArr.slice(inStart, inEnd + 1);console.log(inArr.slice(inStart, inEnd + 1));
 	tmp.unshift(outArr[left]);
 	tmp.push(outArr[right]);
 
@@ -159,22 +159,6 @@ function getMedianInGap(outArr, cur, next, pivot, nextPivot, inArr) {
 
 	return (tmp[move] + tmp[move + 1]) / 2;
 }
-
-// // move median diff steps
-// function move(diff, min, max, source) {
-// 	var sign = diff < 0 ? -1 : 1;
-// 	var step = Math.ceil(Math.abs(diff) / 2) * sign;
-// 	var next = source + step;
-	
-// 	if (next < min) {
-// 		return min;
-// 	}
-// 	if (next > max) {
-// 		return max;
-// 	}
-	
-// 	return next;
-// }
 
 // use source to divide arr into left part and right part
 // return [diff, left, right]
