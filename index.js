@@ -144,9 +144,17 @@ var findMedianSortedArrays = function(nums1, nums2) {
 		    		nextPivot = tmp;
 		    	} else {
 		    		cur = mid;
-		    		pivot = cur;
+		    		pivot = tmp;
 		    	}
-		    }
+		    } else {
+                if (pivot[0] > 0) {
+                    next = mid;
+                    nextPivot = tmp;
+                } else {
+                    cur = mid;
+                    pivot = tmp;
+                }
+            }
 	    }
 	    return getMedianInGap(longArr, cur, next, pivot, nextPivot, shortArr);
     }
@@ -204,7 +212,7 @@ function findInterval(source, arr, start, end) {
         return start - 1;
     }
 
-    if (source > arr[end]) {
+    if (source >= arr[end]) {
         return end;
     }
 
@@ -231,8 +239,7 @@ function findInterval(source, arr, start, end) {
 // quicksort(n1);
 // quicksort(n2);
 // console.log(n1, n2);
-// var r = findMedianSortedArrays([1,1,3,3], [1,1,3,3]);
-var r = findInterval(1, [1,1,3,3], 0, 3);
+var r = findMedianSortedArrays([4,5],[1,2,3,6]);
 console.log(r);
 
 };
