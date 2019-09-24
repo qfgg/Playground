@@ -15,42 +15,19 @@ document.body.appendChild(js1);
 // after script has been loaded, run test code
 window.onload = function() {
 
-var trap = function(height) {
-	var count = 0;
-
-    var bottomCount = trapBottom(height);
-    while (height.length > 0) {
-    	count += bottomCount;
-    	bottomCount = trapBottom(height);
+var leastInterval = function(tasks, n) {
+	var taskCount = {};
+    for (var i = 0, len = tasks.length; i < len; i++) {
+    	if (taskCount[tasks[i]] === undefined) {
+    		taskCount[tasks[i]] = 1;
+    	} else {
+    		taskCount[tasks[i]]++;
+    	}
     }
-
-    return count;
 };
 
-function trapBottom(height) {
-	var count = 0;
-	var i = 0;
-	var j;
-	var len = height.length;
-	while (height[i] === 0 && i < len) {
-		height.shift();
-	}
-	var j = height.length - 1;
-	while(height[j] === 0 && j >= 0) {
-		height.pop();
-		j--;
-	}
-	for (i = 0, len = height.length; i < len; i++) {
-		if (height[i] === 0) {
-			count++;
-		} else {
-			height[i]--;
-		}
-	}
-	return count;
-}
-
-var r = trap([4,2,3]);
+var tasks = ["A","A","A","B","B","B"], n = 2
+var r = leastInterval(tasks, n);
 console.log(r);
 
 };
