@@ -1,7840 +1,1774 @@
 var text = function() {/*
 
-1
-00:01:22,630 --> 00:01:24,800
-能给我拿一包Morleys吗？
-Can I get a pack of Morleys?
-
-2
-00:01:27,640 --> 00:01:30,170
-小雪茄？明白了吗？
-¿Cigarillos? ¿Comprende?
-
-3
-00:01:30,180 --> 00:01:31,810
-明白 明白
-Sí, sí.
-
-4
-00:01:54,200 --> 00:01:56,500
-真心话还是大冒险 吉赛尔？
-Truth or dare, Giselle?
-
-5
-00:01:56,500 --> 00:01:57,900
-求你了
-Please.
-
-6
-00:01:57,900 --> 00:02:00,040
-求求你 我不想再玩这游戏了 求你了
-Please, I don't want to play anymore. Please.
-
-7
-00:02:00,040 --> 00:02:03,610
-真心话...还是...大冒险？
-Truth... or... dare?
-
-8
-00:02:14,090 --> 00:02:15,820
-啊 不要 不要
-Oh, no! No!
-
-9
-00:02:15,820 --> 00:02:17,520
-抱歉 我别无选择
-I'm sorry. I don't have a choice.
-
-10
-00:02:31,100 --> 00:02:33,100
-你们现在有这样一种选择
-You do have a choice.
-
-11
-00:02:33,100 --> 00:02:35,100
-帮助他人建造家园
-And I can honestly say the pure joy you will feel
-
-12
-00:02:35,110 --> 00:02:37,310
-说句心里话  从中你能收获非常纯粹的那种快乐
-from literally building someone's home,
-
-13
-00:02:37,310 --> 00:02:40,180
-这种快乐会一直萦绕在你接下来的生命中
-it will stay with you for the rest of your life.
-
-14
-00:02:40,180 --> 00:02:42,380
-你已经忘记的无数平凡之夜
-Unlike all the nights you won't remember
-
-15
-00:02:42,380 --> 00:02:45,110
-还有那些你拼命想要忘记的宿醉之夜都无法与之相比
-and the hangovers you're really gonna want to forget.
-
-16
-00:02:45,120 --> 00:02:47,150
-所以 作为度过春假的另一种选择
-So, for a spring break alternative
-
-17
-00:02:47,150 --> 00:02:49,080
-这会让你的灵魂得到升华
-that is really good for the soul,
-
-18
-00:02:49,090 --> 00:02:52,620
-请考虑加入仁爱社
-please consider Habitat for Humanity.
-
-19
-00:02:52,620 --> 00:02:53,890
-好了
-Okay.
-
-20
-00:02:53,890 --> 00:02:55,890
-嘿
-Hey.
-
-21
-00:02:55,890 --> 00:02:57,790
-嗨
-Hi.
-
-22
-00:02:57,800 --> 00:03:01,160
-我仔细考虑了一下 决定原谅你了
-So, I've been doing some thinking, and I forgive you.
-
-23
-00:03:01,170 --> 00:03:03,870
-- 原谅什么？- 你说你不能来参加春假
-- For what? - For saying you can't come on spring break.
-
-24
-00:03:03,870 --> 00:03:06,200
-我想你是跟我开玩笑的
-I know you didn't mean it.
-
-25
-00:03:06,200 --> 00:03:08,000
-- 玛姬 - 嗯？
-- Markie. - Yeah?
-
-26
-00:03:08,010 --> 00:03:10,740
-我爱你爱得深沉 这你知道的
-I love you so much, you know that.
-
-27
-00:03:10,740 --> 00:03:12,640
-但我真没法去 我已经和仁爱社签约了
-But I can't. I already signed up for Habitat.
-
-28
-00:03:12,640 --> 00:03:14,310
-- 我知道 - 而且我还是领队
-- I know. - Yeah. I'm a trip leader.
-
-29
-00:03:14,310 --> 00:03:17,680
-这我知道 我知道 只是...
-You know what, I know, I know. It's just...
-
-30
-00:03:17,680 --> 00:03:21,750
-只是 这是咱们最后一次春假了
-this is our last spring break, ever.
-
-31
-00:03:21,750 --> 00:03:24,820
-一想到我最好的朋友不能一起去...
-And the thought of doing that without my best friend...
-
-32
-00:03:24,820 --> 00:03:26,320
-我的心都碎了
-that breaks my heart.
-
-33
-00:03:26,320 --> 00:03:30,190
-上高中以来 咱俩从没有分开超过一星期
-Since high school, you and I haven't spent more than a week away from each other.
-
-34
-00:03:30,200 --> 00:03:32,730
-这是我们最后一次疯狂的机会
-This is our last chance to have some fun
-
-35
-00:03:32,730 --> 00:03:35,230
-往后咱就天各一方了
-before life tears us apart.
-
-36
-00:03:35,230 --> 00:03:38,130
-既然你都这么说了...
-I mean, when you put it that way...
-
-37
-00:03:38,140 --> 00:03:40,740
-- 同意了 - 不 还是不行
-- Yeah. - No. Still can't.
-
-38
-00:03:40,740 --> 00:03:42,170
-好吧 奥利维亚
-Okay. Olivia,
-
-39
-00:03:42,170 --> 00:03:45,040
-"在你和全世界之间 我会选择你"  这句话还算数么？
-what ever happened to "between you and the world, I choose you"?
-
-40
-00:03:45,040 --> 00:03:46,280
-- 当然算数 - 是吗？
-- I still mean that. - Do you?
-
-41
-00:03:46,280 --> 00:03:48,340
-当然 大多数时间都算数 这次...
-Yes, most of the time. This just...
-
-42
-00:03:48,350 --> 00:03:50,680
-这次是个例外
-you know, isn't one of those times.
-
-43
-00:03:50,680 --> 00:03:53,400
-好吧 我就直说了 我真不想这么干
-Okay. All right. You know, I really didn't want to have to do this,
-
-44
-00:03:53,400 --> 00:03:54,990
-但你让我别无选择
-but you've left me no other choice.
-
-45
-00:03:54,990 --> 00:03:56,190
-我替你解约了
-I un-signed you up.
-
-46
-00:03:56,190 --> 00:03:58,890
-- 你说什么？- 没错
-- You what? - Yeah.
-
-47
-00:03:58,890 --> 00:04:00,720
-我跟仁爱社说你得了疱疹
-I told Habitat you got shingles.
-
-48
-00:04:00,730 --> 00:04:03,030
-好玩的是  这屋顶恰好也有疱疹似的东西
-Which is kind of funny, 'cause roofs have shingles...
-
-49
-00:04:03,030 --> 00:04:04,230
-玛姬 你也太...
-Markie, that is so...
-
-50
-00:04:04,230 --> 00:04:06,730
-- 聪明了 - 谢谢
-- Brilliant. - Thank you.
-
-51
-00:04:06,730 --> 00:04:10,130
-如果这周你和我们去春假放荡一回
-Okay, if you come with us for this one week of spring break debauchery,
-
-52
-00:04:10,130 --> 00:04:13,900
-夏天 我们全都帮你盖两周的房子
-we will all build houses with you for two weeks over the summer.
-
-53
-00:04:13,910 --> 00:04:15,340
-- 不是说一周么 - 是两周
-- We said one week. - We said two.
-
-54
-00:04:15,340 --> 00:04:16,810
-这有助于你申请医学院校
-It'll help with your med school applications.
-
-55
-00:04:16,810 --> 00:04:18,070
-- 搞得我需要帮助似的 - 他也加入
-- Like I need the help. - He's in.
-
-56
-00:04:18,080 --> 00:04:19,340
-整整十四天
-Full 14 days.
-
-57
-00:04:19,340 --> 00:04:20,340
-所以怎么样 利维？
-So what's it gonna be, Liv?
-
-58
-00:04:20,340 --> 00:04:22,810
-你是要单干一周呢
-I mean, your feeble set of hands for one week,
-
-59
-00:04:22,810 --> 00:04:24,750
-还是我们大家帮你盖两周呢？
-or all of ours for two?
-
-60
-00:04:24,750 --> 00:04:26,810
-这样你都不跟我们一起去的话
-I mean, you're really just being selfish
-
-61
-00:04:26,810 --> 00:04:28,150
-那你就太自私了
-if you don't come with us.
-
-62
-00:04:35,330 --> 00:04:36,790
-噢 天啊
-Oh, my God.
-
-63
-00:04:36,800 --> 00:04:38,230
-你这箱子里装的啥？
-What did you put in here?
-
-64
-00:04:38,230 --> 00:04:39,760
-鞋
-Shoes.
-
-65
-00:04:39,760 --> 00:04:41,900
-- 那办法管用吗？- 没准儿
-- It worked? - Well, that depends.
-
-66
-00:04:41,900 --> 00:04:43,900
-夏天你真的会帮我盖房子吗？
-Are you really gonna help me build houses this summer?
-
-67
-00:04:43,900 --> 00:04:45,730
-你说过"男人应该具备各种本领"的
-You had me at "boys with tools."
-
-68
-00:04:45,740 --> 00:04:48,000
-执着是玛姬的唯一优点
-And Markie's nothing if not persistent.
-
-69
-00:04:48,010 --> 00:04:51,040
-没错 这也是她最招人烦的一点
-Yep, that is her most annoying quality.
-
-70
-00:04:54,010 --> 00:04:56,080
-你能一起去真是太好了 女童子军
-Glad you're with us, Girl Scout.
-
-71
-00:04:56,080 --> 00:04:58,010
-你知道 我俩一直都是形影不离的
-Well, you know we've always been a package deal.
-
-72
-00:04:58,020 --> 00:05:00,850
-我当然知道
-Oh, yeah. I'm well aware of that.
-
-73
-00:05:00,850 --> 00:05:02,890
-- 是吗？- 是的 我对此没意见
-- Are you? - Yeah. I'm okay with it.
-
-74
-00:05:02,890 --> 00:05:04,390
-嗯
-Mm.
-
-75
-00:05:04,390 --> 00:05:06,260
-- 准备好了吗？- 早就好了
-- You ready? - So ready.
-
-76
-00:05:06,260 --> 00:05:08,690
-- 那咱们走吧 - 走
-- Okay, let's go. - Let's do it.
-
-77
-00:05:09,830 --> 00:05:11,930
-- 一切就绪了么？- 屁话
-- Do we have everything? - Yeah.
-
-78
-00:05:11,930 --> 00:05:13,860
-出发
-Now we do.
-
-79
-00:05:13,870 --> 00:05:16,100
-噢 喔 度春假去咯 婊子们！
-Ow, ow! Spring break, bitches!
-
-80
-00:05:16,100 --> 00:05:19,800
-太对了 婊子们！
-That's right, bitches!
-
-81
-00:05:29,850 --> 00:05:32,820
-墨西哥万岁！
-¡Viva la Mexico!
-
-82
-00:05:32,820 --> 00:05:34,780
-就是这儿
-There it is!
-
-83
-00:05:34,790 --> 00:05:36,720
-我们现在墨西哥
-We're in Mexico.
-
-84
-00:05:36,720 --> 00:05:39,490
-- 这里是罗萨里托海滩！春假快乐！- 春假快乐！
-- Yay! - Rosarito! Spring break! - Spring break!
-
-85
-00:05:39,490 --> 00:05:42,390
-谁要喝啤酒的？
-Who's ready for some cervezas?
-
-86
-00:05:42,390 --> 00:05:45,290
-- 玛格丽特酒 - 这是咱们喝的第4瓶了吧
-- Margaritas. - Actually, this is, like, our fourth.
-
-87
-00:05:45,300 --> 00:05:46,500
-我爱你
-I love you.
-
-88
-00:05:46,500 --> 00:05:48,330
-- 我爱你 - 真像个孩子
-- I love you. - Such a babe.
-
-89
-00:05:48,330 --> 00:05:51,330
-- 天啊 - 我呢？
-- My God. - What about me?
-
-90
-00:05:51,340 --> 00:05:52,870
-墨西哥
-Mexico!
-
-91
-00:05:52,870 --> 00:05:54,970
-泰森马上要跳进海里
-Tyson... is about to run into the water
-
-92
-00:05:54,970 --> 00:05:56,840
-然后被鲨鱼干掉
-and get eaten by a shark.
-
-93
-00:05:56,840 --> 00:05:59,110
-- 春假快乐！- 啤酒时间 走
-- Spring break! - Beer run. Let's go!
-
-94
-00:05:59,110 --> 00:06:02,080
-我们还没喝醉
-We're not drunk yet.
-
-95
-00:06:02,080 --> 00:06:03,850
-你是直男吗？你是直男吗？你是直男吗？
-Are you straight? Are you straight? Are you straight?
-
-96
-00:06:03,850 --> 00:06:05,250
-都是棍子 没有洞
-All poles, no holes.
-
-97
-00:06:05,250 --> 00:06:06,850
-你懂的
-You know that.
-
-98
-00:06:06,850 --> 00:06:10,120
-- 开个房间吧 - 这酒吧里都是孤独的灵魂
-- Get a room. - Lonely souls here at the bar.
-
-99
-00:06:10,120 --> 00:06:11,850
-- 喝 喝 - 噢
-- Drink. Drink. - Oh.
-
-100
-00:06:11,860 --> 00:06:14,360
-这是沙币！幸运符
-Sand dollar! Lucky charm.
-
-101
-00:06:14,360 --> 00:06:17,330
-- 我是清醒的 - 哈？不是
-- Sober friend right here. - Huh? Not!
-
-102
-00:06:22,500 --> 00:06:25,470
-小心 小心 噢 天啊
-There, there. Yeah! Oh, shit! Oh, my...
-
-103
-00:06:25,470 --> 00:06:28,040
-- 我喜欢 - 不错
-- I love it. - Nice!
-
-104
-00:06:32,140 --> 00:06:33,480
-将要看到这视频的你们听着
-If you guys watch this later,
-
-105
-00:06:33,480 --> 00:06:34,980
-- 我爱你 玛姬 - 好兄弟
-- I love you, Markie. - Soul brothers.
-
-106
-00:06:34,980 --> 00:06:36,810
-我爱你 利维
-Love you, Liv.
-
-107
-00:06:36,820 --> 00:06:39,480
-- 爱你 佩 爱你 布莱德 爱你 泰森 - 没错 我们是...
-- Love you, Pen. Love you, Brad. I love you, Ty. - Yes, we are...
-
-108
-00:06:39,480 --> 00:06:42,450
-咱别理这些辣鸡 走
-Let's leave these losers behind. Let's go.
-
-109
-00:06:42,450 --> 00:06:43,950
-不嘛 我还想到另一个酒吧去玩玩
-No, I just want to go to one more bar.
-
-110
-00:06:43,950 --> 00:06:45,960
-- 噢累 - 噢累
-- ¡Olé! - ¡Olé!
-
-111
-00:06:45,960 --> 00:06:47,220
-我想趴在你身上
-Oh, I want to lay you.
-
-112
-00:06:47,220 --> 00:06:48,890
-咱们回酒店去 走吧
-Let's go back to the hotel. Come on.
-
-113
-00:06:59,270 --> 00:07:00,970
-一 二
-¡Uno! ¡Dos!
-
-114
-00:07:00,970 --> 00:07:02,840
-一 二 三 四！
-¡Uno, dos, tres, cuatro!
-
-115
-00:07:12,950 --> 00:07:14,450
-喔哦
-Wow.
-
-116
-00:07:14,450 --> 00:07:16,290
-他们真是如胶似漆
-They are really going for it.
-
-117
-00:07:17,320 --> 00:07:20,090
-假如你无法击败他们...
-Well, if you can't beat 'em...
-
-118
-00:07:20,090 --> 00:07:22,890
-你也要像那样吗？
-- Oh-hoo-hoo. - Mm-hmm. - Just like that?
-
-119
-00:07:32,540 --> 00:07:36,340
-告诉我都发生了什么事
-Okay. Tell me what's going on.
-
-120
-00:07:36,340 --> 00:07:40,140
-昨晚 在墨西哥...
-Uh, last night in Mexico, and...
-
-121
-00:07:40,140 --> 00:07:42,450
-我们俩是唯二没有跳舞的辣鸡
-and we're the only two losers not dancing.
-
-122
-00:07:42,450 --> 00:07:45,010
-呃 如果他们那样也算是跳舞的话...
-Mm. If you can call that dancing.
-
-123
-00:07:45,020 --> 00:07:46,950
-确实不能算
-Definitely not.
-
-124
-00:07:51,120 --> 00:07:53,360
-你打算传到YouTube上去吗？
-Is that for your YouTube channel?
-
-125
-00:07:53,360 --> 00:07:55,090
-不是 不是
-No. No.
-
-126
-00:07:55,090 --> 00:07:57,090
-YouTube只是招募志愿者用的
-YouTube's for my volunteer stuff,
-
-127
-00:07:57,090 --> 00:07:59,230
-Snapchat才是找乐子的地方
-and Snapchats are just for fun.
-
-128
-00:07:59,230 --> 00:08:01,400
-我要去找你那位美妞了
-Um, I'm gonna go to the señoritas'.
-
-129
-00:08:01,400 --> 00:08:04,030
-- 一会儿就回来 - 没问题
-- I'll be right back. - Okay.
-
-130
-00:08:04,030 --> 00:08:06,030
-过来  过来
-Come on, come on.
-
-131
-00:08:06,040 --> 00:08:08,470
-嘿 我以为你不再乱搞了
-Hey, I thought you were done with this shit.
-
-132
-00:08:08,470 --> 00:08:11,140
-- 你就要和卢卡斯搬到哥伦比亚特区去了 忘了吗？- 没忘 没忘
-- You're moving in with Lucas, to D.C., remember? - Yeah. Yeah.
-
-133
-00:08:11,140 --> 00:08:14,310
-- 你到底在干什么？- 对不起
-- What... what are you doing? - I'm-I'm sorry.
-
-134
-00:08:14,310 --> 00:08:16,250
-我太蠢了 我只是...
-I'm so stupid. I'm just...
-
-135
-00:08:16,250 --> 00:08:18,510
-我只是喝醉了 好吗？
-I'm just drunk, okay?
-
-136
-00:08:18,520 --> 00:08:20,850
-你真是我最好的朋友
-You're seriously the best friend ever.
-
-137
-00:08:22,020 --> 00:08:23,150
-好
-Okay.
-
-138
-00:08:23,150 --> 00:08:24,120
-- 你没事吧？- 没事
-- You're good? - Yeah.
-
-139
-00:08:24,120 --> 00:08:28,460
-看我找到一个想跳萨尔萨舞却不会跳的人
-Look who I found trying and failing to salsa.
-
-140
-00:08:28,460 --> 00:08:29,660
-太好了
-Cool.
-
-141
-00:08:29,660 --> 00:08:31,460
-- 我没她说的那么差 - 嘿
-- I wasn't that bad. - Hey.
-
-142
-00:08:31,460 --> 00:08:32,600
-- 嘿 - 我想你了
-- Hey. - I missed you.
-
-143
-00:08:32,600 --> 00:08:34,530
-- 我想你 - 欢迎你回来
-- I missed you. - Welcome back.
-
-144
-00:08:34,530 --> 00:08:35,770
-我也想你
-I missed you, too.
-
-145
-00:08:35,770 --> 00:08:37,570
-听说你萨尔萨舞跳得不怎么样是吗？
-So you weren't doing too well with the salsa, huh?
-
-146
-00:08:44,610 --> 00:08:48,140
-- 奥利维亚！怎么？- 罗尼？
-- Olivia! What? - Ronnie?
-
-147
-00:08:48,150 --> 00:08:50,250
-嗨 你怎么在这儿？
-Hi. What are you doing here?
-
-148
-00:08:50,250 --> 00:08:52,410
-噢 我是来找乐子的 你以为我来干嘛？
-Oh, I'm just skiing. What do you think I'm doing here?
-
-149
-00:08:52,420 --> 00:08:55,280
-我正在度春假 你要加入吗？
-I'm getting my spring break on. Do you want to join me?
-
-150
-00:08:55,290 --> 00:08:57,150
-不了 谢谢
-No. Thanks.
-
-151
-00:08:57,160 --> 00:08:59,150
-嘿 玛姬在哪儿？也许咱们可以...
-Hey, where's Markie? Maybe we could do, like,
-
-152
-00:08:59,160 --> 00:09:01,220
-- 玩一次三人行怎么样？- 你知道么
-- you know, a little ménage à trois? - You know what?
-
-153
-00:09:01,230 --> 00:09:02,990
-她和她男朋友卢卡斯在一起
-She's actually with her boyfriend, Lucas.
-
-154
-00:09:02,990 --> 00:09:04,530
-那就咱俩玩玩吧？
-What about, like, a ménage à dos?
-
-155
-00:09:04,530 --> 00:09:07,000
-别做梦了 哥们
-Not happening, pal.
-
-156
-00:09:08,500 --> 00:09:11,030
-是吗？碍着你什么了 哥们？
-Oh, yeah? Is there a problem, pal?
-
-157
-00:09:11,040 --> 00:09:13,270
-没
-No.
-
-158
-00:09:13,270 --> 00:09:15,540
-我只是很惊讶她没有给你脸上来一拳
-I'm just surprised she hasn't punched you in the face yet.
-
-159
-00:09:15,540 --> 00:09:17,940
-- 也许她脾气比我好多了吧 - 噢 是吗？
-- Guess she's nicer than I am. - Oh, yeah?
-
-160
-00:09:17,940 --> 00:09:19,570
-那我给你脸上来一拳怎么样？哈？
-How about I punch you in the face? Huh?
-
-161
-00:09:19,580 --> 00:09:21,940
-肯定不会是我这周遇到过的最坏的事
-Wouldn't be the worst thing that's happened to me this week.
-
-162
-00:09:21,950 --> 00:09:22,980
-够了 罗尼 冷静点
-Okay, Ronnie, calm down.
-
-163
-00:09:22,980 --> 00:09:25,310
-说真的 算了吧
-Seriously, you got to let it go.
-
-164
-00:09:25,320 --> 00:09:28,020
-好吗？我看到后面人在玩射击
-All right? I saw  in the back. They're doing shots.
-
-165
-00:09:28,020 --> 00:09:30,190
-你真应该到那儿去看看
-So you should really go check it out.
-
-166
-00:09:32,090 --> 00:09:34,220
-我非常喜欢射击 这大家都知道
-I can't say no to shots. Everyone knows that.
-
-167
-00:09:34,220 --> 00:09:36,490
-所以我得走了 不是因为你说的那些话
-That's why I'm gonna leave, not 'cause of what you said.
-
-168
-00:09:42,970 --> 00:09:44,630
-你觉得我脾气太好了吗？
-You think I'm too nice?
-
-169
-00:09:44,640 --> 00:09:46,200
-这是好事儿
-It's a good thing.
-
-170
-00:09:46,200 --> 00:09:48,200
-但在酒吧这种地方....
-Except when dealing with guys at bars, so...
-
-171
-00:09:48,210 --> 00:09:50,170
-你可以直接叫我滚开
-Feel free to tell me to piss off.
-
-172
-00:09:50,180 --> 00:09:53,110
-也许我就是喜欢礼貌点
-Maybe I just like being nice.
-
-173
-00:09:55,010 --> 00:09:57,050
-能给我个机会吗？
-Can I give it a shot?
-
-174
-00:09:59,420 --> 00:10:01,350
-- 我叫卡特 - 我是奥利维亚
-- I'm Carter. - Olivia.
-
-175
-00:10:01,350 --> 00:10:02,750
-能请你喝一杯么？
-Buy you a drink?
-
-176
-00:10:02,750 --> 00:10:04,350
-当然
-Yeah.
-
-177
-00:10:04,360 --> 00:10:05,990
-再来一瓶啤酒
-Another beer,
-
-178
-00:10:05,990 --> 00:10:09,130
-给这位女士来瓶玛格丽特
-and... a margarita for the lady.
-
-179
-00:10:13,060 --> 00:10:15,030
-别这样
-Come on!
-
-180
-00:10:15,030 --> 00:10:16,570
-附近肯定有通宵营业的酒吧
-There's got to be an all-night bar around here somewhere.
-
-181
-00:10:16,570 --> 00:10:18,570
-房间里还有龙舌兰等着咱呢
-We still have that tequila back in the room.
-
-182
-00:10:18,570 --> 00:10:19,670
-但这是我们在墨西哥待的最后一晚
-But it's our last night in Mexico.
-
-183
-00:10:19,670 --> 00:10:21,740
-我不想回房间去
-I don't want to go back to the room.
-
-184
-00:10:21,740 --> 00:10:23,710
-我知道有个地方可以去
-I know a place we can go.
-
-185
-00:10:23,710 --> 00:10:27,180
-不好意思 你是哪位？
-I'm... I'm sorry, who are you?
-
-186
-00:10:27,180 --> 00:10:30,450
-- 需要徒步走一段 但是值得的 - 呃
-- Uh, it's a bit of a hike, but it's worth it. - Hmm.
-
-187
-00:10:30,450 --> 00:10:33,180
-当然你也可以直接叫我滚开
-Or you can just tell me to piss off.
-
-188
-00:10:33,180 --> 00:10:34,650
-我想...
-I think, uh...
-
-189
-00:10:34,650 --> 00:10:37,090
-回酒店房间待着挺好的
-think the hotel room sounds pretty good, yeah.
-
-190
-00:10:37,090 --> 00:10:39,530
-- 没错 - 拜托 这是我们最后一次春假
-- Yeah. - Oh, come on, it's our final spring break.
-
-191
-00:10:41,390 --> 00:10:45,560
-而后咱们就天各一方了
-Before life tears us apart.
-
-192
-00:10:45,560 --> 00:10:47,400
-没错
-Right.
-
-193
-00:10:50,640 --> 00:10:52,570
-马上就到了
-We're almost there.
-
-194
-00:10:55,310 --> 00:10:57,310
-我应该穿登山鞋来的
-I should have worn my hiking shoes.
-
-195
-00:10:58,640 --> 00:11:00,610
-要往这路上撒点面包屑么？
-Should I lay down some bread crumbs?
-
-196
-00:11:00,610 --> 00:11:02,010
-等等 伙计们 小心着点
-Wait, guys, be careful.
-
-197
-00:11:03,650 --> 00:11:06,280
-好奇这牌子说的啥 你西班牙语怎么样 布莱德？
-Wonder what that means. How's your Spanish, Brad? Ow.
-
-198
-00:11:10,250 --> 00:11:12,420
-快 伙计们 咱们走
-Come on, guys, let's go.
-
-199
-00:11:19,700 --> 00:11:22,630
-喔 这地方有点意思
-Wow. This place is interesting.
-
-200
-00:11:24,200 --> 00:11:26,100
-- 还有点恐怖 - 啊
-- Kind of terrifying. - Uh...
-
-201
-00:11:26,100 --> 00:11:27,740
-没啥恐怖的
-There's nothing to be afraid of.
-
-202
-00:11:27,740 --> 00:11:29,300
-我保证
-Promise.
-
-203
-00:11:29,310 --> 00:11:31,570
-没错 这比酒吧好多了
-Uh, yeah, this is way better than a club.
-
-204
-00:11:31,580 --> 00:11:33,710
-嘿 你没事吧？
-Hey. You okay?
-
-205
-00:11:33,710 --> 00:11:36,110
-没事 没事
-Uh, yeah. Yeah.
-
-206
-00:11:36,110 --> 00:11:39,280
-- 只是有点累 - 没事 我们不会待太久的
-- Just a little tired. - Yeah. We won't stay long.
-
-207
-00:11:39,280 --> 00:11:41,490
-龙舌兰呢？
-Where's the tequila?
-
-208
-00:11:45,090 --> 00:11:47,260
-希望你们都打过破伤风
-Hope you've had your tetanus shot.
-
-209
-00:11:47,260 --> 00:11:49,130
-我得尿尿
-I got to piss.
-
-210
-00:11:53,330 --> 00:11:55,700
-- 太好了 谢谢 - 赞 赞 谢了 兄弟
-- Nice. Thank you. - Cool, cool. Thanks, man.
-
-211
-00:12:36,340 --> 00:12:39,340
-噢
-Oh!
-
-212
-00:12:39,340 --> 00:12:40,780
-啊
-Ugh.
-
-213
-00:12:54,490 --> 00:12:57,190
-噢 哟 别紧张 是我
-Oh! Yo! Chill out, O-dog, it's just me.
-
-214
-00:12:57,200 --> 00:12:59,500
-罗尼 你一直跟踪我吗？
-Ronnie, did you follow me here?
-
-215
-00:12:59,500 --> 00:13:01,730
-不让罗尼参加派对比登天还难
-You can't keep Ron-Ron from a party.
-
-216
-00:13:04,330 --> 00:13:06,500
-搞什么？
-What the hell?
-
-217
-00:13:06,500 --> 00:13:08,540
-闻着真臭 这是什么....
-This smells horrible. What is... what...
-
-218
-00:13:16,850 --> 00:13:18,750
-哟 给我来一瓶 兄弟
-Yo, beer me, bro.
-
-219
-00:13:18,750 --> 00:13:21,580
-噢 好极了 罗尼来了
-Oh, great, Ronnie's here.
-
-220
-00:13:21,590 --> 00:13:23,820
-意料之中 兄弟
-Sure thing, bro.
-
-221
-00:13:23,820 --> 00:13:26,320
-呃 我们得...
-Um, you know, we got to
-
-222
-00:13:26,320 --> 00:13:28,260
-- 我们明天得早起 所以..- 没错 - 没错 - 是的
-- get up early, so... - Yeah. - Yeah. - Yes.
-
-223
-00:13:28,260 --> 00:13:30,790
-- 是的 是的 - 你们才刚到这儿
-- Yeah, yeah. - You guys just got here.
-
-224
-00:13:30,800 --> 00:13:33,730
-- 不能就这样走了 - 是啊 急啥呢？
-- You can't leave now. - Yeah. What's the rush?
-
-225
-00:13:33,730 --> 00:13:35,700
-呃
-Um...
-
-226
-00:13:35,700 --> 00:13:37,530
-咱们来玩游戏吧
-Yeah, let's, uh, let's play a game or something.
-
-227
-00:13:37,540 --> 00:13:39,500
-噢 对 像转罐子之类的
-Oh, yeah, like spin the bottle.
-
-228
-00:13:39,500 --> 00:13:42,610
-- 好主意 那咱们就...- 咱们就玩真心话大冒险吧
-- And on that note, let's, uh... - I was thinking Truth or Dare.
-
-229
-00:13:42,610 --> 00:13:45,740
-什么？那是小孩子玩的把戏啊...？
-What, this a seventh grade sleepover, or...?
-
-230
-00:13:45,740 --> 00:13:48,780
-我知道是小孩子玩的 但 我们可以换种方式玩
-I know it's a kids' game, but, I mean, if you play it right,
-
-231
-00:13:48,780 --> 00:13:51,950
-这可是了解你朋友内心秘密的好机会
-it's a chance to expose your friends' deepest secrets,
-
-232
-00:13:51,950 --> 00:13:55,320
-也可以让他们做那些不愿做的事
-and... make them do things they don't want to.
-
-233
-00:13:56,990 --> 00:13:59,320
-听起来确实带劲儿
-That actually does sound kind of interesting.
-
-234
-00:13:59,320 --> 00:14:00,990
-呃...
-Uh...
-
-235
-00:14:00,990 --> 00:14:02,590
-好极了 我们玩吧
-Great. We're in.
-
-236
-00:14:02,590 --> 00:14:03,890
-好 大家站我后面
-Okay, everybody, get behind me.
-
-237
-00:14:03,900 --> 00:14:06,660
-- 一 二 三 - 微笑 - 茄子
-- And... one, two, three. - Smile. - Queso.
-
-238
-00:14:06,660 --> 00:14:09,930
-能给我加上标签吗？
-Yo, will you tag me in that? Your boy.
-
-239
-00:14:09,930 --> 00:14:12,000
-很高兴你加入我们 罗尼
-Glad you're with us, Ronnie.
-
-240
-00:14:15,610 --> 00:14:17,910
-额？
-Well?
-
-241
-00:14:17,910 --> 00:14:19,610
-奥利维亚 真心话还是大冒险？
-Olivia, truth or dare?
-
-242
-00:14:21,750 --> 00:14:23,910
-- 真心话 - 雷姆
-- Truth. - Lame.
-
-243
-00:14:23,920 --> 00:14:27,480
-外星人
-Um... aliens.
-
-244
-00:14:27,480 --> 00:14:29,450
-如果外星人现在降临 让你做如下选择
-They land right now and they give you a choice.
-
-245
-00:14:29,450 --> 00:14:34,620
-杀了这里所有人 转身离开地球
-They kill everyone in this room,and then leave peacefully, or...
-
-246
-00:14:34,630 --> 00:14:37,730
-或者杀了墨西哥的所有人
-they kill the entire population of Mexico,
-
-247
-00:14:37,730 --> 00:14:40,260
-但我们毫发无损地离开
-but we escape unscathed.
-
-248
-00:14:40,270 --> 00:14:41,700
-请选择
-Choose.
-
-249
-00:14:41,700 --> 00:14:43,500
-这种荒谬的问题算什么？
-What kind of ridiculous question is that?
-
-250
-00:14:43,500 --> 00:14:46,270
-- 这是个道德困境 - 我不在乎道德
-- It's a moral dilemma. - I don't have morals.
-
-251
-00:14:46,270 --> 00:14:47,840
-- 你当然没有 - 很明显
-- Of course you don't. - Okay, well, obviously,
-
-252
-00:14:47,840 --> 00:14:50,440
-- 她会选择我们 - 抱歉 各位
-- she's choosing us. - Sorry, guys.
-
-253
-00:14:50,440 --> 00:14:53,540
-- 什么？- 你选择让外星人杀了我们？
-- What? - You're gonna let aliens kill us?
-
-254
-00:14:53,540 --> 00:14:55,680
-我爱大家 但因此而让数百万人死去？拜托
-I love you, but millions of people? Come on.
-
-255
-00:14:55,680 --> 00:14:57,550
-你得说真心话
-You have to tell the truth.
-
-256
-00:14:57,550 --> 00:14:59,980
-- 我说的就是真心话 这是唯一正确的答案 - 随便吧
-- I am. It's the only right answer. - Eh, whatever.
-
-257
-00:14:59,980 --> 00:15:02,680
-我已经开始厌倦了
-Well, I'm bored of this already,
-
-258
-00:15:02,690 --> 00:15:04,590
-咱们还是开启派对模式吧
-so let's get this party started.
-
-259
-00:15:04,590 --> 00:15:06,490
-- 你带我们来的 - 喔
-- You brought us here. - Ooh.
-
-260
-00:15:06,490 --> 00:15:08,690
-我知道该怎么样让气氛嗨起来
-Yo, I know how to amp this up a little bit.
-
-261
-00:15:08,690 --> 00:15:10,960
-- 咱不如来玩女孩上女孩的游戏吧？- 不
-- Why don't we get, like, a little girl-on-girl going? - No.
-
-262
-00:15:10,960 --> 00:15:13,060
-- 罗尼 真心话还是大冒险？- 我倒想看看
-- Ronnie. Truth or dare? - I'd watch that.
-
-263
-00:15:13,060 --> 00:15:14,800
-大冒险
-Dare. Duh.
-
-264
-00:15:14,800 --> 00:15:17,730
-对着泰森跳30秒的大腿舞
-I dare you to give Tyson a lap dance for 30 seconds.
-
-265
-00:15:17,730 --> 00:15:19,640
-- 没门 不 我不跳 - 跳吧 - 跳
-- No way. No. I won't do it. - Yes. - Yep.
-
-266
-00:15:19,640 --> 00:15:21,770
-你一旦被问到 就算参与了 这是规则
-Once you're asked, you're in. That's the rules.
-
-267
-00:15:21,770 --> 00:15:23,970
-不行 这里有三个女孩 你们不能让...？
-No, there's, like, three chicks here. You couldn't dare...?
-
-268
-00:15:23,970 --> 00:15:25,770
-- 快 - 罗尼 - 这馊主意
-- Come on. - Ronnie. - Yo, this sucks.
-
-269
-00:15:25,780 --> 00:15:26,940
-- 过来 - 太尬了
-- Get over here. - So wack!
-
-270
-00:15:26,940 --> 00:15:28,810
-- 开始吧 - 上
-- There you go. - Get it.
-
-271
-00:15:28,810 --> 00:15:30,950
-- 别给小费 别碰我 兄弟 - 开始吧
-- Yo, no tips, no touching, bro. - Just do it.
-
-272
-00:15:30,950 --> 00:15:32,650
-- 别当回事儿 - 拿着
-- Don't make this a thing. - Hold this.
-
-273
-00:15:32,650 --> 00:15:35,820
-- 别搞得怪怪的 - 这将会是我生命中最长的30秒 开始吧 快
-- Don't make this weird. - This is gonna be the longest 30 seconds of my life. Let's go. Come on.
-
-274
-00:15:35,820 --> 00:15:37,550
-- 脱下来 - 好了
-- Take it off! - All right!
-
-275
-00:15:38,920 --> 00:15:40,020
-- 噢 天啊 - 噢 噢
-- Oh, my God! - Oh! Oh!
-
-276
-00:15:40,020 --> 00:15:41,490
-他以前肯定跳过
-He's done this before.
-
-277
-00:15:41,490 --> 00:15:42,960
-而且还挺喜欢跳
-Ooh, I think he kind of likes this.
-
-278
-00:15:42,960 --> 00:15:44,360
-看起来真是专业级别
-We got a real pro here.
-
-279
-00:15:44,360 --> 00:15:45,590
-看看这技术
-Look at that technique.
-
-280
-00:15:45,600 --> 00:15:47,000
-罗尼
-Ronnie!
-
-281
-00:15:47,000 --> 00:15:48,060
-- 罗尼 罗尼 - 他以前跳过
-- Ronnie! Ronnie! - He's done this before.
-
-282
-00:15:48,070 --> 00:15:49,530
-看啊
-Look at that.
-
-283
-00:15:49,530 --> 00:15:51,100
-- 赏你点钱 - 我不要你的钱
-- Make it rain pesos! - I don't want your pesos!
-
-284
-00:15:51,100 --> 00:15:53,800
-掌声支持一下
-Aw. Cheer up.
-
-285
-00:15:55,110 --> 00:15:57,070
-- 怪难为情的 - 好了
-- Weird. - Okay.
-
-286
-00:15:57,070 --> 00:15:59,840
-好了 卢卡斯 真心话还是大冒险？
-All right, Lucas, truth or dare?
-
-287
-00:16:11,420 --> 00:16:13,390
-大家准备好了？
-Okay, who's ready?
-
-288
-00:16:19,730 --> 00:16:23,470
-好了 伙计们 我保证 只是因为这里面太冷清了
-Okay, guys, I promise you, it's just because it's cold in here.
-
-289
-00:16:23,470 --> 00:16:25,370
-- 我不评价 - 我眼睛受到了永久的伤害
-- I have no judgment. - Scarred for life.
-
-290
-00:16:25,370 --> 00:16:27,040
-请不要鼓掌
-Hold your applause, please.
-
-291
-00:16:27,040 --> 00:16:28,570
-谢谢
-Thank you.
-
-292
-00:16:28,570 --> 00:16:29,870
-表演真精彩
-Quite the show.
-
-293
-00:16:29,870 --> 00:16:31,710
-谢谢
-Thank you.
-
-294
-00:16:31,710 --> 00:16:34,440
-好了 轮到玛姬了
-Okay, Markie's turn.
-
-295
-00:16:34,450 --> 00:16:36,510
-我来问 真心话还是大冒险？
-I got this one. Truth or dare?
-
-296
-00:16:36,510 --> 00:16:38,510
-真心话
-Uh, truth.
-
-297
-00:16:38,520 --> 00:16:42,490
-你知道奥利维亚已经爱上你男友了吗？
-Are you aware that Olivia is in love with your boyfriend?
-
-298
-00:16:46,720 --> 00:16:49,060
-- 不 她没有 - 拜托 这是显而易见的事
-- No, she's not. - Come on, it's so obvious.
-
-299
-00:16:49,060 --> 00:16:52,060
-- 你能别这么三八吗？- 我只是说实话而已
-- Will you stop being such an asshole? - Just being truthful.
-
-300
-00:16:52,060 --> 00:16:53,700
-- 嘿 泰森 闭嘴 - 别跟我说闭嘴
-- Hey, Tyson, shut up! - Don't tell me to shut up.
-
-301
-00:16:53,700 --> 00:16:56,000
-- 你有毛病是吧？- 哥们 我们来这儿
-- What the hell is wrong with you? - Dude, we're all here
-
-302
-00:16:56,000 --> 00:16:57,570
-就是因为她想让你产生嫉妒 这是明摆着的
-because she's trying to make you jealous, like, clearly.
-
-303
-00:16:57,570 --> 00:17:00,100
-你为什么老是喜欢挑事儿 哥们？！
-Why are you always starting shit, dude?!
-
-304
-00:17:00,100 --> 00:17:02,040
-- 有人说出真话是件好事 - 别说了
-- Somebody tell the truth, that would be great. - Just stop it
-
-305
-00:17:02,040 --> 00:17:04,670
-按顺时针次序 现在轮到我了
-with the agro-posturing and just get to my turn, please.
-
-306
-00:17:04,680 --> 00:17:07,480
-- 布莱德 真心话还是大冒险？- 真心话
-- Brad, truth or dare? - Yes. Truth.
-
-307
-00:17:07,480 --> 00:17:10,750
-如果你必须和在场的某个人亲热 你会选谁？
-If you had to make out with anyone here, who would it be?
-
-308
-00:17:10,750 --> 00:17:13,420
-你是双性恋也没关系
-It's okay if you're bi-curious.
-
-309
-00:17:23,730 --> 00:17:26,600
-那个衣衫不整的家伙
-Scruffy boy over there.
-
-310
-00:17:26,600 --> 00:17:29,660
-- 拜托 - 真是受宠若惊
-- Come on! - I'm flattered.
-
-311
-00:17:29,670 --> 00:17:31,870
-泰森 真心话还是大冒险？
-Tyson. Truth or dare?
-
-312
-00:17:31,870 --> 00:17:34,870
-- 大冒险 - 你必须停止卖假药方给新生
-- Dare. - I dare you to stop selling forged prescriptions to freshmen.
-
-313
-00:17:34,870 --> 00:17:37,040
-- 噢 该死的 - 奥利维亚
-- Oh, shit. - Olivia.
-
-314
-00:17:37,040 --> 00:17:38,810
-总是占据道德制高点
-Always with the moral high ground.
-
-315
-00:17:38,810 --> 00:17:41,780
-小事一桩 其实我从高年级学生那儿赚了更多
-Fine. I make more money off upperclassmen anyway.
-
-316
-00:17:41,780 --> 00:17:43,210
-噢 天啦
-Oh, my God.
-
-317
-00:17:43,210 --> 00:17:45,780
-佩内洛普 真心话还是大冒险？
-Uh, Penelope. Truth or dare?
-
-318
-00:17:45,780 --> 00:17:47,520
-- 大冒险 - 去跟奥利维亚亲热
-- Dare. - Make out with Olivia.
-
-319
-00:17:47,520 --> 00:17:50,220
-- 罗尼 - 有何不可？试试嘛 好玩极了
-- Ronnie! - Why not? Just try... It c-could be fun.
-
-320
-00:17:50,220 --> 00:17:52,060
-这有什么大不了的
-- Just... - Didn't see that one coming.
-
-321
-00:17:53,760 --> 00:17:56,130
-没事的 利维 闭上眼睛就行了
-It's okay, Liv, just close your eyes
-
-322
-00:17:56,130 --> 00:17:58,830
-- 假装他是卢卡斯 - 你知道么？
-- and pretend it's Lucas. - You know what?
-
-323
-00:18:02,800 --> 00:18:05,570
-也许我是双性恋
-Wow. Maybe I'm bi-curious.
-
-324
-00:18:05,570 --> 00:18:06,940
-紧
-Tight.
-
-325
-00:18:06,940 --> 00:18:08,840
-贴得真紧
-It's tight.
-
-326
-00:18:08,840 --> 00:18:11,510
-卡特 该你了
-Carter. You're up.
-
-327
-00:18:11,510 --> 00:18:13,710
-真心话还是大冒险？
-Truth or dare?
-
-328
-00:18:13,710 --> 00:18:15,140
-真心话
-Uh, truth.
-
-329
-00:18:15,150 --> 00:18:18,150
-你对我们可爱的奥利维亚有什么企图？
-What are your intentions with our sweet Olivia?
-
-330
-00:18:24,660 --> 00:18:27,160
-我当时想找一个朋友多的人
-I needed to find someone with friends
-
-331
-00:18:27,160 --> 00:18:29,660
-这样我就可以骗他们到这儿来
-that I could trick into coming here.
-
-332
-00:18:32,630 --> 00:18:35,100
-我看得出奥利维亚是个容易上钩的人
-I could tell Olivia was a pushover,
-
-333
-00:18:35,100 --> 00:18:37,030
-所以就把目标锁定了她
-which made her an easy target.
-
-334
-00:18:41,000 --> 00:18:44,040
-我把你们带到这儿来玩这个游戏
-I brought you all up here to play this game
-
-335
-00:18:44,040 --> 00:18:47,780
-因为....
-because...
-
-336
-00:18:47,780 --> 00:18:52,280
-只要我能活下去 其他陌生人死不死我并不在乎
-I'm okay with strangers dying if it means I get to live.
-
-337
-00:18:52,280 --> 00:18:54,650
-呃...
-Uh...
-
-338
-00:18:54,650 --> 00:18:57,120
-抱歉 你当时本应该让我滚开的
-I'm sorry, but you should've told me to piss off.
-
-339
-00:19:01,690 --> 00:19:04,090
-等等 怎么了？
-Wait, what's up?
-
-340
-00:19:04,100 --> 00:19:06,690
-到底咋回事儿？
-What the hell?
-
-341
-00:19:06,700 --> 00:19:10,100
-听着虽然很疯狂 但这个游戏是真格的
-Look, I know, it sounds insane, but the game is real.
-
-342
-00:19:10,100 --> 00:19:10,970
-你一旦被问到 就算是参与进来了
-Once you're asked, you're in.
-
-343
-00:19:10,970 --> 00:19:13,040
-明白吗？不管你跑到哪儿 不管你做了什么
-Okay? Wherever you go, whatever you do,
-
-344
-00:19:13,040 --> 00:19:14,770
-它都会找到你 嘿 别 别
-it'll find you. Hey, don't, don't.
-
-345
-00:19:14,770 --> 00:19:18,170
-要么说出真心话 要么完成大冒险 否则你就得死
-Tell the truth or you die. Do the dare or you die.
-
-346
-00:19:18,180 --> 00:19:19,710
-拒绝回答的也会死...
-Refuse to play and...
-
-347
-00:19:21,610 --> 00:19:25,080
-只需...只需要遵守规则就行
-Just... just-just follow the rules.
-
-348
-00:19:40,700 --> 00:19:42,630
-伙计们？
-Guys?
-
-349
-00:19:44,300 --> 00:19:46,070
-伙计们？
-Guys?
-
-350
-00:19:55,980 --> 00:19:57,820
-你没事吧？
-You okay?
-
-351
-00:19:59,920 --> 00:20:01,950
-没事
-Yeah.
-
-352
-00:20:01,950 --> 00:20:03,890
-我没事
-Yeah, I'm fine.
-
-353
-00:20:06,220 --> 00:20:08,620
-那人是个怪胎
-Guy's a jerk.
-
-354
-00:20:08,630 --> 00:20:10,890
-想离开这儿吗？
-Want to get out of here?
-
-355
-00:20:10,900 --> 00:20:13,000
-没错 现在离开最好 利维
-Yeah. Great way to end the trip, Liv.
-
-356
-00:20:15,100 --> 00:20:18,330
-反正我也不喜欢那个家伙
-Yeah, I didn't like that guy anyways.
-
-357
-00:20:18,340 --> 00:20:21,210
-快走吧 我们还能睡上一觉
-Come on, we can go sleep in.
-
-358
-00:20:28,710 --> 00:20:30,210
-嘿 哥们 课堂见
-Hey, man, see you in class.
-
-359
-00:20:30,210 --> 00:20:32,820
-待会儿喝咖啡
-Coffee later.
-
-360
-00:20:34,250 --> 00:20:36,290
-你得保证下周回家一趟 儿子
-Make sure you make it home next weekend, son.
-
-361
-00:20:36,290 --> 00:20:37,920
-明白
-Gotcha.
-
-362
-00:20:39,720 --> 00:20:41,690
-嗨
-Hi.
-
-363
-00:20:41,690 --> 00:20:43,290
-嘿
-Hey.
-
-364
-00:20:43,290 --> 00:20:45,290
-和你的警官老爹有矛盾吗？
-All good with Officer Dad?
-
-365
-00:20:45,300 --> 00:20:46,960
-噢 相当有
-Oh, absolutely.
-
-366
-00:20:46,960 --> 00:20:49,130
-他以为我上周一直
-Now that he thinks I spent my last week
-
-367
-00:20:49,130 --> 00:20:51,830
-在和我不存在的女朋友喝酒做爱
-belly-bumping my nonexistent girlfriend in wine country.
-
-368
-00:20:51,840 --> 00:20:54,670
-你的那位加拿大女友确实喜欢喝梅鹿汁酒
-Well, your Canadian lady, she really does like a good Merlot.
-
-369
-00:20:54,670 --> 00:20:56,140
-她名字叫金伯莉
-Uh, her name is Kimberly,
-
-370
-00:20:56,140 --> 00:20:58,670
-- 而且她现在的品味要好多了 谢谢 - 噢
-- and her palate is quite refined, thank you. - Oh.
-
-371
-00:20:58,680 --> 00:21:01,110
-抱歉 对你的加拿大小金说声抱歉
-Sorry. My apologies to Canadian Kim.
-
-372
-00:21:01,110 --> 00:21:04,050
-你倒提醒我了 我为什么不找个千里之外的学校念书
-Remind why I didn't go to school thousands of miles away
-
-373
-00:21:04,050 --> 00:21:06,050
-远离我那个傲慢而恐同的老爹
-from my overbearing and homophobic father.
-
-374
-00:21:06,050 --> 00:21:08,720
-- 因为你从没对他说不 - 呃
-- Because you never say no to him. - Hmm.
-
-375
-00:21:08,720 --> 00:21:10,990
-那样你也不会遇到我了
-And you never would've met me.
-
-376
-00:21:10,990 --> 00:21:13,420
-你真的不想当我的备胎吗？
-Are you sure you don't want to be my beard?
-
-377
-00:21:13,420 --> 00:21:15,760
-因为我确实需要一位像金伯莉那样的女人
-'Cause I really want to ghost Kimberly.
-
-378
-00:21:15,760 --> 00:21:18,190
-听着不错 这样我们俩面对的问题都一并解决了
-Yeah, I doubt that would solve either of our problems.
-
-379
-00:21:18,200 --> 00:21:20,800
-- 玛姬怎么样了？- 我不知道
-- How is Markie? - I don't know.
-
-380
-00:21:20,800 --> 00:21:23,730
-那晚回来后 就没有和她多聊
-Haven't talked to her much since we've been back.
-
-381
-00:21:23,730 --> 00:21:26,370
-别担心 我们是一辈子的好友
-Don't worry about us. We're friends for life.
-
-382
-00:21:26,370 --> 00:21:28,810
-- 拜 - 拜拜
-- Bye. - See ya.
-
-383
-00:21:32,410 --> 00:21:35,210
-- 嗨 奥利维亚 - 嘿
-- Hi, Olivia. - Hey.
-
-384
-00:21:40,120 --> 00:21:42,000
-（真心话还是大冒险？）
-
-385
-00:22:04,240 --> 00:22:06,810
-- 给 - 上帝保佑你
-- Here you go. - God bless you.
-
-386
-00:22:09,750 --> 00:22:11,950
-嘿 我们做了鸡尾酒
-Hey. We made mojitos!
-
-387
-00:22:11,950 --> 00:22:13,380
-要尝尝吗？
-Study party?
-
-388
-00:22:13,380 --> 00:22:15,450
-- 待会儿吧 - 噢 好吧
-- Yeah, maybe later. - Oh, okay.
-
-389
-00:22:15,450 --> 00:22:16,890
-奥利维亚
-Olivia,
-
-390
-00:22:16,890 --> 00:22:18,950
-佩说我在墨西哥的时候
-um, Pen was saying that I was
-
-391
-00:22:18,960 --> 00:22:22,420
-做的有点过分 所以给你这个
-a bit of dick in Mexico, so... here's a little something
-
-392
-00:22:22,430 --> 00:22:26,160
-- 作为补偿 - 药方？
-- to make it up to you. - A prescription?
-
-393
-00:22:26,160 --> 00:22:29,430
-- 怎么了？你不是新生 - 你也不是医生
-- What? You're not a freshman. - Yeah, you're not a doctor.
-
-394
-00:22:29,430 --> 00:22:32,940
-我的幸运钢笔可不这样认为
-That's... not what my lucky pen says.
-
-395
-00:22:35,740 --> 00:22:37,740
-我以为我才是你的幸运佩
-I thought I was your lucky Pen.
-
-396
-00:22:37,740 --> 00:22:40,780
-哦 宝贝 你是我的幸运佩内洛普
-Oh, baby, but you are my lucky Penelope.
-
-397
-00:22:40,780 --> 00:22:43,910
-- 噢 我的幸运佩 - 泰森 泰森
-- Oh, my lucky Pen! Oh! Oh! - Tyson! Tyson!
-
-398
-00:22:58,000 --> 00:22:59,000
-（真心话还是大冒险？）
-
-399
-00:23:33,960 --> 00:23:37,800
-罗伊·卡梅伦 45岁 现在他想做晚餐
-Roy Cameron, 45 years old, attempts to make dinner.
-
-400
-00:23:37,800 --> 00:23:39,230
-看一看
-Take one.
-
-401
-00:23:39,240 --> 00:23:41,140
-请对我有点信心
-A little faith, please.
-
-402
-00:23:41,140 --> 00:23:43,440
-没人像你老爸这样做牛排的
-Nobody makes a steak like your old man.
-
-403
-00:23:43,440 --> 00:23:46,170
-爸 我现在很悲观
-Uh, Dad, I'm pescatarian now.
-
-404
-00:23:46,180 --> 00:23:49,510
-所以我要说....
-Right. And that's why I meant to say...
-
-405
-00:23:49,510 --> 00:23:53,410
-剑鱼牛排 咚
-swordfish steaks! Boom!
-
-406
-00:23:53,420 --> 00:23:57,020
-- 天啊 你样子好傻 - 但你还是爱我的对吗？
-- God, you are such a dork. - But you still love me, right?
-
-407
-00:23:57,020 --> 00:23:59,350
-当然 当然 我爱你
-Yeah, yeah, I still love you.
-
-408
-00:23:59,360 --> 00:24:01,060
-好
-Good.
-
-409
-00:24:13,070 --> 00:24:16,970
-利维 希望你的疱疹已经好了 很快就有新视频吗？
-
-410
-00:24:13,070 --> 00:24:16,970
-{\pos(130,230)}凯西@仁爱社
-新视频？
-
-411
-00:24:21,280 --> 00:24:23,080
-- 打扰了 - 嗨
-- Sorry. - Hi.
-
-412
-00:24:23,080 --> 00:24:24,550
-给你带礼物来了
-Come bearing gifts.
-
-413
-00:24:24,550 --> 00:24:26,380
-佩内洛普说你刚才不想喝
-Penelope said you didn't want one.
-
-414
-00:24:26,380 --> 00:24:28,220
-其实我才更了解你
-I know you better than that.
-
-415
-00:24:28,220 --> 00:24:30,350
-没错 你说对了 现在有点想喝酒
-Yeah, you're right. Probably could use a drink.
-
-416
-00:24:30,350 --> 00:24:33,360
-自从墨西哥那晚以来
-So, I know things have been...
-
-417
-00:24:33,360 --> 00:24:36,400
-咱们之间产生了一点嫌隙
-a little Bette and Joan between us since Mexico,
-
-418
-00:24:36,400 --> 00:24:39,190
-但所有不快都就此打住吧
-but... awkwardness stops here.
-
-419
-00:24:39,200 --> 00:24:41,560
-好吗？我爸自杀之后
-Okay? And since my dad took his life,
-
-420
-00:24:41,560 --> 00:24:44,330
-你就是我唯一的亲人了
-y-you've been my only family.
-
-421
-00:24:44,340 --> 00:24:47,000
-我唯一可以信赖的人
-The one person I can really trust.
-
-422
-00:24:47,000 --> 00:24:49,270
-所以不管泰森怎么胡说
-So I'm not gonna let a stupid comment by Tyson,
-
-423
-00:24:49,270 --> 00:24:51,510
-不管其他所有人怎么说 都改变不了这一点
-of all people, change that.
-
-424
-00:24:51,510 --> 00:24:54,980
-玛姬 我向你保证
-Markie, I promise you,
-
-425
-00:24:54,980 --> 00:24:58,150
-我没有对你男朋友产生爱意
-I do not have feelings for your boyfriend.
-
-426
-00:24:58,150 --> 00:25:02,050
-我把他当哥们一样对待 明白吗？
-He's like a brother to me, okay?
-
-427
-00:25:02,050 --> 00:25:04,190
-明白 没问题
-Okay. Yeah.
-
-428
-00:25:04,190 --> 00:25:06,520
-在你和全世界之间 我选择你
-Between you and the world, I choose you.
-
-429
-00:25:08,330 --> 00:25:09,990
-我也选择你
-And I choose you.
-
-430
-00:25:11,490 --> 00:25:13,490
-噢 天啊
-Mm. Oh, my gosh.
-
-431
-00:25:13,500 --> 00:25:15,060
-- 这....- 喔
-- That is... - Wow.
-
-432
-00:25:15,060 --> 00:25:16,500
-- ...味道太猛了- 没错
-- ...very strong. - Yeah.
-
-433
-00:25:25,220 --> 00:25:26,520
-（真心话还是大冒险）
-
-434
-00:25:26,540 --> 00:25:28,210
-想想你妈妈 ...
-Think about your mom, and, like,
-
-435
-00:25:28,210 --> 00:25:30,080
-有时候就是会那样
-it just happens sometimes...
-
-436
-00:25:30,080 --> 00:25:32,050
-嘿 混蛋
-Hey, asshole.
-
-437
-00:25:32,050 --> 00:25:34,050
-你觉得这很好玩吗？
-Do you think that's funny?
-
-438
-00:25:34,050 --> 00:25:35,450
-觉得什么好玩？
-Think what's funny?
-
-439
-00:25:37,550 --> 00:25:39,350
-我不明白你说啥
-I-I don't get it.
-
-440
-00:25:39,360 --> 00:25:41,190
-写在我桌子上或是传单上都无所谓
-My desk and the flyer were harmless,
-
-441
-00:25:41,190 --> 00:25:43,660
-但刻在车上要花很多钱洗干净的
-but it's gonna cost me a lot of money to fix my car.
-
-442
-00:25:43,660 --> 00:25:46,360
-够了 我完全懵了 你在说什么？
-Okay, I am so lost right now. What are you talking about?
-
-443
-00:25:46,360 --> 00:25:48,560
-你把"真心话还是大冒险"刻在我车门上了
-You keyed "truth or dare" into my car door.
-
-444
-00:25:48,560 --> 00:25:50,630
-你车门上什么也没有
-There's nothing on your car.
-
-445
-00:25:50,630 --> 00:25:52,500
-别开这种蹩脚的玩笑
-Except your idea of a lame joke.
-
-446
-00:25:52,500 --> 00:25:54,400
-你有点神经质 但你知道吗？
-Okay, you're a little crazy. But you know what?
-
-447
-00:25:54,410 --> 00:25:55,970
-我其实很喜欢神经质的
-I actually happen to like crazy.
-
-448
-00:25:55,970 --> 00:25:57,310
-也许咱可以约个时间喝上一杯？
-Do you want to maybe get a drink sometime?
-
-449
-00:25:57,310 --> 00:25:59,510
-别来烦我懂吗？
-Will you just leave me alone? Okay?
-
-450
-00:25:59,510 --> 00:26:01,450
-这是拒绝了吗？
-Is that a no?
-
-451
-00:26:05,380 --> 00:26:07,380
-嘿 萨拉 你看见玛姬了吗？
-Hey, Sarah, have you seen Markie?
-
-452
-00:26:07,380 --> 00:26:09,320
-她在图书馆
-In the library.
-
-453
-00:26:16,230 --> 00:26:17,990
-嘿 奥利维亚
-Hey, Olivia.
-
-454
-00:26:17,990 --> 00:26:20,130
-真心话还是大冒险？
-Truth or dare?
-
-455
-00:26:20,130 --> 00:26:21,960
-你刚说什么？
-What did you say?
-
-456
-00:26:21,970 --> 00:26:23,500
-真心话还是大冒险？
-Truth or dare?
-
-457
-00:26:27,540 --> 00:26:31,640
-真心话还是大冒险？真心话还是大冒险？
-Truth or dare? Truth or dare?
-
-458
-00:26:31,640 --> 00:26:33,640
-真心话还是大冒险？真心话还是大冒险？
-Truth or dare? Truth or dare?
-
-459
-00:26:33,640 --> 00:26:35,410
-真心话还是大冒险？
-Truth or dare?
-
-460
-00:26:35,410 --> 00:26:37,350
-真心话还是大冒险？真心话还是大冒险？
-Truth or dare? Truth or dare?
-
-461
-00:26:37,350 --> 00:26:40,180
-真心话还是大冒险？真心话还是大冒险？
-Truth or dare? Truth or dare?
-
-462
-00:26:40,180 --> 00:26:42,480
-- 真心话还是大冒险？真心话还是大冒险？- 真心话！别说了
-- Truth or dare? Truth or dare? - Truth! Stop!
-
-463
-00:26:42,490 --> 00:26:44,450
-你帮你最好朋友隐瞒了什么秘密？
-What secret does your best friend make you hide?
-
-464
-00:26:44,450 --> 00:26:46,590
-玛姬一直都在背着卢卡斯乱搞
-Markie's constantly cheating on Lucas!
-
-465
-00:26:56,270 --> 00:26:58,270
-那是真的吗？
-That true?
-
-466
-00:26:58,270 --> 00:27:00,070
-玛姬...
-Markie...
-
-467
-00:27:02,470 --> 00:27:04,410
-卢卡斯
-Luke.
-
-468
-00:27:06,480 --> 00:27:08,380
-卢卡斯
-Lucas.
-
-469
-00:27:08,380 --> 00:27:11,580
-- 等等 - 玛姬 我不知道发生了什么事
-- Wait. - Markie, I don't know what's going on.
-
-470
-00:27:11,580 --> 00:27:13,150
-你把他当哥们看待对吗？
-He's like a brother to you?
-
-471
-00:27:13,150 --> 00:27:15,380
-不 说真的 我刚才看见了些奇怪的东西
-No, I'm serious. I'm seeing things.
-
-472
-00:27:15,390 --> 00:27:18,120
-再碰我就打断你手臂
-Touch me again, and I'll break that hand.
-
-473
-00:27:38,040 --> 00:27:40,670
-- 太疯狂了 - 是真的
-- That's insane. - Seriously.
-
-474
-00:27:40,680 --> 00:27:43,550
-哟 你好吗？想一块玩玩吗？
-Yo. 'Sup? You want to play?
-
-475
-00:27:43,550 --> 00:27:45,310
-你看起来像是个很会玩球的女孩
-You look like a girl who's good with balls.
-
-476
-00:27:45,310 --> 00:27:48,450
-别来烦我
-Please do not talk to me.
-
-477
-00:27:48,450 --> 00:27:50,120
-别价 就玩个游戏而已
-No, look, uh, just one game.
-
-478
-00:27:50,120 --> 00:27:52,190
-- 我只是想让你看看我的球杆而已 - 好吧
-- Like, I just want to show you my pool cue. - Okay.
-
-479
-00:27:52,190 --> 00:27:53,690
-我说的球杆 就是鸡鸡的意思
-And by "pool cue," I mean penis.
-
-480
-00:27:53,690 --> 00:27:55,420
-说到鸡鸡 也许咱们可以上个床之类的
-I'm referring to my penis. Maybe we could have sex.
-
-481
-00:27:55,430 --> 00:27:57,290
-看看会发生什么
-You know, see what happens.
-
-482
-00:28:00,130 --> 00:28:02,270
-真心话还是大冒险 罗尼？
-Truth or dare, Ronnie?
-
-483
-00:28:04,070 --> 00:28:06,070
-什么 是奥利维亚让你这么做的吗？
-What, did Olivia put you up to this?
-
-484
-00:28:06,070 --> 00:28:09,340
-真心话还是大冒险？
-Truth... or dare?
-
-485
-00:28:09,340 --> 00:28:12,610
-有点怪 但也有点性感
-Uh, creepy... and sexy.
-
-486
-00:28:12,610 --> 00:28:14,680
-那就玩玩吧 大冒险
-Let's do it. Dare.
-
-487
-00:28:14,680 --> 00:28:17,810
-到桌子上去 给大家看看你的球杆
-Get on the table and show everyone your pool cue.
-
-488
-00:28:17,810 --> 00:28:20,780
-我就知道你会这么说 好吧
-I knew it. Okay. All right.
-
-489
-00:28:23,220 --> 00:28:26,290
-大家好 各位乡亲父老
-Hello, friends and neighbors!
-
-490
-00:28:26,290 --> 00:28:27,820
-这位漂亮的小姐让我
-This fine young lady here has asked me
-
-491
-00:28:27,830 --> 00:28:29,490
-陪她玩真心话大冒险的游戏
-to play a little game of Truth or Dare with her,
-
-492
-00:28:29,490 --> 00:28:32,290
-作为一名真男人和绅士 我选择了大冒险
-and like a real gentleman, I chose dare!
-
-493
-00:28:32,300 --> 00:28:34,330
-- 加油 罗尼 - 唬
-- Go, Ronnie! - Whoo!
-
-494
-00:28:34,330 --> 00:28:36,460
-现在 我非常荣幸地...
-Anyway, now I will do you all the honor
-
-495
-00:28:36,470 --> 00:28:39,330
-给大家展示一下我的传家之宝
-of showing you my business.
-
-496
-00:28:39,340 --> 00:28:41,500
-以前见过了 没什么鸟不起
-Seen it before! Not impressed!
-
-497
-00:28:41,500 --> 00:28:43,810
-噢
-Oh!
-
-498
-00:28:43,810 --> 00:28:46,540
-- 是谁在说话 贝丝吗？- 不是 但贝丝也说过你的太小了
-- Who is that, Beth? - No, but Beth said it was tiny, too.
-
-499
-00:28:47,810 --> 00:28:49,810
-不 贝丝绝不会说这种话
-No, uh, Beth would never say that!
-
-500
-00:28:49,810 --> 00:28:51,750
-好吧 就这样吧 我不是...
-Okay, you know what, screw this, I'm not...
-
-501
-00:29:05,160 --> 00:29:07,460
-当心点 哥们 这有根球杆
-Whoa, careful! Dude. Hey, watch the pool cue, man.
-
-502
-00:29:07,460 --> 00:29:08,860
-谢谢你
-Thank you.
-
-503
-00:29:18,510 --> 00:29:20,880
-快打911报警
-Somebody call 911!
-
-504
-00:29:20,880 --> 00:29:23,910
-我发誓 当时有很多人围着我说话
-I swear to you, people were talking to me.
-
-505
-00:29:23,910 --> 00:29:25,750
-他们脸看上去加了Snapchat上的搞怪滤镜
-It looked like a messed-up Snapchat filter.
-
-506
-00:29:25,750 --> 00:29:29,480
-他们不停地问我"真心话还是大冒险"
-They were asking me "truth or dare" over and over again,
-
-507
-00:29:29,490 --> 00:29:32,220
-然后我就慌了
-and... I-I panicked.
-
-508
-00:29:32,220 --> 00:29:35,520
-你是说一群暴民整齐划一地念咒
-So you're saying a mob of people
-
-509
-00:29:35,520 --> 00:29:37,860
-逼得你说出了玛姬一直在背着卢卡斯乱搞这事
-chanting in unison made you tell Lucas that Markie is a cheating whore.
-
-510
-00:29:37,860 --> 00:29:39,560
-这听起来很疯狂
-Look, I know it sounds insane.
-
-511
-00:29:39,560 --> 00:29:41,760
-- 有点疯狂 - 但这确实发生了
-- Just a little. - But it happened.
-
-512
-00:29:41,760 --> 00:29:43,500
-自从墨西哥那晚后
-Something really weird
-
-513
-00:29:43,500 --> 00:29:45,270
-诡异的事情不断发生
-has been going on ever since Mexico.
-
-514
-00:29:45,270 --> 00:29:46,930
-噢 拜托
-Oh, come on.
-
-515
-00:29:46,940 --> 00:29:50,200
-保守这样一个秘密本来就很困难
-Uh, keeping a secret like that, it's a huge burden.
-
-516
-00:29:50,210 --> 00:29:53,340
-我们都不会责怪你 把真话吐露出来
-None of us would fault you for trying to get it off your chest.
-
-517
-00:29:53,340 --> 00:29:55,610
-只是 也许不该在大庭广众面前说
-I mean, n-not maybe so publicly.
-
-518
-00:29:55,610 --> 00:29:58,610
-我希望你放到YouTube上去说
-I wish you would have done it for your YouTube channel.
-
-519
-00:29:58,620 --> 00:30:00,920
-- 当心我用这个刺你 - 冷静点 宝贝
-- I will stab you with this. - Calm down, baby.
-
-520
-00:30:02,950 --> 00:30:04,820
-又是贝丝
-Basic Beth again.
-
-521
-00:30:09,590 --> 00:30:11,330
-天啊
-Holy shit.
-
-522
-00:30:14,230 --> 00:30:16,660
-抱歉
-Excuse me,
-
-523
-00:30:16,670 --> 00:30:18,370
-各位乡亲父老
-friends and neighbors!
-
-524
-00:30:18,370 --> 00:30:20,470
-这位漂亮的小姐让我
-This fine young lady right here has asked me
-
-525
-00:30:20,470 --> 00:30:22,700
-陪她玩真心话大冒险的游戏
-to play a game of Truth or Dare with her,
-
-526
-00:30:22,710 --> 00:30:25,670
-- 作为一名真男人和绅士 我选择了大冒险 - 加油 罗尼！
-- and like a real gentleman, I chose dare. - Go, Ronnie!
-
-527
-00:30:25,680 --> 00:30:28,380
-现在 我非常荣幸地...
-Anyway, now I will do you all the honor
-
-528
-00:30:28,380 --> 00:30:30,410
-给大家展示一下我的传家之宝
-of showing you my business.
-
-529
-00:30:30,410 --> 00:30:32,580
-- 恶心 - 呃
-- Gross. - Ugh.
-
-530
-00:30:38,290 --> 00:30:40,290
-快打911报警
-Call 911!
-
-531
-00:30:40,290 --> 00:30:42,860
-丢人了
-Bad break.
-
-532
-00:30:42,860 --> 00:30:45,630
-- 开个玩笑而已 - 这不好笑
-- It's a pool joke. - That's not funny.
-
-533
-00:30:47,560 --> 00:30:50,600
-- 是那天那个游戏在作祟 - 什么？
-- It's the game. - What?
-
-534
-00:30:50,600 --> 00:30:52,800
-- 它跟着我们回来了 - 你说真的么？
-- It is. It followed us home. - Are-are you being serious?
-
-535
-00:30:52,800 --> 00:30:54,840
-卡特对我说过这是真格的
-Carter told me that it was real,
-
-536
-00:30:54,840 --> 00:30:56,610
-我们全都参与了 它会找到我们
-that we were all in, and that it would find us.
-
-537
-00:30:56,610 --> 00:30:59,770
-你要把那个精神不正常的导游的话当真吗？
-We're really taking the word of our mentally unstable tour guide?
-
-538
-00:30:59,780 --> 00:31:02,240
-那怎么解释我在图书馆发生的事？
-How else do you explain what happened to me in the library?
-
-539
-00:31:02,250 --> 00:31:04,250
-- 哈？罗尼呢？- 我不知道
-- Huh? And now Ronnie? - Oh, I don't know.
-
-540
-00:31:04,250 --> 00:31:05,910
-可能他只是喝醉了 掉下台球桌而已
-Maybe he was drunk and he fell off a pool table,
-
-541
-00:31:05,920 --> 00:31:09,150
-- 那是个意外 - 所以他选择大冒险也是个意外吗？
-- which is what happened. - So, it's just a coincidence that he was supposed to be doing a dare?
-
-542
-00:31:09,150 --> 00:31:09,680
-大家都冷静一下
-Let's just calm down.
-
-543
-00:31:09,690 --> 00:31:12,290
-- 没错 - 不 卡特说过 "要么说真心话 不然就死"
-- Yes. - No. Carter said, "Tell the truth or you die.
-
-544
-00:31:12,290 --> 00:31:14,820
-"要么完成大冒险 否则就死" 罗尼临阵脱逃
-Do the dare or you die." Ronnie chickened out.
-
-545
-00:31:14,830 --> 00:31:16,960
-他没有完成大冒险 所以他死了
-He did not do his dare, and now he's dead!
-
-546
-00:31:16,960 --> 00:31:20,300
-伙计们 看出来我没疯了吧
-Guys, tell me I'm not crazy!
-
-547
-00:31:20,300 --> 00:31:22,660
-不 你听起来确实像疯了
-Oh, no, you definitely sound crazy.
-
-548
-00:31:22,670 --> 00:31:24,500
-卢卡斯
-Lucas.
-
-549
-00:31:24,500 --> 00:31:27,510
-我很抱歉我说过的话
-I am so sorry for what I said,
-
-550
-00:31:27,510 --> 00:31:28,470
-但我发誓
-but I swear to you,
-
-551
-00:31:28,470 --> 00:31:30,470
-我是在被某些东西强迫下才说的
-something forced me to say that.
-
-552
-00:31:30,470 --> 00:31:33,280
-希望你能相信我
-And I need you to believe me.
-
-553
-00:31:33,280 --> 00:31:35,480
-拜托
-Please.
-
-554
-00:31:35,480 --> 00:31:39,620
-很难相信一个对你说了这么久谎的人
-Kind of hard to believe someone who's been lying to you for so long.
-
-555
-00:31:45,720 --> 00:31:47,660
-再见了 大家
-See you, guys.
-
-556
-00:31:51,400 --> 00:31:54,400
-现在 我非常荣幸地...
-Anyway, now I will do you all the honor
-
-557
-00:31:54,400 --> 00:31:56,330
-给大家展示一下我的传家之宝
-of showing you my business.
-
-558
-00:32:03,510 --> 00:32:05,510
-卢卡斯
-Lucas.
-
-559
-00:32:24,960 --> 00:32:27,430
-卢卡斯
-Lucas.
-
-560
-00:32:51,730 --> 00:32:54,280
-（真心话还是大冒险）
-
-561
-00:32:57,130 --> 00:32:59,690
-卢卡斯
-Lucas.
-
-562
-00:33:05,000 --> 00:33:07,310
-真好玩啊 伙计们
-That's very funny, guys.
-
-563
-00:33:12,540 --> 00:33:14,840
-这太过火了
-Okay, this is insane.
-
-564
-00:33:29,970 --> 00:33:32,160
-（真心话还是大冒险）
-
-565
-00:33:40,000 --> 00:33:41,840
-嘿
-Hey.
-
-566
-00:33:42,940 --> 00:33:44,870
-我信你了
-I believe you.
-
-567
-00:33:44,880 --> 00:33:47,910
-有东西在我手臂上烙了"真心话还是大冒险"
-Something started burning "truth or dare" into my arm.
-
-568
-00:33:47,910 --> 00:33:50,480
-- 噢 天啊 你没事吧？- 没事
-- Oh, my God, are you okay? - Y-Yeah.
-
-569
-00:33:50,480 --> 00:33:52,780
-字已经消失了现在
-Yeah, I mean... it's gone now.
-
-570
-00:33:52,780 --> 00:33:55,180
-但 我感觉到了
-But... I felt it.
-
-571
-00:33:55,190 --> 00:33:57,720
-奥利维亚 非常疼
-Olivia, it was really painful.
-
-572
-00:33:57,720 --> 00:33:59,690
-没错 我在图书馆的时候也是这样
-Yeah, and when I was in the library,
-
-573
-00:33:59,690 --> 00:34:02,860
-我被一堆人围着 但那都是幻觉
-I was surrounded by people, but what we're seeing is not real.
-
-574
-00:34:02,860 --> 00:34:04,790
-只有随之产生的后果是真的
-Only the consequences are.
-
-575
-00:34:06,860 --> 00:34:08,900
-你回答了吗？
-Did you answer?
-
-576
-00:34:08,900 --> 00:34:11,840
-卢卡斯 你必须回答
-Lucas, you have to answer.
-
-577
-00:34:14,500 --> 00:34:17,540
-第一次遇见奥利维亚 我就对她产生了感觉
-I've had feelings for Olivia since we met.
-
-578
-00:34:23,010 --> 00:34:25,180
-我不时想象和她在一起 而不是玛姬
-Sometimes I wonder what it would be like
-
-579
-00:34:25,180 --> 00:34:29,120
-将会是一种什么样的感觉
-to be with her instead of Markie.
-
-580
-00:34:29,120 --> 00:34:32,820
-我也幻想过在她身边起床...
-And I wonder what it would be like to wake up next to her...
-
-581
-00:34:32,820 --> 00:34:35,820
-然后亲吻她
-and kiss her.
-
-582
-00:34:35,830 --> 00:34:38,690
-但我知道那是不可能发生的事
-But I know that can never happen.
-
-583
-00:34:38,700 --> 00:34:41,600
-天啊 别告诉我你已经挂掉了电话
-Oh, God, please tell me you didn't hang up.
-
-584
-00:34:45,140 --> 00:34:47,870
-我们得去说服其他人
-We have to convince everybody else.
-
-585
-00:34:47,870 --> 00:34:49,810
-我来了
-I'm coming.
-
-586
-00:34:56,980 --> 00:34:59,750
-这是在干什么？
-What is all this?
-
-587
-00:34:59,750 --> 00:35:02,120
-联合调解吗？
-An intervention?
-
-588
-00:35:02,120 --> 00:35:04,220
-我一直以为喜欢白天也喝酒的佩内洛普才是第一个需要开导的
-I always thought day-drinking Penelope would be first.
-
-589
-00:35:04,220 --> 00:35:05,520
-谢谢
-Thanks.
-
-590
-00:35:05,520 --> 00:35:06,960
-谢谢你能来
-Thank you for coming.
-
-591
-00:35:06,960 --> 00:35:09,890
-我就住这儿
-I live here.
-
-592
-00:35:09,890 --> 00:35:12,490
-到底是什么事？
-So, what is it all about?
-
-593
-00:35:12,500 --> 00:35:14,230
-那个游戏
-The game.
-
-594
-00:35:14,230 --> 00:35:16,930
-我们现在仍然处于在墨西哥玩的那个游戏中 顺序也一样
-We're still playing it in the same order we played in Mexico.
-
-595
-00:35:16,930 --> 00:35:19,000
-卡特说的是实话 那个游戏是真格的
-Carter told us the truth; the game is real.
-
-596
-00:35:19,000 --> 00:35:21,670
-第一个轮到的是我 我在图书馆被逼问
-First, it was my turn, I got asked in the library, and
-
-597
-00:35:21,670 --> 00:35:23,540
-说出了你的秘密 然后是罗尼
-it made me tell your secret; then it was Ronnie's turn,
-
-598
-00:35:23,540 --> 00:35:24,940
-他没有完成大冒险 所以它杀死了他
-he didn't do his dare, and it killed him.
-
-599
-00:35:24,940 --> 00:35:26,710
-也许你和罗尼都不应该回答
-Maybe you and Ronnie shouldn't have answered.
-
-600
-00:35:26,710 --> 00:35:29,080
-卡特说过"拒绝回答也会死"
-Carter also said, "Refuse to play and you die."
-
-601
-00:35:29,080 --> 00:35:31,620
-我今晚被问了 我本想置之不理
-I got asked tonight, and I tried to ignore it.
-
-602
-00:35:33,720 --> 00:35:35,720
-但它就把"真心话还是大冒险"烙进了我胳膊
-But then something burned "truth or dare" on my arm.
-
-603
-00:35:35,720 --> 00:35:38,890
-给我看看
-Show me.
-
-604
-00:35:38,890 --> 00:35:40,750
-现在消失了 但...
-I mean, it's gone now, but...
-
-605
-00:35:40,760 --> 00:35:43,830
-- 手上啥也没有 - 我说的是真话
-- Th-There's nothing there. - Because I told the truth.
-
-606
-00:35:43,830 --> 00:35:47,100
-- 噢 天啊 - 奥利维亚
-- Oh, my God. Geez. - Wow. Olivia.
-
-607
-00:35:47,100 --> 00:35:48,900
-这是新花招吗
-I mean, this is next-level.
-
-608
-00:35:48,900 --> 00:35:51,730
-你不想为当众羞辱我
-You can't take responsibility for humiliating me
-
-609
-00:35:51,730 --> 00:35:53,900
-破坏我的人际关系而负责
-in front of everyone and ruining my relationship,
-
-610
-00:35:53,900 --> 00:35:55,940
-所以你又想出了这么个疯狂的借口
-so you come up with some insane story
-
-611
-00:35:55,940 --> 00:35:57,910
-居然说是一个游戏逼你的？
-that a game made you say it?
-
-612
-00:35:57,910 --> 00:36:00,740
-你还请卢卡斯来帮你骗我
-Then you get Lucas to lie for you.
-
-613
-00:36:00,740 --> 00:36:02,540
-- 滚 我受够了 - 玛姬
-- No, I'm done. - Markie.
-
-614
-00:36:02,550 --> 00:36:03,880
-玛姬 别走
-Markie. Stop.
-
-615
-00:36:05,210 --> 00:36:07,850
-- 你不能一个人待着 - 为什么不能？
-- You can't be alone. - Why not?
-
-616
-00:36:07,850 --> 00:36:10,080
-因为在这张照片中 下一个就轮到你了
-Because in the picture, your turn is next.
-
-617
-00:36:15,760 --> 00:36:17,700
-未知号码 当然咯
-Unknown number. Of course it is.
-
-618
-00:36:19,600 --> 00:36:22,600
-- "真心话还是大冒险？" 喔 是条短信 真的吗？- 哈
-- "Truth or Dare?" Wow, a text. Really? - Huh.
-
-619
-00:36:22,600 --> 00:36:25,900
-- 人类是不可能发出未知号码的...- 快回答
-- I mean, there's no way a human could have sent... - Just answer it.
-
-620
-00:36:25,900 --> 00:36:27,770
-好吧
-Fine.
-
-621
-00:36:27,770 --> 00:36:29,770
-大冒险
-Dare.
-
-622
-00:36:29,770 --> 00:36:32,240
-"你要兑现你说过的话
-"Dare you to follow through with your promise.
-
-623
-00:36:32,240 --> 00:36:34,340
-打断奥利维亚的手臂"
-Break Olivia's hand."
-
-624
-00:36:34,340 --> 00:36:36,110
-明显是你在搞鬼
-Obviously, this was you.
-
-625
-00:36:36,110 --> 00:36:38,250
-你看我现在有在发信息吗？
-Do you see me texting you right now?
-
-626
-00:36:38,250 --> 00:36:41,120
-但你是唯一听到我说这话的人
-No, but you were the only one there when I said that.
-
-627
-00:36:41,120 --> 00:36:44,250
-玛姬 我为什么要让你打断我的手臂？
-Markie, why would I dare you to break my own hand?
-
-628
-00:36:44,250 --> 00:36:46,190
-我不知道 也许你正在为你的YouTube频道
-I don't know! Okay, maybe you're making
-
-629
-00:36:46,190 --> 00:36:47,850
-拍摄新的视频 讲解怎样和朋友绝交
-a new YouTube video on how to lose friends.
-
-630
-00:36:47,860 --> 00:36:49,090
-这更是胡扯
-Oh, that seems even less likely.
-
-631
-00:36:50,790 --> 00:36:53,060
-- 你在干什么？- 你必须这么做
-- What are you doing? - You have to do it.
-
-632
-00:36:53,060 --> 00:36:54,800
-什么？
-What?
-
-633
-00:36:54,800 --> 00:36:57,030
-你必须这么做
-You have to.
-
-634
-00:36:58,970 --> 00:37:02,040
-罗尼没有完成大冒险 现在他死了
-Ronnie didn't do his dare, and now he's dead.
-
-635
-00:37:02,040 --> 00:37:04,740
-- 利维 这太疯狂了 - 即使按我的标准来看 也是如此
-- Liv, this is so messed up. - Even by my standards.
-
-636
-00:37:04,740 --> 00:37:07,140
-听着 我现在确实很生你的气
-Look, as pissed as I am at you right now...
-
-637
-00:37:07,140 --> 00:37:10,210
-非常生气 但我绝不会想要打断你的手臂
-and I'm so pissed... there's no way I'm gonna break your hand.
-
-638
-00:37:10,210 --> 00:37:12,110
-你别无选择
-Well, you don't really have a choice.
-
-639
-00:37:12,120 --> 00:37:14,820
-快拿着
-So just take it. Please.
-
-640
-00:37:14,820 --> 00:37:18,020
-玛姬 如果你不这么做 后果不堪设想
-Markie, I don't want to find out what happens if you don't.
-
-641
-00:37:19,890 --> 00:37:21,860
-快动手
-Just do it.
-
-642
-00:37:30,730 --> 00:37:33,170
-- 不 我不能 - 天啊 相信我一次吧 玛姬
-- No, I-I can't. - God, just trust me, Markie!
-
-643
-00:37:33,170 --> 00:37:35,140
-快动手 拜托
-Do it. Please.
-
-644
-00:37:39,140 --> 00:37:41,680
-别做像你爸那样的懦夫
-Oh, don't tell me you're a fucking coward like your dad.
-
-645
-00:37:45,680 --> 00:37:47,280
-噢 噢 天啊
-Oh, oh, my God.
-
-646
-00:37:47,280 --> 00:37:48,850
-我去拿些冰块来
-I'll get some ice.
-
-647
-00:37:48,850 --> 00:37:50,720
-太疯狂了 我不知所措
-I can't deal with this crazy right now.
-
-648
-00:37:50,720 --> 00:37:52,150
-我明天还有个医学院的面试
-I got a med school interview tomorrow.
-
-649
-00:37:52,160 --> 00:37:53,350
-去看医生把
-Uh, see a doctor.
-
-650
-00:37:53,360 --> 00:37:55,860
-- 抱歉 抱歉 - 伙计们
-- I'm sorry. Sorry. - Guys!
-
-651
-00:37:55,860 --> 00:37:59,060
-听着 我们得到医院去 明白吗？走
-Look, we got to go to the hospital, okay? Come on.
-
-652
-00:38:03,730 --> 00:38:06,270
-你敢相信所发生的的一切吗？
-You believe all this?
-
-653
-00:38:08,240 --> 00:38:11,440
-我不知道该相信什么
-I don't know what to believe.
-
-654
-00:38:40,870 --> 00:38:43,240
-快啊
-Come on.
-
-655
-00:39:28,750 --> 00:39:30,020
-布莱德
-Brad.
-
-656
-00:39:32,060 --> 00:39:34,320
-真心话还是大冒险？
-Truth or dare?
-
-657
-00:39:41,100 --> 00:39:42,100
-布莱德
-Brad.
-
-658
-00:39:42,100 --> 00:39:44,430
-真心话
-Truth!
-
-659
-00:39:57,010 --> 00:39:58,810
-布莱德？
-Brad?
-
-660
-00:39:58,810 --> 00:40:00,850
-嗨
-Hi.
-
-661
-00:40:00,850 --> 00:40:03,180
-- 你在这儿干什么？- 这是我的工作
-- What are you doing here? - Uh, my job.
-
-662
-00:40:03,190 --> 00:40:05,190
-你怎么在这儿？
-Why are you here?
-
-663
-00:40:05,190 --> 00:40:07,290
-我一个朋友受伤了 不严重
-Friend of mine got hurt. It's nothing serious.
-
-664
-00:40:07,290 --> 00:40:10,190
-我是来安慰鼓励一下
-I'm just here for... for moral support.
-
-665
-00:40:12,930 --> 00:40:15,460
-有什么问题吗？
-Something wrong?
-
-666
-00:40:15,460 --> 00:40:20,130
-没 我只是有点紧张
-Yeah, no, I'm just, uh... I'm just a little shaken up.
-
-667
-00:40:20,140 --> 00:40:22,840
-你几个星期都没来看望你妈妈了
-You haven't come by to see your mother in a few weeks.
-
-668
-00:40:22,840 --> 00:40:24,140
-我知道 很抱歉
-Yeah, I know. I'm sorry.
-
-669
-00:40:24,140 --> 00:40:25,940
-现在我仍然在给你付学费
-I thought I was paying for this school
-
-670
-00:40:25,940 --> 00:40:27,940
-所以你应该经常回家看看
-so you could come home every once in a while.
-
-671
-00:40:27,940 --> 00:40:29,910
-我知道 我知道 我只是...
-I-I know, I know, I just...
-
-672
-00:40:29,910 --> 00:40:32,180
-只是因为近来碰到些奇怪的事情
-Things have been a little crazy lately.
-
-673
-00:40:32,180 --> 00:40:35,020
-我不想听借口 儿子
-You know, I don't want to hear excuses, son.
-
-674
-00:40:36,890 --> 00:40:38,820
-我想听真心话
-I want the truth.
-
-675
-00:40:41,420 --> 00:40:44,420
-信用卡账单又多了几千美元
-There goes another thousand dollars in credit card debt.
-
-676
-00:40:44,430 --> 00:40:46,290
-噢 天啊 利维
-Oh, my God, Liv.
-
-677
-00:40:46,300 --> 00:40:48,300
-刚才轮到我了
-I just had my turn.
-
-678
-00:40:48,300 --> 00:40:50,160
-- 你什么？- 就是那个游戏
-- You what? - The game.
-
-679
-00:40:50,170 --> 00:40:53,230
-它让我站出来
-It made me, um, it made me come out.
-
-680
-00:40:53,240 --> 00:40:56,440
-直面我爸
-To my father.
-
-681
-00:40:56,440 --> 00:40:58,780
-你没事吧？
-Wha... Are you okay?
-
-682
-00:41:00,210 --> 00:41:01,910
-没事
-Yeah.
-
-683
-00:41:01,910 --> 00:41:03,580
-没事 没事
-Yeah. Yeah.
-
-684
-00:41:03,580 --> 00:41:06,950
-人生中第一次 我对他说出了心里话
-For the first time in my life, I... I told him my truth
-
-685
-00:41:06,950 --> 00:41:09,480
-我勇敢地面对他 那种感觉...
-and I stood up to him, and I feel...
-
-686
-00:41:09,480 --> 00:41:11,480
-那种感觉非常爽
-I feel awesome.
-
-687
-00:41:11,490 --> 00:41:15,120
-等等 你爸以前不知道你是基佬吗？
-Okay, hold on, your dad didn't know that you were gay?
-
-688
-00:41:15,120 --> 00:41:17,360
-你的铃声可是碧昂丝的歌
-Your ringtone's Beyoncé.
-
-689
-00:41:17,360 --> 00:41:19,090
-每个人都喜欢碧昂丝
-Everyone loves Beyoncé.
-
-690
-00:41:19,100 --> 00:41:21,030
-下一个就该轮到泰森了
-Tyson's next.
-
-691
-00:41:37,210 --> 00:41:39,450
-成了
-Will do.
-
-692
-00:41:39,450 --> 00:41:41,450
-泰森·库兰？
-Tyson Curran?
-
-693
-00:41:41,450 --> 00:41:44,090
-开始吧
-Let's do this.
-
-694
-00:41:47,890 --> 00:41:49,830
-这边请
-Right this way.
-
-695
-00:41:54,060 --> 00:41:57,030
-你是在医生世家长大的？
-So, you come from a family of doctors, then?
-
-696
-00:41:57,030 --> 00:42:00,470
-是的 女士 我妈妈 爸爸 姐姐 叔叔和祖父都是医生
-Yes, ma'am. Mother, father, sister, uncle and grandfather.
-
-697
-00:42:00,470 --> 00:42:02,000
-基本上一家子都是
-Pretty much everybody.
-
-698
-00:42:02,000 --> 00:42:03,500
-他们给你树立了光辉榜样
-Well, they must have set a great example
-
-699
-00:42:03,510 --> 00:42:05,410
-让你也想走同样的职业道路
-for you to want to take the same route.
-
-700
-00:42:05,410 --> 00:42:06,970
-是的 完全正确 斯宾塞院长
-Yes, uh, absolutely, Dean Spencer.
-
-701
-00:42:06,980 --> 00:42:08,980
-我成长过程中
-You know, uh, growing up,
-
-702
-00:42:08,980 --> 00:42:11,440
-经常听到他们救死扶伤的故事
-I would hear their stories about saving lives,
-
-703
-00:42:11,450 --> 00:42:13,610
-所以我想
-and... I think...
-
-704
-00:42:13,620 --> 00:42:16,520
-我想这深深地影响了我
-I think that somehow shaped me.
-
-705
-00:42:20,190 --> 00:42:22,120
-佩 泰森在哪儿？
-Pen. Where's Tyson?
-
-706
-00:42:22,120 --> 00:42:24,490
-他在医学院面试 怎么了？
-His med school interview. Why?
-
-707
-00:42:27,430 --> 00:42:30,000
-你知道...
-You know...
-
-708
-00:42:30,000 --> 00:42:32,400
-我可以去做那些...
-I could do something...
-
-709
-00:42:32,400 --> 00:42:35,200
-自利的工作 比如基金管理之类的
-self-serving, like become a hedge fund manager.
-
-710
-00:42:35,200 --> 00:42:39,210
-但现实情况是 人民需要帮助 特别是在这种非常时期
-The thing is, people need help, especially in times like these.
-
-711
-00:42:39,210 --> 00:42:41,010
-你品德真是高尚
-That's very noble of you.
-
-712
-00:42:41,010 --> 00:42:44,010
-你知道...
-You know...
-
-713
-00:42:44,010 --> 00:42:46,420
-我还有最后一个问题
-I just have one final question.
-
-714
-00:42:59,260 --> 00:43:01,960
-还没轮到他
-He hasn't had his turn yet.
-
-715
-00:43:01,960 --> 00:43:03,400
-库兰先生？
-Mr. Curran?
-
-716
-00:43:03,400 --> 00:43:05,170
-别忘了你的包
-Your bag.
-
-717
-00:43:09,170 --> 00:43:11,400
-- 等等 泰森 不 等等 泰森 - 嘿
-- Wait, Tyson, no. Wait, Tyson! - Hey!
-
-718
-00:43:11,410 --> 00:43:12,380
-我能帮你什么吗？
-Can I help you?
-
-719
-00:43:19,980 --> 00:43:21,650
-真心话还是大冒险？
-Truth or dare?
-
-720
-00:43:21,650 --> 00:43:24,450
-抱歉 能再说一次吗？
-I'm sorry, I beg your pardon?
-
-721
-00:43:24,450 --> 00:43:26,750
-真心话还是大冒险？
-Truth or dare?
-
-722
-00:43:26,760 --> 00:43:29,260
-真心话吧
-Truth, I guess.
-
-723
-00:43:29,260 --> 00:43:32,230
-我朋友让你这么做的吗？
-Did my friends really put you up to this?
-
-724
-00:43:32,230 --> 00:43:34,130
-你给别人开假药方多久了？
-How long have you been forging prescriptions?
-
-725
-00:43:34,130 --> 00:43:36,970
-我没开过
-I don't.
-
-726
-00:43:39,540 --> 00:43:41,440
-她真这么跟你说的吗？
-Did she actually tell you that?
-
-727
-00:43:41,440 --> 00:43:43,540
-- 什么？- 我没有开假药方
-- Excuse me? - I don't forge prescriptions.
-
-728
-00:43:43,540 --> 00:43:45,710
-你为什么这么问我？
-Why would you even ask me that?
-
-729
-00:43:48,080 --> 00:43:50,010
-嗯..
-Um...
-
-730
-00:43:50,010 --> 00:43:52,350
-- 泰森 泰森 泰森 快开门 - 嘿 嘿 - 嘿 泰森
-- Ty! Ty! Ty! Open the door! - Hey! Hey! - Hey, Tyson!
-
-731
-00:43:55,650 --> 00:43:57,390
-- 泰森 - 泰森 - 你没事吧？
-- Tyson! - Tyson! - Are you okay?
-
-732
-00:43:57,390 --> 00:43:59,090
-- 开门 - 泰森 - 泰森 嘿
-- Open the door! - Ty! - Ty! Hey!
-
-733
-00:43:59,090 --> 00:44:00,250
-你在干什么？
-What are you doing?
-
-734
-00:44:00,260 --> 00:44:03,360
-噢 噢 天啊
-Oh! Oh, my... Oh, my God!
-
-735
-00:44:03,360 --> 00:44:05,690
-噢 天啊
-Oh, my God!
-
-736
-00:44:05,700 --> 00:44:07,200
-天啊
-My God!
-
-737
-00:44:17,040 --> 00:44:19,640
-泰森撒谎了 所以他死了
-Tyson lied and then died because of it.
-
-738
-00:44:19,640 --> 00:44:23,210
-就像罗尼没有完成大冒险 所以死了
-Just like Ronnie did when he didn't do the dare.
-
-739
-00:44:23,210 --> 00:44:25,210
-下一个轮到我了
-Then my turn's next.
-
-740
-00:44:25,210 --> 00:44:27,420
-选真心话吧
-Yeah, pick truth.
-
-741
-00:44:27,420 --> 00:44:29,820
-听着 我们大家都选择真心话 明白吗？
-I mean, listen, we-we all should, right?
-
-742
-00:44:29,820 --> 00:44:31,450
-不管它问什么问题
-And then whatever question that we get asked,
-
-743
-00:44:31,450 --> 00:44:33,050
-咱们都百分之百真诚地回答
-we just answer it with a hundred percent honesty.
-
-744
-00:44:33,060 --> 00:44:34,620
-懂吗？这样才能活下去
-Okay? That's how we're gonna survive
-
-745
-00:44:34,620 --> 00:44:36,360
-直到最终我们破解了这个迷局
-till we figure this out.
-
-746
-00:44:38,330 --> 00:44:42,030
-都明白了吗？只选择真心话
-We got it? Only choose truth.
-
-747
-00:44:43,330 --> 00:44:45,130
-我还要些伏特加
-Need more vodka.
-
-748
-00:44:45,130 --> 00:44:47,570
-你得睡会儿
-You need sleep.
-
-749
-00:44:47,570 --> 00:44:50,400
-我扶她到床上去
-Okay, I'll put her in bed.
-
-750
-00:44:50,410 --> 00:44:52,210
-你们去找卡特
-You guys find Carter.
-
-751
-00:44:52,210 --> 00:44:55,180
-这游戏是他起头的 他可能知道该怎样结束
-He started all this. Maybe he can end it.
-
-752
-00:45:03,520 --> 00:45:05,090
-他说自己上的是南加利福尼亚大学
-He said that he went to USC.
-
-753
-00:45:07,660 --> 00:45:10,420
-搜出5个卡特 但没一个是咱们要找的
-Five Carters, none of them our guy.
-
-754
-00:45:10,430 --> 00:45:12,690
-也许USC指的不是南加利福尼亚大学
-Maybe he meant the other USC.
-
-755
-00:45:12,700 --> 00:45:15,230
-好了 她睡着了 你们找到卡特了吗？
-All right, she's asleep. Did you find Carter yet?
-
-756
-00:45:15,230 --> 00:45:18,230
-- 没有任何眉目 - 你们试过谷歌吗？
-- No. Dead end. - Did you try using Google?
-
-757
-00:45:19,670 --> 00:45:22,240
-搜索"墨西哥真心话还是大冒险"
-Search "Mexico truth or dare."
-
-758
-00:46:00,810 --> 00:46:02,580
-伙计们？
-Uh, guys?
-
-759
-00:46:07,220 --> 00:46:10,550
-"嫌疑人吉赛尔·哈蒙德 22岁 是一名美国大学生
-"Suspect Giselle Hammond, 22, an American college student,
-
-760
-00:46:10,550 --> 00:46:14,490
-"她在罗萨里托海滩度春假时失踪
-"had gone missing while on spring break in Rosarito Beach.
-
-761
-00:46:14,490 --> 00:46:18,560
-"店员讲述了哈蒙德在失踪前的奇怪举动
-"The clerk recounted Hammond's bizarre behavior before the incident,
-
-762
-00:46:18,560 --> 00:46:20,600
-这一切都被监控摄像头记录了下来"
-which is backed up with surveillance footage."
-
-763
-00:46:21,730 --> 00:46:23,530
-一包Morleys烟
-Pack of Morleys.
-
-764
-00:46:23,530 --> 00:46:25,830
-我不想再玩这游戏了
-I don't want to play anymore.
-
-765
-00:46:25,830 --> 00:46:27,740
-有现金吗？
-¿Va a ser cash o crédito?
-
-766
-00:46:28,840 --> 00:46:30,270
-大冒险
-Dare.
-
-767
-00:46:33,640 --> 00:46:35,240
-抱歉
-Perdón.
-
-768
-00:46:37,350 --> 00:46:39,350
-- 不要 - 抱歉 我别无选择
-- No! - I'm sorry, I don't have a choice.
-
-769
-00:46:39,350 --> 00:46:40,780
-天啊
-Holy shit.
-
-770
-00:46:43,820 --> 00:46:45,950
-- 抓到她了吗？- 呃
-- Did they catch her? - Uh...
-
-771
-00:46:45,960 --> 00:46:48,490
-还没有 这上面说他们还在搜捕中
-No, no, it says there's still an ongoing search.
-
-772
-00:46:50,860 --> 00:46:52,460
-我找到了她的脸书
-I just found her on Facebook.
-
-773
-00:47:00,370 --> 00:47:02,870
-- 天啊 是他 - 他被标记了吗？
-- Oh, my God, it's him. - Is he tagged?
-
-774
-00:47:02,870 --> 00:47:04,870
-没有 其他照片中并没有看到他
-No, I don't see him in any other photos.
-
-775
-00:47:04,870 --> 00:47:06,670
-看看留言板 也许他有发言
-Look at her wall. Maybe he posted.
-
-776
-00:47:06,680 --> 00:47:07,940
-我没看到
-Well, not that I see.
-
-777
-00:47:07,940 --> 00:47:09,810
-留言太多了
-But... there's a bunch of posts
-
-778
-00:47:09,810 --> 00:47:13,450
-都是让她去自首的
-about people asking her to turn herself in,stuff like that.
-
-779
-00:47:13,450 --> 00:47:15,450
-等等 你们觉得她会看这些留言吗？
-Wait, do you think she's checking this?
-
-780
-00:47:15,450 --> 00:47:17,980
-- 给她发消息 - 等等
-- DM her. - Wait.
-
-781
-00:47:17,990 --> 00:47:20,920
-先申请个小号
-Just, uh, make a fake account.
-
-782
-00:47:20,920 --> 00:47:24,290
-- 不能让她追踪到我们 - 没错
-- We don't want this shit traced to us. - Yeah.
-
-783
-00:47:26,830 --> 00:47:30,230
-这是我们第一次一块儿度假
-So, we're here on our first vacation together.
-
-784
-00:47:30,230 --> 00:47:31,870
-- 是第一次吗？- 第一次到海滩
-- Is it our first vacation together? Kinda? - The beach.
-
-785
-00:47:31,870 --> 00:47:36,540
-上次我们一起到德克萨斯去看望我父母过
-Um, I mean, there was that time you came and visited me and my family in Texas,
-
-786
-00:47:36,540 --> 00:47:38,500
-- 但是 - 你是德克萨斯人？
-- but... - You're from Texas?
-
-787
-00:47:38,510 --> 00:47:41,510
-我以为你是墨西哥人
-I thought you were from Mexico.
-
-788
-00:47:41,510 --> 00:47:43,510
-我不是墨西哥人
-I'm not from Mexico!
-
-789
-00:47:43,510 --> 00:47:45,250
-泰森
-Tyson!
-
-790
-00:47:52,750 --> 00:47:56,990
-我们也在玩那个游戏
-We're playing the game, too.
-
-791
-00:47:56,990 --> 00:47:59,790
-我们需要你的帮助
-We need your help.
-
-792
-00:47:59,790 --> 00:48:02,260
-- 请跟我见个面吧 - 这女人正在被通缉
-- Please meet me. - This woman is wanted for murder.
-
-793
-00:48:02,270 --> 00:48:06,700
-你真的认为她会因为一句"我们需要帮助"就现身吗？
-Do you really think she's gonna come out of hiding for "We need your help"?
-
-794
-00:48:08,740 --> 00:48:11,710
-我知道大冒险迫使你把那个女人点着了
-I know the game dared you to set that woman on fire.
-
-795
-00:48:13,010 --> 00:48:15,510
-告诉我到哪儿去见你
-Tell me where to meet you,
-
-796
-00:48:15,510 --> 00:48:17,750
-否则我会到你家门外等着
-or I'll wait outside your family's house
-
-797
-00:48:17,750 --> 00:48:20,750
-直到大冒险游戏让我把你家烧了
-until the game dares me to do the same to them.
-
-798
-00:48:20,750 --> 00:48:22,420
-玛姬 你不能这么写
-Markie, you cannot send that.
-
-799
-00:48:22,420 --> 00:48:25,020
-如果你想活命 就不要再管他人死活了
-If you want to live, you need to stop thinking
-
-800
-00:48:25,020 --> 00:48:28,260
-好好为你自己想一想吧
-about other people and start thinking about yourself.
-
-801
-00:48:51,710 --> 00:48:54,420
-真心话还是大冒险 美女？
-Truth or dare, beautiful?
-
-802
-00:48:56,620 --> 00:48:59,320
-什么？没有泰森在
-What? Hard to make a decision
-
-803
-00:48:59,320 --> 00:49:01,590
-你很难自己做出决定是吗？
-without Tyson telling you what to do?
-
-804
-00:49:01,590 --> 00:49:04,660
-去你妈的
-Screw you.
-
-805
-00:49:04,660 --> 00:49:06,060
-真心话
-Truth.
-
-806
-00:49:06,060 --> 00:49:07,930
-真心话还是大冒险？
-Truth or dare?
-
-807
-00:49:07,930 --> 00:49:09,800
-我说了 真心话
-I said truth.
-
-808
-00:49:09,800 --> 00:49:11,670
-抱歉
-Sorry.
-
-809
-00:49:11,670 --> 00:49:14,540
-游戏不是这样玩的
-That's not how this game works.
-
-810
-00:49:14,540 --> 00:49:17,640
-你这是什么意思？
-What the hell is that supposed to mean?
-
-811
-00:49:21,110 --> 00:49:23,340
-耐心点 她会回复的
-Be patient. She'll write back.
-
-812
-00:49:23,350 --> 00:49:24,880
-这一切都是我的错
-This is all my fault.
-
-813
-00:49:26,880 --> 00:49:28,820
-- 嘿 不 不是你的错 - 不 的确是她的错
-- Hey, no, it's not. - No, she's right.
-
-814
-00:49:30,920 --> 00:49:33,720
-我们都不想跟着那个怪胎走
-None of us wanted to follow that creep.
-
-815
-00:49:33,720 --> 00:49:35,990
-也都不想玩那个蠢游戏
-None of us wanted to play that stupid game.
-
-816
-00:49:35,990 --> 00:49:39,460
-我之所以去那儿旅行全是因为你
-The only reason I went on that trip was for you.
-
-817
-00:49:39,460 --> 00:49:42,760
-- 忘了吗？你说你需要最好的朋友一起去 - 好了 别说了
-- Remember? You said you needed your best friend. - All right, come on...
-
-818
-00:49:42,770 --> 00:49:44,600
-我还没说完 我现在知道了 这和友谊无关
-No, but now I realize it's not about friendship
-
-819
-00:49:44,600 --> 00:49:46,870
-也和那句"我会选择你"无关  你让我去就是想
-or "I choose you," it was about me being there
-
-820
-00:49:46,870 --> 00:49:48,870
-在你和陌生人乱搞的时候帮你打掩护
-to cover your ass while you hooked up with randoms!
-
-821
-00:49:48,870 --> 00:49:50,570
-嘿
-Hey.
-
-822
-00:49:53,680 --> 00:49:55,480
-去你娘的 奥利维亚
-Screw you, Olivia.
-
-823
-00:49:58,080 --> 00:50:00,450
-有必要这样吗？
-Was that necessary?
-
-824
-00:50:00,450 --> 00:50:02,480
-伙计们 快出来看看
-Guys. Come outside.
-
-825
-00:50:02,480 --> 00:50:04,020
-快
-Now!
-
-826
-00:50:04,020 --> 00:50:05,990
-不好
-Shit.
-
-827
-00:50:08,590 --> 00:50:10,590
-佩？你在干什么？
-Pen? What are you doing?
-
-828
-00:50:10,590 --> 00:50:13,030
-我试过了 它不让我选真心话
-I tried. It wouldn't let me pick truth.
-
-829
-00:50:13,030 --> 00:50:14,930
-我发誓 我试过了
-I tried, I swear!
-
-830
-00:50:16,970 --> 00:50:20,430
-我喝完这瓶酒之前 必须踩着边缘走
-I have to walk the edge until I finish this.
-
-831
-00:50:21,700 --> 00:50:23,540
-佩 你不会有事的
-Pen, you're gonna be fine.
-
-832
-00:50:26,610 --> 00:50:29,680
-慢着点 别急
-Okay, just go slow. Take your time.
-
-833
-00:50:29,680 --> 00:50:32,650
-- 当心点 - 我马上上去
-- Oh! - Be careful! - I'm gonna go up there.
-
-834
-00:50:32,650 --> 00:50:33,980
-她失去平衡的时候 我会努力抓住她
-I'll try and grab her if she loses her balance.
-
-835
-00:50:33,980 --> 00:50:36,750
-你手伤了 还是我去吧
-No, your hand's broken. I'll go.
-
-836
-00:50:36,750 --> 00:50:38,750
-佩 慢点走 明白吗？
-Pen, just walk slowly, okay?
-
-837
-00:50:38,750 --> 00:50:41,020
-嘿
-Hey!
-
-838
-00:50:41,020 --> 00:50:43,120
-千万别急 明白吗？慢慢走
-Just take your time, okay? Walk slowly.
-
-839
-00:50:43,120 --> 00:50:44,560
-不会有事的
-It's gonna be fine.
-
-840
-00:50:44,560 --> 00:50:45,660
-- 我们怎么办？- 小心点
-- What do we do? - Be careful.
-
-841
-00:50:45,660 --> 00:50:46,860
-不会有事的
-It's gonna be okay.
-
-842
-00:50:46,860 --> 00:50:49,600
-你会没事的
-You're gonna be okay.
-
-843
-00:50:49,600 --> 00:50:51,770
-我们得去拿个东西过来垫着 以防她摔下来
-We need to grab something in case she falls. Go inside.
-
-844
-00:50:51,770 --> 00:50:53,500
-- 我来清出一条道来 - 好 咱们走 快
-- I'm gonna clear a path. - All right, let's go, let's go,
-
-845
-00:50:53,500 --> 00:50:55,500
-快 快
-let's go, let's go!
-
-846
-00:51:04,510 --> 00:51:07,980
-佩 当心点
-Pen? Be careful.
-
-847
-00:51:07,980 --> 00:51:10,650
-- 你能行的 明白吗？- 嘿 这能行么？
-- You're good, okay? - Hey, will this work?
-
-848
-00:51:10,650 --> 00:51:13,120
-什么？可以 可以 快
-What? Yeah. Yeah. Come on.
-
-849
-00:51:13,120 --> 00:51:15,860
-放在她正下方
-Just get under her.
-
-850
-00:51:15,860 --> 00:51:18,020
-- 放在正下方跟着她 - 当心点 佩
-- Get under her and follow her. - Be careful, Pen.
-
-851
-00:51:18,030 --> 00:51:20,690
-- 噢 嘘...- 退后 退后 退后
-- Oh, sh... - Get back. Get back, get back.
-
-852
-00:51:20,700 --> 00:51:22,630
-别急
-No need to rush.
-
-853
-00:51:23,970 --> 00:51:26,570
-没事的 没事的 佩
-It's okay. It's okay, Pen.
-
-854
-00:51:26,570 --> 00:51:28,740
-慢慢来 慢慢来
-Just take your time. Take it slowly.
-
-855
-00:51:30,940 --> 00:51:33,810
-佩 把一只脚放在另一只脚的前面
-Pen, just put one foot in front of the other.
-
-856
-00:51:40,650 --> 00:51:42,680
-小心点 好吗？慢点走
-Watch it, okay? Just go slow.
-
-857
-00:51:42,680 --> 00:51:44,550
-你能做到
-You can do this.
-
-858
-00:51:44,550 --> 00:51:46,890
-我们都在这儿支持你 明白吗？
-We're right here. We're here for you, okay?
-
-859
-00:51:52,660 --> 00:51:54,760
-我看到她了 就在那儿
-I see her. She's right there.
-
-860
-00:51:54,760 --> 00:51:56,170
-快 快 快
-Go. Go. Go.
-
-861
-00:51:58,230 --> 00:52:01,270
-- 等等 她在转角处了 - 她在那儿
-- W-Wait, she's on the corner. - There she is.
-
-862
-00:52:03,210 --> 00:52:04,900
-把那东西挪开
-Get that stuff out of the way.
-
-863
-00:52:12,010 --> 00:52:14,920
-佩 佩
-Pen! Pen.
-
-864
-00:52:14,920 --> 00:52:17,250
-我来了 我来了
-I'm coming. I'm coming.
-
-865
-00:52:18,720 --> 00:52:20,720
-不 不 不 别靠太近
-No, no, no, don't get too close.
-
-866
-00:52:20,720 --> 00:52:22,990
-如果我半途而废 没有完成大冒险...
-If I, if I, if I cheat, if I don't do the dare...
-
-867
-00:52:22,990 --> 00:52:25,530
-我知道 我知道 好
-I know. I know. Okay?
-
-868
-00:52:25,530 --> 00:52:28,790
-等你喝完了 我会抓住你的
-But when you finish, I'll be here to grab you.
-
-869
-00:52:28,800 --> 00:52:30,670
-现在你得绕过这个转角 懂吗？
-Just got to go around this corner now, okay?
-
-870
-00:52:41,010 --> 00:52:42,780
-噢
-Oh.
-
-871
-00:52:44,810 --> 00:52:46,750
-快
-Come on.
-
-872
-00:52:48,280 --> 00:52:51,790
-慢着点
-Take your time, okay?
-
-873
-00:52:54,160 --> 00:52:56,590
-你做得很好 佩
-You're doing great, Pen.
-
-874
-00:52:56,590 --> 00:52:58,830
-- 别往下看 - 等等  停这儿 停在她下方
-- Don't look down. - Wait. Stay here. Stay below her.
-
-875
-00:52:58,830 --> 00:53:01,130
-等等 你到哪儿去？
-Okay. Wait, where are you going?
-
-876
-00:53:01,130 --> 00:53:03,160
-嘿 佩 别看栅栏
-Hey, Pen. Don't look at the fence.
-
-877
-00:53:03,160 --> 00:53:05,670
-看着我 好吗？你就要成功了
-Okay? Look at me. Okay? You're almost there.
-
-878
-00:53:05,670 --> 00:53:06,840
-还差一点点
-Just a little more.
-
-879
-00:53:19,250 --> 00:53:21,750
-她就在我们头上 扔到上面去
-She's right above us. Throw it on top.
-
-880
-00:53:21,750 --> 00:53:22,780
-- 你准备好了吗？- 好了
-- You ready? - Yeah.
-
-881
-00:53:25,920 --> 00:53:28,090
-这样不行
-That's not gonna work.
-
-882
-00:53:32,030 --> 00:53:34,360
-那样也许可行
-That might.
-
-883
-00:53:40,600 --> 00:53:42,040
-嘿 佩内洛普
-- Whoa! - Hey! Penelope!
-
-884
-00:53:42,040 --> 00:53:44,270
-妈的
-Shit.
-
-885
-00:53:47,940 --> 00:53:49,810
-伙计们 再往后退点
-Guys, get back further!
-
-886
-00:53:49,810 --> 00:53:51,380
-- 快 快 快 退后 - 退后
-- Go, go, go, move back. - Get back!
-
-887
-00:53:51,380 --> 00:53:53,180
-最后一小口
-One last sip.
-
-888
-00:54:06,330 --> 00:54:08,900
-不 不 佩 嘿 佩 不 不
-No, no, Pen! Hey, Pen! No! No!
-
-889
-00:54:11,400 --> 00:54:14,230
-- 佩？- 她没反应
-- Pen? - She's not moving.
-
-890
-00:54:14,240 --> 00:54:15,240
-佩？
-Pen?
-
-891
-00:54:23,710 --> 00:54:25,880
-这是我的床么？
-Is this my bed?
-
-892
-00:54:30,690 --> 00:54:32,290
-是
-Yeah.
-
-893
-00:54:32,290 --> 00:54:34,860
-你没事了
-You're okay.
-
-894
-00:54:37,960 --> 00:54:41,230
-我收到一条吉赛尔发来的回复
-I just got a Facebook message from Giselle.
-
-895
-00:54:56,040 --> 00:54:59,350
-来这地方见她真是个好主意吗？
-We're sure this is a good idea, meeting her here?
-
-896
-00:54:59,350 --> 00:55:00,750
-如果警察追踪了她的消息怎么办？
-What if the cops trace her message?
-
-897
-00:55:00,750 --> 00:55:02,150
-不可能 她用小号发给我们的
-No, she wrote us on a fake account.
-
-898
-00:55:02,150 --> 00:55:04,150
-没错 但这女的可是点火烧过人的
-Yeah, but that chick lit somebody on fire.
-
-899
-00:55:04,150 --> 00:55:06,020
-- 她也许是个疯子 - 我意思是
-- She's probably nuts. - I mean,
-
-900
-00:55:06,020 --> 00:55:07,390
-难道没有别的选择吗？
-do we really have another choice?
-
-901
-00:55:15,360 --> 00:55:17,730
-咱们到里面谈吧
-I mean, we can talk about this inside. Come on.
-
-902
-00:55:19,300 --> 00:55:21,240
-走
-Let's go.
-
-903
-00:55:23,340 --> 00:55:25,400
-里面？
-Inside?
-
-904
-00:55:25,410 --> 00:55:27,440
-好了 行了 这够里面了
-Uh-uh. Okay, all right, that's far enough.
-
-905
-00:55:27,440 --> 00:55:29,080
-你能说说到底是怎么回事吗？
-Can you tell us what's happening?
-
-906
-00:55:29,080 --> 00:55:31,340
-- 你们中谁是奥利维亚？- 不 你先回答我们的问题
-- Which one of you is Olivia? - No, you answer
-
-907
-00:55:31,350 --> 00:55:33,010
-第一：你怎么认识卡特的？
-our question first: How do you know Carter?
-
-908
-00:55:33,020 --> 00:55:34,350
-- 卡特？- 别想骗我们
-- Carter? - You know, cut the crap.
-
-909
-00:55:34,350 --> 00:55:35,310
-我们见过那张照片
-We saw the photo.
-
-910
-00:55:35,320 --> 00:55:37,850
-是他带我们进游戏的
-He's the one who brought us into this game.
-
-911
-00:55:37,850 --> 00:55:38,920
-哦 对 没错 我想起来了
-Uh, yeah, right, okay.
-
-912
-00:55:38,920 --> 00:55:41,350
-- 是叫卡特 没错 - 你也是被他带进游戏的吗？
-- Carter, right. - Did he bring you into this, too?
-
-913
-00:55:41,360 --> 00:55:43,220
-不 不是他起头的
-N-No, uh, he didn't, he didn't start this.
-
-914
-00:55:43,230 --> 00:55:44,460
-他只是我的一个朋友
-He was just one of my friends.
-
-915
-00:55:44,460 --> 00:55:47,930
-我们到墨西哥去游玩 喝得烂醉
-We-we all went on a trip to Mexico and got really wasted.
-
-916
-00:55:47,930 --> 00:55:51,000
-我们发现了一个老教堂 在里面开了个派对
-We-we found this old church, and we decided to party in it,
-
-917
-00:55:51,000 --> 00:55:53,170
-后来我室友提议玩真心话大冒险 大家就开始了
-and my roommate wanted to play Truth or Dare, so we did,
-
-918
-00:55:53,170 --> 00:55:55,400
-但是等我们回来之后 游戏却仍然在继续
-but when we got home, the game, it just, it kept going.
-
-919
-00:55:55,400 --> 00:55:57,170
-我室友第一个死的 然后其他人..
-My roommate died first, and then the other ones...
-
-920
-00:55:57,170 --> 00:56:00,110
-- 这怎么可能呢？- 我也想知道
-- How is this possible? - I wish I knew.
-
-921
-00:56:00,110 --> 00:56:02,040
-我想 这可能是
-You know, I thought this was some kind of, like,
-
-922
-00:56:02,040 --> 00:56:04,010
-萨姆破坏那地方招来的报应吧
-karmic payback for Sam trashing the place, you know?
-
-923
-00:56:04,010 --> 00:56:06,150
-- 萨姆？- 对 萨姆
-- Sam? - Uh, yeah, Sam.
-
-924
-00:56:06,150 --> 00:56:08,010
-他是我的一个朋友
-He-he was... one of my friends.
-
-925
-00:56:08,020 --> 00:56:10,180
-他当时喝得大醉 乱搞破坏
-He-he got really drunk, and he just started breaking stuff.
-
-926
-00:56:10,180 --> 00:56:12,820
-很难说得清楚 我们当时都像傻子一样
-I don't know, we were, we were all being idiots.
-
-927
-00:56:12,820 --> 00:56:14,890
-我们一个朋友 刚才轮到了她
-Our friend just had a turn in the game.
-
-928
-00:56:14,890 --> 00:56:17,360
-但她却没法选择真心话 你知道原因么？
-It wouldn't let her pick truth. Do you know why?
-
-929
-00:56:17,360 --> 00:56:18,790
-这是我们的玩法
-It's how we played.
-
-930
-00:56:18,790 --> 00:56:20,460
-两次真心话连着一次大冒险
-We called it two truths and a dare.
-
-931
-00:56:20,460 --> 00:56:22,460
-如果连续两人选择了真心话
-If... if two people picked truth in a row,
-
-932
-00:56:22,460 --> 00:56:24,430
-接下来的那一个就必须选择大冒险
-then the next person had to do a dare.
-
-933
-00:56:24,430 --> 00:56:26,470
-我们觉得这样会更有趣
-Thought it was more fun that way.
-
-934
-00:56:26,470 --> 00:56:30,270
-更有趣？你那个混蛋朋友给我们判了死刑
-More fun? Your asshole buddy gave us a death sentence.
-
-935
-00:56:30,270 --> 00:56:32,070
-还有什么更危险的规则瞒着我们吗？
-Any more super dangerous rules you want to tell us about?
-
-936
-00:56:32,070 --> 00:56:34,310
-冷静点 佩
-Easy, Pen.
-
-937
-00:56:34,310 --> 00:56:36,880
-他告诉我 大冒险游戏让他找一帮新人进来玩
-He-he told me he was dared to find a new group to play,
-
-938
-00:56:36,880 --> 00:56:38,480
-而且必须是在教堂
-and that it had to be at the mission.
-
-939
-00:56:38,480 --> 00:56:40,150
-他别无选择 你们知道吗？
-He didn't have a choice, you know?
-
-940
-00:56:40,150 --> 00:56:41,980
-他当然可以选择
-Of course he did.
-
-941
-00:56:41,980 --> 00:56:43,980
-好了 卡特现在在哪儿？
-Okay, so where is Carter now?
-
-942
-00:56:43,990 --> 00:56:45,890
-自从墨西哥回来后 我就没再和他联系过
-I haven't talked to him since he went back to Mexico.
-
-943
-00:56:45,890 --> 00:56:48,850
-我本以为他找到新的一群人加入游戏后
-I thought that when he got a new group to play
-
-944
-00:56:48,860 --> 00:56:52,220
-我们就可以退出了  没想到他只找到你们5个人
-that we-we would be out. I can't believe he only got five of you to play.
-
-945
-00:56:52,220 --> 00:56:53,190
-如果人再多点
-If he would've got more,
-
-946
-00:56:53,200 --> 00:56:56,160
-我就有更长的时间准备下一轮了
-then I would've had a longer time before I had to go again.
-
-947
-00:56:56,160 --> 00:56:58,430
-你还有一轮？
-You got another turn?
-
-948
-00:56:58,430 --> 00:57:00,470
-好了 该走了 伙计们
-Okay, it's time to go, guys.
-
-949
-00:57:00,470 --> 00:57:02,040
-这就是你对我们说真心话的原因？
-Is this why you're telling us the truth?
-
-950
-00:57:02,040 --> 00:57:05,240
-不 我...我选的是大冒险
-No, I, uh... I picked dare.
-
-951
-00:57:05,240 --> 00:57:07,070
-玛姬说得对 咱们离开这儿
-Markie's right. Let's get out of here.
-
-952
-00:57:07,080 --> 00:57:09,110
-咱们走 快 奥利维亚
-Okay, we're leaving. Come on, Olivia.
-
-953
-00:57:11,180 --> 00:57:13,880
-很抱歉 奥利维亚
-I am so sorry, Olivia.
-
-954
-00:57:13,880 --> 00:57:16,450
-我们一到这儿 你怎么就知道有一个叫奥利维亚的？
-How did you know my name when I got here?
-
-955
-00:57:16,450 --> 00:57:19,020
-我并没有在信息中透露我的名字
-I... I didn't put it in the message.
-
-956
-00:57:20,320 --> 00:57:21,820
-不 不
-No! No!
-
-957
-00:57:21,820 --> 00:57:24,190
-- 不 佩！- 佩！
-- No! Pen! - Pen!
-
-958
-00:57:24,190 --> 00:57:25,930
-不 不
-No! No!
-
-959
-00:57:29,230 --> 00:57:31,330
-- 压住她 - 我必须杀了奥利维亚
-- Hold her down! - I have to kill Olivia!
-
-960
-00:57:31,330 --> 00:57:33,300
-压住她
-Hold her down!
-
-961
-00:57:33,300 --> 00:57:35,240
-抓住枪
-Grab the gun.
-
-962
-00:57:37,340 --> 00:57:39,840
-别动
-Stop moving.
-
-963
-00:57:39,840 --> 00:57:41,510
-这是要干什么？
-What the...?
-
-964
-00:57:43,180 --> 00:57:45,110
-什么？不 不
-What? No! No!
-
-965
-00:57:45,110 --> 00:57:48,080
-不 不 不
-No! No! No!
-
-966
-00:57:49,980 --> 00:57:51,450
-妈的
-Oh, shit.
-
-967
-00:57:56,020 --> 00:57:58,960
-她是怎么想的？
-What was she thinking?
-
-968
-00:57:58,960 --> 00:58:01,190
-不是她的原因
-It wasn't her.
-
-969
-00:58:01,200 --> 00:58:03,200
-她的身体被某种东西控制了
-Something took over, like she was possessed.
-
-970
-00:58:03,200 --> 00:58:05,100
-她没有完成大冒险
-She didn't finish her dare.
-
-971
-00:58:05,100 --> 00:58:07,270
-就像罗尼那样
-Like Ronnie.
-
-972
-00:58:07,270 --> 00:58:09,540
-这就是原因
-This is what happens.
-
-973
-00:58:09,540 --> 00:58:11,470
-那我们怎么办？
-So what do we do?
-
-974
-00:58:14,080 --> 00:58:16,010
-我们说真心话
-We tell the truth.
-
-975
-00:58:26,490 --> 00:58:28,150
-她当时很奇怪
-She was erratic,
-
-976
-00:58:28,160 --> 00:58:29,560
-她说她必须杀了我
-said she had to kill me.
-
-977
-00:58:29,560 --> 00:58:31,560
-然后佩内洛普把我推开了
-Then Penelope pushed me out of the way,
-
-978
-00:58:31,560 --> 00:58:33,430
-她打中了她 然后开枪自杀
-she shot her and then turned the gun on herself.
-
-979
-00:58:33,430 --> 00:58:35,630
-你当时知不知道吉赛尔·哈蒙德是通缉犯？
-Were you aware that Giselle Hammond was wanted for murder?
-
-980
-00:58:35,630 --> 00:58:39,200
-知道 知道 但我们以为她认识
-Yes. Yeah, we thought that she knew someone
-
-981
-00:58:39,200 --> 00:58:41,470
-我们正在找的一个在墨西哥遇到的人
-that we were looking for, a guy that we met in Mexico.
-
-982
-00:58:41,470 --> 00:58:44,470
-- 他叫卡特 - 你不知道他姓什么？
-- His name was Carter. - You don't know his last name?
-
-983
-00:58:44,470 --> 00:58:46,240
-不知道
-No.
-
-984
-00:58:46,240 --> 00:58:49,980
-这些人里面有像他的吗？
-Any of these people look like him?
-
-985
-00:58:57,290 --> 00:58:59,320
-没有 他们是谁？
-No. Who are they?
-
-986
-00:58:59,320 --> 00:59:02,460
-吉赛尔·哈蒙德的五个朋友 全都已经死了
-Five of Giselle Hammond's friends... all deceased.
-
-987
-00:59:02,460 --> 00:59:06,160
-三个自杀 两个意外身亡 全都发生在三周内
-Three suicides, two accidental deaths, all in three weeks.
-
-988
-00:59:07,700 --> 00:59:10,400
-现在你已经失去了两个朋友
-And now you've lost two friends.
-
-989
-00:59:10,400 --> 00:59:13,400
-我不相信这是巧合 奥利维亚
-I don't believe in coincidences, Olivia.
-
-990
-00:59:13,400 --> 00:59:15,070
-所有这些都应该是相关联的
-I think this is all connected.
-
-991
-00:59:15,070 --> 00:59:17,140
-如果你知道原因 一定要告诉我
-If you know how, you need to tell me.
-
-992
-00:59:17,140 --> 00:59:19,310
-我不知道 我保证
-No, I promise.
-
-993
-00:59:19,310 --> 00:59:21,940
-如果我知道 我一定会说的
-If I did know, I would.
-
-994
-00:59:21,940 --> 00:59:24,250
-希望如此
-I hope so.
-
-995
-00:59:30,450 --> 00:59:32,320
-我们保持联系
-We'll be in touch.
-
-996
-00:59:32,320 --> 00:59:35,420
-不要再去旅行
-Don't take any more vacations.
-
-997
-00:59:38,060 --> 00:59:39,990
-事情进展不利
-That did not go well.
-
-998
-00:59:40,000 --> 00:59:43,260
-我们把所知道的都告诉他们了
-We told them the truth as much as we could.
-
-999
-00:59:43,270 --> 00:59:45,100
-伙计们 我们不能指望警察解决这问题
-Guys, the cops should be the least of our concerns.
-
-1000
-00:59:45,100 --> 00:59:48,640
-我意思是 佩内洛普死了 吉赛尔什么忙也没帮到
-I mean, Penelope's dead and Giselle gave us nothing.
-
-1001
-00:59:48,640 --> 00:59:51,640
-她说了新的一轮游戏必须从教堂开始
-She did say a new game had to start at the mission.
-
-1002
-00:59:51,640 --> 00:59:53,640
-因此那地方才是关键所在
-That place has to be the key.
-
-1003
-00:59:53,640 --> 00:59:56,580
-布莱德
-Brad.
-
-1004
-00:59:56,580 --> 00:59:58,750
-我待会儿再来找你们
-Catch up with you guys later.
-
-1005
-00:59:58,750 --> 01:00:00,280
-- 不 咱们最好别分开 - 没事的
-- No, we shouldn't split up. - No, it's okay.
-
-1006
-01:00:00,280 --> 01:00:01,550
-没那么快轮到我
-My turn's not for a while.
-
-1007
-01:00:01,550 --> 01:00:06,120
-我先说服我爸 你们去找那个教堂
-I'll deal with my father; you deal with finding the mission.
-
-1008
-01:00:06,120 --> 01:00:08,060
-快
-Come on.
-
-1009
-01:00:12,260 --> 01:00:13,660
-教堂是在1896年建成的
-I think it was built in 1896.
-
-1010
-01:00:15,160 --> 01:00:17,330
-这大大缩小了搜索范围
-Yeah, that really narrows it down.
-
-1011
-01:00:17,330 --> 01:00:19,530
-这只是个开头
-It's a start.
-
-1012
-01:00:19,530 --> 01:00:22,070
-噢 不好 我得去拿充电器
-Oh, shit. I got to grab my charger.
-
-1013
-01:00:22,070 --> 01:00:24,010
-你把包落在我房间里了
-Uh, I think you left your bag in my room.
-
-1014
-01:00:56,070 --> 01:00:57,300
-- 噢 天啊 - 什么？
-- Oh, my God. - What?
-
-1015
-01:00:57,310 --> 01:00:59,680
-看看这个
-Check this out.
-
-1016
-01:01:02,310 --> 01:01:06,110
-这上面说 几周后 那里发生了一次屠杀
-It says there was a massacre a few weeks later.
-
-1017
-01:01:06,110 --> 01:01:10,320
-只有一个生还者 她叫伊内兹·雷耶斯 当时19岁
-Only one survivor, lives in the area, Inez Reyes, 19.
-
-1018
-01:01:50,790 --> 01:01:55,400
-真心话还是大冒险？
-Truth or dare?
-
-1019
-01:02:05,170 --> 01:02:08,740
-她在哪儿？利维
-Where is she? Liv!
-
-1020
-01:02:08,740 --> 01:02:10,410
-- 嘿 嘿 - 奥利维亚
-- Hey! Hey! - - Olivia.
-
-1021
-01:02:10,410 --> 01:02:12,480
-- 你没事吧？- 我这是在哪儿？
-- Are you okay? - Where am I?
-
-1022
-01:02:12,480 --> 01:02:14,350
-- 我在哪儿？- 你他妈在搞什么？
-- Where am I?! - What the hell are you...?
-
-1023
-01:02:14,350 --> 01:02:16,280
-你是谁...嘿 嘿 嘿
-Who the... Hey, hey, hey!
-
-1024
-01:02:16,280 --> 01:02:17,650
-嘿
-Hey!
-
-1025
-01:02:17,650 --> 01:02:19,650
-你没事吧？
-Are you okay?
-
-1026
-01:02:19,650 --> 01:02:21,520
-刚才轮到你了是吗？
-Was that your turn?
-
-1027
-01:02:21,520 --> 01:02:23,490
-嘿 嘿 回来
-Hey, hey, come back!
-
-1028
-01:02:23,490 --> 01:02:25,330
-回来
-Come back!
-
-1029
-01:02:29,130 --> 01:02:32,460
-奥利维亚 他说什么了？
-Olivia, what did he say?
-
-1030
-01:02:36,240 --> 01:02:38,840
-他让我去和卢卡斯睡一觉
-He dared me to sleep with Lucas.
-
-1031
-01:02:41,140 --> 01:02:43,280
-你为什么选择大冒险？
-Why would you pick dare?
-
-1032
-01:02:43,280 --> 01:02:45,280
-因为吉赛尔说过
-Because of what Giselle said.
-
-1033
-01:02:45,280 --> 01:02:46,780
-如果我选了真心话
-I-If I picked truth,
-
-1034
-01:02:46,780 --> 01:02:49,750
-那接下来的某人就得选择大冒险
-I was just forcing someone else to pick dare.
-
-1035
-01:02:53,290 --> 01:02:55,390
-你真高尚！
-How noble.
-
-1036
-01:02:57,390 --> 01:03:00,230
-玛姬 我事前并不知道它会要求怎么做
-Markie, I didn't know that's what it would ask.
-
-1037
-01:03:00,230 --> 01:03:02,790
-我想刚那人并不清楚自己怎么会在那屋里的
-I don't think he knew where he was.
-
-1038
-01:03:02,800 --> 01:03:04,630
-- 你们还好吗？- 当然 好极了
-- Are you guys okay? - Yeah, I'm perfect.
-
-1039
-01:03:04,630 --> 01:03:06,330
-嘿 嘿 你要去哪儿？
-Well, hey, hey. Where are you going?
-
-1040
-01:03:06,330 --> 01:03:08,670
-- 除了这里 哪儿都可以 - 这是怎么了？
-- Anywhere but here. - What is going on?
-
-1041
-01:03:08,670 --> 01:03:11,310
-你为什么不问问奥利维亚？
-Why don't you ask Olivia?
-
-1042
-01:03:17,180 --> 01:03:21,150
-能告诉我发生了什么事吗？
-Will you please tell me what the hell is going on?
-
-1043
-01:03:26,790 --> 01:03:28,790
-刚轮到我了
-I got my turn.
-
-1044
-01:03:28,790 --> 01:03:30,490
-然后呢？
-Yeah, and?
-
-1045
-01:03:39,200 --> 01:03:42,200
-噢 嘿 不 我们要干什么？
-Mm, oh, hey, no. Wh-What are we doing?
-
-1046
-01:03:46,240 --> 01:03:48,770
-这就是大冒险的要求
-Oh, this is the dare.
-
-1047
-01:03:48,780 --> 01:03:50,680
-抱歉
-I'm sorry.
-
-1048
-01:03:50,680 --> 01:03:52,610
-你为什么不选真心话？
-Why didn't you pick truth?
-
-1049
-01:03:52,610 --> 01:03:55,620
-我对玛姬说 我选了大冒险 你们以后就可以不选
-I told Markie it was so that you guys wouldn't have to,
-
-1050
-01:03:55,620 --> 01:03:57,780
-但这不是我的真实想法
-but that was a lie.
-
-1051
-01:03:57,790 --> 01:03:59,620
-我选择大冒险 是因为
-I chose dare because there is something
-
-1052
-01:03:59,620 --> 01:04:01,250
-有些事我永远不能让玛姬知道
-that I can never tell Markie,
-
-1053
-01:04:01,260 --> 01:04:03,720
-我很担心这个游戏会迫使我说出来
-and I'm really afraid the game's gonna make me do it.
-
-1054
-01:04:03,730 --> 01:04:04,890
-没那么糟的
-It can't be that bad.
-
-1055
-01:04:07,430 --> 01:04:09,330
-你不明白
-You have no idea.
-
-1056
-01:04:21,610 --> 01:04:23,680
-什么？
-What?
-
-1057
-01:04:25,380 --> 01:04:27,450
-你要和我做这事儿是因为大冒险逼得
-No, you are just doing this because of the dare,
-
-1058
-01:04:27,450 --> 01:04:28,750
-你不得不做
-because you have to.
-
-1059
-01:04:28,750 --> 01:04:31,650
-不对 是你不得不做
-No, you have to.
-
-1060
-01:04:31,650 --> 01:04:33,320
-我没必要
-I don't.
-
-1061
-01:05:08,790 --> 01:05:10,730
-看着我
-Look at me.
-
-1062
-01:05:14,560 --> 01:05:15,900
-真心话还是大冒险？
-Truth or dare?
-
-1063
-01:05:18,030 --> 01:05:21,030
-真心话还是大冒险？
-Truth or dare?
-
-1064
-01:05:21,040 --> 01:05:22,770
-真心话
-Tr-Truth!
-
-1065
-01:05:22,770 --> 01:05:25,040
-你真正爱的是谁？
-Who are you truly in love with?
-
-1066
-01:05:31,450 --> 01:05:34,480
-我在乎你 真的在乎
-I care about you. I do.
-
-1067
-01:05:36,450 --> 01:05:38,890
-但我爱玛姬
-I'm in love with Markie.
-
-1068
-01:05:42,890 --> 01:05:45,590
-利维 抱歉 刚才是游戏中所言
-Liv, I'm sorry. It was the game.
-
-1069
-01:05:45,590 --> 01:05:48,700
-不 你说的是真心话
-No, it was the truth.
-
-1070
-01:06:16,460 --> 01:06:18,760
-罗伊·卡梅伦 45岁
-Roy Cameron, 45 years old,
-
-1071
-01:06:18,760 --> 01:06:20,660
-现在想做晚餐
-attempts to make dinner.
-
-1072
-01:06:20,660 --> 01:06:22,430
-看一看
-Take one.
-
-1073
-01:06:22,430 --> 01:06:24,530
-对我有点信心吧
-Whoa, a little faith, please.
-
-1074
-01:06:24,530 --> 01:06:26,600
-没人像你老爸这样做牛排的
-Nobody makes a steak like your old man.
-
-1075
-01:06:26,600 --> 01:06:28,970
-等等 爸 我现在很悲观
-Wait, Dad, I'm pescatarian now.
-
-1076
-01:06:28,970 --> 01:06:31,770
-我知道 亲爱的
-I know, honey.
-
-1077
-01:06:35,680 --> 01:06:37,380
-爸？
-Dad?
-
-1078
-01:06:37,380 --> 01:06:39,750
-我很想你
-I miss you so much.
-
-1079
-01:06:42,650 --> 01:06:44,650
-我也想你
-I miss you, too.
-
-1080
-01:06:44,650 --> 01:06:47,990
-我一直很想问你件事
-There's something that I've been dying to ask you.
-
-1081
-01:06:51,860 --> 01:06:54,760
-不
-No.
-
-1082
-01:06:54,760 --> 01:06:57,160
-她不接电话
-She's not answering.
-
-1083
-01:06:57,160 --> 01:06:58,630
-等等 过来 看这儿
-Wait. Come here. Look at this.
-
-1084
-01:06:58,630 --> 01:07:00,570
-没有号码 但她住在蒂华纳
-There's no number, but she lives in Tijuana.
-
-1085
-01:07:00,570 --> 01:07:01,900
-离这儿不到3小时车程
-That's less than three hours away.
-
-1086
-01:07:01,900 --> 01:07:03,770
-她是谁？
-Who is she?
-
-1087
-01:07:03,770 --> 01:07:05,770
-她也许可以帮到我们
-She's someone who might be able to help us.
-
-1088
-01:07:05,770 --> 01:07:07,440
-快
-Come on.
-
-1089
-01:07:13,710 --> 01:07:16,980
-快 宝贝
-Come on, sweetheart.
-
-1090
-01:07:16,980 --> 01:07:19,420
-是时候做出选择了
-Time to pick.
-
-1091
-01:07:19,420 --> 01:07:21,950
-真心话
-Truth.
-
-1092
-01:07:21,960 --> 01:07:25,560
-那把我用来自杀的枪...
-The gun I used to kill myself...
-
-1093
-01:07:25,560 --> 01:07:27,490
-你为什么还保留着？
-why do you keep it?
-
-1094
-01:07:27,500 --> 01:07:30,900
-因为有时候 我也想要使用它
-Sometimes I think about using it.
-
-1095
-01:07:30,900 --> 01:07:33,000
-也许你该去把它拿来
-Maybe you should get it.
-
-1096
-01:07:40,070 --> 01:07:42,040
-我担心玛姬
-I'm worried about Markie.
-
-1097
-01:07:42,040 --> 01:07:44,810
-我希望在离开之前找到她
-I wish we would have found her before we left.
-
-1098
-01:07:44,810 --> 01:07:47,510
-可她现在不想和我说话
-Yeah, well, she doesn't want to speak to me right now,
-
-1099
-01:07:47,520 --> 01:07:50,450
-我们什么也做不了
-so there's nothing we can do.
-
-1100
-01:07:52,490 --> 01:07:54,850
-你有个不想让她知道的那个秘密对吗？
-You know that secret that you're keeping from her?
-
-1101
-01:07:54,860 --> 01:07:56,560
-你不如干脆把它说出来
-Maybe if you got it out,
-
-1102
-01:07:56,560 --> 01:07:58,690
-- 这样那游戏就不能用它来威胁你了 - 不行
-- the game couldn't use it against you. - No.
-
-1103
-01:07:58,690 --> 01:08:00,590
-谁也不准知道那个秘密
-No one can ever know.
-
-1104
-01:08:00,600 --> 01:08:03,660
-特别是玛姬 知道后她可能会受不了的
-Especially not Markie. It would kill her.
-
-1105
-01:08:03,660 --> 01:08:06,900
-到目的地后 我再打一次电话给她
-I'll try her again when we get there.
-
-1106
-01:08:49,280 --> 01:08:51,210
-有什么事吗？
-- Um... - Can I help you?
-
-1107
-01:08:51,210 --> 01:08:53,910
-打扰了 我们是来找伊内兹·雷耶斯的
-S-Sorry. Um, we're looking for Inez Reyes.
-
-1108
-01:08:53,920 --> 01:08:55,980
-她是我奶奶 我负责照看她
-She's my grandmother. I watch after her.
-
-1109
-01:08:55,980 --> 01:08:58,150
-我们能和她聊会儿么
-We were just wondering if we could speak to her.
-
-1110
-01:08:58,150 --> 01:09:00,520
-她和谁都不说话
-She speaks to no one.
-
-1111
-01:09:00,520 --> 01:09:02,590
-不 求求你
-No. Please!
-
-1112
-01:09:02,590 --> 01:09:04,590
-我的朋友们正在一个个死去 她也有过这种经历
-Our friends are dying just like hers did.
-
-1113
-01:09:04,590 --> 01:09:06,200
-所以我们想从她那儿得到些帮助
-We-we just need a few words.
-
-1114
-01:09:09,800 --> 01:09:11,800
-我去问问她
-I will ask.
-
-1115
-01:09:11,800 --> 01:09:15,870
-可以的话 你把这个给她
-And if you could... show her this.
-
-1116
-01:09:15,870 --> 01:09:18,600
-告诉她 我们曾到这个教堂去过
-Show her that we were at this mission
-
-1117
-01:09:18,610 --> 01:09:21,870
-而这张照片里的一半人已经死了
-and that half the people in this photo are now dead.
-
-1118
-01:09:21,880 --> 01:09:23,640
-这样也许她会答应和我们聊聊
-Then maybe she'll talk to us.
-
-1119
-01:09:25,750 --> 01:09:29,280
-她可能会见你们 但她不会开口的
-She might see you, but she will not speak to you.
-
-1120
-01:09:29,280 --> 01:09:32,080
-她已经50年没说过话了
-She has not said a word in 50 years.
-
-1121
-01:09:32,090 --> 01:09:34,560
-稍等
-Wait here.
-
-1122
-01:09:37,660 --> 01:09:41,190
-她一定发过誓要永远保持沉默 对吗？
-She must have taken a vow of silence, right?
-
-1123
-01:09:41,200 --> 01:09:43,030
-她朋友们死的时候 她才19岁
-She was 19 when her friends were butchered.
-
-1124
-01:09:43,030 --> 01:09:46,230
-- 想想看对她的伤害有多大 - 不用想都知道
-- Imagine what that did to her. - I don't have to.
-
-1125
-01:10:06,920 --> 01:10:08,860
-已经过去一小时了
-It's been over an hour.
-
-1126
-01:10:11,160 --> 01:10:13,160
-对于一个不说话的人来说
-Yeah, for someone who doesn't speak,
-
-1127
-01:10:13,160 --> 01:10:16,360
-这么久时间她们一定聊了很多
-they seem to be doing a lot of talking.
-
-1128
-01:10:16,360 --> 01:10:18,670
-她答应见你们了
-She will see you.
-
-1129
-01:10:21,740 --> 01:10:23,840
-抱歉久等了
-I'm sorry for the wait.
-
-1130
-01:10:23,840 --> 01:10:26,270
-她写了些东西给你们
-She has written something for you.
-
-1131
-01:10:26,270 --> 01:10:29,040
-是什么？
-What is it?
-
-1132
-01:10:29,040 --> 01:10:31,840
-她不准我看
-She would not let me read it.
-
-1133
-01:10:38,150 --> 01:10:41,560
-谢谢你愿意见我们 雷耶斯女士
-Thank you for seeing us, Miss Reyes.
-
-1134
-01:10:58,740 --> 01:11:00,670
-"那座教堂是个女修道院
-"The mission was a convent
-
-1135
-01:11:00,670 --> 01:11:02,270
-"年轻女人到那儿去聆听上帝教诲
-"where young women went to find God.
-
-1136
-01:11:02,280 --> 01:11:06,850
-"因为我们当时都很年轻 所以玩起了捉迷藏
-"We were girls, so we played silly games like Hide and Seek.
-
-1137
-01:11:06,850 --> 01:11:08,850
-"但那座修道院的神父
-"But the priest who ran the convent
-
-1138
-01:11:08,850 --> 01:11:10,980
-"强迫我们玩他发明的游戏
-"forced us to play his own game.
-
-1139
-01:11:10,980 --> 01:11:13,820
-"他让我们都藏起来 然后惩罚那个被他找到的
-"He let us hide, but then he took the one he found.
-
-1140
-01:11:13,820 --> 01:11:16,360
-"他的快乐建立在我们的痛苦上
-"His pleasure was our pain.
-
-1141
-01:11:17,660 --> 01:11:19,820
-"我们只能默默忍受
-"We suffered in silence.
-
-1142
-01:11:19,830 --> 01:11:21,260
-"后来 我们当中有个女孩说出了一个秘密
-"Then one of the girls told a secret.
-
-1143
-01:11:21,260 --> 01:11:24,230
-"她通晓咒语 可以召唤恶魔
-"She knew spells that could call spirits,
-
-1144
-01:11:24,230 --> 01:11:27,370
-"所以她召来一个叫加勒克斯的恶魔
-"so she summoned a demon named Calux.
-
-1145
-01:11:27,370 --> 01:11:29,140
-从那以后 他支配了我们的游戏"
-He possessed our game."
-
-1146
-01:11:29,140 --> 01:11:30,710
-支配了那个游戏？
-Possessed the game?
-
-1147
-01:11:42,720 --> 01:11:46,820
-"恶魔支配人体 支配地方
-"Demons possess people, places,
-
-1148
-01:11:46,820 --> 01:11:49,120
-支配物体 甚至支配思想"
-objects, even ideas."
-
-1149
-01:11:52,790 --> 01:11:54,230
-"加勒克斯是个骗子
-"Calux is a trickster.
-
-1150
-01:11:54,230 --> 01:11:56,290
-"那天晚上 当神父找到一个女孩后
-"That night, when the priest found his victim,
-
-1151
-01:11:56,300 --> 01:11:58,460
-"恶魔早已经侵入并控制了那女孩
-"she was possessed by Calux.
-
-1152
-01:11:58,470 --> 01:12:03,070
-"她把神父碎尸后藏在了教堂里...
-"She hid the priest's body in the mission...in pieces.
-
-1153
-01:12:03,070 --> 01:12:05,940
-"她们花了一个星期才找到他的头
-"It took them a week to find his head.
-
-1154
-01:12:08,380 --> 01:12:11,110
-"但加勒克斯并不想就此罢手
-"But Calux didn't want to stop.
-
-1155
-01:12:11,110 --> 01:12:13,080
-"他让我们继续玩那个游戏
-"He made us keep playing.
-
-1156
-01:12:13,080 --> 01:12:14,980
-许多姐妹都因此丧命"
-Many of my sisters died."
-
-1157
-01:12:17,090 --> 01:12:19,660
-那你和其他人是怎么逃脱的呢？
-Wait, how did you and the others escape?
-
-1158
-01:12:33,730 --> 01:12:36,470
-"那个把恶魔召来的人
-"The person who released the demon
-
-1159
-01:12:36,470 --> 01:12:38,340
-"用一套简单的仪式就可降服他
-"can trap it with a simple ritual,
-
-1160
-01:12:38,340 --> 01:12:40,380
-"但必须是那人亲自动手"
-but only by his own hand."
-
-1161
-01:12:44,880 --> 01:12:48,210
-这就是那道咒语？西班牙语写的
-Uh, this is the spell? Uh, it's in Spanish.
-
-1162
-01:12:48,220 --> 01:12:50,980
-"必须重复七次咒语
-"The spell must be repeated seven times
-
-1163
-01:12:50,980 --> 01:12:54,360
-"再把祭祀品放在一个罐子里 用蜡封紧
-"and a sacrifice must be placed in a pot sealed with wax.
-
-1164
-01:13:01,760 --> 01:13:04,960
-"只要罐子密封着 放在教堂里
-"As long as the pot stays sealed in the mission,
-
-1165
-01:13:04,970 --> 01:13:09,940
-通往阳间的门就对加勒克斯关闭着"
-the door we opened for Calux will also be sealed."
-
-1166
-01:13:12,040 --> 01:13:14,480
-等等 我见过那个罐子
-Wait, I've seen that pot before.
-
-1167
-01:13:18,480 --> 01:13:20,280
-你看
-Yeah. Look.
-
-1168
-01:13:20,280 --> 01:13:22,280
-但我看到它的时候 已经破了
-But when I saw it, it was broken
-
-1169
-01:13:22,280 --> 01:13:25,050
-里面有东西 但已经腐烂了
-and there was something inside it and it smelled rotten.
-
-1170
-01:13:47,510 --> 01:13:51,110
-"谁打破的罐子 谁同样必须那么做"
-"Whoever broke the pot will have to do the same."
-
-1171
-01:13:51,110 --> 01:13:53,350
-祭祀品到底是什么？
-What was it? The sacrifice.
-
-1172
-01:14:04,890 --> 01:14:07,330
-是你把恶魔召来的？
-It was you who summoned the demon?
-
-1173
-01:14:32,120 --> 01:14:35,050
-这是老西班牙语
-It's been a few years since AP Spanish,
-
-1174
-01:14:35,060 --> 01:14:38,460
-我想大概意思是 "是我召来了恶魔
-but I think it says, "I have called upon an evil.
-
-1175
-01:14:38,460 --> 01:14:42,560
-我愿以沉默为代价 让恶魔永远消失"
-Silence my voice, so the evil is no more."
-
-1176
-01:14:42,560 --> 01:14:45,130
-所以卡特和他朋友们把教堂里那个罐子打破后
-So when Carter and his friends broke the pot at the mission...
-
-1177
-01:14:45,130 --> 01:14:46,070
-恶魔就被释放了
-The demon was freed
-
-1178
-01:14:46,070 --> 01:14:47,600
-进而支配了他们的真心话大冒险游戏
-and possessed their game of Truth or Dare.
-
-1179
-01:14:47,600 --> 01:14:49,600
-我们必须找到打破罐子的那人
-And we have to find whoever broke that pot.
-
-1180
-01:14:49,600 --> 01:14:51,970
-吉赛尔说过是一个叫萨姆的人破坏了教堂
-But Giselle said somebody named Sam trashed the place.
-
-1181
-01:14:51,970 --> 01:14:54,240
-但我们根本不知道萨姆是谁
-And we have no idea who Sam is.
-
-1182
-01:14:54,240 --> 01:14:57,480
-- 也不知道他还活着与否 - 就算我们真的找到了他...
-- Or if he's even still alive. - And if we do find him...
-
-1183
-01:14:57,480 --> 01:14:59,040
-然后怎么办？对他说
-What?
-
-1184
-01:14:59,050 --> 01:15:01,280
-"你好 萨姆 你介意把自己的舌头割下来
-"Hi, Sam. Do you mind cutting out your tongue
-
-1185
-01:15:01,280 --> 01:15:04,150
-放到这个可爱的罐子里封紧吗？
-and sealing it in this lovely handmade pot?"
-
-1186
-01:15:05,890 --> 01:15:07,320
-我再看看吉赛尔的脸书
-I'll check Giselle's Facebook again,
-
-1187
-01:15:07,320 --> 01:15:09,060
-看看有没有标记萨姆的照片
-see if there's a Sam tagged.
-
-1188
-01:15:10,290 --> 01:15:11,560
-还没有玛姬的消息吗？
-Still nothing from Markie?
-
-1189
-01:15:11,560 --> 01:15:14,390
-她没有回复我发的任何一条短信
-She's ignoring all my texts.
-
-1190
-01:15:14,390 --> 01:15:15,660
-接下来就该轮到她了
-Her turn's next.
-
-1191
-01:15:15,660 --> 01:15:17,360
-我再给她打一次电话
-I'm gonna try calling her again.
-
-1192
-01:15:19,570 --> 01:15:22,130
-布莱德？布莱德
-Brad? Brad!
-
-1193
-01:15:22,140 --> 01:15:24,000
-我是你爸
-It's your father.
-
-1194
-01:15:24,010 --> 01:15:27,370
-自从佩内洛普的事发生后 他一直...
-Since Penelope, he's been...
-
-1195
-01:15:27,380 --> 01:15:28,610
-我去打发他走
-I'll get rid of him.
-
-1196
-01:15:35,920 --> 01:15:37,850
-咱们外面聊
-Let's talk outside.
-
-1197
-01:15:47,190 --> 01:15:48,690
-我去拿杯咖啡
-I'm gonna grab coffee.
-
-1198
-01:15:50,060 --> 01:15:52,100
-我听到些传闻
-Look, uh, I'm hearing some things
-
-1199
-01:15:52,100 --> 01:15:54,100
-关于你朋友的凶杀案的
-about your, uh, friend's murder.
-
-1200
-01:15:54,100 --> 01:15:57,270
-刑事科克拉维斯觉得事情没那么简单
-Kranis in Homicide isn't convinced it's so simple.
-
-1201
-01:15:57,270 --> 01:16:01,240
-我知道我没必要问这些 但
-I know I don't need to ask this, but...
-
-1202
-01:16:01,240 --> 01:16:03,240
-你是不是还有什么秘密瞒着我？
-is there something you're not telling us?
-
-1203
-01:16:03,240 --> 01:16:04,640
-没有 我保证
-No, I-I promise.
-
-1204
-01:16:04,640 --> 01:16:06,410
-我们跟你说的都是真的
-Everything we told you was true.
-
-1205
-01:16:09,720 --> 01:16:12,450
-玛姬 谢天谢地
-Markie, thank God.
-
-1206
-01:16:12,450 --> 01:16:13,990
-你为什么要跟我说这些？
-Why are you telling me all this?
-
-1207
-01:16:13,990 --> 01:16:15,390
-因为我知道克拉维斯是错的
-'Cause I know Kranis is wrong,
-
-1208
-01:16:15,390 --> 01:16:17,320
-我也希望你知道事情真相
-and I want you to know what's going on.
-
-1209
-01:16:17,330 --> 01:16:18,560
-听着 你不必担心
-Look, you don't have to worry.
-
-1210
-01:16:18,560 --> 01:16:21,130
-我不会让你有事的
-I'm not gonna let anything happen to you.
-
-1211
-01:16:22,400 --> 01:16:24,500
-你始终是我儿子 布莱德
-You're still my son, Brad.
-
-1212
-01:16:31,370 --> 01:16:34,470
-- 你不回话吗？- 回什么话？
-- You gonna get that? - Get what?
-
-1213
-01:16:34,470 --> 01:16:37,980
-真心话还是大冒险 布莱德？
-Truth or dare, Brad?
-
-1214
-01:16:37,980 --> 01:16:39,710
-我需要些时间独处
-Yeah, I guess I just needed some time alone.
-
-1215
-01:16:39,710 --> 01:16:41,050
-不 不 不 没事的
-No, no, no. It's-it's fine.
-
-1216
-01:16:41,050 --> 01:16:42,450
-你必须尽可能快地赶过来
-Just get here as fast as you can.
-
-1217
-01:16:42,450 --> 01:16:44,450
-千万要小心 下一个就轮到你了
-And please be careful. Your turn's next.
-
-1218
-01:16:44,450 --> 01:16:47,320
-我已经轮到了 我选择了真心话
-I had my turn. I chose truth.
-
-1219
-01:16:47,320 --> 01:16:49,390
-卢卡斯也选的真心话
-So did Lucas.
-
-1220
-01:16:49,390 --> 01:16:52,360
-如果你俩都选了真心话
-And if the both of you picked truth...
-
-1221
-01:16:52,360 --> 01:16:54,360
-你只有一个选择
-You only have one choice.
-
-1222
-01:16:54,360 --> 01:16:56,030
-你确定没有什么要对我说吗？
-You sure there's nothing you need to tell me?
-
-1223
-01:16:56,030 --> 01:16:58,730
-你去偷他的枪
-I dare you to steal his gun
-
-1224
-01:16:58,730 --> 01:17:01,730
-让他求你饶命
-and make him beg for his life.
-
-1225
-01:17:01,740 --> 01:17:03,370
-儿子？
-Son?
-
-1226
-01:17:03,370 --> 01:17:07,710
-谢谢你做的一切 爸爸
-Thank you, Dad, for everything.
-
-1227
-01:17:07,710 --> 01:17:11,340
-但我还有件事要做
-It's just, uh, there's just one more thing I need to do,
-
-1228
-01:17:11,340 --> 01:17:13,210
-我希望你过后能原谅我
-and I hope you can forgive me.
-
-1229
-01:17:13,210 --> 01:17:16,210
-当然 当然 没问题
-Yeah. Yeah, yeah. Of course.
-
-1230
-01:17:16,220 --> 01:17:17,720
-原谅什么？
-For what?
-
-1231
-01:17:23,790 --> 01:17:26,060
-没事的
-It's okay.
-
-1232
-01:17:29,060 --> 01:17:31,460
-你得求我饶你一命
-I need you to beg. For your life.
-
-1233
-01:17:31,470 --> 01:17:33,600
-- 你这是干什么？- 求我饶你一命
-- The hell are you doing? - Beg for your life!
-
-1234
-01:17:33,600 --> 01:17:35,770
-布莱德 快放下枪
-Brad, please, put the gun down!
-
-1235
-01:17:35,770 --> 01:17:37,770
-- 快按我说的做 不然我就死定了 - 你没必要这么做
-- Just do as I say or I'll die. - You don't have to do this!
-
-1236
-01:17:37,770 --> 01:17:40,340
-- 跪下 - 我们得马上赶过去
-- Get on your knees. - We have to go. Now!
-
-1237
-01:17:40,340 --> 01:17:42,210
-先按我说的做 过后我再解释 明白吗？
-Do as I say. I'll explain everything, okay?
-
-1238
-01:17:42,210 --> 01:17:43,440
-- 我知道我平时对你过于严厉 - 听着 不
-- I know I've been hard on you. - Listen. No!
-
-1239
-01:17:43,440 --> 01:17:44,440
-- 我很抱歉 - 不是这样
-- And I'm sorry. - No.
-
-1240
-01:17:44,450 --> 01:17:45,580
-这都不是原因
-That's not what this is about.
-
-1241
-01:17:51,350 --> 01:17:53,450
-求你了 快求我饶命 过后我再跟你解释
-Beg! Please. I'll explain everything.
-
-1242
-01:17:53,450 --> 01:17:55,220
-- 快求我 - 你觉得我是咎由自取
-- Just beg. - I guess you think I deserve this.
-
-1243
-01:17:55,220 --> 01:17:56,750
-不是 不是
-No. No.
-
-1244
-01:17:56,760 --> 01:17:58,430
-求我 求我 求我就行了
-Just, just, just, just beg!
-
-1245
-01:18:03,100 --> 01:18:05,200
-求求你 快求我 然后我就会放下枪
-Please! Just beg and I'll put down the gun.
-
-1246
-01:18:05,200 --> 01:18:06,630
-- 那样有什么意义 布莱德？- 求我就是了
-- What's that gonna prove, Brad? - Just beg,
-
-1247
-01:18:06,630 --> 01:18:09,100
-我会放下枪的 求我
-and I'll put down the gun! Beg!
-
-1248
-01:18:12,370 --> 01:18:14,140
-不 不 不 不
-No, no, no, no!
-
-1249
-01:18:14,140 --> 01:18:16,510
-- 不 不 - 布莱德
-- No! No! - Brad!
-
-1250
-01:18:16,510 --> 01:18:18,610
-布莱德 不 不 不 不
-Brad! No, no, no! No!
-
-1251
-01:18:18,610 --> 01:18:19,780
-不 不
-No! No!
-
-1252
-01:18:19,780 --> 01:18:21,580
-快叫急救员来
-Get a paramedic!
-
-1253
-01:18:22,580 --> 01:18:24,380
-快啊
-Come on.
-
-1254
-01:18:24,380 --> 01:18:25,750
-布莱德 布莱德 不要 不要 不要
-Brad, Brad! No, no, no.
-
-1255
-01:18:25,750 --> 01:18:27,550
-坚持住 你会没事的
-Stay here. You're gonna be fine.
-
-1256
-01:18:27,550 --> 01:18:29,660
-不 不
-No! No!
-
-1257
-01:18:29,660 --> 01:18:31,760
-快叫急救员来 救救我儿子
-I need a paramedic! Help!
-
-1258
-01:18:33,090 --> 01:18:35,460
-快叫急救员来 布莱德
-I need a paramedic! Brad!
-
-1259
-01:18:40,840 --> 01:18:42,770
-我很抱歉
-I'm so sorry.
-
-1260
-01:18:51,750 --> 01:18:54,680
-伙计们 我们能走了吗？
-Guys, can we get out of here?
-
-1261
-01:18:54,680 --> 01:18:56,820
-我还得和警官谈谈
-I still need to talk to the detective.
-
-1262
-01:18:56,820 --> 01:18:58,580
-我不应该选真心话的
-I shouldn't have picked truth.
-
-1263
-01:18:58,590 --> 01:19:00,250
-不 这不是你的错
-No, it's not your fault.
-
-1264
-01:19:00,250 --> 01:19:02,390
-我也选了真心话
-I picked truth, too.
-
-1265
-01:19:02,390 --> 01:19:04,590
-我们不该和布莱德分开的
-We shouldn't have left Brad alone.
-
-1266
-01:19:04,590 --> 01:19:06,730
-不 这不是关键点
-No, it wouldn't have mattered.
-
-1267
-01:19:06,730 --> 01:19:08,560
-这游戏太狡诈
-This game is smart. It's too smart.
-
-1268
-01:19:08,560 --> 01:19:10,560
-不是我们在玩游戏 是它在玩我们
-We're not playing it; it's playing us.
-
-1269
-01:19:10,560 --> 01:19:12,400
-我们的遭遇都不是偶然的
-And none of this is a coincidence.
-
-1270
-01:19:12,400 --> 01:19:14,200
-它总是在等待我们最脆弱的时候
-It waits for our most vulnerable moments,
-
-1271
-01:19:14,200 --> 01:19:16,530
-突然向我们发问
-and that's when it asks us.
-
-1272
-01:19:16,540 --> 01:19:19,440
-没错 你说得对 奥利维亚
-Yeah, you got that right, Olivia.
-
-1273
-01:19:19,440 --> 01:19:21,380
-现在轮到你了
-And now it's your turn.
-
-1274
-01:19:22,640 --> 01:19:25,210
-真心话还是大冒险？
-Truth or dare?
-
-1275
-01:19:27,880 --> 01:19:30,280
-什么？
-What?
-
-1276
-01:19:30,280 --> 01:19:31,650
-怎么了？
-What is it?
-
-1277
-01:19:33,590 --> 01:19:35,850
-卢卡斯刚问我了
-Lucas just asked me.
-
-1278
-01:19:35,860 --> 01:19:37,620
-不 我没有
-No, I didn't.
-
-1279
-01:19:37,630 --> 01:19:38,760
-真心话还是大冒险 奥利维亚？
-Truth or dare, Olivia?
-
-1280
-01:19:40,390 --> 01:19:43,660
-好吧 你得选择真心话
-O-Okay. Okay, you have to pick truth.
-
-1281
-01:19:43,660 --> 01:19:46,200
-奥利维亚 快
-Olivia, do it.
-
-1282
-01:19:46,200 --> 01:19:47,630
-- 大冒险 - 奥利维亚
-- Dare. - Olivia!
-
-1283
-01:19:47,630 --> 01:19:50,740
-你必须...
-I dare you...
-
-1284
-01:19:50,740 --> 01:19:53,310
-告诉玛姬你最害怕说出口的秘密
-to tell Markie the secret you fear most.
-
-1285
-01:19:55,780 --> 01:19:58,480
-什么？它让你做什么？
-What? Wh-What is it making you do?
-
-1286
-01:20:01,580 --> 01:20:04,490
-玛姬 我有件重要的事得告诉你
-Markie, there's something important I need to tell you.
-
-1287
-01:20:09,390 --> 01:20:11,190
-是什么？
-What?
-
-1288
-01:20:13,890 --> 01:20:16,530
-你爸死的那晚 我也在场
-I was there the night your dad died.
-
-1289
-01:20:16,530 --> 01:20:19,600
-我知道发生了什么
-I know what happened.
-
-1290
-01:20:19,600 --> 01:20:21,470
-什么？
-What?
-
-1291
-01:20:21,470 --> 01:20:23,700
-你在说什么？
-What are you talking about?
-
-1292
-01:20:23,700 --> 01:20:26,410
-那天我和父母吵了一架
-I had gotten into a fight with my parents,
-
-1293
-01:20:26,410 --> 01:20:28,770
-所以就跑到你家去了
-so I went to your house.
-
-1294
-01:20:28,780 --> 01:20:32,380
-你不在家 你爸招待了我
-You weren't there, so your dad let me in.
-
-1295
-01:20:32,380 --> 01:20:35,980
-他当时在喝酒 请我一起喝
-He... he was drinking, and he offered me one,
-
-1296
-01:20:35,980 --> 01:20:37,620
-我就喝了
-so I took it.
-
-1297
-01:20:37,620 --> 01:20:39,690
-我们喝了少许之后 他对我说
-We had a few, and then he told me
-
-1298
-01:20:39,690 --> 01:20:41,920
-那天他被解雇了 因为
-that he had been fired that day, 'cause he was,
-
-1299
-01:20:41,920 --> 01:20:44,560
-他在上班的时候喝酒 听了之后
-he was drinking on the job, and I just,
-
-1300
-01:20:44,560 --> 01:20:47,230
-我也替他感到难受
-I felt really bad for him.
-
-1301
-01:20:47,230 --> 01:20:50,230
-我告诉他 你和我
-But I told him that you and I
-
-1302
-01:20:50,230 --> 01:20:52,300
-会帮他度过难关的
-would help him figure things out.
-
-1303
-01:20:57,570 --> 01:20:59,640
-然后她夸我很漂亮
-And then he called me beautiful.
-
-1304
-01:20:59,640 --> 01:21:03,740
-我当时也喝的醉醺醺的 手足无措
-And... I was drunk, and I didn't know what to do,
-
-1305
-01:21:03,740 --> 01:21:05,810
-他又开始靠近来亲我
-and then he leaned in to kiss me,
-
-1306
-01:21:05,810 --> 01:21:07,310
-我试图推开他
-and I-I tried to push him off.
-
-1307
-01:21:07,310 --> 01:21:08,810
-没有成功 他开始...
-I didn't do it, but he...
-
-1308
-01:21:08,820 --> 01:21:11,420
-不断加强攻势
-he kept coming back stronger.
-
-1309
-01:21:11,420 --> 01:21:14,520
-不过最后 我还是摆脱了他
-But finally, I-I got free.
-
-1310
-01:21:18,860 --> 01:21:21,460
-他乞求我原谅他
-He begged me to forgive him,
-
-1311
-01:21:21,460 --> 01:21:23,660
-他说他需要帮助 但因为当时我很害怕
-said that he needed help, but I was so scared,
-
-1312
-01:21:23,660 --> 01:21:25,660
-脑子也很乱
-and I was confused,
-
-1313
-01:21:25,670 --> 01:21:27,670
-我威胁他要把这事告诉你
-and I threatened to tell you what happened,
-
-1314
-01:21:27,670 --> 01:21:29,770
-他说 如果你知道了 他就不活了
-but he said that he would die if you ever found out.
-
-1315
-01:21:33,470 --> 01:21:36,840
-我对他说 你死了会感觉更好受的
-I-I told him that you'd be better off if he were dead.
-
-1316
-01:21:39,510 --> 01:21:42,450
-玛姬 真的对不起
-Markie, I am so sorry.
-
-1317
-01:21:42,450 --> 01:21:46,280
-我当时想告诉你 但当我联系上你时
-I wanted to tell you, but by the time I got ahold of you,
-
-1318
-01:21:46,290 --> 01:21:48,820
-他已经自杀了 你知道后几乎奔溃
-he had already done it, and you were devastated.
-
-1319
-01:21:48,820 --> 01:21:51,060
-我的心也碎了 我当时不知道该怎么办
-It broke my heart. I didn't know what to do.
-
-1320
-01:21:51,060 --> 01:21:53,060
-- 相信我 我... 不
-- Trust me, I.. - No.
-
-1321
-01:21:53,060 --> 01:21:54,760
-我再也不会相信你了
-No, I'll never trust you again.
-
-1322
-01:21:54,760 --> 01:21:57,700
-- 玛姬...- 不要
-- Markie... - Don't!
-
-1323
-01:21:57,700 --> 01:21:59,400
-不要
-Don't.
-
-1324
-01:22:00,800 --> 01:22:02,970
-巴伦小姐
-Miss Barron.
-
-1325
-01:22:02,970 --> 01:22:04,740
-到你了
-You're up.
-
-1326
-01:22:04,740 --> 01:22:07,710
-"我知道那游戏
-"I know the game
-
-1327
-01:22:07,710 --> 01:22:09,810
-"让你去把那个女人点着
-"dared you to set that woman on fire.
-
-1328
-01:22:09,810 --> 01:22:11,640
-"告诉我在哪儿可以见到你
-"Tell me where to meet you,
-
-1329
-01:22:11,640 --> 01:22:13,650
-"否则我就到你家门外等着
-"or I'll wait outside your family's house
-
-1330
-01:22:13,650 --> 01:22:16,850
-直到大冒险游戏让我把你家烧了"
-until the game dares me to do the same to them."
-
-1331
-01:22:16,850 --> 01:22:19,920
-这可是个大威胁啊
-That is... quite a threat.
-
-1332
-01:22:19,920 --> 01:22:22,450
-我们通过IP地址追踪到了你笔记本
-We traced the I.P. to your laptop.
-
-1333
-01:22:22,460 --> 01:22:24,460
-我知道这些话
-I-I know that that...
-
-1334
-01:22:24,460 --> 01:22:26,420
-听起来很吓人 但我...
-looks bad, but I...
-
-1335
-01:22:26,430 --> 01:22:28,430
-我只是想吸引她的注意
-I just needed to get her attention.
-
-1336
-01:22:28,430 --> 01:22:29,990
-我知道你们在玩什么
-Yeah, I know you're playing some kind
-
-1337
-01:22:30,000 --> 01:22:31,860
-真心话大冒险的游戏 但我搞不懂的是
-of Truth or Dare game, but what I don't understand is:
-
-1338
-01:22:31,870 --> 01:22:33,000
-为什么会弄出人命？
-why are people dying?
-
-1339
-01:22:33,000 --> 01:22:34,830
-现在只剩下你们四个人了
-There's only four of you left.
-
-1340
-01:22:34,840 --> 01:22:38,070
-- 我希望能保住你们四个的命 - 四个？
-- I'd like to keep the rest of you guys alive. - Four?
-
-1341
-01:22:38,070 --> 01:22:39,700
-死的这些人都去过墨西哥
-Everyone who's dead was in Mexico.
-
-1342
-01:22:39,710 --> 01:22:41,610
-只剩下你 玛姬和卢卡斯
-That leaves you, Markie and Lucas,
-
-1343
-01:22:41,610 --> 01:22:43,310
-还有吉赛尔的朋友 萨姆·米汉
-and Giselle's friend, Sam Meehan.
-
-1344
-01:22:44,710 --> 01:22:46,510
-萨姆？
-Sam?
-
-1345
-01:22:46,510 --> 01:22:48,480
-等等 他还活着？
-Wait, he's alive?
-
-1346
-01:22:48,480 --> 01:22:49,950
-你认识他？
-You know him?
-
-1347
-01:22:54,520 --> 01:22:56,420
-不认识
-No.
-
-1348
-01:22:56,420 --> 01:22:59,520
-只是听吉赛尔提到过他
-No, that-that's just someone that Giselle had mentioned.
-
-1349
-01:22:59,530 --> 01:23:01,530
-他在一个公寓里藏着
-Ah. He's holed up in an apartment.
-
-1350
-01:23:01,530 --> 01:23:03,830
-拒绝和任何人说话 如果我想再找他聊聊
-Won't talk to anybody. Said I had to arrest him
-
-1351
-01:23:03,830 --> 01:23:05,930
-得先逮捕他才行
-if I wanted to speak to him again.
-
-1352
-01:23:05,930 --> 01:23:08,670
-奥利维亚 到底发生了什么事？
-Olivia, what the hell is happening here?
-
-1353
-01:23:08,670 --> 01:23:10,900
-我能喝点水吗？
-Could I get some water, please?
-
-1354
-01:23:12,540 --> 01:23:14,470
-谢谢
-Thanks.
-
-1355
-01:23:19,810 --> 01:23:21,750
-马库斯 我需要一杯水
-Marcus, I'm gonna need a glass of water.
-
-1356
-01:23:21,750 --> 01:23:23,480
-是 长官 马上就来
-Yes, sir, right away.
-
-1357
-01:23:27,420 --> 01:23:29,120
-我被起诉了吗？
-Am I being charged?
-
-1358
-01:23:29,120 --> 01:23:31,460
-还没有
-Not yet.
-
-1359
-01:23:31,460 --> 01:23:33,730
-这就好 那我先走了
-Okay, then I need to go.
-
-1360
-01:24:24,210 --> 01:24:25,910
-卡特就是萨姆
-Carter is Sam.
-
-1361
-01:24:25,910 --> 01:24:27,950
-他用的是假名
-He was using a fake name.
-
-1362
-01:24:27,950 --> 01:24:29,980
-那吉赛尔是故意把他们说成是两个人？
-But Giselle acted like they were different people?
-
-1363
-01:24:29,980 --> 01:24:32,050
-她可能是想保护他
-Well, she was probably trying to protect him,
-
-1364
-01:24:32,050 --> 01:24:35,150
-但不小心说出了真名 快
-but she slipped up and she used his real name. Come on.
-
-1365
-01:25:19,930 --> 01:25:22,670
-玛姬？ 玛姬！
-Markie? Markie!
-
-1366
-01:25:26,010 --> 01:25:27,640
-玛姬？
-Markie?
-
-1367
-01:25:33,710 --> 01:25:36,150
-玛姬 快开门 我们得谈谈
-Markie, please open the door. We need to talk.
-
-1368
-01:25:42,120 --> 01:25:44,690
-你在干什么？
-What are you doing?
-
-1369
-01:25:44,690 --> 01:25:46,790
-做我父亲做过的事
-What my father did.
-
-1370
-01:25:46,790 --> 01:25:49,230
-玛姬 把枪放下
-Markie, please put it down.
-
-1371
-01:25:49,230 --> 01:25:52,030
-为什么？
-Why?
-
-1372
-01:25:52,030 --> 01:25:53,800
-我一无所有
-I don't have anything.
-
-1373
-01:25:53,800 --> 01:25:56,030
-你还有我
-You have me.
-
-1374
-01:25:56,040 --> 01:25:59,040
-不
-No.
-
-1375
-01:25:59,040 --> 01:26:01,540
-现在我们都是那个游戏的傀儡
-Now the game has us.
-
-1376
-01:26:01,540 --> 01:26:05,240
-我隐瞒你父亲的真相 是不想伤害你
-I hid the truth about your dad to protect you.
-
-1377
-01:26:05,250 --> 01:26:08,250
-但我错了
-But I was wrong.
-
-1378
-01:26:08,250 --> 01:26:10,080
-每一个日日夜夜
-Every single day,
-
-1379
-01:26:10,080 --> 01:26:12,750
-我都真心地希望 能收回我对他说过的那些话
-I wish I could take back what I said to him.
-
-1380
-01:26:14,820 --> 01:26:17,060
-他以前也试图自杀过
-And he tried before.
-
-1381
-01:26:19,260 --> 01:26:23,060
-这不是你的错
-It's not your fault.
-
-1382
-01:26:25,060 --> 01:26:28,900
-过去我们无法改变
-We can't change the past.
-
-1383
-01:26:28,900 --> 01:26:30,900
-但我们可以把握未来
-But we can still have a future.
-
-1384
-01:26:30,900 --> 01:26:32,900
-我们有办法结束这个游戏
-We can end this game.
-
-1385
-01:26:32,910 --> 01:26:35,070
-什么办法？
-How?
-
-1386
-01:26:35,080 --> 01:26:37,510
-那个卡特..我知道他在哪儿
-Carter... I know where he is.
-
-1387
-01:26:54,230 --> 01:26:55,890
-好了 说说具体计划
-Okay, so what's the plan?
-
-1388
-01:26:55,900 --> 01:26:58,830
-- 我们得把他带回那个教堂 - 嗯
-- We just have to get him back to the mission. - Okay.
-
-1389
-01:26:58,830 --> 01:27:02,070
-所以 不要先告诉他"你得割下自己的舌头"
-So don't open with "We need you to cut out your own tongue"?
-
-1390
-01:27:02,070 --> 01:27:05,870
-到了 6号
-Here it is. Six.
-
-1391
-01:27:05,870 --> 01:27:09,040
-滚开 我不想和任何人说话
-Go away! I don't want to talk to anyone!
-
-1392
-01:27:09,040 --> 01:27:10,980
-踹开
-Screw this.
-
-1393
-01:27:12,180 --> 01:27:13,380
-- 等等 等等 等等 - 卡特
-- Wait, wait, wait! - Carter!
-
-1394
-01:27:13,380 --> 01:27:15,050
-或者应该叫你萨姆？
-Or is it Sam?
-
-1395
-01:27:15,050 --> 01:27:17,110
-- 你们怎么找到我的？- 我们找你是有目的的
-- How did you find me? - We were motivated.
-
-1396
-01:27:17,120 --> 01:27:19,150
-- 这里面怎么空荡荡的？- 都是那个游戏害的
-- What the hell happened in here? - The game.
-
-1397
-01:27:19,150 --> 01:27:22,820
-不和外界联系 这里没什么能伤害到我
-No contact with the outside. Nothing in here can hurt me.
-
-1398
-01:27:22,820 --> 01:27:26,220
-- 这就是你的计划？ - 我的计划是耐心等待
-- This is your plan? - My plan is to wait it out.
-
-1399
-01:27:26,230 --> 01:27:27,730
-不 那是你的第二计划
-No, that was your second plan.
-
-1400
-01:27:27,730 --> 01:27:29,190
-你的第一计划是毁了我们
-Your first plan was to screw us.
-
-1401
-01:27:29,200 --> 01:27:32,760
-就因为你 我三个最好的朋友都死了
-Three of my best friends are dead because of you!
-
-1402
-01:27:32,770 --> 01:27:35,070
-抱歉 但我也有朋友死了 懂吗？
-I'm sorry. I lost friends, too, okay?
-
-1403
-01:27:35,070 --> 01:27:37,140
-如果能挽回这一切 我什么都愿意做
-If I could take it all back, I would.
-
-1404
-01:27:37,140 --> 01:27:38,640
-现在有个办法
-There is a way.
-
-1405
-01:27:38,640 --> 01:27:41,040
-前提是我们都得回到那个教堂去
-But we all have to go back to the mission.
-
-1406
-01:27:41,040 --> 01:27:43,210
-什么办法？结束游戏的办法吗？该怎么做？
-A way to what? To what, end the game? How?
-
-1407
-01:27:43,210 --> 01:27:46,950
-相信我 咱们必须先回那儿去
-Just... trust me. We have to go back.
-
-1408
-01:27:50,020 --> 01:27:53,250
-啊 不 这又是一次大冒险 对吗？
-Uh-uh. No, this is another dare, right?
-
-1409
-01:27:53,250 --> 01:27:56,050
-- 那游戏让你们骗我出去是吗？ - 不是
-- The game's daring you to lure me out? Is that... - No.
-
-1410
-01:27:56,060 --> 01:27:58,390
-她说的都是真的
-She's telling the truth.
-
-1411
-01:27:58,390 --> 01:28:00,730
-我为什么要相信你们？
-And why should I trust you?
-
-1412
-01:28:00,730 --> 01:28:02,890
-因为我们的目标相同
-Because we want the same thing.
-
-1413
-01:28:02,900 --> 01:28:04,300
-我们都想活命
-We want to survive.
-
-1414
-01:28:06,330 --> 01:28:08,330
-听着
-Look...
-
-1415
-01:28:08,340 --> 01:28:11,270
-我现在要对你说那句 你当初在酒吧应该对我说的
-I'm gonna tell you what you should've told me at the bar.
-
-1416
-01:28:11,270 --> 01:28:13,140
-滚开
-Piss off.
-
-1417
-01:28:20,150 --> 01:28:23,080
-可爱的小奥利维亚是不会对任何人开枪的
-Okay, sweet little Olivia's not shooting anyone.
-
-1418
-01:28:23,080 --> 01:28:26,250
-你试试看我敢不敢
-Try me. I dare you.
-
-1419
-01:28:34,230 --> 01:28:36,130
-- 快 我们走 - 我走着呢
-- Come on, let's go. - I am moving.
-
-1420
-01:28:36,130 --> 01:28:39,060
-穿过去
-Right through here.
-
-1421
-01:28:39,070 --> 01:28:41,000
-走
-Go.
-
-1422
-01:28:54,410 --> 01:28:56,880
-那个老修女教你的这个仪式
-Is this ritual that old nun told you about
-
-1423
-01:28:56,880 --> 01:28:58,280
-真的管用么？
-actually gonna work?
-
-1424
-01:28:58,290 --> 01:29:00,660
-只有试一试才知道
-There's only one way to find out.
-
-1425
-01:29:09,060 --> 01:29:12,230
-所以要我们用一个驱魔仪式来结束这个游戏么？
-So we're gonna end this with a séance?
-
-1426
-01:29:12,230 --> 01:29:15,000
-不是要我们 是要你来结束它
-We are not ending it. You are.
-
-1427
-01:29:15,000 --> 01:29:17,440
-我？我试过了
-Me? I tried.
-
-1428
-01:29:17,440 --> 01:29:19,810
-我们都知道结果会是什么
-We all know how that turned out.
-
-1429
-01:29:24,310 --> 01:29:26,450
-跪下
-Stay down.
-
-1430
-01:29:28,050 --> 01:29:30,520
-给 拿着 拿着
-Here. Take this. Take it!
-
-1431
-01:29:30,520 --> 01:29:32,350
-念七遍
-Say it seven times.
-
-1432
-01:29:38,060 --> 01:29:40,290
-你要怎么处理它？
-What are you gonna do with that?
-
-1433
-01:29:40,290 --> 01:29:43,160
-我把它交给你
-I'm giving it to you.
-
-1434
-01:29:44,260 --> 01:29:46,360
-拿着 快
-Take it. Now!
-
-1435
-01:29:46,370 --> 01:29:49,400
-把上面写的念七遍
-Now say the words seven times.
-
-1436
-01:29:49,400 --> 01:29:50,800
-快
-Go!
-
-1437
-01:29:52,040 --> 01:29:54,370
-"是我召唤了恶魔..."
-"Hermaro almas..."
-
-1438
-01:29:59,150 --> 01:30:01,850
-- 你们感觉到了吗？- 别停下
-- Did you feel that? - Don't stop.
-
-1439
-01:30:01,850 --> 01:30:04,210
-- 告诉我发生了什么事 - 继续念
-- Just-just tell me what's going on! - Keep going!
-
-1440
-01:30:04,220 --> 01:30:07,150
-好...
-All right...
-
-1441
-01:30:07,150 --> 01:30:10,090
-"我愿以永远的沉默为代价 让恶魔永远消失"
-"...silencia mi voz para que el mal no sea más.
-
-1442
-01:30:12,290 --> 01:30:14,490
-再念一次
-Say it again.
-
-1443
-01:30:14,490 --> 01:30:15,690
-"是我召唤了恶魔...
-"Hermaro almas,
-
-1444
-01:30:15,700 --> 01:30:19,130
-我愿以沉默为代价 让恶魔永远消失"
-silencia mi voz para que el mal no sea más."
-
-1445
-01:30:22,570 --> 01:30:24,400
-再念五遍
-Five more times.
-
-1446
-01:30:24,400 --> 01:30:26,300
-"是我召唤了恶魔 我愿以沉默为代价
-"Hermaro almas, silencia mi voz
-
-1447
-01:30:26,310 --> 01:30:28,210
-让恶魔永远消失"
-para que el mal no sea más."
-
-1448
-01:30:30,310 --> 01:30:32,310
-真心话还是大冒险 卢卡斯？
-Truth or dare, Lucas?
-
-1449
-01:30:36,520 --> 01:30:39,120
-大冒险
-Dare.
-
-1450
-01:30:41,350 --> 01:30:43,820
-"是我召唤了恶魔 我愿以沉默为代价
-"Hermaro almas, silencia mi voz
-
-1451
-01:30:43,820 --> 01:30:45,820
-让恶魔永远消失"
-mi voz para que el mal no..."
-
-1452
-01:30:45,830 --> 01:30:48,130
-- 你上哪儿去？- 我得离开这儿
-- Where are you going? - Just got to get away from here.
-
-1453
-01:30:48,130 --> 01:30:50,200
-等等 等等 等等 你不能离开
-Wait, wait, wait. You can't go.
-
-1454
-01:30:50,200 --> 01:30:51,560
-下一个就轮到你了
-Your turn's next.
-
-1455
-01:30:51,560 --> 01:30:54,330
-我刚被问到了
-I just had my turn.
-
-1456
-01:30:54,330 --> 01:30:56,870
-- 我得离开你们两个 - 为什么？
-- Got to get away from you both. - Why?
-
-1457
-01:30:56,870 --> 01:30:58,570
-因为它让我做出选择..
-Because it dared me to choose.
-
-1458
-01:30:58,570 --> 01:31:00,040
-你已经做出选择了 你爱的是玛姬
-You already have. You love Markie.
-
-1459
-01:31:00,040 --> 01:31:02,010
-它让我选择你们其中一个杀掉
-Choose which one of you to kill.
-
-1460
-01:31:07,350 --> 01:31:08,450
-卢卡斯
-Luke.
-
-1461
-01:31:08,450 --> 01:31:10,450
-什么 他要离开？
-What, so he's just leaving?!
-
-1462
-01:31:10,450 --> 01:31:12,180
-别停下 还有两遍
-Don't stop. Two more times.
-
-1463
-01:31:12,180 --> 01:31:13,620
-"是我召唤了恶魔
-"Hermaro almas,
-
-1464
-01:31:13,620 --> 01:31:16,420
-我愿以沉默为代价 让恶魔永远消失"
-silencia mi voz para que el mal no sea más."
-
-1465
-01:31:16,420 --> 01:31:17,890
-卢卡斯？
-Luke?
-
-1466
-01:31:17,890 --> 01:31:20,560
-卢卡斯？你为什么选大冒险？
-Luke? Why did you pick dare?
-
-1467
-01:31:20,560 --> 01:31:23,190
-因为我不选 你们其中之一就得选
-Because I knew if I didn't, then one of you would have to.
-
-1468
-01:31:23,200 --> 01:31:25,260
-我们感情如此深厚
-And we're so close.
-
-1469
-01:31:25,260 --> 01:31:27,200
-我不会让它杀了你们
-And I won't let the game kill you.
-
-1470
-01:31:27,200 --> 01:31:30,270
-你真是个傻瓜
-You're such an idiot.
-
-1471
-01:31:30,270 --> 01:31:33,000
-要我怎么说呢？
-What can I say?
-
-1472
-01:31:33,010 --> 01:31:35,010
-你那么对我
-You do that to me.
-
-1473
-01:31:47,220 --> 01:31:52,090
-"是我召唤了恶魔 我愿以沉默为代价 让恶魔永远消失"
-"Hermaro almas, silencia mi voz para que el mal no sea más."
-
-1474
-01:31:54,890 --> 01:31:56,530
-七遍了
-That's seven.
-
-1475
-01:31:56,530 --> 01:31:58,530
-咱们快离开这儿 马上就天塌地陷了
-We got to get out of here. This place is coming down.
-
-1476
-01:31:58,530 --> 01:32:00,060
-不行 你还有件事要做
-No, there's one more thing to do.
-
-1477
-01:32:00,070 --> 01:32:02,230
-把刀捡起来
-Pick up the knife.
-
-1478
-01:32:02,230 --> 01:32:04,040
-我不能帮你做
-I can't do it for you.
-
-1479
-01:32:05,600 --> 01:32:07,510
-快捡起来
-Pick it up!
-
-1480
-01:32:10,010 --> 01:32:11,480
-做什么？
-And do what?
-
-1481
-01:32:11,480 --> 01:32:13,680
-很抱歉 萨姆
-I'm so sorry, Sam.
-
-1482
-01:32:13,680 --> 01:32:15,580
-但因为是你解封了恶魔
-But you unleashed this evil,
-
-1483
-01:32:15,580 --> 01:32:18,680
-所以也只有你能阻止它
-which means you're the only one who can stop it.
-
-1484
-01:32:20,690 --> 01:32:23,150
-你得把自己的舌头割下来
-I need you to cut out your tongue.
-
-1485
-01:32:23,160 --> 01:32:25,690
-不 这太疯狂了
-N-No, that's insane.
-
-1486
-01:32:25,690 --> 01:32:27,690
-拜托 只有这样我们才能活命
-Please! It's the only way we survive!
-
-1487
-01:32:35,600 --> 01:32:37,570
-你们好好照顾自己
-You take care of each other.
-
-1488
-01:32:37,570 --> 01:32:40,470
-不
-No.
-
-1489
-01:32:54,590 --> 01:32:56,890
-- 不 不 - 快动手
-- No. No. - Do it.
-
-1490
-01:33:01,330 --> 01:33:03,130
-- 卢卡斯 停下 - 那不是卢卡斯
-- Lucas, stop! - That's not Lucas.
-
-1491
-01:33:03,130 --> 01:33:05,400
-快割舌头 卡特
-Do it now, Carter.
-
-1492
-01:33:05,400 --> 01:33:08,130
-不然就太迟了
-Before it's too late!
-
-1493
-01:33:08,130 --> 01:33:09,370
-你不想活命吗？
-Don't you want to live?!
-
-1494
-01:33:09,370 --> 01:33:12,500
-你别无选择 快动手
-You do not have a choice! Do it!
-
-1495
-01:33:12,510 --> 01:33:15,640
-难以置信我要这么做
-I can't believe I'm about to do this.
-
-1496
-01:33:22,980 --> 01:33:24,650
-我要杀掉你认识的每一个人
-I will murder everyone you've ever known!
-
-1497
-01:33:24,650 --> 01:33:27,190
-不 他们没参与这游戏 只有我们参与了
-No, they are not in this! It's just us!
-
-1498
-01:33:27,190 --> 01:33:29,590
-你说得对
-You're right.
-
-1499
-01:33:29,590 --> 01:33:32,520
-但卢卡斯参加了 他没有完成大冒险
-But Lucas is, and he didn't do his dare.
-
-1500
-01:33:32,520 --> 01:33:34,160
-所以现在他得死
-So now he dies.
-
-1501
-01:33:58,790 --> 01:34:00,120
-不
-No!
-
-1502
-01:34:22,270 --> 01:34:25,180
-卢卡斯拒绝执行大冒险 是为了保住我们的命
-Lucas refused his dare to save us.
-
-1503
-01:34:26,580 --> 01:34:29,180
-我们必须结束这游戏
-We have to finish this.
-
-1504
-01:34:29,180 --> 01:34:31,650
-加勒克斯杀了卡特 咒语不管用了
-Calux killed Carter. The spell won't work.
-
-1505
-01:34:31,650 --> 01:34:35,790
-不 现在我们变成游戏发起人了
-No, we lost the second we started this game.
-
-1506
-01:34:35,790 --> 01:34:40,320
-我们第二次来到这儿
-The second we came here.
-
-1507
-01:34:40,330 --> 01:34:42,430
-卡特的大冒险是把我们带到这儿来
-Carter was dared to bring us here,
-
-1508
-01:34:42,430 --> 01:34:45,630
-因为这儿是新玩家加入游戏的地方
-because this is where you can add new people to the game.
-
-1509
-01:34:45,630 --> 01:34:47,430
-我有个主意 下一个轮到的是你
-I have an idea. Your turn's next.
-
-1510
-01:34:47,430 --> 01:34:49,670
-到时候你要选择大冒险
-When you're asked, I need you to pick dare.
-
-1511
-01:34:49,670 --> 01:34:51,670
-为什么？
-Why would I do that?
-
-1512
-01:34:51,670 --> 01:34:55,110
-玛姬
-Markie...
-
-1513
-01:34:56,210 --> 01:34:57,740
-真心话还是大冒险？
-Truth or dare?
-
-1514
-01:34:57,740 --> 01:35:00,510
-卢卡斯正在问我
-Now Lucas is asking me.
-
-1515
-01:35:00,510 --> 01:35:02,510
-选择大冒险
-Pick dare.
-
-1516
-01:35:02,510 --> 01:35:05,220
-- 但不要执行 - 什么？那样我会死的
-- But don't do it. - What? I'll die.
-
-1517
-01:35:05,220 --> 01:35:07,250
-玛姬 我很抱歉
-Markie, I am so sorry
-
-1518
-01:35:07,250 --> 01:35:09,650
-对你隐瞒了那么久的秘密
-for keeping that secret from you for so long.
-
-1519
-01:35:09,660 --> 01:35:11,390
-但我现在对你发誓
-And I swear to you
-
-1520
-01:35:11,390 --> 01:35:13,390
-我永远也不会再对你隐瞒任何事情了
-I will never, ever keep anything from you again.
-
-1521
-01:35:13,390 --> 01:35:15,790
-我们只有选择相信彼此 才能活下去
-But we survive this only if we trust each other.
-
-1522
-01:35:15,800 --> 01:35:17,160
-明白吗？
-Okay?
-
-1523
-01:35:19,730 --> 01:35:22,230
-- 明白 - 相信我
-- Okay. - Trust me.
-
-1524
-01:35:22,230 --> 01:35:24,240
-你得选了
-You have to pick.
-
-1525
-01:35:24,240 --> 01:35:25,870
-大冒险
-Dare.
-
-1526
-01:35:25,870 --> 01:35:28,770
-我要你对奥利维亚开枪
-I dare you to shoot Olivia.
-
-1527
-01:35:28,770 --> 01:35:32,340
-他要我对你开枪
-He wants me to shoot you.
-
-1528
-01:35:32,340 --> 01:35:34,150
-你得相信我 玛姬 不要那么做
-You got to trust me, Markie. Don't do it.
-
-1529
-01:35:34,150 --> 01:35:36,210
-这是唯一能救我们的办法
-This is the only way to save us both.
-
-1530
-01:35:36,220 --> 01:35:39,120
-好 我相信你
-Okay. I trust you.
-
-1531
-01:35:42,220 --> 01:35:44,160
-我不做
-I won't do it.
-
-1532
-01:35:49,660 --> 01:35:51,260
-不
-No!
-
-1533
-01:35:54,570 --> 01:35:56,430
-大冒险完成了 加勒克斯
-Dare complete, Calux.
-
-1534
-01:35:56,440 --> 01:35:58,140
-现在轮到你了
-Your turn.
-
-1535
-01:35:58,140 --> 01:36:00,910
-真心话还是大冒险？
-Truth or dare?
-
-1536
-01:36:00,910 --> 01:36:02,470
-我不玩这游戏
-I'm not in this game.
-
-1537
-01:36:02,470 --> 01:36:04,140
-不 你一旦被问到 就算加入了游戏
-No, once you're asked, you're in.
-
-1538
-01:36:04,140 --> 01:36:05,780
-这是规则 对吗？
-Those are the rules, right?
-
-1539
-01:36:05,780 --> 01:36:07,680
-真心话还是大冒险 混蛋？
-So, truth or dare, asshole?
-
-1540
-01:36:07,680 --> 01:36:10,410
-真心话
-Truth.
-
-1541
-01:36:10,420 --> 01:36:14,320
-我们怎样才能活着离开这游戏？
-How do we get out of this game alive?
-
-1542
-01:36:16,420 --> 01:36:18,520
-没办法
-You can't.
-
-1543
-01:36:18,520 --> 01:36:21,360
-卡特是唯一能够结束这一切的人
-Carter was the only one who could stop this.
-
-1544
-01:36:21,360 --> 01:36:25,360
-所以 在所有人都死了之前 游戏不会结束
-So now the game won't end until all the players are dead.
-
-1545
-01:36:25,370 --> 01:36:27,770
-下一个轮到你了
-And your turn's next.
-
-1546
-01:36:27,770 --> 01:36:32,500
-除非你找到新的朋友加入
-Unless you find some new friends to play with.
-
-1547
-01:36:32,510 --> 01:36:35,580
-但你不会这么做 对吗？
-But that's not gonna happen, is it?
-
-1548
-01:36:39,480 --> 01:36:42,380
-- 你的手臂 - 我没事
-- Your arm. - I'm okay.
-
-1549
-01:36:42,380 --> 01:36:44,250
-这管用吗？
-Well, did it work?
-
-1550
-01:36:44,250 --> 01:36:46,750
-还没结束
-It's not over.
-
-1551
-01:36:46,750 --> 01:36:49,750
-游戏永远不会结束 除非我们都死了
-The game will never end, not as long as we're alive.
-
-1552
-01:36:51,260 --> 01:36:53,860
-你在干什么？
-What are you doing?
-
-1553
-01:36:53,860 --> 01:36:56,160
-我在选择你
-I'm choosing you.
-
-1554
-01:37:09,940 --> 01:37:12,580
-我和我的朋友们曾经到墨西哥
-My friends and I went on a trip to Mexico
-
-1555
-01:37:12,580 --> 01:37:15,610
-去度春假
-for spring break.
-
-1556
-01:37:15,620 --> 01:37:17,750
-最后一天 我们到了一个老教堂
-We ended up in an old mission
-
-1557
-01:37:17,750 --> 01:37:20,290
-在那地方玩起了真心话大冒险的游戏
-where we played a game of Truth or Dare.
-
-1558
-01:37:23,760 --> 01:37:27,230
-谁曾想我们遇到了一个卑劣无比的恶魔
-We had no idea that we had encountered an unspeakable evil
-
-1559
-01:37:27,230 --> 01:37:28,760
-它也想和我们一起玩那个游戏
-that wanted to play with us.
-
-1560
-01:37:28,760 --> 01:37:32,300
-我们回到家后 游戏仍在继续
-When we went home, the game kept going.
-
-1561
-01:37:32,300 --> 01:37:34,330
-它杀死了我五个朋友
-It killed five of my friends.
-
-1562
-01:37:35,500 --> 01:37:36,870
-那个游戏是真格的
-The game is real.
-
-1563
-01:37:36,870 --> 01:37:38,700
-说出真心话 完成大冒险
-Tell the truth, do the dare,
-
-1564
-01:37:38,710 --> 01:37:41,000
-否则你就得死 拒绝回答也得死
-or you die; refuse to play, you die.
-
-1565
-01:37:41,010 --> 01:37:45,880
-在任何地方 任何人都可能对你发起提问
-It can happen anywhere, and it can come from anyone.
-
-1566
-01:37:45,880 --> 01:37:48,610
-我很抱歉 但我不得不问你们...
-I am so sorry, but I have to ask you...
-
-1567
-01:37:48,620 --> 01:37:50,620
-真心话还是大冒险？
-truth or dare?
-
-1568
-01:40:22,630 --> 01:40:26,470
-真心话还是大冒险？
-Truth or dare?
-
-
+[Script Info]
+; Script generated by Aegisub 3.2.2
+; http://www.aegisub.org/
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.601
+PlayResX: 1920
+PlayResY: 804
+
+[Aegisub Project Garbage]
+Last Style Storage: Default
+Audio File: Wreck-It.Ralph.2012.BluRay.1080p.DTS.x264-CHD.mkv
+Video File: Wreck-It.Ralph.2012.BluRay.1080p.DTS.x264-CHD.mkv
+Video AR Mode: 4
+Video AR Value: 2.388060
+Video Zoom Percent: 0.375000
+Scroll Position: 1089
+Active Line: 1101
+Video Position: 81444
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,微软雅黑,72,&H00F0F6C2,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:45.50,0:00:46.05,Default,,0,0,0,,{\move(952,212,954.002,222,4,546)\fscx120\fscy114\frx8\fry0}{\fn方正基础像素\b1\c&H0808E6&\fs48}快手阿修
+Dialogue: 0,0:00:45.50,0:00:46.05,Default,,0,0,0,,{\fn方正基础像素\b0\move(950,426,945.996,450,4,546)\fs48\c&HFDFEFB&\fscx105\fscy103}请投币{\c&HE9EBE7&}
+Dialogue: 0,0:00:47.50,0:00:50.60,Default,,0,0,0,,我叫拉尔夫  我是个坏蛋\N{\fs36}My name's Ralph, and I'm a bad guy.
+Dialogue: 0,0:00:51.47,0:00:57.25,Default,,0,0,0,,-呃~瞧瞧吧  我身高2米75  重500多斤\N{\fs36} -Uh~Let's see. I'm nine feet tall. I weigh 643 pounds.
+Dialogue: 0,0:00:57.53,0:00:59.33,Default,,0,0,0,,脾气有点不好\N{\fs36} Got a little bit of a temper on me.
+Dialogue: 0,0:00:57.32,0:01:01.19,Default,,0,0,0,,{\pos(588,246)\frx16\fry358\c&HEBEBEB&\fn方正基础像素\fscx62\fscy69}垃圾场
+Dialogue: 0,0:00:59.33,0:01:01.21,Default,,0,0,0,,{\c&HF8F8FA&\fn方正基础像素\fs54\pos(1039,312)\b1\fscx101\fscy106}嘿  你铲走了我的树桩
+Dialogue: 0,0:01:03.03,0:01:06.02,Default,,0,0,0,,我想大概是因为我的怒气细胞特别发达\N{\fs36} My passion bubbles very near the surface, I guess.
+Dialogue: 0,0:01:06.02,0:01:07.51,Default,,0,0,0,,没有骗你 \N{\fs36}not gonna lie.
+Dialogue: 0,0:01:08.58,0:01:11.04,Default,,0,0,0,,哎呀呀 还有啥? 呃...\N{\fs36}Anyhoo, what else? Uh...
+Dialogue: 0,0:01:11.22,0:01:15.00,Default,,0,0,0,,我是个破环王 总是破坏东西 是个内行\N{\fs36}I'm a wrecker. I wreck things. Professionally.
+Dialogue: 0,0:01:15.00,0:01:16.12,Default,,0,0,0,,{\c&HF6F7F5&\fn方正基础像素\b1\pos(840,72)\fscx113\fscy100}我要破坏这房子
+Dialogue: 0,0:01:16.34,0:01:19.46,Default,,0,0,0,,我很擅长破坏东西  也许这是我最擅长的本事了\N{\fs36} I mean I'm very good at what I do. Probably the best I know.
+Dialogue: 0,0:01:20.72,0:01:23.75,Default,,0,0,0,,而事实是  修理工才是这游戏的名字  \N{\fs36}The thing is, fixing is the name of the game.
+Dialogue: 0,0:01:23.75,0:01:25.75,Default,,0,0,0,,字面上来看  应该叫快手阿修  \N{\fs36}Literally, Fix-It Felix, Jr.
+Dialogue: 0,0:01:25.34,0:01:26.78,Default,,0,0,0,,{\fn方正基础像素\fs24\pos(950,280)\3c&H0C0C0C&} {\c&HE6E7E5&}快修吧 阿修
+Dialogue: 0,0:01:27.55,0:01:27.61,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:27.61,0:01:27.73,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88\c&HFBFCFB&} {\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:27.88,0:01:28.01,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.01,0:01:28.16,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88\c&HFBFCFB&} {\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.16,0:01:28.32,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.33,0:01:28.48,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88\c&HFBFCFB&} {\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.49,0:01:28.65,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.66,0:01:28.79,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88\c&HFBFCFB&} {\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.81,0:01:28.94,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:29.02,0:01:29.29,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88\c&HFBFCFB&} {\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:29.29,0:01:29.38,Default,,0,0,0,,{\pos(950,72)\fn方正基础像素\fscx110\fscy88} {\c&H4BD5D7&\3c&HFFFFFF&\3a&H97&}  我能修好它！
+Dialogue: 0,0:01:28.97,0:01:30.17,Default,,0,0,0,,那么  自然而然  \N{\fs36}So, yeah, naturally,
+Dialogue: 0,0:01:30.17,0:01:32.92,Default,,0,0,0,,叫阿修的这个家伙才是好人 \N{\fs36}the guy with the name Fix-It Felix is the good guy.
+Dialogue: 0,0:01:33.18,0:01:35.09,Default,,0,0,0,,善良得跟所有君子一样\N{\fs36} He's nice enough as good guys go.
+Dialogue: 0,0:01:35.09,0:01:37.09,Default,,0,0,0,,当然啦  他修理东西也一级棒\N{\fs36} Definitely fixes stuff really well.
+Dialogue: 0,0:01:37.09,0:01:41.82,Default,,0,0,0,,话说回来 呃... 如果你从你老爸那里继承了一把魔力锤子 \N{\fs36}But, uh, if you've got a magic hammer from your father,
+Dialogue: 0,0:01:41.82,0:01:43.08,Default,,0,0,0,,这有多难？\N{\fs36}how hard can it be?
+Dialogue: 0,0:01:43.04,0:01:43.52,Default,,0,0,0,,{\fs28\c&HF2F2F4&\pos(1019,376)}呦嚇
+Dialogue: 0,0:01:43.82,0:01:46.82,Default,,0,0,0,,如果他只是个普通的木工 \N{\fs36}If he was a regular contractor carpenter guy,
+Dialogue: 0,0:01:46.82,0:01:48.15,Default,,0,0,0,,我敢跟你保证   \N{\fs36}I guarantee you
+Dialogue: 0,0:01:48.16,0:01:52.48,Default,,0,0,0,,他绝不可能修好我这么快速造成的破坏 \N{\fs36} would not be ableto fix the damage that I do as quickly.
+Dialogue: 0,0:01:51.03,0:01:51.13,Default,,0,0,0,,{\c&HDBD9D6&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.14,0:01:51.24,Default,,0,0,0,,{\c&H0404D1&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.25,0:01:51.38,Default,,0,0,0,,{\c&HDBD9D6&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.39,0:01:51.52,Default,,0,0,0,,{\c&H0B0CD4&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.54,0:01:51.66,Default,,0,0,0,,{\c&HDBD9D6&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.67,0:01:51.78,Default,,0,0,0,,{\c&H0708CA&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.79,0:01:51.92,Default,,0,0,0,,{\c&HDBD9D6&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:51.92,0:01:52.06,Default,,0,0,0,,{\c&H0702D8&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:52.07,0:01:52.20,Default,,0,0,0,,{\c&HDBD9D6&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:52.21,0:01:52.42,Default,,0,0,0,,{\c&H0C07E0&\fs82\fscx155\fscy138\pos(967,312)\fn方正基础像素\3c&HBCBCBC&\3a&H1E&}你修好了！
+Dialogue: 0,0:01:52.56,0:01:55.04,Default,,0,0,0,,每当阿修完成一次出色的修理任务  他就能得到奖章 \N{\fs36}And when Felix does a good job, he gets a medal.
+Dialogue: 0,0:01:55.04,0:01:59.10,Default,,0,0,0,,但是有没有给破坏能手的奖章呢? \N{\fs36}But are there medals for wrecking stuff really well?
+Dialogue: 0,0:01:59.10,0:02:01.10,Default,,0,0,0,,对此我要说 "哈" \N{\fs36}To that I say, "Ha!"
+Dialogue: 0,0:02:03.02,0:02:04.78,Default,,0,0,0,,显然 是没有的 \N{\fs36}And, no, there aren't.
+Dialogue: 0,0:02:04.98,0:02:05.46,Default,,0,0,0,,{\c&HDADADA&\fn方正基础像素\move(950,186,947.998,196,1,419)\b1\3c&H9D9D9F&\3a&H4A&\1a&H00&}第1关通关
+Dialogue: 0,0:02:07.04,0:02:11.92,Default,,0,0,0,,{\fn文鼎特粗圆简\fs102\pos(950.991,686)\c&H0802F4&\b1\1a&H05&\3c&H1E1EA2&\3a&H27&}30年以前
+Dialogue: 0,0:02:07.68,0:02:10.02,Default,,0,0,0,,这三十年来我都在破坏东西  \N{\fs36}Thirty years I've been doing this
+Dialogue: 0,0:02:10.02,0:02:13.16,Default,,0,0,0,,我看到过许多其他游戏来来去去 \N{\fs36}and I've seen a lot of other games come and go.
+Dialogue: 0,0:02:13.16,0:02:16.44,Default,,0,0,0,,有点难过  我想到了那些行星游戏里的伙计们\N{\fs36} Kind of sad. I think about all those guys from Asteroids.
+Dialogue: 0,0:02:16.58,0:02:19.04,Default,,0,0,0,,嘭 消失了 蜈蚣呢? \N{\fs36}Boom! Gone. Centipede?
+Dialogue: 0,0:02:19.04,0:02:20.98,Default,,0,0,0,,谁还记得那家伙是谁呀？明白吗?\N{\fs36} Who knows where that guy is, you know?
+Dialogue: 0,0:02:21.42,0:02:23.06,Default,,0,0,0,,瞧 一个稳定运营的游戏厅\N{\fs36}Look, a steady arcade gig
+Dialogue: 0,0:02:23.06,0:02:23.99,Default,,0,0,0,,是非常不容易的 \N{\fs36} is nothing to sneeze at.
+Dialogue: 0,0:02:23.99,0:02:25.11,Default,,0,0,0,,我很走运 \N{\fs36}I'm very lucky.
+Dialogue: 0,0:02:26.65,0:02:28.85,Default,,0,0,0,,我只是想说 \N{\fs36}It's just, I got to say,
+Dialogue: 0,0:02:29.35,0:02:31.21,Default,,0,0,0,,如果没人喜欢你所做的事 \N{\fs36}it becomes kind of hard to love your job
+Dialogue: 0,0:02:31.21,0:02:34.58,Default,,0,0,0,,{\fs102\b1\c&H090AF9&\pos(971,704)\fn文鼎特粗圆简\1a&H08&}如今
+Dialogue: 0,0:02:31.21,0:02:33.03,Default,,0,0,0,,那么你实在很难爱上自己的工作 \N{\fs36} when no one seems to like you for doing it.
+Dialogue: 0,0:02:37.32,0:02:39.76,Default,,0,0,0,,没人了  游戏厅关门咯\N{\fs36} All clear! The arcade is closed!
+Dialogue: 0,0:02:39.76,0:02:41.24,Default,,0,0,0,,升龙拳 \N{\fs36}Shoryuken!
+Dialogue: 0,0:02:41.42,0:02:43.52,Default,,0,0,0,,哎 这一天过得  \N{\fs36} Whoo! What a day!
+Dialogue: 0,0:02:43.52,0:02:45.62,Default,,0,0,0,,要去酒保那里喝一杯吗?-肯\N{\fs36}So. You want to head to Tappers, -Ken?
+Dialogue: 0,0:02:45.66,0:02:46.87,Default,,0,0,0,,你请客就去 -老兄 \N{\fs36}If you're buying, -buddy.
+Dialogue: 0,0:02:51.16,0:02:52.50,Default,,0,0,0,,下班时间到 \N{\fs36}Quitting time!
+Dialogue: 0,0:03:04.34,0:03:05.54,Default,,0,0,0,,我不知道\N{\fs36}I don't know.
+Dialogue: 0,0:03:05.54,0:03:07.54,Default,,0,0,0,,也许如果下了班一切有所转变 \N{\fs36}Maybe I wouldn't be feeling this way
+Dialogue: 0,0:03:07.54,0:03:09.50,Default,,0,0,0,,我就不会感觉这么糟糕了\N{\fs36}if things were different after work.
+Dialogue: 0,0:03:10.52,0:03:12.40,Default,,0,0,0,,但是事实是不容改变的\N{\fs36} But it is what it is.
+Dialogue: 0,0:03:12.40,0:03:13.46,Default,,0,0,0,,大家干得好呀 \N{\fs36}Good job, everyone!
+Dialogue: 0,0:03:13.46,0:03:16.62,Default,,0,0,0,,阿修和奈斯兰德一家在他们房子里玩乐 \N{\fs36}Felix and the Nicelanders go hang out in their homes
+Dialogue: 0,0:03:16.62,0:03:19.94,Default,,0,0,0,,正好是他刚修好的那栋楼 而大家 你也明白...\N{\fs36} which he's just fixed, and everyone, you know...
+Dialogue: 0,0:03:19.94,0:03:21.94,Default,,0,0,0,,呃...\N{\fs36}Un-m...
+Dialogue: 0,0:03:21.94,0:03:24.56,Default,,0,0,0,,他们都各回各家了  我也要回...\N{\fs36}They go to their homes, I go to mine which...
+Dialogue: 0,0:03:24.74,0:03:26.92,Default,,0,0,0,,我的那个垃圾堆的家里去 \N{\fs36} happens to be a dump.
+Dialogue: 0,0:03:27.64,0:03:29.34,Default,,0,0,0,,我说的"垃圾堆" \N{\fs36}And when I say "a dump,"
+Dialogue: 0,0:03:29.34,0:03:30.84,Default,,0,0,0,,并不是指一个破破烂烂的地方 \N{\fs36}I don't mean like a shabby place.
+Dialogue: 0,0:03:30.84,0:03:32.88,Default,,0,0,0,,而是指一个真正的垃圾堆 \N{\fs36}I mean an actual dump,
+Dialogue: 0,0:03:32.88,0:03:34.88,Default,,0,0,0,,垃圾都扔在这里\N{\fs36} where the garbage goes
+Dialogue: 0,0:03:34.88,0:03:38.70,Default,,0,0,0,,还有一大堆砖块和建筑垃圾... \N{\fs36}and a bunch of bricks and smashed building parts...
+Dialogue: 0,0:03:39.88,0:03:41.64,Default,,0,0,0,,这... 这就是我称之为家的地方 \N{\fs36}That's... That's what I call home.
+Dialogue: 0,0:03:42.30,0:03:44.50,Default,,0,0,0,,我想我也不能总这么抱怨 \N{\fs36}I guess I can't bellyache too much.
+Dialogue: 0,0:03:44.50,0:03:46.42,Default,,0,0,0,,我有这么多砖块 还有我的树桩 \N{\fs36}I got my bricks, I got my stump.
+Dialogue: 0,0:03:49.44,0:03:54.16,Default,,0,0,0,,看起来是不太舒服 不过实际上还不错 我过得很好\N{\fs36} It looks uncomfortable. It's actually fine. I'm good.
+Dialogue: 0,0:03:57.10,0:04:01.66,Default,,0,0,0,,不过如果非得说实话... \N{\fs36}But if I'm really honest with myself...
+Dialogue: 0,0:04:02.18,0:04:06.16,Default,,0,0,0,,我看到阿修在那里受到大家表扬 \N{\fs36}I see Felix up there getting patted on the back,
+Dialogue: 0,0:04:06.44,0:04:10.92,Default,,0,0,0,,人们给他送馅饼 感谢他 \N{\fs36}people are giving him pie and thanking him.
+Dialogue: 0,0:04:11.00,0:04:13.44,Default,,0,0,0,,见到他总是很开心 \N{\fs36}and so happy to see him all the time.
+Dialogue: 0,0:04:14.06,0:04:15.58,Default,,0,0,0,,有时候我也会想... \N{\fs36}Sometimes I think...
+Dialogue: 0,0:04:16.38,0:04:21.56,Default,,0,0,0,,天啊  做个那样的好人肯定感觉很爽 \N{\fs36}Man, it sure must be nice being the good guy.
+Dialogue: 0,0:04:25.32,0:04:26.76,Default,,0,0,0,,感谢你的分享 拉尔夫  \N{\fs36}Nice share, Ralph.
+Dialogue: 0,0:04:27.04,0:04:28.16,Default,,0,0,0,,作为同样的坏家伙  \N{\fs36}As fellow bad guys,
+Dialogue: 0,0:04:28.34,0:04:30.16,Default,,0,0,0,,我们对你的遭遇感同身受  \N{\fs36}we've all felt what you're feeling
+Dialogue: 0,0:04:30.16,0:04:31.42,Default,,0,0,0,,我们也甘心忍受这一切  \N{\fs36}and we've come to terms with it.
+Dialogue: 0,0:04:31.60,0:04:32.12,Default,,0,0,0,,-真的吗?  \N{\fs36}-Really?
+Dialogue: 0,0:04:32.15,0:04:32.94,Default,,0,0,0,, -我有话要说  \N{\fs36} -Right here.
+Dialogue: 0,0:04:33.42,0:04:35.30,Default,,0,0,0,,我是桑吉尔夫  我是个坏蛋\N{\fs36} I am Zangief. I am bad guy.
+Dialogue: 0,0:04:33.06,0:04:35.28,Default,,0,0,0,,{\pos(1011,72)\c&H87DCFC&\fn微软雅黑\fs72}PS:桑吉尔夫《街头霸王Ⅱ》中的角色 俄罗斯摔跤手
+Dialogue: 0,0:04:35.32,0:04:37.42,Default,,0,0,0,,-嗨  桑吉尔夫  -嗨  桑吉尔夫\N{\fs36} -Hi, Zangief! -Hi, Zangief.
+Dialogue: 0,0:04:37.57,0:04:38.72,Default,,0,0,0,,我跟你很像 拉尔夫  \N{\fs36} I relate to you, Ralph.
+Dialogue: 0,0:04:38.72,0:04:41.87,Default,,0,0,0,,每次我都会用尽全力压碎人的头盖骨 \N{\fs36} When I hit bottom,I was crushing man's skull
+Dialogue: 0,0:04:41.87,0:04:44.72,Default,,0,0,0,,就像压碎我大腿中间的麻雀蛋一样 \N{\fs36}like sparrow egg between my thighs.
+Dialogue: 0,0:04:46.08,0:04:49.09,Default,,0,0,0,,我就会想"为什么你非要这么坏呀  桑吉尔夫?"\N{\fs36} And I think, "Why do you have to be so bad, Zangief?"
+Dialogue: 0,0:04:49.16,0:04:51.09,Default,,0,0,0,,"为什么你就不能学学做好人呢?" \N{\fs36}"Why can't you be more like good guy?"
+Dialogue: 0,0:04:51.85,0:04:54.28,Default,,0,0,0,,然后我就想明白了 \N{\fs36}Then I have moment of clarity.
+Dialogue: 0,0:04:54.57,0:04:56.20,Default,,0,0,0,,如果桑吉尔夫是个好人\N{\fs36} If Zangief is good guy.
+Dialogue: 0,0:04:56.65,0:04:58.24,Default,,0,0,0,, 那么谁来捏碎玩家的脑袋 \N{\fs36} Who'll crush man's skull
+Dialogue: 0,0:04:58.24,0:05:00.78,Default,,0,0,0,,就像碾碎大腿间的麻雀蛋 \N{\fs36}like sparrow's egg between thighs?
+Dialogue: 0,0:05:00.88,0:05:03.12,Default,,0,0,0,,于是我对自己说"桑吉尔夫 你的角色是个坏蛋\N{\fs36} And I say, "Zangief, you are bad guy,
+Dialogue: 0,0:05:03.12,0:05:06.41,Default,,0,0,0,,但这不意味着你自己就真是个"坏蛋"\N{\fs36} but this does not mean you are 'bad' guy."
+Dialogue: 0,0:05:09.46,0:05:12.50,Default,,0,0,0,,好吧  抱歉 我没听懂 \N{\fs36}Right. I'm sorry. You lost me there.
+Dialogue: 0,0:05:12.50,0:05:13.71,Default,,0,0,0,,-僵尸 坏蛋一枚  \N{\fs36}-Zombie! Bad guy!
+Dialogue: 0,0:05:12.50,0:05:13.71,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72\pos(930,100)}PS:僵尸西里尔 日本世嘉游戏《死亡之屋》的角色
+Dialogue: 0,0:05:13.71,0:05:15.35,Default,,0,0,0,, -嗨  僵尸 \N{\fs36} -Hi, Zombie.
+Dialogue: 0,0:05:15.93,0:05:19.17,Default,,0,0,0,,桑吉尔夫说被打上标签让你很不开心 \N{\fs36}Zangief saying labels not make you happy.
+Dialogue: 0,0:05:19.22,0:05:21.17,Default,,0,0,0,,好人 坏人\N{\fs36} Good! Bad!
+Dialogue: 0,0:05:22.86,0:05:24.79,Default,,0,0,0,,你必须爱你自己\N{\fs36} You must love you.
+Dialogue: 0,0:05:24.79,0:05:26.79,Default,,0,0,0,,-耶! 在这“内心”里  \N{\fs36}-Yeah! Inside here!
+Dialogue: 0,0:05:26.79,0:05:27.40,Default,,0,0,0,,-耶!  \N{\fs36}-Yeah!
+Dialogue: 0,0:05:27.40,0:05:30.47,Default,,0,0,0,,好...好...好的 我明白了 小心 滴着血呢 \N{\fs36}O...O...Okay. All right, I get you. Watch out. It's dripping.
+Dialogue: 0,0:05:30.47,0:05:31.33,Default,,0,0,0,,问你个问题  拉尔夫\N{\fs36} Question, Ralph.
+Dialogue: 0,0:05:30.47,0:05:31.90,Default,,0,0,0,,{\pos(1165,102)\c&H87DCFC&\fn微软雅黑\fs72}PS:《吃豆人》中的核心幽灵 克莱德
+Dialogue: 0,0:05:31.72,0:05:34.60,Default,,0,0,0,,这么多年来我们一直邀请你加入坏蛋联盟\N{\fs36} We've been asking you to Bad-Anon for years now
+Dialogue: 0,0:05:34.60,0:05:37.52,Default,,0,0,0,,而今晚你才终于露面了\N{\fs36} and tonight you finally show up.
+Dialogue: 0,0:05:37.90,0:05:38.86,Default,,0,0,0,,-这又是为何呢? \N{\fs36} -Why is that?
+Dialogue: 0,0:05:38.86,0:05:40.64,Default,,0,0,0,,-我不知道我只是突然想来\N{\fs36}  -I don't know I just felt like coming.
+Dialogue: 0,0:05:41.17,0:05:44.00,Default,,0,0,0,,我觉得可能和这件事有关... \N{\fs36}I suppose it has something to do with the fact that...
+Dialogue: 0,0:05:44.13,0:05:48.53,Default,,0,0,0,,今天是我那个游戏30周年纪念日 \N{\fs36}Well, today is the 30th anniversary of my game.
+Dialogue: 0,0:05:48.53,0:05:50.53,Default,,0,0,0,,周年快乐呀  拉尔夫 \N{\fs36}Well, happy anniversary, Ralph.
+Dialogue: 0,0:05:50.68,0:05:51.56,Default,,0,0,0,,谢谢你  撒旦 \N{\fs36}Thanks, Satan.
+Dialogue: 0,0:05:50.68,0:05:51.56,Default,,0,0,0,,{\pos(1193,122)\c&H87DCFC&\fn微软雅黑\fs72}PS:红色的魔鬼撒旦《守卫地下城者》里的镰刀怪
+Dialogue: 0,0:05:51.73,0:05:54.43,Default,,0,0,0,,呃 实际上  我叫萨丁 \N{\fs36}Uh, it's Sateen, actually.
+Dialogue: 0,0:05:54.51,0:05:57.50,Default,,0,0,0,,知道了  但是我想说\N{\fs36} Got it. But here's the thing.
+Dialogue: 0,0:05:59.60,0:06:01.25,Default,,0,0,0,,我不想再当坏人了 \N{\fs36}I don't want to be the bad guy any more.
+Dialogue: 0,0:06:04.28,0:06:06.70,Default,,0,0,0,,你不能破坏游戏程序  拉尔夫 \N{\fs36}You can't mess with the program, Ralph.
+Dialogue: 0,0:06:06.70,0:06:09.43,Default,,0,0,0,,你不会变成沃伦那样吧  是不? \N{\fs36}You're not going Turbo, are you?
+Dialogue: 0,0:06:09.43,0:06:12.83,Default,,0,0,0,,沃伦? 不  我可不会变成沃伦  拜托了  兄弟们 \N{\fs36}Turbo? No, I'm not going Turbo! Come on, guys!
+Dialogue: 0,0:06:13.09,0:06:15.82,Default,,0,0,0,,沃伦是想要个朋友吗? 还是想要勋章? \N{\fs36}Is it Turbo to want a friend? Or a medal?
+Dialogue: 0,0:06:16.03,0:06:17.92,Default,,0,0,0,,还是想偶尔能来那么一块馅饼? \N{\fs36}Or a piece of pie every once in a while?
+Dialogue: 0,0:06:17.92,0:06:19.65,Default,,0,0,0,,沃伦想要创造更多的价值吗? \N{\fs36}Is it Turbo to want more out of life?
+Dialogue: 0,0:06:19.71,0:06:21.31,Default,,0,0,0,,是的\N{\fs36} Yes!
+Dialogue: 0,0:06:21.31,0:06:22.66,Default,,0,0,0,,拉尔夫  拉尔夫  我们都明白\N{\fs36} Ralph, Ralph, we get it.
+Dialogue: 0,0:06:23.34,0:06:25.25,Default,,0,0,0,,但是我们无法改变我们的角色 \N{\fs36}But we can't change who we are.
+Dialogue: 0,0:06:25.48,0:06:26.95,Default,,0,0,0,,而且你越快接受这个事实 \N{\fs36}And the sooner you accept that,
+Dialogue: 0,0:06:27.31,0:06:29.97,Default,,0,0,0,,你的游戏和生命就会越好 \N{\fs36}the better off your game and your life will be.
+Dialogue: 0,0:06:30.62,0:06:32.88,Default,,0,0,0,,嘿 干一行爱一行 拉尔夫 \N{\fs36}Hey. One game at a time, Ralph.
+Dialogue: 0,0:06:33.94,0:06:35.97,Default,,0,0,0,,最后以坏蛋联盟的宣言结束这次聚会吧 \N{\fs36}Let's close out with the Bad Guy Affirmation.
+Dialogue: 0,0:06:40.68,0:06:43.52,Default,,0,0,0,,我是坏蛋  这很好 \N{\fs36}I'm bad, and that's good.
+Dialogue: 0,0:06:43.65,0:06:47.25,Default,,0,0,0,,我永远也做不了好人  这也不赖 \N{\fs36}I will never be good, and that's not bad.
+Dialogue: 0,0:06:47.25,0:06:49.82,Default,,0,0,0,,我只愿意做我自己 \N{\fs36}There's no one I'd rather be than me.
+Dialogue: 0,0:06:49.84,0:06:52.27,Default,,0,0,0,,{\4c&HFDFDFF&\3c&HFFFFFF&\c&H2E00C4&\1a&H00&\fn黑体\fs120\b1\pos(934,450)\4a&H00&}无敌破坏王
+Dialogue: 0,0:06:51.29,0:06:52.62,Default,,0,0,0,,好了 各位 下周见吧 \N{\fs36}Okay, gang, see you next week.
+Dialogue: 0,0:06:53.09,0:06:54.85,Default,,0,0,0,,听着  我下周可不吃点心了 \N{\fs36}Listen, I can't do snacks next week.
+Dialogue: 0,0:06:54.85,0:06:56.16,Default,,0,0,0,,坚持住  拉尔夫 \N{\fs36}in there, Ralph.
+Dialogue: 0,0:06:56.16,0:06:58.30,Default,,0,0,0,,嘿  僵尸  别忘了你的小斧头 \N{\fs36}Hey, Zombie, don't forget your hatchets.
+Dialogue: 0,0:06:58.89,0:06:59.71,Default,,0,0,0,,那就这样吧 \N{\fs36}There you go.
+Dialogue: 0,0:07:03.20,0:07:09.28,Default,,0,0,0,,{\pos(732,88)}{\c&H87DCFC&\fn微软雅黑\fs72}PS:拉尔夫拿的是《吃豆人》游戏奖赏物品: 樱桃 100分
+Dialogue: 0,0:07:12.26,0:07:14.17,Default,,0,0,0,,{\c&HAEB5A8&\fn黑体\b1\frz3.207\frx0\fry348\move(327.729,314,788.208,288,5,1882)}吃豆人站
+Dialogue: 0,0:07:16.00,0:07:19.15,Default,,0,0,0,,{\fn文鼎特圆简\b1\c&H486241&\move(444,324,680.246,328,5,3425)} （去往 游戏中心车站）
+Dialogue: 0,0:07:33.64,0:07:36.97,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}吃豆人号列车驶入7号站台\N{\fs36}Pac-manorail now arriving in Outlet 7.
+Dialogue: 0,0:07:36.97,0:07:39.02,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}欢迎来到游戏中央车站\N{\fs36}Welcome to Game Central Station
+Dialogue: 0,0:07:38.20,0:07:39.60,Default,,0,0,0,,{\c&H789496&\fn文鼎特圆简\fs36\fscx207\fscy195\move(956.987,316,954.987,176,36,1454)}游戏\N中央车站
+Dialogue: 0,0:08:01.08,0:08:01.56,Default,,0,0,0,,嗷~\N{\fs36}Oh~
+Dialogue: 0,0:08:01.56,0:08:03.59,Default,,0,0,0,,请过来 先生 随机安全检查 \N{\fs36}Step aside, sir. Random security check.
+Dialogue: 0,0:08:03.60,0:08:05.68,Default,,0,0,0,,才不是什么随机  你总爱拦下我 \N{\fs36}Random my behind! You always stop me.
+Dialogue: 0,0:08:05.68,0:08:08.02,Default,,0,0,0,,我是在执行我安全保卫的工作 先生 \N{\fs36}I'm just a surge protector doing my job, sir.
+Dialogue: 0,0:08:08.02,0:08:09.76,Default,,0,0,0,,-姓名? -劳拉·克劳馥 \N{\fs36}-Name? -Lara Croft.
+Dialogue: 0,0:08:08.36,0:08:09.76,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72\pos(644,100)}-PS: 劳拉·克劳馥 《古墓丽影》中的女主角
+Dialogue: 0,0:08:09.76,0:08:11.44,Default,,0,0,0,,-姓名? -破坏王拉尔夫 \N{\fs36}-Name? -Wreck-It Ralph!
+Dialogue: 0,0:08:11.44,0:08:12.82,Default,,0,0,0,,从哪来的? \N{\fs36}And where are you coming from?
+Dialogue: 0,0:08:12.82,0:08:14.39,Default,,0,0,0,,呃... 吃豆人 \N{\fs36}Uh... Pac-Man.
+Dialogue: 0,0:08:14.39,0:08:15.71,Default,,0,0,0,,随身携带水果了吗?\N{\fs36} Did you bring any fruit with you?
+Dialogue: 0,0:08:15.71,0:08:17.71,Default,,0,0,0,,没  没带水果呢 \N{\fs36}No! No. No fruit.
+Dialogue: 0,0:08:17.71,0:08:18.61,Default,,0,0,0,,好吧  那么你要去哪里? \N{\fs36}Okay, then. Where are you heading?
+Dialogue: 0,0:08:18.61,0:08:20.08,Default,,0,0,0,,快手阿修 \N{\fs36}Fix-It Felix Jr.
+Dialogue: 0,0:08:20.08,0:08:22.02,Default,,0,0,0,,-还有什么要说的吗? -我讨厌你\N{\fs36} -Anything to declare? -I hate you
+Dialogue: 0,0:08:22.02,0:08:23.77,Default,,0,0,0,,我听得多了 走吧 \N {\fs36}I get that a lot. Proceed.
+Dialogue: 0,0:08:28.47,0:08:29.38,Default,,0,0,0,,坏蛋来了 \N{\fs36}Bad guy coming!
+Dialogue: 0,0:08:32.00,0:08:33.16,Default,,0,0,0,,如果你离开了你的游戏 \N{\fs36}If you leave your game,
+Dialogue: 0,0:08:33.16,0:08:35.30,Default,,0,0,0,,保证你的安全  保持警惕\N{\fs36} stay safe, stay alert,
+Dialogue: 0,0:08:35.50,0:08:37.68,Default,,0,0,0,,无论你做什么  千万别死掉 \N{\fs36}and whatever you do, don't die.
+Dialogue: 0,0:08:37.68,0:08:40.26,Default,,0,0,0,,因为如果你死在自己游戏外面 \N{\fs36}Because if you die outside your own game
+Dialogue: 0,0:08:40.26,0:08:42.26,Default,,0,0,0,,你就不能重生了 永不重生\N{\fs36}you don't regenerate. Ever.
+Dialogue: 0,0:08:42.26,0:08:43.24,Default,,0,0,0,,  游戏就完蛋了 \N{\fs36} Game over.
+Dialogue: 0,0:08:42.50,0:08:43.29,Default,,0,0,0,,{\c&HEB6A40&\pos(1297,80)\b1\fn方正基础像素\fscx77\fscy80}世嘉公司的“刺猬索尼克”
+Dialogue: 0,0:08:43.32,0:08:43.78,Default,,0,0,0,,{\c&H1A1BF0&\fs72\frx12\fry28\frz354\fn方正基础像素\fscx142\fscy121\move(746,570,733,554,36,453)}快手阿修
+Dialogue: 0,0:08:46.88,0:08:48.08,Default,,0,0,0,,{\fs48\c&H1A1A1B&\3c&H464647&\fn最像素EX2\1a&H00&\3a&HC0&\i0\4c&H000000&\4a&HFF&\frz14\org(959,528)\frx2\fry24\b0\fscx100\fscy121\pos(961,686)}游戏机被撤掉了\N请求帮助
+Dialogue: 0,0:08:53.08,0:08:54.60,Default,,0,0,0,,给你们吧 兄弟 \N{\fs36}Here you go, buddy.
+Dialogue: 0,0:08:55.66,0:08:58.28,Default,,0,0,0,,新鲜的  刚从吃豆人那拿来的 \N{\fs36}It's fresh. Straight from Pac-Man's.
+Dialogue: 0,0:08:59.00,0:09:00.28,Default,,0,0,0,,坚持下去吧 兄弟们 \N{\fs36}Hang in there, guys.
+Dialogue: 0,0:09:01.14,0:09:02.04,Default,,0,0,0,,姓名? \N{\fs36}Name?
+Dialogue: 0,0:09:02.04,0:09:02.98,Default,,0,0,0,,啊...\N{\fs36}Ah...
+Dialogue: 0,0:09:11.88,0:09:15.94,Default,,0,0,0,,来吧  庆祝美好的时光 \N{\fs36}Celebrate good times Come on!
+Dialogue: 0,0:09:37.82,0:09:40.16,Default,,0,0,0,,"30周年快乐"?\N{\fs36} "Happy 30th Anniversary"?
+Dialogue: 0,0:09:41.04,0:09:42.56,Default,,0,0,0,,他们开派对居然不叫上我 \N{\fs36}They're having a party without me.
+Dialogue: 0,0:09:45.02,0:09:48.04,Default,,0,0,0,,吃豆人? 他们居然邀请了吃豆人? \N{\fs36}Pac-Man? They invited Pac-Man?
+Dialogue: 0,0:09:48.04,0:09:50.74,Default,,0,0,0,,那个整天追着樱桃的吃豆人 \N{\fs36}That cherry-chasing dot-muncher
+Dialogue: 0,0:09:50.74,0:09:52.01,Default,,0,0,0,,甚至都不是这个游戏的成员 \N{\fs36}isn't even part of this game!
+Dialogue: 0,0:09:52.83,0:09:53.93,Default,,0,0,0,,派对真不错啊  阿修\N{\fs36} Great party, Felix.
+Dialogue: 0,0:09:53.93,0:09:55.40,Default,,0,0,0,,谢谢夸奖啊  朋友 \N{\fs36}Why, thank you, friend.
+Dialogue: 0,0:09:55.40,0:09:57.87,Default,,0,0,0,,阿修 等着你来跳舞呢\N{\fs36} Felix. You're needed on the dance floor!
+Dialogue: 0,0:09:58.85,0:09:59.90,Default,,0,0,0,,哇  \N{\fs36}Whoo
+Dialogue: 0,0:10:03.33,0:10:07.33,Default,,0,0,0,,哇--哇! 快手阿修 ! 哇--哇!  快手阿修!\N{\fs36}Whoo-whoo!  Fix-It Felix!Whoo-whoo! Fix-It Felix!
+Dialogue: 0,0:10:09.08,0:10:10.48,Default,,0,0,0,,哦! 肯定是马里奥 \N{\fs36}Oh! I'll bet that's Mario.
+Dialogue: 0,0:10:10.58,0:10:12.66,Default,,0,0,0,,他总是按照流行迟到那么一会 \N{\fs36}Fashionably late, per the norm.
+Dialogue: 0,0:10:12.70,0:10:14.02,Default,,0,0,0,,我去开门 阿修 \N{\fs36}I'll get it, Felix.
+Dialogue: 0,0:10:17.65,0:10:18.14,Default,,0,0,0,, 啊！\N{\fs36}  Ahh！
+Dialogue: 0,0:10:20.14,0:10:21.02,Default,,0,0,0,,是拉尔夫 \N{\fs36}It's Ralph!
+Dialogue: 0,0:10:21.13,0:10:21.90,Default,,0,0,0,, 啊...\N{\fs36}  Ahh...
+Dialogue: 0,0:10:21.90,0:10:24.33,Default,,0,0,0,,-他会破坏我们的派对 -把高脚杯藏起来\N{\fs36} -He'll wreck the party! -Hide the stemware!
+Dialogue: 0,0:10:24.33,0:10:25.95,Default,,0,0,0,,快赶走他 阿修 \N{\fs36}Get rid of him, Felix.
+Dialogue: 0,0:10:26.30,0:10:28.16,Default,,0,0,0,,好吧  我去跟他谈谈\N{\fs36} Oh, right. I'll go talk to him.
+Dialogue: 0,0:10:28.16,0:10:29.61,Default,,0,0,0,,继续吧 各位 \N{\fs36}Carry on, everyone.
+Dialogue: 0,0:10:31.78,0:10:33.76,Default,,0,0,0,,拉尔夫 有什么事吗? \N{\fs36}Ralph, can I help you?
+Dialogue: 0,0:10:33.76,0:10:35.75,Default,,0,0,0,,嘿 阿修 只是想来检查看看\N{\fs36} Hey, Felix. Just wanted to check on you.
+Dialogue: 0,0:10:35.75,0:10:38.21,Default,,0,0,0,,刚刚看到大楼上面有什么东西爆炸了\N{\fs36} I saw a big explosion or something go over the building there.
+Dialogue: 0,0:10:40.21,0:10:42.85,Default,,0,0,0,,只是些烟火啦 \N{\fs36}Oh, those were just fireworks.
+Dialogue: 0,0:10:42.85,0:10:44.63,Default,,0,0,0,,烟火呀  好吧  吓我一跳\N{\fs36} Fireworks. Okay. Phewf.
+Dialogue: 0,0:10:44.82,0:10:46.52,Default,,0,0,0,,有人生日吗  还是...\N{\fs36} Somebody's birthday, or...
+Dialogue: 0,0:10:46.52,0:10:50.64,Default,,0,0,0,,只是周年庆典啦 \N{\fs36}Well, it's more of an anniversary.
+Dialogue: 0,0:10:50.64,0:10:53.32,Default,,0,0,0,,实际上是我们游戏30周年纪念\N{\fs36} The 30th anniversary of our game, actually.
+Dialogue: 0,0:10:53.32,0:10:55.44,Default,,0,0,0,,什么? 就是今天吗?\N{\fs36} What? Is that today?
+Dialogue: 0,0:10:55.44,0:10:56.12,Default,,0,0,0,,我就知道你忘了 \N{\fs36}I know!
+Dialogue: 0,0:10:56.12,0:10:58.04,Default,,0,0,0,,我总是记不住日子 \N{\fs36}I'm such a dummy with dates.
+Dialogue: 0,0:10:58.04,0:11:00.48,Default,,0,0,0,,不管怎么说 呃 恭喜你啦\N{\fs36} Anyway, uh, congratulations.
+Dialogue: 0,0:11:00.48,0:11:03.28,Default,,0,0,0,,谢谢你 拉尔夫 也恭喜你 \N{\fs36}Thank you, Ralph. And to you, too.
+Dialogue: 0,0:11:03.28,0:11:04.70,Default,,0,0,0,,呃...哈-哈... \N{\fs36}Uh..Ha-Ha...
+Dialogue: 0,0:11:04.70,0:11:06.70,Default,,0,0,0,,呃... \N{\fs36}Uh...
+Dialogue: 0,0:11:07.58,0:11:09.38,Default,,0,0,0,,呃... \N{\fs36}Uh...
+Dialogue: 0,0:11:11.10,0:11:12.54,Default,,0,0,0,,嗨  聊完赶紧进来吧  阿修\N{\fs36} Hi. Just a heads-up, Felix.
+Dialogue: 0,0:11:12.54,0:11:14.23,Default,,0,0,0,,跳一会舞之后会拿出蛋糕来\N{\fs36} They're bringing out the cake in a few shakes.
+Dialogue: 0,0:11:14.23,0:11:16.21,Default,,0,0,0,,-嘿 格伦 -拉尔夫\N{\fs36}  -Hey, Glen. -Ralph.
+Dialogue: 0,0:11:17.65,0:11:20.68,Default,,0,0,0,,蛋糕? 听说过蛋糕这种东西 \N{\fs36} Cake? Heard about this cake stuff.
+Dialogue: 0,0:11:21.47,0:11:22.09,Default,,0,0,0,,从来没吃过\N{\fs36}  Never had it.
+Dialogue: 0,0:11:22.09,0:11:23.53,Default,,0,0,0,,没人会扔掉蛋糕 \N{\fs36} No one ever seems to throw it out
+Dialogue: 0,0:11:23.53,0:11:25.09,Default,,0,0,0,,所以垃圾箱从来没见过 \N{\fs36} so it never ends up in the dump.
+Dialogue: 0,0:11:25.09,0:11:27.09,Default,,0,0,0,,我从来都没尝过  呃...\N{\fs36}  I never actually tasted it. Uh...
+Dialogue: 0,0:11:28.18,0:11:30.21,Default,,0,0,0,,我总是想尝尝蛋糕的味道 \N{\fs36} I've always wanted to try cake.
+Dialogue: 0,0:11:30.73,0:11:31.52,Default,,0,0,0,,呃...\N{\fs36}Uh...
+Dialogue: 0,0:11:31.54,0:11:34.90,Default,,0,0,0,,我不认为你想进去尝一块的 是吧? \N{\fs36} I don't suppose you'd like to come in and have a slice, would you?
+Dialogue: 0,0:11:34.90,0:11:36.55,Default,,0,0,0,,嘿 呦...  各位好呀   \N{\fs36} Hey-o, everybody!
+Dialogue: 0,0:11:36.55,0:11:37.09,Default,,0,0,0,,嘭\N{\fs36}  Bam
+Dialogue: 0,0:11:37.46,0:11:38.21,Default,,0,0,0,,啊！ \N{\fs36} !Ah!
+Dialogue: 0,0:11:39.50,0:11:40.26,Default,,0,0,0,, 噢 \N{\fs36}  Oh!
+Dialogue: 0,0:11:43.26,0:11:45.79,Default,,0,0,0,,我没事 我没事 健康得很 \N{\fs36} I'm okay. I'm okay. Fit as a fiddle.
+Dialogue: 0,0:11:47.02,0:11:49.46,Default,,0,0,0,,-好了 你们都认识拉尔夫  -晚上好\N{\fs36} -Now, you all know Ralph. -Evening.
+Dialogue: 0,0:11:50.97,0:11:54.45,Default,,0,0,0,,晚上好  尼尔  露西  唐  戴娜... \N{\fs36}Evening, Nell, Lucy, Don, Dana...
+Dialogue: 0,0:11:54.45,0:11:56.28,Default,,0,0,0,,-是黛安娜  -大块头吉恩 \N{\fs36}-Deanna. -Big Gene!
+Dialogue: 0,0:11:56.39,0:11:57.76,Default,,0,0,0,,他为什么在这? \N{\fs36}Why is he here?
+Dialogue: 0,0:11:57.86,0:11:59.98,Default,,0,0,0,,他只是来尝块蛋糕 \N{\fs36}He's just here for a slice of cake.
+Dialogue: 0,0:11:59.98,0:12:01.86,Default,,0,0,0,,严格意义上来说 \N{\fs36} And I'm a big part of the game,
+Dialogue: 0,0:12:01.86,0:12:03.62,Default,,0,0,0,,我可是这游戏的一大主角啊 \N{\fs36} technically speaking.
+Dialogue: 0,0:12:03.87,0:12:04.98,Default,,0,0,0,,你又为什么在这 吉恩? \N{\fs36} Why are you here, Gene?
+Dialogue: 0,0:12:05.40,0:12:06.69,Default,,0,0,0,,瞧呀  蛋糕来了  \N{\fs36}Oh, look! The cake!
+Dialogue: 0,0:12:08.35,0:12:13.28,Default,,0,0,0,,我都忍不住了 你做得太棒了 玛丽  \N{\fs36}Well, I'll be dipped. You've really outdone yourself, Mary.
+Dialogue: 0,0:12:13.28,0:12:15.78,Default,,0,0,0,,瞧呀  我们大家都在屋顶上  \N{\fs36}Oh, and look! There's all of us at the top.
+Dialogue: 0,0:12:15.78,0:12:18.98,Default,,0,0,0,,每个公寓都是各人最喜欢的口味  \N{\fs36}Each apartment is everyone's favorite flavor.
+Dialogue: 0,0:12:18.98,0:12:21.16,Default,,0,0,0,,诺伍德是红色天鹅绒  \N{\fs36}Norwood's is red velvet.
+Dialogue: 0,0:12:21.16,0:12:22.11,Default,,0,0,0,,真羞涩～  \N{\fs36}Guilty!
+Dialogue: 0,0:12:22.26,0:12:25.84,Default,,0,0,0,,露西的柠檬口味 吉恩的朗姆酒蛋糕  \N{\fs36}And lemon for Lucy, rum cake for Gene,
+Dialogue: 0,0:12:25.84,0:12:27.38,Default,,0,0,0,,-还有给阿修的...  -嘿 玛丽  \N{\fs36}-and for Felix... -Hey, Mary.
+Dialogue: 0,0:12:27.50,0:12:28.37,Default,,0,0,0,,呃...  \N{\fs36}Um...
+Dialogue: 0,0:12:28.77,0:12:31.85,Default,,0,0,0,,我陷进去的那块泥巴是什么口味的? \N{\fs36} What's the flavor of that mud that I'm stuck in there?
+Dialogue: 0,0:12:31.85,0:12:34.92,Default,,0,0,0,,啥? 噢 是巧克力味的 \N{\fs36} Hmm? Oh. Chocolate.
+Dialogue: 0,0:12:34.92,0:12:37.10,Default,,0,0,0,,我其实并不是很喜欢巧克力 \N{\fs36} I've never been real fond of chocolate.
+Dialogue: 0,0:12:37.30,0:12:39.18,Default,,0,0,0,,好吧  我又不知道 \N{\fs36} Well, I did not know that.
+Dialogue: 0,0:12:39.30,0:12:41.58,Default,,0,0,0,,还有个小问题 我不想吹毛求疵  但是\N{\fs36}One other little thing.I hate to be picky, but
+Dialogue: 0,0:12:41.94,0:12:44.18,Default,,0,0,0,,站在这的愤怒小伙...  \N{\fs36}this angry little guy here...
+Dialogue: 0,0:12:44.18,0:12:46.38,Default,,0,0,0,,-我的蛋糕 -如果你们把他也放在上面  \N{\fs36}-My cake! -might be a lot happier
+Dialogue: 0,0:12:46.38,0:12:48.38,Default,,0,0,0,,和其他人待在一起  他会更开心的 \N{\fs36} if you put him up here with everyone else.
+Dialogue: 0,0:12:48.60,0:12:50.89,Default,,0,0,0,,看见没? 看看他的笑容  \N{\fs36}See that? Look at that smile.
+Dialogue: 0,0:12:50.89,0:12:53.01,Default,,0,0,0,,不 不 不 你瞧 拉尔夫  \N{\fs36}No, no. no. You see, Ralph,
+Dialogue: 0,0:12:53.01,0:12:55.01,Default,,0,0,0,,上面没你待的地方了  \N{\fs36}there's no room for you up here.
+Dialogue: 0,0:12:57.20,0:12:59.46,Default,,0,0,0,,好 这样行不行? 在这挪出个位置来  \N{\fs36}Well！ What about this? We can make room. here!
+Dialogue: 0,0:12:59.74,0:13:01.67,Default,,0,0,0,, 我们能轮流站着 很容易吧  \N{\fs36}Here. We could take turns. Easy.
+Dialogue: 0,0:13:01.67,0:13:02.48,Default,,0,0,0,,哇哦~！\N{\fs36} Woo!
+Dialogue: 0,0:13:02.58,0:13:04.72,Default,,0,0,0,,我们还是吃蛋糕吧?  \N{\fs36}How about we just eat the cake?
+Dialogue: 0,0:13:04.72,0:13:07.24,Default,,0,0,0,,等一下 阿修得站在屋顶上 \N{\fs36} Hang on. Felix needs to be on the roof
+Dialogue: 0,0:13:07.24,0:13:09.24,Default,,0,0,0,,因为他要领受勋章  \N{\fs36}because he's about to get his medal!
+Dialogue: 0,0:13:09.24,0:13:11.24,Default,,0,0,0,,好吧 那不如我们将那勋章  \N{\fs36}Well! Then how about we just take that medal
+Dialogue: 0,0:13:11.75,0:13:13.13,Default,,0,0,0,,这次就给拉尔夫吧? \N{\fs36} and give it to Ralph for once?
+Dialogue: 0,0:13:13.13,0:13:14.64,Default,,0,0,0,, 这不会是世界末日吧 吉恩? \N{\fs36}Would that be the end of the world, Gene?
+Dialogue: 0,0:13:14.64,0:13:16.64,Default,,0,0,0,,你现在简直太荒谬了  \N{\fs36}Now you're just being ridiculous.
+Dialogue: 0,0:13:16.64,0:13:18.14,Default,,0,0,0,,只有好人才能赢得勋章 \N{\fs36} Only good guys win medals,
+Dialogue: 0,0:13:18.35,0:13:20.86,Default,,0,0,0,,而这位先生 你可不是什么好人  \N{\fs36}and you, sir, are no good guy.
+Dialogue: 0,0:13:20.96,0:13:22.60,Default,,0,0,0,,如果我想的话我也能做个好人 \N{\fs36} I could be a good guy if I wanted to
+Dialogue: 0,0:13:22.60,0:13:23.75,Default,,0,0,0,,我也能赢勋章  \N{\fs36}and I could win a medal!
+Dialogue: 0,0:13:23.75,0:13:26.73,Default,,0,0,0,,呃哼  等你做到了再来跟我们说吧  \N{\fs36}Uh-huh. And when you do, come and talk to us.
+Dialogue: 0,0:13:26.73,0:13:28.00,Default,,0,0,0,,那时你们就会让我  \N{\fs36}Then would you finally let me
+Dialogue: 0,0:13:28.01,0:13:29.52,Default,,0,0,0,,在蛋糕最上层和你们站在一块吗?  \N{\fs36} be on top of the cake with you guys?
+Dialogue: 0,0:13:29.52,0:13:30.59,Default,,0,0,0,,如果你能赢一枚勋章 \N{\fs36}If you won a medal,
+Dialogue: 0,0:13:30.59,0:13:32.40,Default,,0,0,0,, 我们就会让你住进公寓阁楼   \N{\fs36}we'd let you live up here in the penthouse!
+Dialogue: 0,0:13:32.59,0:13:34.52,Default,,0,0,0,,不过这是不可能出现的情况  \N{\fs36}But it will never happen
+Dialogue: 0,0:13:34.76,0:13:37.70,Default,,0,0,0,,因为你只是个总破坏大楼的大坏蛋  \N{\fs36}because you're just the bad guy who wrecks the building.
+Dialogue: 0,0:13:38.07,0:13:39.32,Default,,0,0,0,,不  我不是 \N{\fs36} No, I'm not.
+Dialogue: 0,0:13:39.32,0:13:40.60,Default,,0,0,0,,是 你就是  \N{\fs36}Yes, you are!
+Dialogue: 0,0:13:40.60,0:13:42.42,Default,,0,0,0,,不  我不是  \N{\fs36}No, I'm not!
+Dialogue: 0,0:13:52.27,0:13:54.17,Default,,0,0,0,,看吧 你明明就是  \N{\fs36}Yes, you are.
+Dialogue: 0,0:13:55.85,0:13:58.30,Default,,0,0,0,,好吧  吉恩  知道吗? \N{\fs36} All right, Gene. You know what?
+Dialogue: 0,0:13:58.47,0:13:59.77,Default,,0,0,0,,我这就去赢个勋章回来  \N{\fs36}I'm going to win a medal.
+Dialogue: 0,0:14:00.20,0:14:02.14,Default,,0,0,0,,好！我马上就去赢勋章  \N{\fs36}Oh, I am going to win a medal!
+Dialogue: 0,0:14:02.34,0:14:05.44,Default,,0,0,0,,赢一枚这地方从未见过的最闪耀的勋章 \N{\fs36} The shiniest medal this place has ever seen!
+Dialogue: 0,0:14:05.54,0:14:07.83,Default,,0,0,0,,一枚如此之华丽的勋章 \N{\fs36} A medal that will be so good
+Dialogue: 0,0:14:07.83,0:14:10.84,Default,,0,0,0,,会让阿修所有的勋章都黯然失色 \N{\fs36} that it will make Felix's medals wet their pants!
+Dialogue: 0,0:14:12.29,0:14:14.28,Default,,0,0,0,,那么晚安了  感谢你们的派对 \N{\fs36} And good night! Thank you for the party.
+Dialogue: 0,0:14:15.78,0:14:17.64,Default,,0,0,0,,-他来真的吗?  -噢 拜托～  \N{\fs36}-Is he serious? -Oh, please!
+Dialogue: 0,0:14:17.64,0:14:19.44,Default,,0,0,0,,一个大坏蛋去哪能赢勋章回来? \N{\fs36} Where's a bad guy going to win a medal?
+Dialogue: 0,0:14:19.75,0:14:21.44,Default,,0,0,0,,他当然不是来真的  \N{\fs36}Of course he's not serious.
+Dialogue: 0,0:14:22.08,0:14:25.08,Default,,0,0,0,,这是我此生最认真的一次  \N{\fs36}I've never been more serious about anything in my life.
+Dialogue: 0,0:14:25.52,0:14:27.12,Default,,0,0,0,,所以我才直接来你这里 酒保  \N{\fs36}That's why I came straight here, Tapper.
+Dialogue: 0,0:14:27.14,0:14:28.67,Default,,0,0,0,,你一向是我的指路明灯 先生\N{\fs36} You've never given me a bum steer. Dear
+Dialogue: 0,0:14:28.67,0:14:29.71,Default,,0,0,0,,赶快给我点建议吧   \N{\fs36}Now, come on.
+Dialogue: 0,0:14:29.74,0:14:32.48,Default,,0,0,0,, 我这样的人去哪里赢勋章呢?  \N{\fs36}Where can a guy like me go and win a medal?
+Dialogue: 0,0:14:32.68,0:14:34.84,Default,,0,0,0,,我不觉得还有这种游戏存在 拉尔夫 \N{\fs36} I don't think such a game exists, Ralph.
+Dialogue: 0,0:14:34.84,0:14:37.03,Default,,0,0,0,,噢  拜托了 你见多识广    \N{\fs36}Oh, come on. You know people.
+Dialogue: 0,0:14:37.03,0:14:38.82,Default,,0,0,0,,总会有...   酒保 来杯根汁汽水  \N{\fs36}There's got to be...  Tapper, I need a root beer.
+Dialogue: 0,0:14:38.86,0:14:40.00,Default,,0,0,0,,来了  等会再说  \N{\fs36}Coming! Hold that thought.
+Dialogue: 0,0:14:47.58,0:14:49.17,Default,,0,0,0,,好了 你说什么来着   \N{\fs36} -Okay. As you were saying.
+Dialogue: 0,0:14:49.31,0:14:52.44,Default,,0,0,0,,-我是说：我不想今后30年  \N{\fs36}- I was saying,I can't spend another 30 years
+Dialogue: 0,0:14:52.44,0:14:53.86,Default,,0,0,0,,还孤零零住在垃圾堆里 \N{\fs36} living alone in the garbage
+Dialogue: 0,0:14:53.87,0:14:55.61,Default,,0,0,0,,拿不到奖牌我就不回去 \N{\fs36} I'm not going back without a medal.
+Dialogue: 0,0:14:55.66,0:14:57.25,Default,,0,0,0,,啊哦 我不知道怎么跟你说  \N{\fs36}Well, I don't know what to tell you.
+Dialogue: 0,0:14:57.30,0:14:59.17,Default,,0,0,0,,可能有人把奖牌落在这了  \N{\fs36}Maybe somebody left a medal here.
+Dialogue: 0,0:14:59.79,0:15:01.53,Default,,0,0,0,,你不妨去失物招领处转转  \N{\fs36}You're welcome to dig through the lost and found.
+Dialogue: 0,0:15:02.15,0:15:04.46,Default,,0,0,0,,好吧  看看这里有什么 \N{\fs36} Okay, let's see what we got here.
+Dialogue: 0,0:15:04.46,0:15:06.92,Default,,0,0,0,,哦～去～去～走开 下去  \N{\fs36}Oh!shoo!shoo!Go on, get out of here.
+Dialogue: 0,0:15:09.50,0:15:11.04,Default,,0,0,0,,蘑菇? 不要  \N{\fs36}Mushroom? No.
+Dialogue: 0,0:15:11.83,0:15:13.73,Default,,0,0,0,,这是什么? 不要  \N{\fs36}What is this? No.
+Dialogue: 0,0:15:14.06,0:15:17.89,Default,,0,0,0,,喔  拜托  桑吉尔夫  恶心 \N{\fs36} Oh, come on, Zangief! Gross.
+Dialogue: 0,0:15:20.09,0:15:21.16,Default,,0,0,0,,我这是干嘛呢? \N{\fs36} What am I doing?
+Dialogue: 0,0:15:22.80,0:15:25.33,Default,,0,0,0,,-嘿 看着点 -我们是人类最后的希望 \N{\fs36} -Hey, excuse you! -We are humanity's last hope.
+Dialogue: 0,0:15:25.51,0:15:27.83,Default,,0,0,0,,我们的使命? 消灭星际甲虫 \N{\fs36} Our mission? Destroy all Cy-Bugs.
+Dialogue: 0,0:15:28.83,0:15:30.79,Default,,0,0,0,,我们是人类最后的希望  \N{\fs36}We are humanity's last hope.
+Dialogue: 0,0:15:30.81,0:15:33.61,Default,,0,0,0,,呃... 你还好吗 太空人? \N{\fs36} Uh... You okay there, space cadet?
+Dialogue: 0,0:15:33.85,0:15:35.70,Default,,0,0,0,,我们才上线一周  \N{\fs36}We've only been plugged in a week
+Dialogue: 0,0:15:35.83,0:15:39.23,Default,,0,0,0,,每天都是  "爬楼  打虫子"  \N{\fs36}and every day it's, "Climb the building, then fight bugs."
+Dialogue: 0,0:15:39.23,0:15:41.48,Default,,0,0,0,,"继续爬  再打虫子  "  \N{\fs36}"Climb the building, fight more bugs!"
+Dialogue: 0,0:15:41.56,0:15:43.02,Default,,0,0,0,,好吧  听着  \N{\fs36} Yeah, yeah.Right. Look.
+Dialogue: 0,0:15:43.02,0:15:45.07,Default,,0,0,0,,别扯我衣服  太空来的  \N{\fs36}Easy on the overalls, spaceman.
+Dialogue: 0,0:15:45.07,0:15:46.56,Default,,0,0,0,,都不容易 知道吗?  \N{\fs36}It's tough all over, all right?
+Dialogue: 0,0:15:46.56,0:15:49.59,Default,,0,0,0,,这都为了个什么... 破奖牌? \N{\fs36} And all for what? A lousy medal?
+Dialogue: 0,0:15:50.27,0:15:52.13,Default,,0,0,0,,奖牌? 你能赢到奖牌?  \N{\fs36}Medal? You win a medal?
+Dialogue: 0,0:15:52.20,0:15:54.13,Default,,0,0,0,,对  英雄勋章  \N{\fs36}Yeah, Medal of Heroes.
+Dialogue: 0,0:15:54.13,0:15:55.93,Default,,0,0,0,,唔  亮闪闪的那种？ \N{\fs36} Ooh. Is it shiny?
+Dialogue: 0,0:15:55.93,0:15:57.93,Default,,0,0,0,,是挺闪的  \N{\fs36}Pretty shiny.
+Dialogue: 0,0:15:57.93,0:16:00.98,Default,,0,0,0,,-唔  上面还写着"英雄"? \N{\fs36} -是的 -Ooh! And it says "hero" on it? -Uh-huh. Oh, yeah.
+Dialogue: 0,0:16:00.98,0:16:03.52,Default,,0,0,0,,你是说爬楼就能拿到? \N{\fs36} And you say you win it by climbing a building?
+Dialogue: 0,0:16:03.52,0:16:05.07,Default,,0,0,0,,-还有打虫子  -对 虫子 \N{\fs36} -And fighting bugs! -Right, bugs.
+Dialogue: 0,0:16:05.07,0:16:08.55,Default,,0,0,0,,我能不能跟着你去游戏里  你知道的 \N{\fs36} Is there any chance I could go with you to your game. you know
+Dialogue: 0,0:16:08.73,0:16:09.98,Default,,0,0,0,,去拿块奖牌什么的  \N{\fs36}maybe get one of those medals?
+Dialogue: 0,0:16:09.98,0:16:11.98,Default,,0,0,0,,-否定  -意思是也许可以? \N{\fs36} -Negatory. -Does that mean maybe?
+Dialogue: 0,0:16:11.98,0:16:14.28,Default,,0,0,0,,不 听着 只有最勇敢  \N{\fs36}No! Look, only the bravest
+Dialogue: 0,0:16:14.28,0:16:17.02,Default,,0,0,0,,最棒的士兵才能加入我们 \N{\fs36} and the best serve in our corps.
+Dialogue: 0,0:16:17.42,0:16:17.94,Default,,0,0,0,,虫子  \N{\fs36}Bug!
+Dialogue: 0,0:16:17.98,0:16:19.54,Default,,0,0,0,,啊-吖吖...\N{\fs36}A-hh...
+Dialogue: 0,0:16:27.24,0:16:30.09,Default,,0,0,0,,我们是人类最后的希望  \N{\fs36}We are humanity's last hope.
+Dialogue: 0,0:16:34.89,0:16:36.22,Default,,0,0,0,,{\fn方正基础像素\c&H1005E8&\1a&H25&\3c&H10109A&\3a&H22&\pos(956,558)\fscx138\fscy117\frx6\fry2\frz0.2669}英雄使命
+Dialogue: 0,0:16:35.67,0:16:36.82,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}请注意 \N{\fs36} Attention!
+Dialogue: 0,0:16:36.88,0:16:39.22,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}游戏厅将在五分钟内开始营业 \N{\fs36} The arcade will open in five minutes.
+Dialogue: 0,0:16:39.37,0:16:40.98,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}请回到自己的游戏报道 \N{\fs36} Please report to your games.
+Dialogue: 0,0:16:42.79,0:16:46.28,Default,,0,0,0,,我脚上没知觉了 这都是什么? \N{\fs36} I can't feel my legs. What is all this stuff?
+Dialogue: 0,0:16:48.42,0:16:49.91,Default,,0,0,0,,一股子拉尔夫味 \N{\fs36} Smells like Ralph in here.
+Dialogue: 0,0:16:51.38,0:16:53.86,Default,,0,0,0,,好  是什么游戏来着?  \N{\fs36}Okay. All right. What was it called again?
+Dialogue: 0,0:16:53.91,0:16:56.05,Default,,0,0,0,,英雄啥...啥来... \N{\fs36}Hero's something.
+Dialogue: 0,0:16:56.05,0:16:57.66,Default,,0,0,0,,使命  英雄使命 \N{\fs36} Duty. Hero's Duty.
+Dialogue: 0,0:16:57.66,0:16:58.76,Default,,0,0,0,,喔 那儿呢  \N{\fs36}Oh, there it is.
+Dialogue: 0,0:17:02.19,0:17:05.71,Default,,0,0,0,,抱歉 小Q 是我 拉尔夫  \N{\fs36}Sorry, Q*bert. It's me, Ralph.
+Dialogue: 0,0:17:05.96,0:17:06.93,Default,,0,0,0,,嘘  \N{\fs36}Shh!
+Dialogue: 0,0:17:11.75,0:17:12.66,Default,,0,0,0,,撞墙了  \N{\fs36}The wall.
+Dialogue: 0,0:17:15.18,0:17:16.36,Default,,0,0,0,,{\fnImpact\fs120\fscx92\fscy127\frz340\frx16\fry36\move(598,200,588,154,20,1146)}{\c&HEAA07E&\3c&H953000&}利特瓦克\N{\fnRoman\i0\fs62\c&H2B26FF&\3c&HA6A6A6&}家庭娱乐中心
+Dialogue: 0,0:17:15.18,0:17:16.36,Default,,0,0,0,,{\c&HC3A16D&\frz343.9\frx14\fry48\fscx145\fscy133\move(636,378,632,336,20,1146)}游戏厅
+Dialogue: 0,0:17:19.69,0:17:21.61,Default,,0,0,0,,{\fs48\move(1636,198,1694.831,198,15,1891)}{\c&HF6FAF6&\fs62\fn黑体}游戏厅内\N{\c&H0000F4&\fs72}禁止\N{\c&HFFFFFF&\fs48}外带食品饮料
+Dialogue: 0,0:17:20.72,0:17:21.79,Default,,0,0,0,,{\move(1528,462,1544.045,462,9,968)} {\fs120\c&H1A1BFA&}营业中
+Dialogue: 0,0:17:21.66,0:17:23.16,Default,,0,0,0,,早上好  孩子们  进来吧 \N{\fs36} Morning, kids. Come on in.
+Dialogue: 0,0:17:23.16,0:17:25.57,Default,,0,0,0,,见到你们真高兴  还有你  小鬼  \N{\fs36}Good to see you. Good to see you. You, too, little fella.
+Dialogue: 0,0:17:30.42,0:17:33.27,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}投币警报  投币警报 \N{\fs36} Quarter alert! Quarter alert!
+Dialogue: 0,0:17:33.27,0:17:34.17,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}这不是演习  \N{\fs36}This is not a drill.
+Dialogue: 0,0:17:34.17,0:17:37.13,Default,,0,0,0,,唔  亲爱的金牌  \N{\fs36}Ooh! Sweet golden medal!
+Dialogue: 0,0:17:35.22,0:17:35.41,Default,,0,0,0,,{\fn方正基础像素\fs120\fscx86\fscy70\frx12\fry16\c&H51A9E6&\3c&H0203CC&\1a&H29&\pos(1398,116)\frz349.5}投币警报
+Dialogue: 0,0:17:35.51,0:17:35.71,Default,,0,0,0,,{\fn方正基础像素\fs120\fscx86\fscy70\frx12\fry16\c&H1457D1&\3c&H000021&\1a&H29&\pos(1398,116)\frz349.5}投币警报
+Dialogue: 0,0:17:35.98,0:17:36.28,Default,,0,0,0,,{\fn方正基础像素\fs120\fscx86\fscy70\frx12\fry16\c&H51A9E6&\3c&H0203CC&\1a&H29&\pos(1398,116)\frz349.5}投币警报
+Dialogue: 0,0:17:36.31,0:17:36.58,Default,,0,0,0,,{\fn方正基础像素\fs120\fscx86\fscy70\frx12\fry16\c&H1457D1&\3c&H000021&\1a&H29&\pos(1398,116)\frz349.5}投币警报
+Dialogue: 0,0:17:42.49,0:17:44.17,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}在一个无名星球上  \N{\fs36}On a planet with no name
+Dialogue: 0,0:17:44.17,0:17:47.86,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}一项绝密实验酿成了恶果 \N{\fs36} a top-secret experiment has gone horribly wrong.
+Dialogue: 0,0:17:48.53,0:17:50.89,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你是人类最后的希望  \N{\fs36}You are humanity's last hope.
+Dialogue: 0,0:17:53.96,0:17:55.86,Default,,0,0,0,,嗵嗵嗒嗒  准备出击  \N{\fs36}Rooting-tooting, ready for shooting!
+Dialogue: 0,0:17:56.33,0:17:57.44,Default,,0,0,0,,好了 \N{\fs36} All right.
+Dialogue: 0,0:17:57.91,0:18:00.80,Default,,0,0,0,,都听好了  我只说一遍 \N{\fs36} Now listen up, because I'm only going to say this once.
+Dialogue: 0,0:18:01.26,0:18:03.24,Default,,0,0,0,,害怕只是两个字  姑娘们 \N{\fs36} Fear is a four-letter word, ladies.
+Dialogue: 0,0:18:03.61,0:18:06.20,Default,,0,0,0,,如果你被吓得尿裤子  \N{\fs36}If you want to go pee-pee in your big-boy slacks,
+Dialogue: 0,0:18:06.20,0:18:07.50,Default,,0,0,0,,千万别说出来 \N{\fs36} keep it to yourself.
+Dialogue: 0,0:18:07.50,0:18:10.03,Default,,0,0,0,,看看谁是妈妈的乖儿子 \N{\fs36} It's make your mamas proud time!
+Dialogue: 0,0:18:10.03,0:18:11.25,Default,,0,0,0,,我爱我妈  \N{\fs36}I love my mama!
+Dialogue: 0,0:18:11.72,0:18:14.07,Default,,0,0,0,,让开  第一人称玩家射手来了 \N{\fs36} Heads up! First-person shooter, coming through!
+Dialogue: 0,0:18:14.07,0:18:15.71,Default,,0,0,0,,哟  机器人 \N{\fs36} Ooh, robot!
+Dialogue: 0,0:18:15.90,0:18:17.71,Default,,0,0,0,,哔  哔  哔 \N{\fs36} Boop, boop, boop.
+Dialogue: 0,0:18:18.46,0:18:21.92,Default,,0,0,0,,游戏倒计时  三  二  一 \N{\fs36} Game play in three, two, one.
+Dialogue: 0,0:18:23.47,0:18:25.82,Default,,0,0,0,,我们是人类最后的希望  \N{\fs36}We are humanity's last hope.
+Dialogue: 0,0:18:25.82,0:18:27.13,Default,,0,0,0,,我们的使命?  \N{\fs36}Our mission?
+Dialogue: 0,0:18:27.13,0:18:29.54,Default,,0,0,0,,消灭星际甲虫 \N{\fs36} Destroy all Cy-Bugs.
+Dialogue: 0,0:18:29.54,0:18:31.69,Default,,0,0,0,,准备好了吗？新来的 跟我来  \N{\fs36}You ready, rookie? Let's find out.
+Dialogue: 0,0:18:34.00,0:18:35.98,Default,,0,0,0,,妈妈咪呀～  \N{\fs36}Sweet Mother Hubbard!
+Dialogue: 0,0:18:40.26,0:18:42.68,Default,,0,0,0,,别 别 别 等一下！ 啊～  \N{\fs36}No, no, no! Wait a second! Aah!
+Dialogue: 0,0:18:46.53,0:18:48.88,Default,,0,0,0,,星际甲虫  正前方  看你的  菜鸟 \N{\fs36} Cy-Bug, twelve o'clock. Take it, newbie.
+Dialogue: 0,0:18:51.81,0:18:53.39,Default,,0,0,0,,别 别! 等等！等等！  \N{\fs36}No, no! Wait, wait!
+Dialogue: 0,0:18:56.87,0:18:59.87,Default,,0,0,0,,当心 菜鸟 它们吃下什么就会变成什么 \N{\fs36} Watch it, rookie! These monsters become what they eat.
+Dialogue: 0,0:19:02.15,0:19:04.09,Default,,0,0,0,,我的枪  还给我  \N{\fs36}My gun! Give me that back.
+Dialogue: 0,0:19:08.52,0:19:10.34,Default,,0,0,0,,趁蛋孵化前摧毁它们  \N{\fs36}Shoot the eggs before they hatch!
+Dialogue: 0,0:19:10.68,0:19:11.90,Default,,0,0,0,,不  不 \N{\fs36} Oh, no!
+Dialogue: 0,0:19:11.90,0:19:13.65,Default,,0,0,0,,有东西从它们身下跑出来了 \N{\fs36} Something's coming out of their bottom!
+Dialogue: 0,0:19:13.65,0:19:15.32,Default,,0,0,0,,-唔～-真恶心   \N{\fs36}-Oh, gross!
+Dialogue: 0,0:19:16.57,0:19:17.53,Default,,0,0,0,, -马尔科夫斯基  \N{\fs36} -Markowski!
+Dialogue: 0,0:19:17.53,0:19:18.79,Default,,0,0,0,,归队  \N{\fs36}Get back in formation!
+Dialogue: 0,0:19:20.30,0:19:21.14,Default,,0,0,0,,好的  姑娘们  \N{\fs36}All right, ladies,
+Dialogue: 0,0:19:21.14,0:19:23.60,Default,,0,0,0,,刚刚都是小打小闹 \N{\fs36} the kitten whispers and tickie fights stop now.
+Dialogue: 0,0:19:23.60,0:19:25.73,Default,,0,0,0,,实验室入口就在前方  \N{\fs36}The entrance to the lab is straight ahead.
+Dialogue: 0,0:19:25.77,0:19:27.08,Default,,0,0,0,,-里面见了  -不要 \N{\fs36} -I'll meet you guys inside! -No!
+Dialogue: 0,0:19:27.13,0:19:29.54,Default,,0,0,0,,啊... 逃难所！ 逃难所！ \N{\fs36} Oh! Sanctuary! Sanctuary!
+Dialogue: 0,0:19:32.96,0:19:34.94,Default,,0,0,0,,我还以为和"蜈蚣"的设定一样呢 \N{\fs36} I thought this was going to be like Centipede!
+Dialogue: 0,0:19:34.94,0:19:37.74,Default,,0,0,0,,现在的电玩怎么变得这么暴力恐怖啊?  \N{\fs36}When did video games become so violent and scary?
+Dialogue: 0,0:19:38.14,0:19:39.31,Default,,0,0,0,,快  放我出去  \N{\fs36}Please, get me out of here!
+Dialogue: 0,0:19:41.72,0:19:42.71,Default,,0,0,0,,抓她吧~ \N{\fs36} Take her!
+Dialogue: 0,0:19:46.93,0:19:48.09,Default,,0,0,0,,简直是敲竹杠啊～  \N{\fs36}What a rip-off!
+Dialogue: 0,0:19:48.76,0:19:52.75,Default,,0,0,0,,啊 走开 游戏结束了 住手 \N{\fs36} Ah! Get off me! It's game over. Stop it!
+Dialogue: 0,0:19:55.25,0:19:56.89,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}烽火启动 烽火启动 \N{\fs36} Beacon up! Beacon up!
+Dialogue: 0,0:20:00.66,0:20:03.36,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}停火  停火 \N{\fs36}  ! Cease fire!
+Dialogue: 0,0:20:08.70,0:20:11.11,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}请注意  回到初始位置 \N{\fs36} Attention! Return to start positions.
+Dialogue: 0,0:20:11.11,0:20:13.11,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}回到初始位置 \N{\fs36} Return to start positions.
+Dialogue: 0,0:20:14.74,0:20:18.31,Default,,0,0,0,,来  我来帮你  刚才真是抱歉  \N{\fs36}Here, let me help you. Sorry about that.
+Dialogue: 0,0:20:18.31,0:20:19.64,Default,,0,0,0,,对 怎么可能不生气  \N{\fs36}Yeah, you must be upset
+Dialogue: 0,0:20:19.64,0:20:20.97,Default,,0,0,0,,-马克沃斯基  -谁?  \N{\fs36}-Markowski. -Who?
+Dialogue: 0,0:20:21.53,0:20:25.40,Default,,0,0,0,,唔哇 对对 哦 是我 马尔科夫斯基 啊...\N{\fs36} Whoa! Oh, yeah, me. I'm Markowski. Ah!
+Dialogue: 0,0:20:25.40,0:20:27.32,Default,,0,0,0,,英雄使命的第一准则是什么? \N{\fs36}What's the first rule of Hero's Duty?
+Dialogue: 0,0:20:27.32,0:20:29.49,Default,,0,0,0,,不抛弃，不放弃，不生气？ \N{\fs36} No cuts, no butts, no coconuts?
+Dialogue: 0,0:20:30.44,0:20:34.01,Default,,0,0,0,,永远不要干扰第一人称玩家射手 \N{\fs36} Never interfere with the first-person shooter.
+Dialogue: 0,0:20:34.20,0:20:37.00,Default,,0,0,0,,我们的任务是让玩家登上总部 \N{\fs36} Our job is to get the gamers to the top of that building
+Dialogue: 0,0:20:37.00,0:20:39.52,Default,,0,0,0,,拿到奖牌  就这样 \N{\fs36} so they can get a medal, and that's it!
+Dialogue: 0,0:20:39.52,0:20:41.79,Default,,0,0,0,,遵守程序  大兵 \N{\fs36} So stick to the program, soldier!
+Dialogue: 0,0:20:41.79,0:20:43.36,Default,,0,0,0,,好 好 是 是  \N{\fs36}Right. Right. Aye, aye.
+Dialogue: 0,0:20:42.58,0:20:44.63,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}投币警报  投币警报 \N{\fs36} Quarter alert! Quarter alert!
+Dialogue: 0,0:20:44.63,0:20:47.60,Default,,0,0,0,,好了  娘炮们  回到起始位置  \N{\fs36}All right, pussy willows. Back to start positions!
+Dialogue: 0,0:20:49.16,0:20:52.89,Default,,0,0,0,,耶～好的，  我才不要再来一遍 \N{\fs36} Yeah, right. No way I'm going through that again.
+Dialogue: 0,0:20:54.16,0:20:56.54,Default,,0,0,0,,这么说奖牌就在上面? \N{\fs36} So that's where they keep the medal, huh?
+Dialogue: 0,0:21:01.30,0:21:03.57,Default,,0,0,0,,嗯 "每天都有新车手" \N{\fs36} Hmm. "New racers daily."
+Dialogue: 0,0:21:04.08,0:21:05.93,Default,,0,0,0,,真棒  下盘我来 \N{\fs36} Sweet! I got next game.
+Dialogue: 0,0:21:05.93,0:21:07.14,Default,,0,0,0,,走开  小鬼  \N{\fs36}Go away, kid!
+Dialogue: 0,0:21:07.14,0:21:08.47,Default,,0,0,0,,我们要把今天的九个车手玩遍  \N{\fs36}We're going to play all nine of today's racers!
+Dialogue: 0,0:21:08.47,0:21:09.26,Default,,0,0,0,,对  \N{\fs36}Yeah!
+Dialogue: 0,0:21:10.81,0:21:11.94,Default,,0,0,0,,对不起 \N{\fs36} Sorry.
+Dialogue: 0,0:21:25.85,0:21:27.86,Default,,0,0,0,,嗯  破坏王去哪了? \N{\fs36} Hmm. Where's the wrecking guy?
+Dialogue: 0,0:21:27.82,0:21:29.53,Default,,0,0,0,,{\c&HF6F7F5&\fn方正基础像素\b1\fs92\fscx136\fscy121\3c&H737379&\frz7.247\pos(722,157)\frx4\fry338}我要摧毁它！{\b0}
+Dialogue: 0,0:21:28.57,0:21:31.64,Default,,0,0,0,,拉尔夫呢? 他应该开始搞破坏了啊 \N{\fs36} Where's Ralph? He should be wrecking the building.
+Dialogue: 0,0:21:31.64,0:21:33.64,Default,,0,0,0,,嘘  遵守程序 \N{\fs36} Shh! Stick with the program.
+Dialogue: 0,0:21:33.99,0:21:36.04,Default,,0,0,0,,修好它  阿修 Fix it, Felix!
+Dialogue: 0,0:21:36.93,0:21:37.09,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.08,0:21:37.17,Default,,0,0,0,,{\fn方正基础像素\c&HE2E9EA&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.18,0:21:37.29,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.32,0:21:37.44,Default,,0,0,0,,{\fn方正基础像素\c&HEEF1F2&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.60,0:21:37.72,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.74,0:21:37.87,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:37.90,0:21:37.99,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:38.01,0:21:38.12,Default,,0,0,0,,{\fn方正基础像素\c&H5EC3CF&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:38.14,0:21:38.25,Default,,0,0,0,,{\fn方正基础像素\c&HE5ECED&\fs72\pos(1091,125)\b1\fscx156\fscy136}我可以修好它
+Dialogue: 0,0:21:43.87,0:21:47.43,Default,,0,0,0,,拉尔夫  投币警报  游戏开始了 \N{\fs36} Ralph! Quarter alert! Game on!
+Dialogue: 0,0:21:55.16,0:21:56.52,Default,,0,0,0,,想想办法  阿修  \N{\fs36}Do something, Felix!
+Dialogue: 0,0:21:56.52,0:21:59.48,Default,,0,0,0,,自然点  我来解决  \N{\fs36}Just act natural. I'll fix it.
+Dialogue: 0,0:22:03.78,0:22:05.57,Default,,0,0,0,,拉尔夫? 拉尔夫啊  \N{\fs36}Ralph? Ralph!
+Dialogue: 0,0:22:05.68,0:22:06.49,Default,,0,0,0,,怎么... \N{\fs36} What the...
+Dialogue: 0,0:22:06.85,0:22:08.59,Default,,0,0,0,,拉尔夫  拉尔夫啊 \N{\fs36} Ralph! Ralph!
+Dialogue: 0,0:22:10.96,0:22:13.70,Default,,0,0,0,,天呐  他去哪了? \N{\fs36} Oh, my land! Where is he?
+Dialogue: 0,0:22:14.72,0:22:15.93,Default,,0,0,0,,利特瓦克先生 \N{\fs36}Mr. Litwak!
+Dialogue: 0,0:22:16.33,0:22:17.68,Default,,0,0,0,,什么事  小甜心? \N{\fs36} What's the trouble, sweetheart?
+Dialogue: 0,0:22:17.68,0:22:19.06,Default,,0,0,0,,这游戏出毛病了 \N{\fs36} The game's busted.
+Dialogue: 0,0:22:19.68,0:22:21.24,Default,,0,0,0,,我能修好  我能修好  \N{\fs36}I can fix it! I can fix it!
+Dialogue: 0,0:22:23.14,0:22:24.15,Default,,0,0,0,,哦天呐  \N{\fs36}Oh, boy.
+Dialogue: 0,0:22:24.16,0:22:27.36,Default,,0,0,0,,这游戏跟我奶奶一样疯疯颠颠的  \N{\fs36}Looks like the game's gone cuckoo, like my nana.
+Dialogue: 0,0:22:27.54,0:22:29.81,Default,,0,0,0,,抱歉  亲爱的  这个硬币还给你  \N{\fs36}Sorry, sweetie. Here's your quarter back.
+Dialogue: 0,0:22:30.18,0:22:31.49,Default,,0,0,0,,那游戏怎么办?  \N{\fs36}But what about the game?
+Dialogue: 0,0:22:31.49,0:22:33.58,Default,,0,0,0,,明天我找人来看看... \N{\fs36} I'll have someone look at it tomorrow...
+Dialogue: 0,0:22:33.58,0:22:35.54,Default,,0,0,0,,如果修不好  那么也许 \N{\fs36} But if he can't fix it, it might be time
+Dialogue: 0,0:22:35.54,0:22:38.02,Default,,0,0,0,,老拉尔夫和阿修就该安息啦 \N{\fs36} to put old Ralph and Felix out to pasture.
+Dialogue: 0,0:22:38.30,0:22:39.11,Default,,0,0,0,,跟我奶奶一样 \N{\fs36} Like my nana.
+Dialogue: 0,0:22:45.88,0:22:47.15,Default,,0,0,0,,{\fn文鼎特圆简\c&H083067&\fs120\pos(984,323)\3c&H1D1D49&}游戏故障
+Dialogue: 0,0:22:45.88,0:22:47.14,Default,,0,0,0,,{\fn文鼎特圆简\c&H0A3264&\pos(951,691)}明日检修
+Dialogue: 0,0:22:50.25,0:22:53.70,Default,,0,0,0,,女士们先生们 我们游戏故障了 \N{\fs36} Ladies and gentlemen, we're out of order.
+Dialogue: 0,0:22:53.70,0:22:56.36,Default,,0,0,0,,老天呀  没有了拉尔夫  我们完了 \N{\fs36} Sweet mercy! Without Ralph, we're doomed!
+Dialogue: 0,0:22:56.36,0:22:58.26,Default,,0,0,0,,他们会切断我们的电源  \N{\fs36}They're going to pull our plug!
+Dialogue: 0,0:22:59.59,0:23:03.24,Default,,0,0,0,,好了  大家冷静点 \N{\fs36} Okay, everybody, calm down.
+Dialogue: 0,0:23:03.85,0:23:07.09,Default,,0,0,0,,拉尔夫可能又在超级酒保的厕所里睡着了  \N{\fs36}Ralph probably fell asleep in the washroom of Tapper's again.
+Dialogue: 0,0:23:07.55,0:23:09.43,Default,,0,0,0,,看到没? 他来了 \N{\fs36} See? There he is now.
+Dialogue: 0,0:23:14.79,0:23:17.91,Default,,0,0,0,,是小Q 你怎么来了 邻居?  \N{\fs36}Why, it's Q*bert. What brings you here, neighbor?
+Dialogue: 0,0:23:20.10,0:23:21.18,Default,,0,0,0,,他说什么了  阿修? \N{\fs36} What's he saying, Felix?
+Dialogue: 0,0:23:21.18,0:23:24.04,Default,,0,0,0,,别急 我的Q伯特语有些生疏了 \N{\fs36} Stand by. My Q*bert-ese is a little rusty.
+Dialogue: 0,0:23:39.58,0:23:41.06,Default,,0,0,0,,拉尔夫跟沃伦一样出走了 \N{\fs36} Ralph's gone Turbo!
+Dialogue: 0,0:23:56.64,0:23:58.04,Default,,0,0,0,,闪闪的  \N{\fs36}Shiny.
+Dialogue: 0,0:23:58.45,0:24:01.72,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}请注意  游戏厅关门了  \N{\fs36}Attention! The arcade is now closed.
+Dialogue: 0,0:24:01.72,0:24:03.71,Default,,0,0,0,,你看到马尔科夫斯基那个熊样没?-哈哈... \N{\fs36} Did you get a load of Markowski?-Ha-ha...
+Dialogue: 0,0:24:03.71,0:24:04.85,Default,,0,0,0,,都闭嘴  \N{\fs36}Shut your chew holes.
+Dialogue: 0,0:24:06.09,0:24:06.89,Default,,0,0,0,,星际甲虫 \N{\fs36} Cy-Bug.
+Dialogue: 0,0:24:17.06,0:24:17.87,Default,,0,0,0,,受死吧 \N{\fs36} Taste it!
+Dialogue: 0,0:24:25.35,0:24:27.56,Default,,0,0,0,,躲得还挺快 小不点 \N{\fs36} Slick Tiddlywinking, pint-size.
+Dialogue: 0,0:24:27.56,0:24:29.25,Default,,0,0,0,,我是快手阿修  长官 \N{\fs36} I'm Fix-It Felix, Jr., ma'am.
+Dialogue: 0,0:24:29.48,0:24:31.82,Default,,0,0,0,,从快手阿修游戏来的  \N{\fs36}From the game Fix-It Felix, Jr.
+Dialogue: 0,0:24:33.22,0:24:35.30,Default,,0,0,0,,妈妈咪呀  \N{\fs36}Jiminey jaminey!
+Dialogue: 0,0:24:35.30,0:24:39.68,Default,,0,0,0,,看看你那高度解析的脸 \N{\fs36} Look at that high definition. Your face!
+Dialogue: 0,0:24:40.14,0:24:42.48,Default,,0,0,0,,美极了 \N{\fs36} It's amazing!
+Dialogue: 0,0:24:42.48,0:24:46.04,Default,,0,0,0,,马屁充不了子弹  先生 \N{\fs36} Flattery don't charge these batteries, civilian.
+Dialogue: 0,0:24:46.16,0:24:47.64,Default,,0,0,0,,现在说说你此行的目的  \N{\fs36}Now, state your business.
+Dialogue: 0,0:24:47.64,0:24:50.56,Default,,0,0,0,,我在找我同事--破坏王拉尔夫 \N{\fs36} I'm looking for my colleague, Wreck-it Ralph?
+Dialogue: 0,0:24:50.56,0:24:51.99,Default,,0,0,0,,从来没听过 \N{\fs36} Never heard of him.
+Dialogue: 0,0:24:52.18,0:24:54.87,Default,,0,0,0,,呃 小Q看见他进来了 \N{\fs36} Well, Q*bert saw him come in here.
+Dialogue: 0,0:24:54.87,0:24:58.09,Default,,0,0,0,,不可能 什么都逃不过我的眼睛 \N{\fs36} Impossible. Nothing gets past me.
+Dialogue: 0,0:24:59.68,0:25:01.23,Default,,0,0,0,,是塔那边的声音  \N{\fs36}That came from the tower.
+Dialogue: 0,0:25:19.69,0:25:21.61,Default,,0,0,0,,乖乖  乖乖  \N{\fs36}Nice eggs. Nice eggs!
+Dialogue: 0,0:25:23.55,0:25:25.28,Default,,0,0,0,,好  挺轻松嘛  \N{\fs36}Okay. That was easy.
+Dialogue: 0,0:25:30.46,0:25:31.98,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}恭喜你  士兵  \N{\fs36}Congratulations, soldier.
+Dialogue: 0,0:25:31.98,0:25:34.45,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}我很荣幸能将英雄勋章 \N{\fs36} It is my honor to bestow upon you
+Dialogue: 0,0:25:34.64,0:25:36.46,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}授予你  \N{\fs36}the Medal of Heroes.
+Dialogue: 0,0:25:37.86,0:25:38.72,Default,,0,0,0,,哇 !\N{\fs36}Wow!
+Dialogue: 0,0:25:53.51,0:25:55.14,Default,,0,0,0,,做梦呢吧 \N{\fs36}No way!
+Dialogue: 0,0:25:55.14,0:25:57.08,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}立正 \N{\fs36} Ten-hut!
+Dialogue: 0,0:25:57.08,0:25:59.17,Default,,0,0,0,,呵-呵... 哇 !\N{\fs36}ha-ha... Wow!
+Dialogue: 0,0:26:01.24,0:26:04.21,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你的勇气和牺牲将载入历史 \N{\fs36} History will long revere your courage and sacrifice.
+Dialogue: 0,0:26:04.38,0:26:05.29,Default,,0,0,0,,噢 谢谢你们 \N{\fs36} Well, thank you!
+Dialogue: 0,0:26:05.29,0:26:07.49,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你有着至高无上的品格 \N{\fs36} You have etched in the rock of virtue
+Dialogue: 0,0:26:07.49,0:26:09.20,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}为后人所敬仰 \N{\fs36} a legacy beyond compare.
+Dialogue: 0,0:26:09.20,0:26:11.55,Default,,0,0,0,,谢了伙计们 稍息 \N{\fs36} Thanks, guys. At ease!
+Dialogue: 0,0:26:11.74,0:26:14.93,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你是宇宙最伟大的英雄  \N{\fs36}You are the universe's greatest hero.
+Dialogue: 0,0:26:14.93,0:26:15.83,Default,,0,0,0,,糟了 \N{\fs36} Oops!
+Dialogue: 0,0:26:18.76,0:26:21.62,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72}	你的存在诠释了这支队伍的优良品质  \N{\fs36}The living embodiment of all this corps represents.
+Dialogue: 0,0:26:23.34,0:26:27.66,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72}	英勇无畏 奉公律己 临危不乱 \N{\fs36} Bravery. Integrity. Grace under pressure.
+Dialogue: 0,0:26:27.66,0:26:29.89,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}最重要的是 自尊自强 \N{\fs36} And above all, dignity.
+Dialogue: 0,0:26:29.89,0:26:32.12,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}逃生舱已启动 \N{\fs36} Escape pod activated.
+Dialogue: 0,0:26:35.18,0:26:36.53,Default,,0,0,0,,别趴我脸上 \N{\fs36} Get off my face!
+Dialogue: 0,0:26:42.38,0:26:43.65,Default,,0,0,0,,朝这边来了 \N{\fs36} Incoming!
+Dialogue: 0,0:26:49.29,0:26:50.62,Default,,0,0,0,,-拉尔夫  -星际甲虫  \N{\fs36}-Ralph! -Cy-Bug!
+Dialogue: 0,0:27:03.21,0:27:03.91,Default,,0,0,0,,啊哈 \N{\fs36} A-ha!
+Dialogue: 0,0:27:33.86,0:27:34.62,Default,,0,0,0,,啊！ \N{\fs36} Huh!
+Dialogue: 0,0:27:45.12,0:27:46.96,Default,,0,0,0,,再见啦  孬种 \N{\fs36} Sayonara, sucker!
+Dialogue: 0,0:27:48.24,0:27:50.41,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 开始冲刺 ♪ \N {\fs36}♪ Say Sugar Rush ♪
+Dialogue: 0,0:27:50.41,0:27:51.79,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪甜蜜冲刺 ♪\N{\fs36} ♪ Sugar Rush ♪
+Dialogue: 0,0:27:51.79,0:27:53.85,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 宝贝 ♪\N{\fs36}♪ S・U・G・A・R ♪
+Dialogue: 0,0:27:53.85,0:27:55.72,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 你已经蓄势待发 ♪\N{\fs36}♪ Jump into your racing car ♪
+Dialogue: 0,0:27:55.73,0:27:57.67,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 开始冲刺 ♪ \N {\fs36}♪ Say Sugar Rush ♪
+Dialogue: 0,0:27:57.67,0:27:58.98,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪甜蜜冲刺 ♪\N{\fs36} ♪ Sugar Rush ♪
+Dialogue: 0,0:27:57.95,0:27:59.55,Default,,0,0,0,,"甜蜜冲刺"?  \N{\fs36}"Sugar Rush"?
+Dialogue: 0,0:27:59.76,0:28:00.46,Default,,0,0,0,,{\fn文鼎特粗圆简\fs160\c&HA9FF77&\3c&H01013F&\3a&H0B&\b0\i0\s0\u0\frx28\fry4\fscx133\fscy108\4c&H000039&\2c&H9BFD6C&\pos(996,742)}甜蜜冲刺{\4c&H000039&}
+Dialogue: 0,0:27:59.55,0:28:01.28,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 宝贝 ♪\N{\fs36}♪ S・U・G・A・R ♪
+Dialogue: 0,0:28:01.28,0:28:02.92,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 你已经蓄势待发 ♪\N{\fs36}♪ Jump into your racing car ♪
+Dialogue: 0,0:28:02.92,0:28:04.70,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 开始冲刺 ♪ \N {\fs36}♪ Say Sugar Rush ♪
+Dialogue: 0,0:28:04.70,0:28:06.31,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪甜蜜冲刺 ♪\N{\fs36} ♪ Sugar Rush ♪
+Dialogue: 0,0:28:06.37,0:28:08.21,Default,,0,0,0,,噢 烦人 \N{\fs36} Oh, no!
+Dialogue: 0,0:28:08.74,0:28:10.88,Default,,0,0,0,,这是"打地鼠"旁边的  \N{\fs36}This is that candy go-cart game
+Dialogue: 0,0:28:10.88,0:28:12.43,Default,,0,0,0,,糖果卡丁车游戏  \N{\fs36}over by the Whac-A-Mole.
+Dialogue: 0,0:28:12.43,0:28:13.84,Default,,0,0,0,,我得离开这里  \N{\fs36}I got to get out of here.
+Dialogue: 0,0:28:13.84,0:28:15.84,Default,,0,0,0,,哇 不 我的奖牌呢 \N{\fs36} Oh, no! My medal!
+Dialogue: 0,0:28:16.11,0:28:18.02,Default,,0,0,0,,在？ 在？ 哪儿？ 哪儿？在？ \N{\fs36} What? What？ Where？ Where？What?
+Dialogue: 0,0:28:19.34,0:28:21.69,Default,,0,0,0,,不  不  不 不  我的奖牌  \N{\fs36}No, no, no, no, my medal!
+Dialogue: 0,0:28:25.62,0:28:27.16,Default,,0,0,0,,不  不  我的奖牌  \N{\fs36}No, no, my medal!
+Dialogue: 0,0:28:48.59,0:28:49.74,Default,,0,0,0,,嗨  先生  \N{\fs36}Hi, mister.
+Dialogue: 0,0:28:51.68,0:28:52.39,Default,,0,0,0,,你好  \N{\fs36}Hello.
+Dialogue: 0,0:28:52.45,0:28:55.75,Default,,0,0,0,,噢 是个人啊 你吓死我了 小鬼  \N{\fs36}Oh Man, you scared me, kid.
+Dialogue: 0,0:28:56.17,0:28:58.20,Default,,0,0,0,, 呃 我差点掉下去了 \N{\fs36} Ah, I nearly soiled myself.
+Dialogue: 0,0:28:58.43,0:28:59.44,Default,,0,0,0,,你叫什么?  \N{\fs36}What's your name?
+Dialogue: 0,0:28:59.44,0:29:01.74,Default,,0,0,0,,呃...  拉尔夫  破坏王拉尔夫  \N{\fs36}Uh... Ralph. Wreck-It Ralph.
+Dialogue: 0,0:29:02.06,0:29:03.85,Default,,0,0,0,,你不是这个游戏的人吧? \N{\fs36} You're not from here, are you?
+Dialogue: 0,0:29:03.85,0:29:07.16,Default,,0,0,0,,不是 对 呃 我是说 不是这一片的 \N{\fs36} No, well, yeah. I mean, not from right in this area.
+Dialogue: 0,0:29:07.16,0:29:08.69,Default,,0,0,0,,我来工作的 \N{\fs36} I'm just doing some work here.
+Dialogue: 0,0:29:08.69,0:29:09.33,Default,,0,0,0,,什么工作? \N{\fs36} What kind of work?
+Dialogue: 0,0:29:09.33,0:29:11.33,Default,,0,0,0,,例行修剪糖果树 \N{\fs36} Some routine candy tree trimming.
+Dialogue: 0,0:29:11.96,0:29:13.52,Default,,0,0,0,,你最好离远点  \N{\fs36}You probably want to stand back.
+Dialogue: 0,0:29:13.52,0:29:15.40,Default,,0,0,0,,实际上 我们修剪的时候  \N{\fs36}In fact, this whole area
+Dialogue: 0,0:29:15.40,0:29:17.05,Default,,0,0,0,,这一整块地方都不开放的  \N{\fs36}is technically closed while we're trimming.
+Dialogue: 0,0:29:17.05,0:29:18.88,Default,,0,0,0,,-"我们"是谁? -糖果树部门 \N{\fs36} -Who's "we"? -Candy tree department.
+Dialogue: 0,0:29:18.88,0:29:20.82,Default,,0,0,0,,喔  那其他人呢?  \N{\fs36}Oh! Where is everybody else?
+Dialogue: 0,0:29:20.82,0:29:22.07,Default,,0,0,0,,呃～  今天只有我 \N{\fs36} Ah, it's just me today.
+Dialogue: 0,0:29:22.70,0:29:24.82,Default,,0,0,0,,那你这是你说的"我们"?  \N{\fs36}So you just meant like the royal "we"?
+Dialogue: 0,0:29:24.82,0:29:26.82,Default,,0,0,0,,是的  没错 \N{\fs36} Yep. That's right.
+Dialogue: 0,0:29:26.82,0:29:29.16,Default,,0,0,0,,嘿  你是流浪汉吗? \N{\fs36} Hey, are you a hobo?
+Dialogue: 0,0:29:29.71,0:29:33.15,Default,,0,0,0,,不  不是流浪汉  但是我很忙 \N{\fs36} No. I'm not a hobo, but I am busy.
+Dialogue: 0,0:29:33.19,0:29:35.52,Default,,0,0,0,,听到没? 你快回家  \N{\fs36}Okay? So you go home.
+Dialogue: 0,0:29:35.54,0:29:37.34,Default,,0,0,0,,你说什么? 没听见 \N{\fs36} What's that? Didn't hear you.
+Dialogue: 0,0:29:37.34,0:29:39.80,Default,,0,0,0,,你的口气太重  我耳朵都熏聋了 \N{\fs36} Your breath is so bad it made my ears numb.
+Dialogue: 0,0:29:39.80,0:29:40.93,Default,,0,0,0,,听着  我努力保持友好 \N{\fs36} Listen, I tried to be nice.
+Dialogue: 0,0:29:40.93,0:29:42.16,Default,,0,0,0,,我努力保持友好 \N{\fs36} I tried to be nice.
+Dialogue: 0,0:29:42.89,0:29:44.79,Default,,0,0,0,,-你在学我  -你在学我 \N{\fs36} -You're mimicking me. -You're mimicking me!
+Dialogue: 0,0:29:45.94,0:29:46.95,Default,,0,0,0,,-好吧  -好吧 \N{\fs36} -Okay. -Okay.
+Dialogue: 0,0:29:47.03,0:29:49.95,Default,,0,0,0,,这样很没礼貌  我不理你了 \N{\fs36} That is rude, and this conversation is over
+Dialogue: 0,0:29:49.95,0:29:51.20,Default,,0,0,0,,我不理你了 \N{\fs36} And this conversation is over.
+Dialogue: 0,0:29:52.54,0:29:55.33,Default,,0,0,0,,呃  要是我就不会抓那根  \N{\fs36}Uh, I wouldn't grab that branch if I were you.
+Dialogue: 0,0:29:55.37,0:29:57.31,Default,,0,0,0,,我是糖果树部门的  我知道... \N{\fs36} I'm from the candy tree department, so I know what...
+Dialogue: 0,0:29:57.31,0:29:58.59,Default,,0,0,0,,那根是双条纹的  \N{\fs36}It's a double stripe.
+Dialogue: 0,0:30:00.82,0:30:03.86,Default,,0,0,0,,双条纹的会消失  傻瓜 \N{\fs36} Double stripes break. Guh-doy!
+Dialogue: 0,0:30:04.30,0:30:06.54,Default,,0,0,0,,你的手怎么那么巨大?  \N{\fs36}Why are your hands so freakishly big?
+Dialogue: 0,0:30:06.54,0:30:09.37,Default,,0,0,0,,不知道  你的嘴怎么这么烦人  \N{\fs36}Uh, I don't know. Why are you so freakishly annoying?
+Dialogue: 0,0:30:09.46,0:30:11.52,Default,,0,0,0,,你怎么这么... \N{\fs36} Why are you so freakishly...
+Dialogue: 0,0:30:12.16,0:30:14.78,Default,,0,0,0,,妈妈咪呀  一枚金币 \N{\fs36} Sweet mother of monkey milk! A gold coin!
+Dialogue: 0,0:30:14.78,0:30:16.56,Default,,0,0,0,,想都别想 那是我的  \N{\fs36}Don't even think about it. That is mine.
+Dialogue: 0,0:30:16.56,0:30:18.05,Default,,0,0,0,,-看谁能抢到 -嘿 嘿嘿 \N{\fs36}-Race you for it! -Hey!Hey!Hey!
+Dialogue: 0,0:30:18.05,0:30:20.38,Default,,0,0,0,,我不用跟你抢  因为那就是我的 \N{\fs36} I don't have to race for it because it's mine!
+Dialogue: 0,0:30:20.62,0:30:22.97,Default,,0,0,0,,-双条纹  -回来  \N{\fs36}-Double stripe! -Come back here!
+Dialogue: 0,0:30:22.97,0:30:25.77,Default,,0,0,0,,-我赢啦  -还给我  给我  \N{\fs36}-The winner! -Give it back! Give it!
+Dialogue: 0,0:30:29.14,0:30:29.93,Default,,0,0,0,,双条纹 \N{\fs36} Double stripe.
+Dialogue: 0,0:30:33.85,0:30:35.02,Default,,0,0,0,,谢啦  \N{\fs36}Thank you!
+Dialogue: 0,0:30:35.57,0:30:37.55,Default,,0,0,0,,等等  我就跟你说一句话 \N{\fs36} Wait! Let me talk to you for one second.
+Dialogue: 0,0:30:38.06,0:30:40.35,Default,,0,0,0,,好  是这样  \N{\fs36}Okay. Here's the thing.
+Dialogue: 0,0:30:40.54,0:30:42.46,Default,,0,0,0,,我不是糖果树部门的  \N{\fs36}I'm not from the candy tree department.
+Dialogue: 0,0:30:42.46,0:30:46.14,Default,,0,0,0,,对小孩撒谎  真替你害臊  拉尔夫 \N{\fs36} Lying to a child. Shame on you, Ralph.
+Dialogue: 0,0:30:46.14,0:30:48.89,Default,,0,0,0,,但是奖牌我没撒谎  那是我的 \N{\fs36} But I wasn't lying about the medal. That is my medal!
+Dialogue: 0,0:30:49.16,0:30:51.72,Default,,0,0,0,,所以我才爬树的  是我的  \N{\fs36}That's why I was climbing the tree. It's mine!
+Dialogue: 0,0:30:51.72,0:30:53.58,Default,,0,0,0,,它对我很重要 \N{\fs36} It's precious to me.
+Dialogue: 0,0:30:53.62,0:30:56.19,Default,,0,0,0,,它是我新生活的入场券  \N{\fs36}That thing is my ticket to a better life.
+Dialogue: 0,0:30:56.19,0:30:58.75,Default,,0,0,0,,耶 现在它是我的入场券  \N{\fs36}Yeah, well, now it's my ticket.
+Dialogue: 0,0:30:59.01,0:31:00.80,Default,,0,0,0,,-怎么...  -回见啦  大笨蛋  \N{\fs36}-What the... -See you, chump!
+Dialogue: 0,0:31:00.80,0:31:03.21,Default,,0,0,0,,回来 我会找到你的 \N{\fs36} Come back! I'll find you!
+Dialogue: 0,0:31:03.35,0:31:05.16,Default,,0,0,0,,我会找到你的  \N{\fs36}I will find you!
+Dialogue: 0,0:31:05.16,0:31:05.94,Default,,0,0,0,,双条纹 \N{\fs36} Double stripe!
+Dialogue: 0,0:31:08.13,0:31:09.71,Default,,0,0,0,,你逃不掉的 \N{\fs36} Nowhere to hide!
+Dialogue: 0,0:31:11.53,0:31:14.76,Default,,0,0,0,,对  他在这儿像流弹一样在这里横冲直撞 \N{\fs36} Yeah, he banged around in here like some kind of hot shot,
+Dialogue: 0,0:31:14.76,0:31:17.44,Default,,0,0,0,,然后他一个猛子扎进了这个小游戏  \N{\fs36}then he went barreling down into that sweet little game
+Dialogue: 0,0:31:11.88,0:31:19.18,Default,,0,0,0,,{\fn方正基础像素\c&H0C07EB&\1a&H20&\3c&H040499&\3a&H5F&\fscx73\fscy65\frz5.338\frx4\fry344\pos(1246,130)}甜蜜冲刺
+Dialogue: 0,0:31:17.44,0:31:18.87,Default,,0,0,0,,跟个疯了一样 \N{\fs36} like a crazy person.
+Dialogue: 0,0:31:19.17,0:31:21.10,Default,,0,0,0,,"甜蜜冲刺"  \N{\fs36}"Sugar Rush."
+Dialogue: 0,0:31:21.10,0:31:23.10,Default,,0,0,0,,星际甲虫吃掉这个游戏的速度  \N{\fs36}Cy-Bugs would chew up that game
+Dialogue: 0,0:31:23.10,0:31:26.34,Default,,0,0,0,,比一只鹰吃光一笼瘸脚鸡还要快 \N{\fs36} faster than a chicken hawk in a coop of crippled roosters.
+Dialogue: 0,0:31:26.92,0:31:29.18,Default,,0,0,0,,什么意思  -你是白痴吗  \N{\fs36}-What was that, now? -What are you, thick?
+Dialogue: 0,0:31:29.30,0:31:31.41,Default,,0,0,0,,逃生舱里有只星际甲虫  \N{\fs36}There was a Cy-Bug on that shuttle!
+Dialogue: 0,0:31:32.18,0:31:34.53,Default,,0,0,0,,你知道星际甲虫是什么吗? \N{\fs36} Do you even know what a Cy-Bug is?
+Dialogue: 0,0:31:34.75,0:31:36.42,Default,,0,0,0,,不知道  长官 \N{\fs36} I can't say that I do, ma'am.
+Dialogue: 0,0:31:36.42,0:31:38.36,Default,,0,0,0,,星际甲虫像病毒一样 \N{\fs36} Cy-Bugs are like a virus.
+Dialogue: 0,0:31:38.36,0:31:40.06,Default,,0,0,0,,他们不知道自己身处在游戏里 \N{\fs36} They don't know they're in a game.
+Dialogue: 0,0:31:40.08,0:31:42.96,Default,,0,0,0,,他们只知道吞噬  杀戮和繁殖 \N{\fs36} All they know is eat, kill, multiply.
+Dialogue: 0,0:31:43.05,0:31:44.86,Default,,0,0,0,,如果对他们不加以控制的话 \N{\fs36} Without a beacon to stop them,
+Dialogue: 0,0:31:44.86,0:31:46.86,Default,,0,0,0,,他们会彻底毁了这个游戏 \N{\fs36} they'll consume Sugar Rush.
+Dialogue: 0,0:31:46.98,0:31:48.29,Default,,0,0,0,,你觉得它们会就此停止吗  \N{\fs36}But do you think they'll stop there?
+Dialogue: 0,0:31:48.47,0:31:49.98,Default,,0,0,0,,-是的 -错了 \N{\fs36} -Yes! -Wrong!
+Dialogue: 0,0:31:49.98,0:31:52.37,Default,,0,0,0,,病毒繁殖永不停息 \N{\fs36} Viruses do not stop!
+Dialogue: 0,0:31:53.00,0:31:55.59,Default,,0,0,0,,一旦这些星际甲虫毁坏了甜蜜冲刺 \N{\fs36} Once those Cy-Bugs finish off Sugar Rush,
+Dialogue: 0,0:31:55.59,0:31:58.62,Default,,0,0,0,,他们就会一个个侵入其他的游戏  \N{\fs36}they'll invade every other game until this arcade
+Dialogue: 0,0:31:58.62,0:32:02.95,Default,,0,0,0,,直到这个游戏厅被它们吃得连渣子都不剩 \N{\fs36} is nothing but a smoking husk of forgotten dreams.
+Dialogue: 0,0:32:04.57,0:32:06.32,Default,,0,0,0,,科胡特 我的飞行器 \N{\fs36} Kohut! My cruiser.
+Dialogue: 0,0:32:09.34,0:32:12.31,Default,,0,0,0,,天呀  她经常这样神经兮兮吗? \N{\fs36} Jeepers. Is she always this intense?
+Dialogue: 0,0:32:12.34,0:32:13.84,Default,,0,0,0,,这不是她的错  \N{\fs36}It's not her fault.
+Dialogue: 0,0:32:13.84,0:32:17.16,Default,,0,0,0,,她的程序设定就是最最悲剧的故事剧情  \N{\fs36}She's programmed with the most tragic back-story ever.
+Dialogue: 0,0:32:17.60,0:32:19.84,Default,,0,0,0,,只有一天她放松了戒备...  \N{\fs36}The one day she didn't do a perimeter check...
+Dialogue: 0,0:32:21.16,0:32:22.57,Default,,0,0,0,,大喜之日 \N{\fs36} Her wedding day.
+Dialogue: 0,0:32:38.02,0:32:40.83,Default,,0,0,0,,等下  夫人  我要和你一起去 \N{\fs36} Wait, ma'am! I'm going with you.
+Dialogue: 0,0:32:40.83,0:32:42.83,Default,,0,0,0,,玩儿你自己的去 矮子  \N{\fs36}Like fun you are, short stack.
+Dialogue: 0,0:32:42.83,0:32:45.37,Default,,0,0,0,,在自己的游戏之外丧生就无法复活 \N{\fs36} If you die outside your game, you don't regenerate.
+Dialogue: 0,0:32:45.67,0:32:48.00,Default,,0,0,0,,好吧  你也一样  夫人  \N{\fs36}Well, neither do you, ma'am.
+Dialogue: 0,0:32:48.21,0:32:51.28,Default,,0,0,0,,而我的职责就是修复拉尔夫破坏的一切 \N{\fs36} And it is my job to fix what Ralph wrecks.
+Dialogue: 0,0:32:51.28,0:32:52.98,Default,,0,0,0,,我不能要求你  \N{\fs36}And I cannot ask you
+Dialogue: 0,0:32:52.98,0:32:54.98,Default,,0,0,0,,冒着生命的危险去收拾他那个烂摊子  \N{\fs36}to risk your life cleaning up his mess.
+Dialogue: 0,0:32:54.98,0:32:58.88,Default,,0,0,0,,这点决不让步  长官  我要和你一起去  \N{\fs36}No flex on this one, ma'am. I am coming along with you.
+Dialogue: 0,0:32:59.55,0:33:04.01,Default,,0,0,0,,{\fn文鼎特圆简\c&H0C210A&\3c&H0C9223&\3a&H65&\fscx79\fscy75\frx6\fry4\pos(1610,290)}去往 \N甜蜜冲刺
+Dialogue: 0,0:33:05.46,0:33:08.10,Default,,0,0,0,,{\fn文鼎特圆简\c&H0C210A&\3c&H0C9223&\3a&H65&\fscx79\fscy75\frx6\fry4\move(1656,234,1664,222,22,22)}去往 \N甜蜜冲刺
+Dialogue: 0,0:33:36.64,0:33:39.96,Default,,0,0,0,,甜蜜冲刺的公民们... \N{\fs36} Citizens of Sugar Rush...
+Dialogue: 0,0:33:40.30,0:33:42.07,Default,,0,0,0,,时间刚好 \N{\fs36} Just in time.
+Dialogue: 0,0:33:42.52,0:33:47.66,Default,,0,0,0,,热烈欢迎我们的合法统治者  糖果国王 \N{\fs36} All hail our rightful ruler, King Candy.
+Dialogue: 0,0:33:47.66,0:33:50.89,Default,,0,0,0,,各位皇室国民们  大家好 \N{\fs36} Hello, my royal subjects!
+Dialogue: 0,0:33:50.89,0:33:53.50,Default,,0,0,0,,哈哈  先吃点糖果吧 \N{\fs36} Ha-ha! Have some candy!
+Dialogue: 0,0:33:55.66,0:33:59.16,Default,,0,0,0,,谢谢你刚才那一番激动人心的介绍  酸豆比尔 \N{\fs36} Thank you for that stirring introduction, Sour Bill.
+Dialogue: 0,0:33:59.16,0:34:00.42,Default,,0,0,0,,嗯-哼  \N{\fs36}Mmm-hmm.
+Dialogue: 0,0:34:00.42,0:34:03.36,Default,,0,0,0,,感谢各位游戏角色的参赛  \N{\fs36}And thank you to today's avatars.
+Dialogue: 0,0:34:03.36,0:34:05.92,Default,,0,0,0,,上一次精彩的比赛还记忆犹新  真的很精彩  \N{\fs36}It was a wonderful day of racing. It was.
+Dialogue: 0,0:34:05.92,0:34:08.04,Default,,0,0,0,,但是现在游戏厅关门了 \N{\fs36} But now the arcade is closed,
+Dialogue: 0,0:34:08.04,0:34:10.22,Default,,0,0,0,,所以是时候一笔勾销过去的往事  \N{\fs36}so it's time to wipe the slate clean
+Dialogue: 0,0:34:10.22,0:34:13.26,Default,,0,0,0,,再次比赛决出新的排名  \N{\fs36}and race to decide our new roster.
+Dialogue: 0,0:34:14.68,0:34:17.77,Default,,0,0,0,,冲过终点线的前9位选手 \N{\fs36} The first nine racers across that finish line
+Dialogue: 0,0:34:17.77,0:34:22.14,Default,,0,0,0,,将成为明天甜蜜冲刺新的角色 \N{\fs36} will represent Sugar Rush as tomorrow's avatars!
+Dialogue: 0,0:34:22.14,0:34:24.16,Default,,0,0,0,,冲啊  冲啊  冲啊  \N{\fs36}Race! Race! Race!
+Dialogue: 0,0:34:24.16,0:34:26.16,Default,,0,0,0,,好了  冷静下来 \N{\fs36} Okay, calm down.
+Dialogue: 0,0:34:26.16,0:34:30.04,Default,,0,0,0,,听着  这场赛事是付费的  当然大家都知道了 \N{\fs36} Listen! This event is pay-to-play. We all know this.
+Dialogue: 0,0:34:30.36,0:34:32.90,Default,,0,0,0,,参赛的费用是从你们以前  \N{\fs36}The fee to compete is one gold coin
+Dialogue: 0,0:34:33.12,0:34:34.93,Default,,0,0,0,,赢得的金币中扣除一个 \N{\fs36} from your previous winnings,
+Dialogue: 0,0:34:34.93,0:34:37.68,Default,,0,0,0,,前提是你们赢过  至少我已经有啦 \N{\fs36} if you've ever won, which I have.
+Dialogue: 0,0:34:37.68,0:34:39.18,Default,,0,0,0,,我先来  \N{\fs36}Let me go first!
+Dialogue: 0,0:34:44.96,0:34:46.48,Default,,0,0,0,,糖果国王  \N{\fs36}King Candy!
+Dialogue: 0,0:34:54.10,0:34:56.26,Default,,0,0,0,,太妃塔·绵绵糖 \N{\fs36} Taffyta Muttonfudge!
+Dialogue: 0,0:34:56.26,0:34:57.30,Default,,0,0,0,,甜蜜一生哦 \N{\fs36} Stay sweet!
+Dialogue: 0,0:34:58.72,0:35:00.82,Default,,0,0,0,,甜蜜蜜·真知棒 \N{\fs36} Adorabeezle Winterpop.
+Dialogue: 0,0:35:01.56,0:35:03.45,Default,,0,0,0,,格乐多·香橙派 \N{\fs36} Gloyd Orangeboar!
+Dialogue: 0,0:35:05.47,0:35:09.36,Default,,0,0,0,,小贼  别等我抓到你这个小鬼 \N{\fs36} Little stealer! Wait till I catch that brat.
+Dialogue: 0,0:35:09.23,0:35:12.39,Default,,0,0,0,,蜜薄荷·扎琪  雪花花·彩虹糖 \N{\fs36} Minty Zaki.   Snowanna Rainbeau.
+Dialogue: 0,0:35:12.39,0:35:16.53,Default,,0,0,0,,蓝芝士·悠优饼  朱古丽·透心凉 \N{\fs36} Rancis Fluggerbutter. Jubileena Bing-Bing.
+Dialogue: 0,0:35:17.58,0:35:19.59,Default,,0,0,0,,扭扭糖·玛拉姬 \N{\fs36} Swizzle Malarkey.
+Dialogue: 0,0:35:20.39,0:35:21.67,Default,,0,0,0,,蜡烛头 \N{\fs36} Candlehead.
+Dialogue: 0,0:35:29.69,0:35:31.62,Default,,0,0,0,,酸豆比尔  最后一个是谁? \N{\fs36} Sour Bill, who's that last one?
+Dialogue: 0,0:35:34.82,0:35:37.48,Default,,0,0,0,,云妮洛普·凡·史威兹 \N{\fs36} Vanellope von Schweetz!
+Dialogue: 0,0:35:37.48,0:35:39.83,Default,,0,0,0,,太棒了  我可以参赛啦  \N{\fs36}Yippee! I'm in the race!
+Dialogue: 0,0:35:39.83,0:35:40.87,Default,,0,0,0,,云妮洛普? \N{\fs36} Vanellope?
+Dialogue: 0,0:35:42.70,0:35:43.74,Default,,0,0,0,,那个漏洞  \N{\fs36}The Glitch!
+Dialogue: 0,0:35:45.13,0:35:46.40,Default,,0,0,0,,好了  好了 \N{\fs36} Now, now!
+Dialogue: 0,0:35:47.10,0:35:51.21,Default,,0,0,0,,一切尽在掌控  保安  \N{\fs36}Everything is all right! Security!
+Dialogue: 0,0:35:51.34,0:35:52.45,Default,,0,0,0,,快过来  小鬼 \N{\fs36} Come here, kid!
+Dialogue: 0,0:35:52.45,0:35:54.99,Default,,0,0,0,,我们不会伤害你的  你这个小怪物 \N{\fs36} We're not going to hurt you, you little freak!
+Dialogue: 0,0:35:57.28,0:35:58.18,Default,,0,0,0,,给我回来 \N{\fs36} Get back here!
+Dialogue: 0,0:35:58.18,0:35:59.96,Default,,0,0,0,,慢点  别跑那么快  \N{\fs36}Slow down! Slow down a little bit.
+Dialogue: 0,0:36:03.15,0:36:07.80,Default,,0,0,0,,你  立马把奖牌还给我  \N{\fs36}You! Give me back my medal right now!
+Dialogue: 0,0:36:07.80,0:36:09.59,Default,,0,0,0,,-啊  是你  -快跑 \N{\fs36} -Ah, boy! -Go!
+Dialogue: 0,0:36:09.81,0:36:10.73,Default,,0,0,0,,那是什么?  \N{\fs36}What is that?
+Dialogue: 0,0:36:10.73,0:36:12.75,Default,,0,0,0,,快点  走啊  跑啊 \N{\fs36} Come on! Go! Roll!
+Dialogue: 0,0:36:25.05,0:36:27.55,Default,,0,0,0,,注意点啊  你这是在干吗? \N{\fs36} Careful! What are you doing?
+Dialogue: 0,0:36:37.27,0:36:38.30,Default,,0,0,0,,给我回来  \N{\fs36}Come back here!
+Dialogue: 0,0:36:41.08,0:36:42.01,Default,,0,0,0,,动不了了 \N{\fs36} I can't move!
+Dialogue: 0,0:36:42.19,0:36:43.75,Default,,0,0,0,,现在把他抓起来  \N{\fs36}Now we got him!
+Dialogue: 0,0:36:44.09,0:36:46.60,Default,,0,0,0,,哦  太好了  是警察  她往那边跑了 \N{\fs36} Oh, good, the cops. She went that way!
+Dialogue: 0,0:36:46.60,0:36:48.11,Default,,0,0,0,,-不准动  -接招吧 \N{\fs36} -Hold still! -Take that!
+Dialogue: 0,0:36:48.17,0:36:49.07,Default,,0,0,0,,哇  你们在干吗啊? \N{\fs36} Ow! What are you doing?
+Dialogue: 0,0:36:49.19,0:36:50.16,Default,,0,0,0,,好了  各位  \N{\fs36}Okay, folks.
+Dialogue: 0,0:36:50.98,0:36:53.95,Default,,0,0,0,,冷静  一切事情都没问题了 \N{\fs36} Calm down! Everything's all right.
+Dialogue: 0,0:36:53.95,0:36:56.10,Default,,0,0,0,,怪物已经抓住了 \N{\fs36} The monster's been caught!
+Dialogue: 0,0:36:56.10,0:36:58.10,Default,,0,0,0,,我们把所有毁坏的建筑都修好吧  \N{\fs36}We'll repair all the damage.
+Dialogue: 0,0:36:58.10,0:37:02.04,Default,,0,0,0,,别担心 在游乐场开张之前比赛肯定会如期举行 \N{\fs36} Don't worry. We will have our race before the arcade opens.
+Dialogue: 0,0:37:02.38,0:37:05.39,Default,,0,0,0,,我入选啦  好极了  \N{\fs36}And I'm in it. Yes!
+Dialogue: 0,0:37:09.84,0:37:13.06,Default,,0,0,0,,我是不会和漏洞一起赛车的 \N{\fs36} There's no way that I am racing with a glitch.
+Dialogue: 0,0:37:13.06,0:37:15.06,Default,,0,0,0,,蓝芝士  蜡烛头  我们走吧  \N{\fs36}Rancis, Candlehead, come on.
+Dialogue: 0,0:37:15.06,0:37:19.72,Default,,0,0,0,,酸豆比尔  决不能允许那个漏洞参赛 \N{\fs36} Sour Bill, that glitch cannot be allowed to race!
+Dialogue: 0,0:37:19.72,0:37:22.08,Default,,0,0,0,,还有把那个家伙带到我的城堡来  \N{\fs36}And bring that thing to my castle.
+Dialogue: 0,0:37:22.08,0:37:23.96,Default,,0,0,0,,伙计们  她拿走了... \N{\fs36} Guys! She took...
+Dialogue: 0,0:37:25.57,0:37:28.86,Default,,0,0,0,,奥-利奥  奥利-奥  \N{\fs36}Or-e-oh Oreo!
+Dialogue: 0,0:37:29.02,0:37:30.54,Default,,0,0,0,,奥-利-奥  \N{\fs36}Or-e-oh
+Dialogue: 0,0:37:46.14,0:37:48.83,Default,,0,0,0,,酸豆比尔 清理下这个怪物  \N{\fs36}Sour Bill, de-taffify this monster
+Dialogue: 0,0:37:48.83,0:37:50.83,Default,,0,0,0,,我们来看看这是何方神圣 \N{\fs36} so we can see what we're up against here.
+Dialogue: 0,0:37:50.83,0:37:52.25,Default,,0,0,0,,-哦-是. \N{\fs36} -Mm（O）-kay.
+Dialogue: 0,0:37:54.28,0:37:56.98,Default,,0,0,0,,我没看错吧  这是无敌破坏王拉尔夫吗? \N{\fs36} Milk my duds! It's Wreck-It Ralph?
+Dialogue: 0,0:37:56.98,0:37:59.78,Default,,0,0,0,,是啊 你是谁 做甜甜圈的吗?  \N{\fs36}Yeah. Who are you, the guy that makes the donuts?
+Dialogue: 0,0:38:00.07,0:38:03.24,Default,,0,0,0,,真搞笑 不是 我是糖果国王 \N{\fs36} Please. No. I'm King Candy!
+Dialogue: 0,0:38:03.24,0:38:05.80,Default,,0,0,0,,我看你热衷于粉红色啊 \N{\fs36} I see you're a fan of pink.
+Dialogue: 0,0:38:05.80,0:38:08.53,Default,,0,0,0,,浅橙色 浅橙色啦 这很明显看得出来... \N{\fs36} Salmon. Salmon, that's obviously...
+Dialogue: 0,0:38:08.53,0:38:09.85,Default,,0,0,0,,你来这里做什么? \N{\fs36} What are you doing here?
+Dialogue: 0,0:38:09.88,0:38:14.03,Default,,0,0,0,,听着 都是你的糖果害的 有个很大的误会 \N{\fs36} Look, Your Candiness, this is just a big misunderstanding.
+Dialogue: 0,0:38:14.03,0:38:15.88,Default,,0,0,0,,快把我从这个纸杯蛋糕中弄出来 \N{\fs36} Just get me out of this cupcake,
+Dialogue: 0,0:38:15.88,0:38:17.95,Default,,0,0,0,,我要去拿我的奖牌 不会再出现在你的面前  \N{\fs36}I'll get my medal, and I'll be out of your way.
+Dialogue: 0,0:38:17.95,0:38:21.92,Default,,0,0,0,,你的奖牌? 坏蛋是不会赢得奖牌的 \N{\fs36} Your medal? Bad guys don't win medals.
+Dialogue: 0,0:38:22.00,0:38:23.42,Default,,0,0,0,,好吧 我做到了  \N{\fs36}Well, this one did.
+Dialogue: 0,0:38:23.42,0:38:25.56,Default,,0,0,0,,我在游戏英雄使命中通关获得的  \N{\fs36}I earned it over in Hero's Duty.
+Dialogue: 0,0:38:25.56,0:38:26.64,Default,,0,0,0,,你跳游戏了? \N{\fs36} You game-jumped?
+Dialogue: 0,0:38:26.64,0:38:29.51,Default,,0,0,0,,拉尔夫  你不会想步沃伦后尘吧 对吗? \N{\fs36} Ralph, you're not going Turbo, are you?
+Dialogue: 0,0:38:29.51,0:38:30.69,Default,,0,0,0,,什么? 没  没去 \N{\fs36} What? No, no.
+Dialogue: 0,0:38:30.69,0:38:34.54,Default,,0,0,0,,因为一旦你觉得你来来到我的王国 \N{\fs36} Because if you think you can come in here to my kingdom
+Dialogue: 0,0:38:34.54,0:38:37.22,Default,,0,0,0,,接管我的游戏  你就会得寸进尺 \N{\fs36} and take over my game, you've got another thing coming!
+Dialogue: 0,0:38:37.22,0:38:38.76,Default,,0,0,0,,放松点  别那么紧张  \N{\fs36}Easy, Your Puffiness.
+Dialogue: 0,0:38:38.83,0:38:40.56,Default,,0,0,0,,你的糖果地里的小鬼偷取了我的奖牌 \N{\fs36} It's not my fault one of your children
+Dialogue: 0,0:38:40.56,0:38:42.39,Default,,0,0,0,,不是我犯下的错误 \N{\fs36} of the candy corn stole my medal.
+Dialogue: 0,0:38:42.51,0:38:44.68,Default,,0,0,0,,"糖果地里的小鬼 "? 谁...  \N{\fs36}"Children of the candy corn"? Who'd...
+Dialogue: 0,0:38:45.17,0:38:46.41,Default,,0,0,0,,是个漏洞  \N{\fs36}The Glitch!
+Dialogue: 0,0:38:46.60,0:38:49.07,Default,,0,0,0,,她为了参赛支付的那枚金币 \N{\fs36} The coin she used to buy her way into the race.
+Dialogue: 0,0:38:49.07,0:38:50.26,Default,,0,0,0,,是你的奖牌?  \N{\fs36}That was your medal?
+Dialogue: 0,0:38:50.26,0:38:52.59,Default,,0,0,0,,她做了什么啊? 我需要那枚奖牌  \N{\fs36}She did what? I need that back!
+Dialogue: 0,0:38:52.59,0:38:55.14,Default,,0,0,0,,好吧 恐怕我也无能为力了 奖牌没了 你明白的  \N{\fs36}Well, I'm afraid I can't help you. It's gone, you know.
+Dialogue: 0,0:38:55.14,0:38:57.90,Default,,0,0,0,,现在就剩下一堆数据了 \N{\fs36}It's nothing but code now.
+Dialogue: 0,0:38:58.20,0:39:01.00,Default,,0,0,0,,在整个比赛的结果知晓之前  \N{\fs36}It will stay that way until someone wins the cup
+Dialogue: 0,0:39:01.00,0:39:02.48,Default,,0,0,0,,是不会有任何变化的 \N{\fs36} at the end of the race.
+Dialogue: 0,0:39:02.48,0:39:04.84,Default,,0,0,0,,也许我到时候不得不 \N{\fs36} Maybe I'll have to have a little talk
+Dialogue: 0,0:39:04.84,0:39:05.69,Default,,0,0,0,,和获胜者商量一下了 \N{\fs36} with the winner then.
+Dialogue: 0,0:39:05.96,0:39:07.92,Default,,0,0,0,,我嗅出的是一丝威胁的气息吗?  \N{\fs36}Is that a threat I smell?
+Dialogue: 0,0:39:07.92,0:39:12.59,Default,,0,0,0,,除了那些从你口中散发出的臭气 \N{\fs36} Beyond the halitosis you so obviously suffer from.
+Dialogue: 0,0:39:12.59,0:39:15.97,Default,,0,0,0,,给我听着  臭烂饼  没有奖牌我是不会离开的 \N{\fs36} Listen, Nilly-Wafer, I'm not leaving without my medal!
+Dialogue: 0,0:39:16.27,0:39:17.72,Default,,0,0,0,,不 你会的 \N{\fs36} Yes, you are.
+Dialogue: 0,0:39:17.98,0:39:20.86,Default,,0,0,0,,温切尔 邓肯 把他从纸杯蛋糕中弄出来  \N{\fs36}Wynnchel, Duncan, get him out of that cupcake
+Dialogue: 0,0:39:20.86,0:39:22.70,Default,,0,0,0,,让他搭乘第一班列车滚蛋  \N{\fs36}and on the first train back home.
+Dialogue: 0,0:39:22.70,0:39:24.94,Default,,0,0,0,,要是再让我看到你在这里  破坏王拉尔夫 \N{\fs36} If I ever see you here again, Wreck-It Ralph,
+Dialogue: 0,0:39:24.94,0:39:27.70,Default,,0,0,0,,我就把你锁进我的“乐牢”里 \N{\fs36} I'll lock you in my fungeon.
+Dialogue: 0,0:39:28.10,0:39:28.90,Default,,0,0,0,,什么“乐牢”?  \N{\fs36}Fungeon?
+Dialogue: 0,0:39:28.90,0:39:32.02,Default,,0,0,0,,娱乐地牢  知道吗? 玩下文字游戏而已 \N{\fs36} Fun dungeon, you know? It's a play on words.
+Dialogue: 0,0:39:32.02,0:39:34.02,Default,,0,0,0,,就是... \N{\fs36} It's the...
+Dialogue: 0,0:39:34.04,0:39:38.14,Default,,0,0,0,,没有关系  我还有漏洞要处理  谢谢你了 \N{\fs36} Never mind! I've got a glitch to deal with, thanks to you.
+Dialogue: 0,0:39:38.14,0:39:42.06,Default,,0,0,0,,再见  破坏王拉尔夫  很不高兴见到你 \N{\fs36} Goodbye, Wreck-it Ralph! It hasn't been a pleasure.
+Dialogue: 0,0:39:46.44,0:39:47.69,Default,,0,0,0,,这东西简直硬如磐石啊  \N{\fs36}This thing is hard as a rock.
+Dialogue: 0,0:39:47.69,0:39:48.56,Default,,0,0,0,,看得出来  \N{\fs36}I can see that.
+Dialogue: 0,0:39:48.63,0:39:50.39,Default,,0,0,0,,-抄家伙  -什么家伙? \N{\fs36} -Get the tools. -What tools?
+Dialogue: 0,0:39:50.39,0:39:51.74,Default,,0,0,0,,-给我闭嘴  -嗷  \N{\fs36}-Quiet, you! -Ow!
+Dialogue: 0,0:39:53.44,0:39:54.84,Default,,0,0,0,,什么? 不要 \N{\fs36} What? No!
+Dialogue: 0,0:39:54.84,0:39:56.77,Default,,0,0,0,,-放松点  大块头  -离我远点  \N{\fs36}-Take it easy, big boy! -Stay away from me!
+Dialogue: 0,0:39:56.77,0:39:57.78,Default,,0,0,0,,他跑掉了  \N{\fs36}He's getting away!
+Dialogue: 0,0:40:03.02,0:40:04.88,Default,,0,0,0,,赶快  出动夹心猎犬 \N{\fs36} Quick! Call out the Devil Dogs.
+Dialogue: 0,0:40:21.44,0:40:23.50,Default,,0,0,0,,全是巧克力  我恨死巧克力了 \N{\fs36} Chocolate. I hate chocolate!
+Dialogue: 0,0:40:24.74,0:40:27.06,Default,,0,0,0,,我一定要把奖牌拿回来 \N{\fs36} I got to get my medal back.
+Dialogue: 0,0:40:31.58,0:40:33.89,Default,,0,0,0,,胜利的车手才能拿到奖牌 \N{\fs36} The pot goes to the winning racer!
+Dialogue: 0,0:40:33.89,0:40:36.24,Default,,0,0,0,,嘿 小鬼 我能和你们谈会儿吗?  \N{\fs36}Hey, kids! Can I talk to you for a second?
+Dialogue: 0,0:40:36.24,0:40:38.24,Default,,0,0,0,,{\fn李旭科书法 v1.4\c&HC7DCEA&\3c&H598ACC&\frx358\fry348\move(1300,280,1504,242,25,1986)\fscx103\fscy94}垃圾场
+Dialogue: 0,0:40:38.24,0:40:40.24,Default,,0,0,0,,{\fn李旭科书法 v1.4\c&HC7DCEA&\3c&H598ACC&\frx358\fry348\fscx123\fscy108\move(1536,242,1924,198,27,1988)}垃圾场
+Dialogue: 0,0:40:46.40,0:40:48.76,Default,,0,0,0,,大家好  各位车手  \N{\fs36}Hello, fellow racers!
+Dialogue: 0,0:40:48.91,0:40:51.26,Default,,0,0,0,,就是那个小窃贼  \N{\fs36}It's that little crumb snatcher.
+Dialogue: 0,0:40:51.26,0:40:54.43,Default,,0,0,0,,蜡烛头  太妃塔  蓝芝士 你们看起来气色不错啊 \N{\fs36} Candlehead, Taffyta, Rancis, you're looking well.
+Dialogue: 0,0:40:54.67,0:40:56.94,Default,,0,0,0,,过来探查敌情的  是吗? \N{\fs36} Came by to check out the competition, huh?
+Dialogue: 0,0:40:57.27,0:41:00.03,Default,,0,0,0,,好吧  看看吧  超级小旋风  \N{\fs36}Well, here it is, the Lickety-Split!
+Dialogue: 0,0:41:00.03,0:41:02.49,Default,,0,0,0,,真是的  看起来像是她自己做的 \N{\fs36} Sheesh. Looks like she built it herself.
+Dialogue: 0,0:41:02.49,0:41:03.90,Default,,0,0,0,,全手工制作哦  \N{\fs36}I built it myself.
+Dialogue: 0,0:41:03.90,0:41:06.48,Default,,0,0,0,,打地鼠界以西地区最快的脚动赛车 \N{\fs36} Fastest pedal-power west of the Whac-A-Mole.
+Dialogue: 0,0:41:06.48,0:41:07.56,Default,,0,0,0,,看看效果吧 \N{\fs36} Check her out.
+Dialogue: 0,0:41:12.25,0:41:16.35,Default,,0,0,0,,哦  云妮洛普  这太...  你懂的 \N{\fs36} Oh, Vanellope, it's so... You.
+Dialogue: 0,0:41:16.53,0:41:20.12,Default,,0,0,0,,你必须得退出比赛  一定要  \N{\fs36}But you have to back out of the race. Yeah.
+Dialogue: 0,0:41:20.12,0:41:21.92,Default,,0,0,0,,哦 不 我不想退出 \N{\fs36} Oh, no, I don't,
+Dialogue: 0,0:41:21.92,0:41:25.20,Default,,0,0,0,,因为我已经支付了费用而且我正在...  \N{\fs36}because I paid my fee and I'm on the board...
+Dialogue: 0,0:41:25.20,0:41:27.27,Default,,0,0,0,,所以 没错 我绝对是来赛车的 \N{\fs36} So, yeah, I'm definitely racing.
+Dialogue: 0,0:41:27.27,0:41:30.28,Default,,0,0,0,,是啊  好吧  但是糖果国王说了漏洞是不是参赛的 \N{\fs36} Yeah, well, King Candy says glitches can't race.
+Dialogue: 0,0:41:30.28,0:41:31.80,Default,,0,0,0,,我不是一个故障  太妃塔  \N{\fs36}I'm not a glitch, Taffyta.
+Dialogue: 0,0:41:31.80,0:41:33.80,Default,,0,0,0,,我只是有些异常  明白吗? \N{\fs36} I've just got pixslexia, okay?
+Dialogue: 0,0:41:33.80,0:41:36.10,Default,,0,0,0,,无规矩不成方圆  云妮洛普  \N{\fs36}The rules are there for a reason, Vanellope.
+Dialogue: 0,0:41:36.10,0:41:38.80,Default,,0,0,0,,为了大家的安全  现在假设是你 \N{\fs36} To protect us. Say I'm you.
+Dialogue: 0,0:41:38.80,0:41:41.72,Default,,0,0,0,,你坐在你的小破车里  \N{\fs36}I'm in my weird little car and I'm driving
+Dialogue: 0,0:41:41.72,0:41:44.24,Default,,0,0,0,,感觉这一次很拉风 \N{\fs36} and I actually feel kind of cool for once.
+Dialogue: 0,0:41:44.24,0:41:46.75,Default,,0,0,0,,然后 突然一下 哦 不好 \N{\fs36} And then, all of a sudden, oh, no.
+Dialogue: 0,0:41:46.75,0:41:48.92,Default,,0,0,0,,出漏洞了  \N{\fs36}I'm glitching!
+Dialogue: 0,0:41:48.92,0:41:50.39,Default,,0,0,0,,-嘿 -瞧见没?  \N{\fs36}-Hey! -See?
+Dialogue: 0,0:41:50.39,0:41:52.73,Default,,0,0,0,,你随时随地都是一个马路杀手 \N{\fs36} You're an accident just waiting to happen.
+Dialogue: 0,0:41:52.74,0:41:55.47,Default,,0,0,0,,哦 不 我也出漏洞了 \N{\fs36} Oh, no! I glitched, too!
+Dialogue: 0,0:41:56.87,0:41:58.07,Default,,0,0,0,,太粗鲁了 \N{\fs36} Uncool.
+Dialogue: 0,0:41:58.13,0:42:00.77,Default,,0,0,0,,停下 住手 你们把车弄坏了 \N{\fs36} Stop it! Stop! You're breaking it!
+Dialogue: 0,0:42:02.49,0:42:03.33,Default,,0,0,0,,拜托  \N{\fs36}Please!
+Dialogue: 0,0:42:03.33,0:42:06.00,Default,,0,0,0,,我只是想和你们一样去赛车 \N{\fs36} I just want to race like you guys.
+Dialogue: 0,0:42:06.17,0:42:09.54,Default,,0,0,0,,因为你是一个漏洞所以你永远都不可能成为一个车手 \N{\fs36} You will never be a racer because you're a glitch.
+Dialogue: 0,0:42:09.54,0:42:11.49,Default,,0,0,0,,你一辈子就只能如此  \N{\fs36}And that's all you'll ever be!
+Dialogue: 0,0:42:13.37,0:42:15.78,Default,,0,0,0,,嘿  放开她  \N{\fs36}Hey! Leave her alone!
+Dialogue: 0,0:42:18.97,0:42:20.34,Default,,0,0,0,,我们快走 \N{\fs36} Let's get out of here!
+Dialogue: 0,0:42:24.27,0:42:27.71,Default,,0,0,0,,滚吧  你们这些讨厌的糖果 \N{\fs36} Scram, you rotten little cavities!
+Dialogue: 0,0:42:27.71,0:42:28.93,Default,,0,0,0,,别让我抓住你们扔到泥里去 \N{\fs36} Before I throw you in the mud!
+Dialogue: 0,0:42:35.35,0:42:37.47,Default,,0,0,0,,你看什么看?  \N{\fs36}What are you looking at?
+Dialogue: 0,0:42:38.40,0:42:40.94,Default,,0,0,0,,不用客气  你这个超级小毛贼  \N{\fs36}You're welcome, you rotten little thief.
+Dialogue: 0,0:42:40.94,0:42:44.51,Default,,0,0,0,,我不是小偷  我只是借用了一下你那块愚蠢的硬币  \N{\fs36}I'm not a thief! I just borrowed your stupid coin.
+Dialogue: 0,0:42:44.51,0:42:47.35,Default,,0,0,0,,等我赢得了比赛我立马还给你 \N{\fs36} I was going to give it back to you as soon as I won the race.
+Dialogue: 0,0:42:47.35,0:42:49.67,Default,,0,0,0,,那不是一枚硬币  是一枚奖牌  \N{\fs36}It's not a coin. It is a medal.
+Dialogue: 0,0:42:49.92,0:42:51.73,Default,,0,0,0,,硬币 奖牌 随你怎么说了 \N{\fs36} Coin, medal, whatever.
+Dialogue: 0,0:42:51.73,0:42:54.52,Default,,0,0,0,,回去继续通关你的无声游戏再赢一块吧  \N{\fs36}Just go back to your own dumb game and win another one.
+Dialogue: 0,0:42:54.52,0:42:56.93,Default,,0,0,0,,不能回去  我从没在自己的游戏里赢过 \N{\fs36} I can't. I didn't win it in my game.
+Dialogue: 0,0:42:56.93,0:42:58.93,Default,,0,0,0,,我是在英雄使命里赢的 \N{\fs36} I won it in Hero's Duty.
+Dialogue: 0,0:42:59.11,0:43:00.79,Default,,0,0,0,,英雄屎命?  \N{\fs36}Hero's Doodie?
+Dialogue: 0,0:43:03.13,0:43:04.86,Default,,0,0,0,,不是你说的那样啦  \N{\fs36}It's not that kind of duty.
+Dialogue: 0,0:43:04.86,0:43:07.04,Default,,0,0,0,,我打赌你在英雄屎命里走路的时候 \N{\fs36} I bet you really got to watch where you step
+Dialogue: 0,0:43:07.04,0:43:09.28,Default,,0,0,0,,一定是小心翼翼的走好每一步 \N{\fs36}in a game called Hero's Doodie!
+Dialogue: 0,0:43:10.77,0:43:12.96,Default,,0,0,0,,你赢了这块奖牌用来干吗  擦屁股吗? \N{\fs36} What did you win the medal for, wiping?
+Dialogue: 0,0:43:14.62,0:43:17.79,Default,,0,0,0,,我希望你能在碰过那块奖牌后记得洗手 \N{\fs36} I hope you washed your hands after you handled that medal.
+Dialogue: 0,0:43:17.79,0:43:19.32,Default,,0,0,0,,-听着  -还有一句 就一句话  \N{\fs36}-Listen!  -One more, one more.
+Dialogue: 0,0:43:19.32,0:43:21.69,Default,,0,0,0,,为什么英雄要冲马桶? \N{\fs36} Why did the hero flush the toilet?
+Dialogue: 0,0:43:22.61,0:43:24.65,Default,,0,0,0,,-快问为什么 -为什么? \N{\fs36} -Say "why." -Why?
+Dialogue: 0,0:43:24.77,0:43:27.02,Default,,0,0,0,,因为那是他的"屎"命 \N{\fs36} Because it was his doodie!
+Dialogue: 0,0:43:27.02,0:43:28.96,Default,,0,0,0,,你竟敢侮辱英雄使命 \N{\fs36} How dare you insult Hero's Duty?
+Dialogue: 0,0:43:28.96,0:43:30.12,Default,,0,0,0,,黄毛丫头  \N{\fs36}You little guttersnipe!
+Dialogue: 0,0:43:30.12,0:43:31.52,Default,,0,0,0,,奖牌是我赢得的  \N{\fs36} \I earned that medal
+Dialogue: 0,0:43:31.52,0:43:34.09,Default,,0,0,0,,你这个甜心妹最好给我拿回来 \N{\fs36} and you better get it back for me toot-sweet, sister!
+Dialogue: 0,0:43:34.09,0:43:36.02,Default,,0,0,0,,好吧  除非你后脖颈的赘肉里 \N{\fs36} Well, unless you've got a go-cart
+Dialogue: 0,0:43:36.02,0:43:38.02,Default,,0,0,0,,藏着一辆卡丁车 \N{\fs36} hidden in the fat folds of your neck,
+Dialogue: 0,0:43:38.02,0:43:39.12,Default,,0,0,0,,不然我也没办法  \N{\fs36}I can't help you!
+Dialogue: 0,0:43:45.92,0:43:47.30,Default,,0,0,0,,真是个白痴 \N{\fs36} What a moron.
+Dialogue: 0,0:43:47.30,0:43:50.60,Default,,0,0,0,,嘿 天才 这是粉身碎骨糖  \N{\fs36}Hey, genius! It's a jawbreaker.
+Dialogue: 0,0:43:50.60,0:43:52.60,Default,,0,0,0,,你不可能砸碎....  \N{\fs36}You're never going to break...
+Dialogue: 0,0:43:57.45,0:44:00.62,Default,,0,0,0,,心情不好吗 小宝贝 \N{\fs36} Enjoy your little tantrum, diaper baby?
+Dialogue: 0,0:44:00.62,0:44:02.00,Default,,0,0,0,,别烦我 \N{\fs36} Leave me alone.
+Dialogue: 0,0:44:02.00,0:44:06.32,Default,,0,0,0,,听着 你想要那块奖牌 对吗? 而我想要参加比赛 \N{\fs36} Look, you want that medal, right? And I want to race.
+Dialogue: 0,0:44:06.56,0:44:08.27,Default,,0,0,0,,你看这样行不行  \N{\fs36}So here's what I'm thinking.
+Dialogue: 0,0:44:08.47,0:44:11.73,Default,,0,0,0,,你帮我弄一辆新赛车... 一辆真正的赛车...  \N{\fs36}You help me get a new cart... A real cart...
+Dialogue: 0,0:44:11.94,0:44:14.60,Default,,0,0,0,,我参加比赛 把你的奖牌赢回来 \N{\fs36} And I'll win the race and get you back your medal.
+Dialogue: 0,0:44:14.70,0:44:17.37,Default,,0,0,0,,你想让我...帮你?  \N{\fs36}You want me to help you?
+Dialogue: 0,0:44:17.37,0:44:19.70,Default,,0,0,0,,你只要帮我敲碎点东西就行了 \N{\fs36} All you got to do is break something for me.
+Dialogue: 0,0:44:19.70,0:44:22.62,Default,,0,0,0,,来吧 怎么说 我的朋友? \N{\fs36} Come on. What do you say, friend?
+Dialogue: 0,0:44:22.62,0:44:24.46,Default,,0,0,0,,我们才不是朋友呢 \N{\fs36} We are not friends.
+Dialogue: 0,0:44:24.46,0:44:28.50,Default,,0,0,0,,哦 好了 伙计 你这个傻小子 \N{\fs36} Oh, come on, pal. You son of a gun.
+Dialogue: 0,0:44:28.50,0:44:31.02,Default,,0,0,0,,来吧 哥儿们  来握个手  \N{\fs36}Come on, buddy. Let's shake on it.
+Dialogue: 0,0:44:31.02,0:44:33.02,Default,,0,0,0,,啊 来吧 大块头 \N{\fs36} Ah. Come on, chumbo.
+Dialogue: 0,0:44:33.02,0:44:36.10,Default,,0,0,0,,拉尔夫是好人 大好人 \N{\fs36} Ralph, my man. My main man.
+Dialogue: 0,0:44:36.63,0:44:40.90,Default,,0,0,0,,嗨 我胳膊都酸了 到底行不行  \N{\fs36}Hey My arm's getting tired. Do we have a deal or not?
+Dialogue: 0,0:44:41.44,0:44:44.59,Default,,0,0,0,,啊 你最好能赢  \N{\fs36}Ah You better win.
+Dialogue: 0,0:44:47.42,0:44:49.50,Default,,0,0,0,,好了 我就说一句 \N{\fs36} Well, I'll say this much,
+Dialogue: 0,0:44:49.50,0:44:52.12,Default,,0,0,0,,你朋友"破坏王"的名头真不是盖的  \N{\fs36}they don't call your friend "Wreck-It" for nothing.
+Dialogue: 0,0:44:52.12,0:44:54.56,Default,,0,0,0,,逃生舱就在那儿 \N{\fs36} There's the shuttle.
+Dialogue: 0,0:44:57.76,0:44:59.44,Default,,0,0,0,,他在里面吗?  \N{\fs36}Is he in there?
+Dialogue: 0,0:44:59.74,0:45:02.52,Default,,0,0,0,,没有  算他运气好 \N{\fs36} Nope. Lucky for him.
+Dialogue: 0,0:45:02.52,0:45:04.94,Default,,0,0,0,,否则我就要鞭他的尸了 \N{\fs36} Otherwise I would have slapped his corpse.
+Dialogue: 0,0:45:05.57,0:45:07.74,Default,,0,0,0,,也没有星际甲虫 \N{\fs36} No Cy-Bug, either.
+Dialogue: 0,0:45:07.74,0:45:11.00,Default,,0,0,0,,在他产下恶心的蛋之前一定要找到他 \N{\fs36} Got to find it before it lays its filthy eggs.
+Dialogue: 0,0:45:12.96,0:45:14.15,Default,,0,0,0,,他往这个方向跑了 \N{\fs36} It came this way,
+Dialogue: 0,0:45:14.15,0:45:16.04,Default,,0,0,0,,但是空气中的糖分微粒 \N{\fs36} but the sugar particles in the atmosphere
+Dialogue: 0,0:45:16.04,0:45:17.19,Default,,0,0,0,,干扰了我的传感器 \N{\fs36} are jamming my sensor.
+Dialogue: 0,0:45:17.19,0:45:18.92,Default,,0,0,0,,无法读取数据 \N{\fs36} Can't get a read on it.
+Dialogue: 0,0:45:18.92,0:45:21.37,Default,,0,0,0,,那么这个破坏王到底怎么了?  \N{\fs36}So what is it with this Wreck-It joker?
+Dialogue: 0,0:45:21.37,0:45:22.49,Default,,0,0,0,,他为什么要擅离职守  \N{\fs36}Why did he go AWOL?
+Dialogue: 0,0:45:22.49,0:45:24.29,Default,,0,0,0,,但愿我知道 夫人  \N{\fs36}I wish I knew, ma'am.
+Dialogue: 0,0:45:24.29,0:45:27.19,Default,,0,0,0,,他昨晚的行为很不正常... \N{\fs36} He was acting all squirrelly last night...
+Dialogue: 0,0:45:27.19,0:45:29.97,Default,,0,0,0,,不停地说蛋糕  奖牌什么的  \N{\fs36}Going on about cake and medals...
+Dialogue: 0,0:45:29.97,0:45:32.96,Default,,0,0,0,,但我没想到他会步沃伦后尘  \N{\fs36}But I never thought he'd go Turbo.
+Dialogue: 0,0:45:32.96,0:45:34.20,Default,,0,0,0,,沃伦是谁?  \N{\fs36}"Go Turbo"?
+Dialogue: 0,0:45:34.20,0:45:37.43,Default,,0,0,0,,对了 你们刚来肯定不知道 \N{\fs36} That's right, you guys just got plugged in.
+Dialogue: 0,0:45:37.43,0:45:40.57,Default,,0,0,0,,在游乐场刚开张的时候  \N{\fs36}Well, back when the arcade first opened,
+Dialogue: 0,0:45:40.57,0:45:43.62,Default,,0,0,0,,沃伦时光曾是最受欢迎的游戏 \N{\fs36} Turbo Time was by far the most popular game.
+Dialogue: 0,0:45:43.62,0:45:45.16,Default,,0,0,0,,-沃伦这个游戏... -沃伦最棒 \N{\fs36} -And Turbo... -Turbo-tastic!
+Dialogue: 0,0:45:45.31,0:45:48.64,Default,,0,0,0,,-他很喜欢这种受关注的感觉  -沃伦最棒  \N{\fs36}-He loved the attention. -Turbo-tastic!
+Dialogue: 0,0:45:48.64,0:45:52.01,Default,,0,0,0,,所以  当公路赛车上市的时候 \N{\fs36} So, when RoadBlasters got plugged in
+Dialogue: 0,0:45:52.01,0:45:53.48,Default,,0,0,0,,抢去了沃伦的风头... \N{\fs36} and stole Turbo's thunder...
+Dialogue: 0,0:45:53.48,0:45:55.18,Default,,0,0,0,,新游戏  太棒了  \N{\fs36}New game. All right!
+Dialogue: 0,0:45:55.18,0:45:57.18,Default,,0,0,0,,他嫉妒得要死  \N{\fs36}Boy, was he jealous.
+Dialogue: 0,0:45:58.18,0:46:01.52,Default,,0,0,0,,熊熊的妒火让他抛弃了自己的游戏 \N{\fs36} So jealous that he abandoned his game
+Dialogue: 0,0:46:01.52,0:46:03.29,Default,,0,0,0,,妄图称霸新游戏 \N{\fs36} and tried to take over the new one.
+Dialogue: 0,0:46:03.29,0:46:05.52,Default,,0,0,0,,这简直是我见过的画面最棒的游戏了 \N{\fs36} These are the greatest graphics I've ever seen!
+Dialogue: 0,0:46:05.52,0:46:06.79,Default,,0,0,0,,沃伦最棒 \N{\fs36} Turbo-tastic!
+Dialogue: 0,0:46:07.53,0:46:10.77,Default,,0,0,0,,嘿  那是...  看起来很像沃伦啊 \N{\fs36} Hey. Is that... That looks like Turbo.
+Dialogue: 0,0:46:10.77,0:46:13.93,Default,,0,0,0,,沃伦在这个游戏里做什么啊? 啊  见鬼  \N{\fs36}What's Turbo doing in this game? Aw, come on!
+Dialogue: 0,0:46:13.97,0:46:15.29,Default,,0,0,0,,利特瓦克先生 \N{\fs36} Mr. Litwak!
+Dialogue: 0,0:46:16.06,0:46:19.71,Default,,0,0,0,,沃伦最后让他自己和两款游戏 \N{\fs36} Turbo ended up putting both games and himself
+Dialogue: 0,0:46:19.71,0:46:23.27,Default,,0,0,0,,都出了不可修复的故障 \N{\fs36} out of order, for good.
+Dialogue: 0,0:46:23.51,0:46:26.56,Default,,0,0,0,,是啊   贪婪之人最终会作茧自缚  \N{\fs36}Yes, the selfish man is like a mangy dog
+Dialogue: 0,0:46:26.56,0:46:28.56,Default,,0,0,0,,追逐警世童话的无耻之徒 \N{\fs36} chasing a cautionary tale.
+Dialogue: 0,0:46:28.56,0:46:30.27,Default,,0,0,0,,就是  \N{\fs36}I know, right?
+Dialogue: 0,0:46:30.27,0:46:32.63,Default,,0,0,0,,正因如此  我才必须把拉尔夫带回家 \N{\fs36} That's why I have to get Ralph home
+Dialogue: 0,0:46:32.67,0:46:34.87,Default,,0,0,0,,否则同样的灾难也会发生在我的游戏 \N{\fs36} or the same thing's gonna happen to my game.
+Dialogue: 0,0:46:35.41,0:46:36.18,Default,,0,0,0,,什么? \N{\fs36} Huh?
+Dialogue: 0,0:46:39.17,0:46:41.25,Default,,0,0,0,,这是什么? \N{\fs36} What is this?
+Dialogue: 0,0:46:41.79,0:46:44.51,Default,,0,0,0,,-"雀巢巧克力粉"? -流沙? \N{\fs36} -"Nesquik Sand"? -Quicksand?
+Dialogue: 0,0:46:41.69,0:46:44.53,Default,,0,0,0,,{\fn迷你简雪峰\c&H60C2F0&\b1\3c&H0B5270&\frx352\fry346\fscx114\fscy88\pos(1562,448)\frz1.132}雀巢\N{\fn文鼎特圆简\c&HA1622D&\3c&HFFFFFF&\3a&H27&\fs76}巧克力\N{\fs82}流沙
+Dialogue: 0,0:46:44.64,0:46:47.78,Default,,0,0,0,,我要跳出去  抓根葡萄藤下来  \N{\fs36}Oh, I'll hop out and grab you one of those vines.
+Dialogue: 0,0:46:47.78,0:46:49.36,Default,,0,0,0,,我跳 \N{\fs36} Huh!
+Dialogue: 0,0:46:52.86,0:46:56.37,Default,,0,0,0,,我跳不动  我跳不起来  没希望了 \N{\fs36} I can't hop. I'm hop-less. This is hopeless!
+Dialogue: 0,0:46:56.37,0:46:57.70,Default,,0,0,0,,我们要淹死在这里了 \N{\fs36} We're going to drown here.
+Dialogue: 0,0:46:57.70,0:46:59.54,Default,,0,0,0,,停 放轻松  别乱动  \N{\fs36}Stop. Relax. Stop trying  move
+Dialogue: 0,0:46:59.54,0:47:00.58,Default,,0,0,0,,你让咱们沉的更快了 \N{\fs36} You're making us sink faster.
+Dialogue: 0,0:47:00.58,0:47:01.67,Default,,0,0,0,,我们要葬身于此了 \N{\fs36} We're going to die!
+Dialogue: 0,0:47:01.67,0:47:03.03,Default,,0,0,0,,控制你的情绪 \N{\fs36} Get ahold of yourself!
+Dialogue: 0,0:47:05.94,0:47:10.06,Default,,0,0,0,,那些葡萄藤  是水果太妃糖 \N{\fs36} The vines. They're Laffy Taffy.
+Dialogue: 0,0:47:10.06,0:47:12.06,Default,,0,0,0,,他们喜欢能让他们笑的任何东西 \N{\fs36} They're attracted to whatever makes them laugh.
+Dialogue: 0,0:47:12.06,0:47:14.06,Default,,0,0,0,,照这儿  再揍我 \N{\fs36} Here, hit me again.
+Dialogue: 0,0:47:17.78,0:47:20.37,Default,,0,0,0,,不够搞笑  用力  \N{\fs36}That's not funny enough. Harder!
+Dialogue: 0,0:47:20.37,0:47:22.06,Default,,0,0,0,,你挺不错的 我不能打...  \N{\fs36}Look, you're a nice guy. I can't...
+Dialogue: 0,0:47:22.06,0:47:24.90,Default,,0,0,0,,快打 游戏厅就指望我们了 \N{\fs36} No, ma'am! The arcade is depending on us.
+Dialogue: 0,0:47:24.90,0:47:27.70,Default,,0,0,0,,履行你的职责 这是命... \N{\fs36} Now do your duty. That's an ord...
+Dialogue: 0,0:47:30.47,0:47:32.47,Default,,0,0,0,,有用 再打  \N{\fs36}It's working! Hit me again.
+Dialogue: 0,0:47:32.47,0:47:34.47,Default,,0,0,0,,咦 你眼睛 \N{\fs36} Ooh, your eye.
+Dialogue: 0,0:47:34.57,0:47:37.21,Default,,0,0,0,,我能复原它 现在... \N{\fs36} I can fix it. Now...
+Dialogue: 0,0:47:37.23,0:47:40.97,Default,,0,0,0,,噢 真爽 再来 \N{\fs36} Oh! San Fran-tastic! Again!
+Dialogue: 0,0:47:40.97,0:47:43.93,Default,,0,0,0,,你动真格的 \N{\fs36} Ow! You mean business!
+Dialogue: 0,0:47:43.93,0:47:46.75,Default,,0,0,0,,噢 真爽 \N{\fs36} Ow! Yikes on bikes!
+Dialogue: 0,0:47:47.71,0:47:51.36,Default,,0,0,0,,我们逗得他们很...开...心... \N{\fs36} Wow! We're... killing... them!
+Dialogue: 0,0:47:52.54,0:47:53.82,Default,,0,0,0,,喜剧之王 \N{\fs36} Comedy gold!
+Dialogue: 0,0:48:19.63,0:48:21.73,Default,,0,0,0,,够了 别再骚眉弄眼啦  \N{\fs36}All right, enough with the goo-goo eyes.
+Dialogue: 0,0:48:21.73,0:48:23.32,Default,,0,0,0,,我们还有任务 走吧 \N{\fs36} We've got work to do. Let's go.
+Dialogue: 0,0:48:25.51,0:48:28.02,Default,,0,0,0,,唉 星际甲虫不见了 \N{\fs36} Ugh. We lost the Cy-Bug.
+Dialogue: 0,0:48:28.02,0:48:29.76,Default,,0,0,0,,走  在天上我们会有更好的视角 \N{\fs36} Come on. We'll get a better view from the air.
+Dialogue: 0,0:48:29.76,0:48:31.40,Default,,0,0,0,,你能修好那艘飞船吗?  \N{\fs36}You think you can fix that shuttle?
+Dialogue: 0,0:48:31.93,0:48:33.82,Default,,0,0,0,,小意思 \N{\fs36} Can do.
+Dialogue: 0,0:48:47.48,0:48:51.49,Default,,0,0,0,,{\fn文鼎特圆简\i1\c&H5C51F3&\1a&H0C&\3c&H000175&\fs62\fscx69\fscy63\pos(806,778)}卡丁车\N{\fn文鼎特圆简\fs82\b1\i0}生产厂
+Dialogue: 0,0:48:49.95,0:48:51.49,Default,,0,0,0,,别出声 \N{\fs36} Shh!
+Dialogue: 0,0:48:51.49,0:48:52.04,Default,,0,0,0,,{\fn文鼎特圆简\i1\c&H5C51F3&\1a&H0C&\3c&H000175&\fs62\fscx69\fscy63\move(806,778,790,778,20,520)}卡丁车\N{\fn文鼎特圆简\fs82\b1\i0}生产厂
+Dialogue: 0,0:48:58.10,0:49:00.87,Default,,0,0,0,,该你上了 伙计 把门砸开  \N{\fs36}All right, do your thing, knuckles. Bust it open!
+Dialogue: 0,0:48:58.86,0:49:01.80,Default,,0,0,0,,{\fn文鼎特圆简\c&H5103AB&\1a&H08&\3c&H72017D&\3a&H5B&\fs48\move(954,678,960,616,32,1992)}禁止漏洞
+Dialogue: 0,0:49:00.87,0:49:03.76,Default,,0,0,0,,这是什么? 你是个通缉罪犯吧? \N{\fs36} What's this? You're a full-on criminal, aren't you?
+Dialogue: 0,0:49:01.72,0:49:06.34,Default,,0,0,0,,{\fn文鼎特圆简\c&H5103AB&\1a&H08&\3c&H72017D&\3a&H5B&\fs48\pos(960,616)}禁止漏洞
+Dialogue: 0,0:49:03.76,0:49:05.76,Default,,0,0,0,,我们有约定啊  \N{\fs36}Hey, we shook on it.
+Dialogue: 0,0:49:09.22,0:49:11.46,Default,,0,0,0,,多谢 吉夫斯 \N{\fs36}Thank you, Jeeves.
+Dialogue: 0,0:49:09.22,0:49:11.59,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(954,112)}PS：Jeeves指理想的男仆  原：美国作家P.G.Wodehouse所著小说中人物
+Dialogue: 0,0:49:11.46,0:49:15.58,Default,,0,0,0,,这儿是哪儿? 车子在哪儿? \N{\fs36} What is this place? Where are the carts?
+Dialogue: 0,0:49:15.58,0:49:16.65,Default,,0,0,0,,你得自己动手做  \N{\fs36}You gotta make one.
+Dialogue: 0,0:49:16.65,0:49:18.08,Default,,0,0,0,,啥? 不可能 \N{\fs36} What? No, no.
+Dialogue: 0,0:49:18.08,0:49:19.87,Default,,0,0,0,,小屁孩 这主意烂透了 相信我 \N{\fs36} Look, kid, bad idea. Trust me.
+Dialogue: 0,0:49:19.87,0:49:22.12,Default,,0,0,0,,我做不了东西 只会破坏东西  \N{\fs36}I don't make things. I break things.
+Dialogue: 0,0:49:22.12,0:49:24.26,Default,,0,0,0,,看来你将要走出  \N{\fs36}Well, it looks like you're going to be stepping outside
+Dialogue: 0,0:49:23.92,0:49:25.92,Default,,0,0,0,,{\fn华康海报体W12\c&HF1CF60&\frz1.655\frx356\fry356\move(1428,22,1302,86,39,1999)}挑{\c&HDEA7FF&}选 {\c&H7612FF&}你{\c&H53FF5D&}的{\c&H59F165&} {\c&H54C1E5&}卡{\c&HF393FF&}丁{\c&HFB9978&}车
+Dialogue: 0,0:49:24.26,0:49:26.01,Default,,0,0,0,,自己的舒适区了  格拉迪丝  \N{\fs36} your comfort zone, then, Gladys.
+Dialogue: 0,0:49:24.26,0:49:26.01,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(960,165)}PS: Gladys格拉迪丝拉丁语的威尔士语形式，含义是“跛的统治者”
+Dialogue: 0,0:49:26.01,0:49:27.49,Default,,0,0,0,,哈 这辆不错 \N{\fs36} Ooh, this is a good one!
+Dialogue: 0,0:49:26.01,0:49:27.93,Default,,0,0,0,,{\fn华康海报体W12\c&HF1CF60&\frz1.655\frx356\fry356\pos(1304,90)}挑{\c&HDEA7FF&}选 {\c&H7612FF&}你{\c&H53FF5D&}的{\c&H59F165&} {\c&H54C1E5&}卡{\c&HF393FF&}丁{\c&HFB9978&}车
+Dialogue: 0,0:49:28.23,0:49:31.56,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}欢迎来到蛋糕作坊 我们一起做个卡丁车吧  \N{\fs36}Welcome to the bakery! Let's bake a kart!
+Dialogue: 0,0:49:31.56,0:49:33.36,Default,,0,0,0,,这是啥  又一个游戏?  \N{\fs36}What is this, another game?
+Dialogue: 0,0:49:33.36,0:49:35.36,Default,,0,0,0,,对  这是个小游戏  \N{\fs36}Yeah, well, it's a mini-game.
+Dialogue: 0,0:49:35.36,0:49:36.58,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你有一分钟赢得比赛 \N{\fs36} You have one minute to win it.
+Dialogue: 0,0:49:36.58,0:49:37.91,Default,,0,0,0,,-啥玩意儿? -快来 拉尔夫 \N{\fs36} -What? -Come on, Ralph!
+Dialogue: 0,0:49:37.91,0:49:39.77,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}混合环节  \N{\fs36}Go! Mixing.
+Dialogue: 0,0:49:39.77,0:49:41.47,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}把原材料放到碗里  \N{\fs36}Put the ingredients in the bowl
+Dialogue: 0,0:49:41.47,0:49:42.82,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}扔掉垃圾  \N{\fs36}and throw away the trash.
+Dialogue: 0,0:49:43.10,0:49:44.31,Default,,0,0,0,,发刷 不要  \N{\fs36}Hairbrush. No!
+Dialogue: 0,0:49:44.48,0:49:46.31,Default,,0,0,0,,内裤 不要  \N{\fs36}Underpants. No, no!
+Dialogue: 0,0:49:46.31,0:49:48.44,Default,,0,0,0,,你东西都弄错了  \N{\fs36}You're getting all the wrong stuff, kid.
+Dialogue: 0,0:49:48.44,0:49:49.78,Default,,0,0,0,,我在努力 \N{\fs36} I'm trying!
+Dialogue: 0,0:49:49.78,0:49:53.18,Default,,0,0,0,,让我上来 我来分类 不要 要 \N{\fs36} Let me up there. I'll do it. No. Yes
+Dialogue: 0,0:49:53.48,0:49:55.99,Default,,0,0,0,,真恶心 牛奶 有用  \N{\fs36}Gross. Milk. Yes, yes, yes. Oh!
+Dialogue: 0,0:49:57.20,0:49:58.28,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}打成糊 \N{\fs36} Batter up!
+Dialogue: 0,0:49:58.28,0:49:59.22,Default,,0,0,0,,不要 \N{\fs36} Ah!
+Dialogue: 0,0:50:03.26,0:50:06.06,Default,,0,0,0,,快来  别歇着  \N{\fs36}Come on! No sleeping on the job!
+Dialogue: 0,0:50:06.06,0:50:09.42,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}焙烤环节  用泵把温度升高 \N{\fs36} Baking! Pump up the heat
+Dialogue: 0,0:50:09.42,0:50:11.12,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}并保持最合适的温度  \N{\fs36}and hold the perfect temperature.
+Dialogue: 0,0:50:11.12,0:50:12.70,Default,,0,0,0,,拉尔夫 能帮把手吗? \N{\fs36} Ralph, a little help here?
+Dialogue: 0,0:50:12.70,0:50:13.59,Default,,0,0,0,,我来了 \N{\fs36} I'm on it.
+Dialogue: 0,0:50:15.66,0:50:18.35,Default,,0,0,0,,没问题  把这个给我 \N{\fs36} Yeah, no problem. Give me this thing here.
+Dialogue: 0,0:50:18.35,0:50:21.73,Default,,0,0,0,,好 不错 再高点  \N{\fs36}Okay, good. Little more.
+Dialogue: 0,0:50:23.03,0:50:25.25,Default,,0,0,0,,好 就是这个温度 稳住 稳住 稳住  \N{\fs36}Yeah, that's it! Hold it, hold it, hold it.
+Dialogue: 0,0:50:25.25,0:50:26.44,Default,,0,0,0,,{\fn文鼎特圆简\c&H2A406B&\3c&H8B8BE3&\fscx181\fscy147\pos(1180,684)}刚好
+Dialogue: 0,0:50:27.52,0:50:30.33,Default,,0,0,0,,快来 起来 拉尔夫 15秒 \N{\fs36} Yes! Come on. Get up, Ralph! Fifteen seconds!
+Dialogue: 0,0:50:30.33,0:50:32.08,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}-装饰环节  -先装轮子 \N{\fs36} -Decorating! -Wheels first.
+Dialogue: 0,0:50:32.08,0:50:33.54,Default,,0,0,0,,-几个轮子? -4个  废话 \N{\fs36} -How many? -Four, doy!
+Dialogue: 0,0:50:33.54,0:50:33.94,Default,,0,0,0,,知道了  \N{\fs36}Got it.
+Dialogue: 0,0:50:35.31,0:50:38.26,Default,,0,0,0,,凝固 裹一坨东西 \N{\fs36} Now frosting. A buttload of frosting!
+Dialogue: 0,0:50:38.26,0:50:39.38,Default,,0,0,0,,没问题 \N{\fs36} No problem.
+Dialogue: 0,0:50:51.18,0:50:54.54,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}时间到 恭喜  \N{\fs36}Time's up! Congratulations.
+Dialogue: 0,0:50:54.54,0:50:57.12,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}你做到了 这就是你的车 \N{\fs36} You did it, and here's your can!
+Dialogue: 0,0:51:07.53,0:51:12.12,Default,,0,0,0,,看 孩子...  我刚才还提醒你 \N{\fs36} Look, kid... I tried to warn you.
+Dialogue: 0,0:51:12.12,0:51:15.00,Default,,0,0,0,,我做不成东西 我只能毁... \N{\fs36} I can't make things. I just break...
+Dialogue: 0,0:51:15.00,0:51:16.28,Default,,0,0,0,,我爱死它了 \N{\fs36} I love it.
+Dialogue: 0,0:51:16.64,0:51:18.02,Default,,0,0,0,,真的? \N{\fs36} You do?
+Dialogue: 0,0:51:18.02,0:51:19.69,Default,,0,0,0,,我真的爱死它了 \N{\fs36} I love it.
+Dialogue: 0,0:51:20.01,0:51:22.34,Default,,0,0,0,,爱死了 爱死了 爱死了 \N{\fs36} I love it! I love it! I love it!
+Dialogue: 0,0:51:22.36,0:51:24.08,Default,,0,0,0,,瞧 这儿还真有个引擎 \N{\fs36} Look, it's got a real engine!
+Dialogue: 0,0:51:24.08,0:51:25.50,Default,,0,0,0,,还有轮子 \N{\fs36} And look at these wheels.
+Dialogue: 0,0:51:26.50,0:51:29.96,Default,,0,0,0,,帅爆了 我总算有辆真正的车了  \N{\fs36}I love it! I finally have a real cart!
+Dialogue: 0,0:51:29.96,0:51:34.62,Default,,0,0,0,,来  像这种杰作得签上我们的名字  \N{\fs36}Come on. A work of art like this must be signed.
+Dialogue: 0,0:51:37.27,0:51:38.83,Default,,0,0,0,,奶油卷  \N{\fs36}Cream puffs.
+Dialogue: 0,0:51:41.12,0:51:43.34,Default,,0,0,0,,什么味道? \N{\fs36} Hmm?
+Dialogue: 0,0:51:45.59,0:51:47.14,Default,,0,0,0,,我是胡子老爹  \N{\fs36}This is Beard Papa.
+Dialogue: 0,0:51:47.14,0:51:50.31,Default,,0,0,0,,漏洞正在卡丁车工厂里  给我接糖果国王 \N{\fs36} The Glitch is in the bakery! Get me King Candy!
+Dialogue: 0,0:51:53.56,0:51:57.27,Default,,0,0,0,,啊? 你有牙?  \N{\fs36}Oh, what? You have teeth?
+Dialogue: 0,0:51:50.53,0:51:54.08,Default,,0,0,0,,{\fn李旭科书法 v1.4\c&HB8CD14&\frz14.45\pos(476,714)}出自\N{\fs102\c&HD1E823&}云妮洛普\N{\fs82\c&H4000E4&}和 {\fs120}拉尔夫
+Dialogue: 0,0:51:57.27,0:51:59.91,Default,,0,0,0,,我从没见你笑过  \N{\fs36}I don't think I've ever seen you smile before.
+Dialogue: 0,0:51:59.91,0:52:03.63,Default,,0,0,0,,我不擅长笑  我很淡定  不行吗?  \N{\fs36}I'm not smiling. I was... I'm gassy, okay?
+Dialogue: 0,0:52:05.88,0:52:07.98,Default,,0,0,0,,站那别动  漏洞  \N{\fs36}Hold it right there, Glitch!
+Dialogue: 0,0:52:08.24,0:52:10.90,Default,,0,0,0,,-无敌破坏王拉尔夫也在这儿? -啊偶 \N{\fs36} -And Wreck-It Ralph? -Uh-oh.
+Dialogue: 0,0:52:12.99,0:52:15.77,Default,,0,0,0,,把车发动  把车发动  \N{\fs36}Start the cart! Start the cart!
+Dialogue: 0,0:52:15.77,0:52:17.77,Default,,0,0,0,,还在等啥? 快走  \N{\fs36}What are you waiting for? Come on. Let's go!
+Dialogue: 0,0:52:17.77,0:52:22.04,Default,,0,0,0,,我不知道怎么开车  \N{\fs36}I don't know how to drive a real cart.
+Dialogue: 0,0:52:22.04,0:52:23.68,Default,,0,0,0,,你说啥? \N{\fs36} You don't what?
+Dialogue: 0,0:52:23.68,0:52:25.03,Default,,0,0,0,,您受伤了吗  陛下? \N{\fs36} Are you hurt, Sire?
+Dialogue: 0,0:52:25.05,0:52:28.40,Default,,0,0,0,,没  他只是给我上了一层釉  抓住他们  \N{\fs36}No, he just glazed me. Get them!
+Dialogue: 0,0:52:28.40,0:52:30.40,Default,,0,0,0,,-让路  -哦 \N{\fs36} -Gangway! -Oh!
+Dialogue: 0,0:52:32.89,0:52:37.64,Default,,0,0,0,,停车  以王之名  就是我之名  \N{\fs36}Stop, in the name of the king! That's me!
+Dialogue: 0,0:52:41.91,0:52:43.74,Default,,0,0,0,,别走大路了 \N{\fs36} Get off the road!
+Dialogue: 0,0:52:48.47,0:52:50.87,Default,,0,0,0,,去无糖可乐山 \N{\fs36} Head for Diet Cola Mountain!
+Dialogue: 0,0:52:54.09,0:52:56.39,Default,,0,0,0,,-开到山里  -啥? \N{\fs36} -Drive into the wall! -What?
+Dialogue: 0,0:52:56.39,0:52:59.12,Default,,0,0,0,,在那儿  两个无糖棒棒糖之间 \N{\fs36} Right there, between the two sugar-free lollipops!
+Dialogue: 0,0:52:59.12,0:53:01.12,Default,,0,0,0,,-你疯了? -你就开吧 \N{\fs36} -Are you crazy? -Just do it!
+Dialogue: 0,0:53:12.72,0:53:17.51,Default,,0,0,0,,他们去哪儿了? 应该已经拐弯了  \N{\fs36}Where did they go? They should have just turned.
+Dialogue: 0,0:53:17.63,0:53:21.66,Default,,0,0,0,,抓住漏洞  毁掉她的车 \N{\fs36} Find that glitch! Destroy that cart!
+Dialogue: 0,0:53:21.66,0:53:24.18,Default,,0,0,0,,她没资格赛车  \N{\fs36}She can't be allowed to race!
+Dialogue: 0,0:53:28.66,0:53:32.70,Default,,0,0,0,,我想先弄清楚  你不会开车 \N{\fs36} So let me get this straight. You don't know how to drive.
+Dialogue: 0,0:53:32.70,0:53:34.70,Default,,0,0,0,,严格意义上不会  \N{\fs36}Well, no, not technically.
+Dialogue: 0,0:53:34.70,0:53:36.70,Default,,0,0,0,,-但是 我就是觉得...  -你觉得什么? \N{\fs36} -But I just thought that... -What did you think?
+Dialogue: 0,0:53:36.70,0:53:39.65,Default,,0,0,0,,"哈  我会...我会奇迹般获得胜利  \N{\fs36}"Oh, I'll just... I'll just magically win the race
+Dialogue: 0,0:53:39.65,0:53:41.34,Default,,0,0,0,,只是因为我真的想赢  " \N{\fs36} just because I really want to!"
+Dialogue: 0,0:53:41.34,0:53:43.47,Default,,0,0,0,,听好了 二货 我知道我是一个赛车手 \N{\fs36} Look, wise guy. I know I'm a racer.
+Dialogue: 0,0:53:43.51,0:53:45.40,Default,,0,0,0,,我有这个基因 \N{\fs36} I can feel it in my code.
+Dialogue: 0,0:53:47.57,0:53:50.14,Default,,0,0,0,,得了吧  我再也拿不回我的奖牌了 \N{\fs36} That's it! I'm never getting my medal back.
+Dialogue: 0,0:53:50.14,0:53:53.83,Default,,0,0,0,,那破奖牌有什么大不了的? \N{\fs36} What is the big whoop about that crummy medal anyway?
+Dialogue: 0,0:53:53.83,0:53:54.77,Default,,0,0,0,,大不了?  \N{\fs36}The big whoop?
+Dialogue: 0,0:53:54.77,0:53:57.27,Default,,0,0,0,,这可能会吓着你  但是在我的游戏里 \N{\fs36} Well, this may come as a shock to you, but in my game,
+Dialogue: 0,0:53:57.27,0:53:59.94,Default,,0,0,0,,我是坏蛋  我住在垃圾堆里 \N{\fs36} I'm the bad guy and I live in the garbage.
+Dialogue: 0,0:53:59.94,0:54:01.94,Default,,0,0,0,,-酷毙了  -酷你妹啊  \N{\fs36}-Cool. -No. Not cool.
+Dialogue: 0,0:54:01.94,0:54:04.97,Default,,0,0,0,,既不卫生  又寂寞  还无聊 \N{\fs36} Unhygienic and lonely and boring.
+Dialogue: 0,0:54:05.65,0:54:09.32,Default,,0,0,0,,而那个破奖牌会改变着所有的一切 \N{\fs36} And that crummy medal was going to change all that.
+Dialogue: 0,0:54:09.32,0:54:11.30,Default,,0,0,0,,如果我挂着奖牌回家 \N{\fs36} I go home with that baby around my neck
+Dialogue: 0,0:54:11.30,0:54:13.61,Default,,0,0,0,,我会得到阁楼公寓  馅饼  \N{\fs36}and I'll get a penthouse. Pies.
+Dialogue: 0,0:54:13.61,0:54:15.79,Default,,0,0,0,,冰雕  焰火 \N{\fs36} Ice sculptures. Fireworks!
+Dialogue: 0,0:54:18.07,0:54:20.30,Default,,0,0,0,,这都是成年人的东西  你理解不了的 \N{\fs36} It's grown-up stuff. You wouldn't understand.
+Dialogue: 0,0:54:20.30,0:54:21.86,Default,,0,0,0,,不 我能理解 \N{\fs36} No, I get it!
+Dialogue: 0,0:54:21.86,0:54:24.43,Default,,0,0,0,,那赛车也能给我带来同样的东西 \N{\fs36} That's exactly what racing would do for me!
+Dialogue: 0,0:54:24.43,0:54:25.43,Default,,0,0,0,,-你知道么? -什么?  \N{\fs36}-Well, guess what? -What?
+Dialogue: 0,0:54:25.43,0:54:25.81,Default,,0,0,0,, -什么?  \N{\fs36}-What?
+Dialogue: 0,0:54:25.81,0:54:28.77,Default,,0,0,0,,新爆料  咱俩谁都得不到我们想要的东西  \N{\fs36}News flash! Neither one of us is getting what we want!
+Dialogue: 0,0:54:31.24,0:54:32.58,Default,,0,0,0,,什么情况?  \N{\fs36}What was that?
+Dialogue: 0,0:54:45.87,0:54:47.98,Default,,0,0,0,,{\fn李旭科书法 v1.4\i1\c&HADADCC&\fscx145\fscy156\frz3.714\frx352\fry14\pos(275,446)\b1}健怡{\3c&H101038&}\N{\fn文鼎特圆简\i0\c&H21223A&}可乐熔岩
+Dialogue: 0,0:54:48.54,0:54:50.32,Default,,0,0,0,,{\fn文鼎特圆简\c&H292945&\1a&H1A&\3c&H171736&\fscx138\fscy142\pos(259,555)\org(250.978,453.498)\frx354\fry8\frz2.399}当心\N曼妥思坠落
+Dialogue: 0,0:54:45.83,0:54:50.32,Default,,0,0,0,,健怡可乐熔岩  当心曼妥思坠落\N{\fs36} Diet Cola Hot Springs  Watch out for Falling Mentos
+Dialogue: 0,0:54:50.32,0:54:51.64,Default,,0,0,0,,看我的 \N{\fs36} Yeah! Check it out. Look!
+Dialogue: 0,0:54:58.27,0:54:59.90,Default,,0,0,0,,啊  烫 \N{\fs36} Ow! Whoa!
+Dialogue: 0,0:54:59.97,0:55:01.55,Default,,0,0,0,,你得小心那些溅出来的东西  \N{\fs36}You got to watch out for the splash.
+Dialogue: 0,0:55:01.55,0:55:03.39,Default,,0,0,0,,滚烫滚烫的 \N{\fs36} That stuff is broiling hot.
+Dialogue: 0,0:55:03.39,0:55:05.18,Default,,0,0,0,,好  知道了  谢了 \N{\fs36} Yeah, I got that. Thank you.
+Dialogue: 0,0:55:05.18,0:55:07.44,Default,,0,0,0,,这是啥啊?  \N{\fs36}What is t his dump?
+Dialogue: 0,0:55:07.44,0:55:10.97,Default,,0,0,0,,算是个没完成的额外奖励赛道吧 \N{\fs36} I think it's some sort of unfinished bonus level.
+Dialogue: 0,0:55:11.35,0:55:13.46,Default,,0,0,0,,看 挺酷的 是吧？  \N{\fs36}Yeah. It's pretty cool, huh?
+Dialogue: 0,0:55:13.46,0:55:16.70,Default,,0,0,0,,我发现了那个秘密入口  所以我住在这儿 \N{\fs36} I found that secret opening, and now I live here
+Dialogue: 0,0:55:16.89,0:55:18.70,Default,,0,0,0,,明白? 快来看 \N{\fs36} See? Oh, look, look, look.
+Dialogue: 0,0:55:19.05,0:55:21.66,Default,,0,0,0,,欢迎光临寒舍  \N{\fs36}Welcome to my home!
+Dialogue: 0,0:55:21.66,0:55:24.05,Default,,0,0,0,,我睡在这些糖果包装纸里 \N{\fs36} I sleep in these candy wrappers.
+Dialogue: 0,0:55:24.07,0:55:27.26,Default,,0,0,0,,我把自己裹得像个无家可归的少妇 \N{\fs36} I bundle myself up like a little homeless lady.
+Dialogue: 0,0:55:28.22,0:55:29.94,Default,,0,0,0,,你自己住? \N{\fs36} By yourself?
+Dialogue: 0,0:55:30.72,0:55:33.23,Default,,0,0,0,,周围都是垃圾? \N{\fs36} With all this garbage around you?
+Dialogue: 0,0:55:33.71,0:55:35.64,Default,,0,0,0,,哦 是啊  \N{\fs36}Well, yeah.
+Dialogue: 0,0:55:35.64,0:55:38.39,Default,,0,0,0,,这里所有人都说我是个错误 \N{\fs36} I mean, everyone here says I'm just a mistake
+Dialogue: 0,0:55:38.39,0:55:40.34,Default,,0,0,0,,我不应该存在 \N{\fs36} and that I wasn't even supposed to exist.
+Dialogue: 0,0:55:40.34,0:55:41.81,Default,,0,0,0,,你还想要什么? \N{\fs36} What do you expect?
+Dialogue: 0,0:55:41.81,0:55:43.81,Default,,0,0,0,,听我说  孩子... \N{\fs36} Listen, kid...
+Dialogue: 0,0:55:44.62,0:55:46.62,Default,,0,0,0,,我知道这与我无关 \N{\fs36} I know it's none of my business
+Dialogue: 0,0:55:46.70,0:55:49.37,Default,,0,0,0,,那你为什么还待在这个游戏? \N{\fs36}but why do you even stick around this game?
+Dialogue: 0,0:55:49.47,0:55:52.01,Default,,0,0,0,,看来你真的不懂? \N{\fs36} You really don't know anything, do you?
+Dialogue: 0,0:55:52.01,0:55:54.48,Default,,0,0,0,,漏洞不能离开自己的游戏 \N{\fs36} Glitches can't leave their games.
+Dialogue: 0,0:55:55.39,0:55:58.51,Default,,0,0,0,,这也是我的快乐之一  \N{\fs36}It's one of the joys of being me.
+Dialogue: 0,0:56:07.48,0:56:09.55,Default,,0,0,0,,嘿  你干什么啊?  \N{\fs36} Hey, what are you doing? Come on!
+Dialogue: 0,0:56:09.83,0:56:12.64,Default,,0,0,0,,我知道这里都是垃圾  但也别毁了他们啊 \N{\fs36} I know it's a dump, but it's all I got.
+Dialogue: 0,0:56:12.64,0:56:13.94,Default,,0,0,0,,如果想当赛车手 \N{\fs36} If you're going to be a racer,
+Dialogue: 0,0:56:13.94,0:56:15.94,Default,,0,0,0,,你就得学会开车 \N{\fs36} you're going to have to learn how to drive.
+Dialogue: 0,0:56:15.94,0:56:18.83,Default,,0,0,0,,所以你必须得有条赛道 \N{\fs36} And you can't do that without a track.
+Dialogue: 0,0:56:22.47,0:56:24.40,Default,,0,0,0,,哇啊...  \N{\fs36}Whoa!
+Dialogue: 0,0:56:24.40,0:56:25.92,Default,,0,0,0,,现在 \N{\fs36} All right, now.
+Dialogue: 0,0:56:25.92,0:56:27.96,Default,,0,0,0,,抓紧时间  我们练车吧 \N{\fs36} Let's hustle up. We've got some driving to do.
+Dialogue: 0,0:56:27.96,0:56:30.53,Default,,0,0,0,,学开车喽  学开车喽  学开车喽 \N{\fs36} I'm going to learn to drive! I'm going to learn to drive!
+Dialogue: 0,0:56:30.53,0:56:31.84,Default,,0,0,0,,先等会儿  你知道咋开车吗? \N{\fs36} Oh, wait. Do you know how to drive?
+Dialogue: 0,0:56:31.84,0:56:33.84,Default,,0,0,0,,当然 虽然我没开过 但是... \N{\fs36} Yeah! I mean, I haven't done it, but...
+Dialogue: 0,0:56:33.92,0:56:35.87,Default,,0,0,0,,我今天开了一艘飞船  不是吗? \N{\fs36} Look, I flew a spaceship today, okay?
+Dialogue: 0,0:56:35.87,0:56:36.89,Default,,0,0,0,,你把它坠毁了 \N{\fs36} You crashed it.
+Dialogue: 0,0:56:36.89,0:56:39.68,Default,,0,0,0,,快进来吧 这有什么难的? 呃... \N{\fs36} Just get in. How hard can it be? Okay, uh...
+Dialogue: 0,0:56:39.68,0:56:41.04,Default,,0,0,0,,发动  \N{\fs36}Start it up.
+Dialogue: 0,0:56:43.72,0:56:47.31,Default,,0,0,0,,就是这样  下面还有一些按钮 \N{\fs36} There we go. So there are some buttons on the floor.
+Dialogue: 0,0:56:47.31,0:56:49.06,Default,,0,0,0,,-是踏板  -踏板  没错  \N{\fs36}-Pedals. -Pedals. Right.
+Dialogue: 0,0:56:49.06,0:56:54.10,Default,,0,0,0,,这个是油门 \N{\fs36} Now, uh, that's the go pedal.
+Dialogue: 0,0:56:54.20,0:56:58.28,Default,,0,0,0,,这个是刹车 \N{\fs36} That I believe is the stopper.
+Dialogue: 0,0:56:58.28,0:57:01.03,Default,,0,0,0,,这个是...  先别慌 \N{\fs36} And this... Wait.
+Dialogue: 0,0:57:01.11,0:57:03.76,Default,,0,0,0,,这个是干什么的? 没什么用 \N{\fs36} What is this? That doesn't do anything.
+Dialogue: 0,0:57:03.76,0:57:05.33,Default,,0,0,0,,诶  这个摇杆是干嘛的? \N{\fs36} Ooh, what does this joystick do?
+Dialogue: 0,0:57:05.93,0:57:08.53,Default,,0,0,0,,不错  我们再来一次  \N{\fs36}Okay, good. Let's try that again.
+Dialogue: 0,0:57:08.53,0:57:12.06,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 我一直在找合格的赛车手 ♪ \N{\fs36} ♪ I've been looking for a driver who's qualified ♪
+Dialogue: 0,0:57:12.06,0:57:13.70,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 如果你自认你符合要求  ♪  \N{\fs36}♪ So if you think that you're the one ♪
+Dialogue: 0,0:57:13.76,0:57:15.73,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 请自告奋勇 ♪ \N{\fs36} ♪ To step into my ride ♪
+Dialogue: 0,0:57:15.73,0:57:19.23,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 我是优质的超音速疾行机器 ♪  \N{\fs36}♪ I'm a fine-tuned supersonic speed machine ♪
+Dialogue: 0,0:57:19.23,0:57:22.86,Default,,0,0,0,,疼啊 \N{\fs36}Ow!
+Dialogue: 0,0:57:19.23,0:57:22.86,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)} ♪ 有着豪华天窗和帅气的驾驶姿势 ♪  \N{\fs36}♪ Got a sunroof top and a gangster lead ♪
+Dialogue: 0,0:57:23.31,0:57:27.34,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  如果你感觉到我 请让我知道  知道 知道 ♪ \N{\fs36} ♪ So if you feel me let me know, know, know ♪
+Dialogue: 0,0:57:27.36,0:57:30.30,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  放胆看我表现  看我向前冲  冲冲冲  ♪ \N{\fs36} ♪ So start me up and watch me go, go, go, go ♪
+Dialogue: 0,0:57:30.30,0:57:33.64,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  随心所欲带领你四处遨游 如果你能心领神会  ♪ \N{\fs36} ♪ Get you where you wanna go If you know what I mean ♪
+Dialogue: 0,0:57:33.64,0:57:37.28,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  给你比豪华轿车还舒适的驾乘感受  ♪ \N{\fs36} ♪ Got a ride that's smoother than a limousine ♪
+Dialogue: 0,0:57:37.36,0:57:40.86,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  我可以用迅雷不及掩耳的速度加速  ♪\N{\fs36} ♪ 'Cause I'm 0 to 60 in three point five ♪
+Dialogue: 0,0:57:39.71,0:57:40.92,Default,,0,0,0,,拐弯  \N{\fs36}Now shift it.
+Dialogue: 0,0:57:40.94,0:57:42.74,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  宝贝你有钥匙  ♪ \N{\fs36} ♪ Baby you got the keys ♪
+Dialogue: 0,0:57:41.68,0:57:44.54,Default,,0,0,0,,不错  继续  再拐弯 \N{\fs36} That's good. Keep going! Shift it again!
+Dialogue: 0,0:57:44.00,0:57:47.62,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  准备就绪大胆上路  上路 上路 ♪ \N{\fs36} ♪ Now shut up and drive Drive, drive, drive ♪
+Dialogue: 0,0:57:49.78,0:57:52.76,Default,,0,0,0,,我早就告诉过你  我有赛车基因  \N{\fs36}I told you, racing's in my code!
+Dialogue: 0,0:57:52.25,0:57:55.72,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  如果你感觉到我 请让我知道  知道 知道  ♪ \N{\fs36} ♪ So if you feel me let me know, know, know ♪
+Dialogue: 0,0:57:55.72,0:57:59.23,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  放胆开始看我表现 表现 表现  ♪ \N{\fs36} ♪ So start me up and watch me go, go, go ♪
+Dialogue: 0,0:57:55.72,0:57:57.35,Default,,0,0,0,,拿奖牌没问题了 \N{\fs36} I got that medal in the bag!
+Dialogue: 0,0:57:57.35,0:57:59.87,Default,,0,0,0,,  嘿 拉尔夫  瞧这里 \N{\fs36}Are you Ralph. watch this!
+Dialogue: 0,0:57:59.28,0:58:02.75,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  随心所欲带领你四处遨游 如果你能心领神会  ♪ \N{\fs36}♪ Get you where you wanna go if you know what I mean ♪
+Dialogue: 0,0:58:02.75,0:58:05.78,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 给你比豪华轿车还舒适的驾乘感受  ♪ \N{\fs36} ♪ Got a ride that's smoother than a limousine ♪
+Dialogue: 0,0:58:04.71,0:58:06.07,Default,,0,0,0,,哇-哇！\N{\fs36} Whoo-hoo!
+Dialogue: 0,0:58:06.28,0:58:09.79,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  我可以用迅雷不及掩耳的速度加速  ♪ \N{\fs36} ♪ Cause I'm zero to 60 in three point five ♪
+Dialogue: 0,0:58:09.82,0:58:11.95,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  宝贝你有钥匙  ♪ \N{\fs36} ♪ Baby you got the keys ♪
+Dialogue: 0,0:58:13.74,0:58:15.75,Default,,0,0,0,,-小心！-哇 ！\N{\fs36}-Lock out！-Whoa!
+Dialogue: 0,0:58:19.14,0:58:22.94,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 准备就绪大胆上路  上路 上路♪ \N{\fs36} ♪ Shut up and drive drive drive ♪
+Dialogue: 0,0:58:25.18,0:58:26.80,Default,,0,0,0,,烫 \N{\fs36} Hot cola!
+Dialogue: 0,0:58:23.01,0:58:27.96,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪  准备就绪大胆上路  上路 上路 ♪ \N{\fs36} ♪ Now shut up and drive drive drive ♪
+Dialogue: 0,0:58:29.98,0:58:31.98,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72｝{\pos(951,136)}♪ 准备就绪大胆上路  ♪ \N{\fs36} ♪ shut up and drive ♪
+Dialogue: 0,0:58:32.00,0:58:33.10,Default,,0,0,0,,我开的怎么样? \N{\fs36} So how did I do?
+Dialogue: 0,0:58:33.10,0:58:34.29,Default,,0,0,0,,嗯... \N{\fs36} Um...
+Dialogue: 0,0:58:34.44,0:58:36.71,Default,,0,0,0,,你差点把整个山给炸了 \N{\fs36} Well, you almost blew up the whole mountain.
+Dialogue: 0,0:58:37.31,0:58:39.70,Default,,0,0,0,,对  你说的挺好的 \N{\fs36} Right, right. That's a good note.
+Dialogue: 0,0:58:39.70,0:58:41.61,Default,,0,0,0,,你得把漏洞控制好  孩子 \N{\fs36} You got to get that glitch under control, kid.
+Dialogue: 0,0:58:41.61,0:58:43.18,Default,,0,0,0,,好吧  我会的 \N{\fs36} Okay, I will, I will.
+Dialogue: 0,0:58:43.50,0:58:45.88,Default,,0,0,0,,你觉得我有机会赢吗? \N{\fs36} And then you think I got a chance?
+Dialogue: 0,0:58:46.97,0:58:48.36,Default,,0,0,0,,嗯...  \N{\fs36}Um...
+Dialogue: 0,0:58:48.66,0:58:49.92,Default,,0,0,0,,一丢丢  \N{\fs36}Tiny.
+Dialogue: 0,0:58:49.92,0:58:52.01,Default,,0,0,0,,太棒了  我肯定会赢  我肯定会赢 \N{\fs36}Yes, I'm going to win! I'm going to win!
+Dialogue: 0,0:58:52.00,0:58:53.96,Default,,0,0,0,,我肯定会赢  我肯定会赢 \N{\fs36} I'm going to win! I'm going to win!
+Dialogue: 0,0:58:53.96,0:58:55.34,Default,,0,0,0,,-碰下  -碰下 \N{\fs36} -Top shelf. -Top shelf.
+Dialogue: 0,0:59:08.06,0:59:10.41,Default,,0,0,0,,你们找到她了吗? 告诉我你们找到她了 \N{\fs36} Did you find her? Tell me you found her.
+Dialogue: 0,0:59:12.10,0:59:13.32,Default,,0,0,0,,没找到? \N{\fs36} You didn't?
+Dialogue: 0,0:59:15.77,0:59:18.27,Default,,0,0,0,,滚  \N{\fs36}Go. Leave me.
+Dialogue: 0,0:59:39.52,0:59:43.52,Default,,0,0,0,,上 上 下 下...  \N{\fs36}Up, up, down, down...
+Dialogue: 0,0:59:43.28,0:59:44.40,Default,,0,0,0,,开始  \N{\fs36}Start!
+Dialogue: 0,0:59:47.78,0:59:51.48,Default,,0,0,0,,秘籍  游戏的运行的血液 \N{\fs36} Oh, the code. It's the sweet lifeblood of the game.
+Dialogue: 0,0:59:57.13,1:00:02.56,Default,,0,0,0,,你在哪? 体育场  不是  大屏幕 \N{\fs36} Where are you? Let's see... Stadium, no. Jumbotron.
+Dialogue: 0,1:00:02.56,1:00:06.37,Default,,0,0,0,,哈  就是这个  冠军奖杯 \N{\fs36} Ha-ha! There it is. The winner's cup.
+Dialogue: 0,1:00:04.86,1:00:06.64,Default,,0,0,0,,{\fn黑体\c&H8CD78C&\pos(848,648)\frx356\fry14\frz3.066}冠军奖杯
+Dialogue: 0,1:00:08.24,1:00:11.35,Default,,0,0,0,,有一个和其它不一样的... \N{\fs36}  就是这个 One of these things is not like the others... It's you!
+Dialogue: 0,1:00:11.35,1:00:14.69,Default,,0,0,0,,我会给你找个新主人 \N{\fs36} We're going to give you a nice new home.
+Dialogue: 0,1:00:14.99,1:00:18.29,Default,,0,0,0,,{\fn黑体\c&HA5E4C4&\1a&H04&\b1\fscx119\fscy119\move(1074,38,1036,308,35,3288)\frx8\fry6\frz356.9}糖果国王
+Dialogue: 0,1:00:26.60,1:00:27.70,Default,,0,0,0,,成功 \N{\fs36} Success!
+Dialogue: 0,1:00:29.84,1:00:31.62,Default,,0,0,0,,酸豆比尔  我要出去 \N{\fs36} Sour Bill, I'm going out.
+Dialogue: 0,1:00:31.62,1:00:34.20,Default,,0,0,0,,我回来之前你来管理城堡 \N{\fs36} You're in charge of the castle until I get back.
+Dialogue: 0,1:00:35.85,1:00:37.56,Default,,0,0,0,,{\c&HCDFFD6&\fn黑体\fs62\frz344.4\frx352\fry318\fscx71\fscy81\move(1374,754,1352,714,21,1648)}云妮洛普\N凡 史威兹
+Dialogue: 0,1:00:45.05,1:00:47.04,Default,,0,0,0,,你脸还是红的  \N{\fs36}Your face is still red.
+Dialogue: 0,1:00:47.04,1:00:48.66,Default,,0,0,0,,你该用你的锤子再敲敲  \N{\fs36}You might want to hit it again with your hammer.
+Dialogue: 0,1:00:48.84,1:00:51.68,Default,,0,0,0,,那不是钝器创伤  女士  \N{\fs36}Oh, that's not blunt force trauma, ma'am.
+Dialogue: 0,1:00:51.68,1:00:54.55,Default,,0,0,0,,那只是我脸颊上的红晕 \N{\fs36} That's just the honey glow in my cheeks.
+Dialogue: 0,1:00:55.46,1:00:56.70,Default,,0,0,0,,好吧 \N{\fs36} Okay.
+Dialogue: 0,1:00:56.70,1:00:58.70,Default,,0,0,0,,女士  我不得不说... \N{\fs36} Ma'am, I just got to tell you...
+Dialogue: 0,1:00:58.70,1:01:02.80,Default,,0,0,0,,你是个激情四射的女孩 \N{\fs36} You are one dynamite gal.
+Dialogue: 0,1:01:04.42,1:01:08.64,Default,,0,0,0,,哇  你是个激情四射的女孩 \N{\fs36} Wow, you are one dynamite gal.
+Dialogue: 0,1:01:08.90,1:01:11.12,Default,,0,0,0,,激情四射的女孩  \N{\fs36}One dynamite gal.
+Dialogue: 0,1:01:11.12,1:01:13.12,Default,,0,0,0,,激情四射的女孩  \N{\fs36}Dynamite gal.
+Dialogue: 0,1:01:13.12,1:01:14.60,Default,,0,0,0,,激情四射的女孩  \N{\fs36}Dynamite gal.
+Dialogue: 0,1:01:14.60,1:01:15.72,Default,,0,0,0,,激情四射的...  \N{\fs36}Dynamite...
+Dialogue: 0,1:01:21.70,1:01:22.64,Default,,0,0,0,,出去  \N{\fs36}Get out.
+Dialogue: 0,1:01:22.64,1:01:24.64,Default,,0,0,0,,我就说了你是个激情四射的女孩  \N{\fs36}All I said is you're a dynamite gal.
+Dialogue: 0,1:01:24.64,1:01:26.12,Default,,0,0,0,,我说了 出去  \N{\fs36}I said get out!
+Dialogue: 0,1:01:34.14,1:01:37.04,Default,,0,0,0,,哼  有病吧 \N{\fs36} Oh. Jiminey jaminey.
+Dialogue: 0,1:01:43.26,1:01:44.62,Default,,0,0,0,,有什么是吗?  \N{\fs36}Yes?
+Dialogue: 0,1:01:44.87,1:01:45.93,Default,,0,0,0,,哦  在这儿  \N{\fs36}Oh.
+Dialogue: 0,1:01:45.93,1:01:50.89,Default,,0,0,0,,你好 我是快手阿修 来自游戏快手阿修 \N{\fs36} I'm Fix-It Felix Jr., sir, from the game Fix-It Felix Jr.
+Dialogue: 0,1:01:50.89,1:01:52.62,Default,,0,0,0,,您见过我的朋友拉尔夫吗? \N{\fs36} Have you seen my friend Ralph?
+Dialogue: 0,1:01:52.69,1:01:54.10,Default,,0,0,0,,无敌破坏王拉尔夫? \N{\fs36} Wreck-It Ralph?
+Dialogue: 0,1:01:54.10,1:01:55.83,Default,,0,0,0,,对 对 就是他  \N{\fs36}Yes. Yes, that's him!
+Dialogue: 0,1:01:55.85,1:01:59.06,Default,,0,0,0,,要是见到他  我们肯定会把它铐起来的 \N{\fs36} We should have locked him up when we had the chance.
+Dialogue: 0,1:01:59.06,1:02:00.30,Default,,0,0,0,,铐起来? \N{\fs36} Locked him up?
+Dialogue: 0,1:02:00.30,1:02:03.27,Default,,0,0,0,,这次不会再犯同样的错误了 \N{\fs36} I'm not making the same mistake with you.
+Dialogue: 0,1:02:07.08,1:02:09.68,Default,,0,0,0,,快点 快点 我们走 时间可不等人 \N{\fs36} Hurry, hurry! Let's go! Time's a-wastin'.
+Dialogue: 0,1:02:09.68,1:02:10.65,Default,,0,0,0,,跟上  拉尔夫  \N{\fs36}Come on, Ralph!
+Dialogue: 0,1:02:10.99,1:02:13.18,Default,,0,0,0,,太棒了  终于梦想成真了  \N{\fs36}This is it. This is really happening.
+Dialogue: 0,1:02:13.20,1:02:14.30,Default,,0,0,0,,真难以置信  \N{\fs36}I almost don't believe it.
+Dialogue: 0,1:02:14.31,1:02:17.15,Default,,0,0,0,,我朝思暮想了那么久  现在...  \N{\fs36}I mean, I have dreamt about it for so long, and now...
+Dialogue: 0,1:02:17.15,1:02:19.56,Default,,0,0,0,,现在...  现在我要吐了  \N{\fs36}And now... now I think I'm going to puke, actually.
+Dialogue: 0,1:02:19.56,1:02:20.80,Default,,0,0,0,,我想我可能会吐 \N{\fs36} I mean, I think I might puke.
+Dialogue: 0,1:02:20.95,1:02:22.66,Default,,0,0,0,,-好像要"呕嗝"  -啥? \N{\fs36} -You know, like a "vurp." -A what?
+Dialogue: 0,1:02:22.66,1:02:24.43,Default,,0,0,0,,呕吐和打嗝合起来的感觉 \N{\fs36} Vomit and a burp together,
+Dialogue: 0,1:02:24.43,1:02:27.12,Default,,0,0,0,,完全能切身体会到  好像要涌出来了 \N{\fs36} and you can taste it, and it's just like rising up.
+Dialogue: 0,1:02:27.13,1:02:28.57,Default,,0,0,0,,哦  实在太刺激了 \N{\fs36} Oh, this is so exciting!
+Dialogue: 0,1:02:28.57,1:02:30.38,Default,,0,0,0,,是的  没错  太刺激了 \N{\fs36} Yes, it is. It's exciting.
+Dialogue: 0,1:02:30.38,1:02:32.38,Default,,0,0,0,,我能成为一个真正的赛车手吗? \N{\fs36} Am I ready to be a real racer?
+Dialogue: 0,1:02:32.38,1:02:34.87,Default,,0,0,0,,拉尔夫  要是游戏玩家都不喜欢我怎么办? \N{\fs36} Ralph, what if the gamers don't like me?
+Dialogue: 0,1:02:34.87,1:02:36.62,Default,,0,0,0,,谁会不喜欢一个头发脏兮兮的毛孩子呢? 放心吧 \N{\fs36} Who doesn't love a brat with dirty hair? Come on.
+Dialogue: 0,1:02:38.56,1:02:41.72,Default,,0,0,0,,他们会喜欢你的  知道为什么吗? \N{\fs36} Those people are going to love you. You know why?
+Dialogue: 0,1:02:41.72,1:02:44.40,Default,,0,0,0,,-因为你是获胜者  -我是获胜者 \N{\fs36} -Because you're a winner. -I'm a winner.
+Dialogue: 0,1:02:44.40,1:02:47.32,Default,,0,0,0,,-而且你很可爱  -我很可爱 \N{\fs36} -And you're adorable! -I'm adorable!
+Dialogue: 0,1:02:47.32,1:02:49.24,Default,,0,0,0,,人人都喜欢可爱的获胜者 \N{\fs36} And everyone loves an adorable winner!
+Dialogue: 0,1:02:49.24,1:02:50.18,Default,,0,0,0,,耶  \N{\fs36}Yeah!
+Dialogue: 0,1:02:50.39,1:02:53.00,Default,,0,0,0,,好了 上车 听我说  \N{\fs36}Okay, come on. Listen to me.
+Dialogue: 0,1:02:53.00,1:02:56.01,Default,,0,0,0,,如果你紧张了 就告诉自己 \N{\fs36} If you get nervous, just keep telling yourself,
+Dialogue: 0,1:02:56.01,1:02:59.88,Default,,0,0,0,,"我必须赢得拉尔夫的奖牌  否则他的人生就毁了" \N{\fs36} "I must win Ralph's medal or his life will be ruined."
+Dialogue: 0,1:03:00.68,1:03:02.56,Default,,0,0,0,,-玩得开心点 知道了吗? -知道啦 \N{\fs36} -And have fun. Got it? -Got it.
+Dialogue: 0,1:03:02.80,1:03:04.29,Default,,0,0,0,,哇哦 \N{\fs36} Whoa!
+Dialogue: 0,1:03:04.29,1:03:05.32,Default,,0,0,0,,哦 等等 \N{\fs36} Oh, wait!
+Dialogue: 0,1:03:06.91,1:03:07.94,Default,,0,0,0,,等一下 \N{\fs36} Hold on!
+Dialogue: 0,1:03:08.09,1:03:08.90,Default,,0,0,0,,你要去哪? \N{\fs36} Where are you going?
+Dialogue: 0,1:03:08.90,1:03:10.90,Default,,0,0,0,,我忘了件东西 马上就回来 \N{\fs36} I forgot something! I'll be right back!
+Dialogue: 0,1:03:13.81,1:03:14.78,Default,,0,0,0,,孩子就是孩子啊  \N{\fs36}Kids.
+Dialogue: 0,1:03:16.83,1:03:19.86,Default,,0,0,0,,拉尔夫 你在这啊 你好 \N{\fs36} Ralph! There you are. Hello!
+Dialogue: 0,1:03:19.86,1:03:22.84,Default,,0,0,0,,-是你 -我一个人来的 赤手空拳 \N{\fs36} -You! -I come alone, unarmed.
+Dialogue: 0,1:03:22.84,1:03:25.56,Default,,0,0,0,,我受够你了  灯笼裤  \N{\fs36}I've had enough of you, pillow pants!
+Dialogue: 0,1:03:25.56,1:03:27.37,Default,,0,0,0,,拜托 冷静 拜托 听着 不要 \N{\fs36} Please. Calm down! Please, look. Don't!
+Dialogue: 0,1:03:28.48,1:03:30.89,Default,,0,0,0,,看我不把你打出屎来  \N{\fs36}I'm going to beat the filling out of you!
+Dialogue: 0,1:03:30.89,1:03:32.80,Default,,0,0,0,,你不会对一个戴眼镜的人下手的 对吧? \N{\fs36} You wouldn't hit a guy with glasses, would you?
+Dialogue: 0,1:03:32.88,1:03:36.86,Default,,0,0,0,,你居然打一个戴眼镜的人 太... 漂亮了 \N{\fs36} You hit a guy with glasses. That's... well played.
+Dialogue: 0,1:03:37.64,1:03:39.34,Default,,0,0,0,,你想怎样 糖果? \N{\fs36} What do you want, Candy?
+Dialogue: 0,1:03:39.34,1:03:41.08,Default,,0,0,0,,听着  我只是想和你谈谈 \N{\fs36} Listen, I just want to talk to you.
+Dialogue: 0,1:03:41.08,1:03:44.07,Default,,0,0,0,,我完全没兴趣听你讲话 \N{\fs36} I'm not interested in anything you have to say.
+Dialogue: 0,1:03:44.07,1:03:47.84,Default,,0,0,0,,那你看这样行不行? 你总该对这个感兴趣吧? \N{\fs36}How about this? Are you interested in this?
+Dialogue: 0,1:03:47.99,1:03:49.96,Default,,0,0,0,,我的奖牌 你是怎么... \N{\fs36} My medal. How did you...
+Dialogue: 0,1:03:49.96,1:03:53.91,Default,,0,0,0,,我怎么拿到的没关系 它是属于你的 尽管拿走 \N{\fs36} It doesn't matter. It's yours! Go ahead, take it.
+Dialogue: 0,1:03:55.52,1:03:56.72,Default,,0,0,0,,哇哦 \N{\fs36} Whoa.
+Dialogue: 0,1:03:57.60,1:04:00.08,Default,,0,0,0,,我只想让你听我把话说完  \N{\fs36}All I ask is that you hear me out.
+Dialogue: 0,1:04:00.23,1:04:01.32,Default,,0,0,0,,说什么?  \N{\fs36}About what?
+Dialogue: 0,1:04:01.32,1:04:04.64,Default,,0,0,0,,拉尔夫 你知道作为国王  \N{\fs36}Ralph, do you know what the hardest part
+Dialogue: 0,1:04:04.64,1:04:06.02,Default,,0,0,0,,最难做的事是什么吗? \N{\fs36} about being a king is?
+Dialogue: 0,1:04:06.27,1:04:08.98,Default,,0,0,0,,伸张正义 无论发生什么 \N{\fs36} Doing what's right, no matter what.
+Dialogue: 0,1:04:08.98,1:04:10.17,Default,,0,0,0,,说重点 \N{\fs36} Get to the point.
+Dialogue: 0,1:04:10.17,1:04:12.17,Default,,0,0,0,,重点就是 我需要你的帮助 \N{\fs36} Point being, I need your help.
+Dialogue: 0,1:04:12.52,1:04:17.24,Default,,0,0,0,,很遗憾 云妮洛普不能参加比赛 \N{\fs36} Sad as it is, Vanellope cannot be allowed to race.
+Dialogue: 0,1:04:17.24,1:04:19.47,Default,,0,0,0,,你们为什么都要和她对着干?  \N{\fs36}Why are you people so against her?
+Dialogue: 0,1:04:19.47,1:04:22.75,Default,,0,0,0,,我不是和她对着干 我是在保护她 \N{\fs36} I'm not against her! I'm trying to protect her!
+Dialogue: 0,1:04:22.75,1:04:24.57,Default,,0,0,0,,如果云妮洛普赢得这场比赛 \N{\fs36} If Vanellope wins that race
+Dialogue: 0,1:04:24.57,1:04:27.45,Default,,0,0,0,,她会被列入车手名单 \N{\fs36} she'll be added to the race roster.
+Dialogue: 0,1:04:27.94,1:04:31.23,Default,,0,0,0,,游戏玩家就可以选她做化身  \N{\fs36}Then gamers can choose her as their avatar.
+Dialogue: 0,1:04:31.96,1:04:34.12,Default,,0,0,0,,一旦他们看到她出漏洞 \N{\fs36} And when they see her glitching
+Dialogue: 0,1:04:34.12,1:04:36.83,Default,,0,0,0,,抽搐什么的  \N{\fs36}and twitching and just being herself,
+Dialogue: 0,1:04:36.83,1:04:38.95,Default,,0,0,0,,他们会以我我们的游戏出了故障 \N{\fs36} they'll think our game is broken.
+Dialogue: 0,1:04:38.95,1:04:41.92,Default,,0,0,0,,我们会被淘汰  永远不再启用 \N{\fs36} We'll be put out of order for good.
+Dialogue: 0,1:04:43.48,1:04:45.66,Default,,0,0,0,,我的所有子民都将无家可归 \N{\fs36} All my subjects will be homeless.
+Dialogue: 0,1:04:47.60,1:04:51.93,Default,,0,0,0,,可只有她一个无法逃脱  因为她是漏洞 But there's one who cannot escape because she's a glitch.
+Dialogue: 0,1:04:51.93,1:04:54.65,Default,,0,0,0,,救命  来人啊  救命  救命 \N{\fs36} Help! Somebody, help! Help!
+Dialogue: 0,1:04:54.65,1:04:57.08,Default,,0,0,0,,游戏机插头被拔掉的时候...  \N{\fs36}And when the game's plug is pulled...
+Dialogue: 0,1:04:57.08,1:04:58.97,Default,,0,0,0,,不  \N{\fs36}No!
+Dialogue: 0,1:04:59.73,1:05:01.40,Default,,0,0,0,,她就会随之而死  \N{\fs36}she'll die with it.
+Dialogue: 0,1:05:03.21,1:05:04.68,Default,,0,0,0,,你怎么知道会这样  \N{\fs36}You don't know that will happen.
+Dialogue: 0,1:05:04.87,1:05:06.68,Default,,0,0,0,,玩家们可能会喜欢她 \N{\fs36} The gamers could love her.
+Dialogue: 0,1:05:06.68,1:05:08.68,Default,,0,0,0,,可万一他们不喜欢呢? \N{\fs36} And if they don't?
+Dialogue: 0,1:05:15.48,1:05:17.16,Default,,0,0,0,,我知道这很难决定 \N{\fs36} I know it's tough,
+Dialogue: 0,1:05:17.70,1:05:21.21,Default,,0,0,0,,可英雄必须要做出艰苦抉择  不是吗?  \N{\fs36}but heroes have to make the tough choices, don't they?
+Dialogue: 0,1:05:21.98,1:05:26.90,Default,,0,0,0,,她不能参加比赛  拉尔夫  可她不会听我的话 \N{\fs36} She can't race, Ralph, but she won't listen to me.
+Dialogue: 0,1:05:27.44,1:05:30.76,Default,,0,0,0,,所以只能靠你说通她了 可以吗? \N{\fs36} So can I count on you to talk a little sense into her?
+Dialogue: 0,1:05:33.32,1:05:34.24,Default,,0,0,0,,很好  \N{\fs36}Very good.
+Dialogue: 0,1:05:34.76,1:05:38.02,Default,,0,0,0,,我给你们时间单独谈谈 \N{\fs36} I'll give you two some time alone.
+Dialogue: 0,1:06:04.18,1:06:05.23,Default,,0,0,0,,我回来了  \N{\fs36}I'm back!
+Dialogue: 0,1:06:06.75,1:06:08.06,Default,,0,0,0,,想我了没? \N{\fs36} Did you miss me?
+Dialogue: 0,1:06:08.06,1:06:12.22,Default,,0,0,0,,是的... 啊... 我们谈谈好吗? Yeah... \N{\fs36} uh... Can we talk for a second?
+Dialogue: 0,1:06:12.22,1:06:14.32,Default,,0,0,0,,等一下 首先 单腿跪地 \N{\fs36} Wait. First, kneel down.
+Dialogue: 0,1:06:14.32,1:06:16.80,Default,,0,0,0,,-啥? 我 我们真得... -就不能照做吗?  \N{\fs36}-What? No, we really... -Will you just do it?
+Dialogue: 0,1:06:17.30,1:06:18.60,Default,,0,0,0,,好吧 \N{\fs36} Okay.
+Dialogue: 0,1:06:19.40,1:06:22.89,Default,,0,0,0,,-现在 闭上眼睛 -云妮洛普... \N{\fs36} -Now, close your eyes. -Vanellope...
+Dialogue: 0,1:06:22.90,1:06:24.62,Default,,0,0,0,,住口 闭上眼睛 \N{\fs36} Shush! Close them!
+Dialogue: 0,1:06:27.86,1:06:29.16,Default,,0,0,0,,好了 睁开吧  \N{\fs36}Okay. Open them up.
+Dialogue: 0,1:06:32.36,1:06:35.28,Default,,0,0,0,,"致脑残"  哇 谢谢  \N{\fs36}"To Stinkbrain." Gee, thanks.
+Dialogue: 0,1:06:32.36,1:06:35.28,Default,,0,0,0,,{\fn李旭科书法 v1.4\fs82\c&HC5D8DB&\3c&H9899C0&\3a&H60&\frx348\fry4\fscx102\fscy81\pos(986,636)}致\N{\fs120}脑残
+Dialogue: 0,1:06:35.36,1:06:36.39,Default,,0,0,0,,翻过来 \N{\fs36} Turn it over.
+Dialogue: 0,1:06:38.61,1:06:40.26,Default,,0,0,0,,我特意为你做的 \N{\fs36} I made it for you.
+Dialogue: 0,1:06:38.61,1:06:40.26,Default,,0,0,0,,{\frz11.96\fscx110\fscy95\pos(1452,491)\frx352\fry6}{\c&HFFFFFF&}{\fn李旭科书法 v1.4\fs112\b0\c&HC5D9DC&\3c&H6F6F74&}你是我的\N英雄
+Dialogue: 0,1:06:40.94,1:06:42.37,Default,,0,0,0,,以防失败 \N{\fs36} Just in case we don't win.
+Dialogue: 0,1:06:42.52,1:06:44.94,Default,,0,0,0,,可不意味着我对比赛 \N{\fs36} Not that I think there's even a remote chance
+Dialogue: 0,1:06:44.94,1:06:45.98,Default,,0,0,0,,没有信心哦  \N{\fs36}we're not going to win.
+Dialogue: 0,1:06:46.44,1:06:48.89,Default,,0,0,0,,谢谢你 丫头 听着... \N{\fs36} Thanks, kid. Listen...
+Dialogue: 0,1:06:48.89,1:06:53.75,Default,,0,0,0,,平身  笨蛋  我和命运有个约会呢  \N{\fs36}Now rise, my royal chump. I've got a date with destiny.
+Dialogue: 0,1:06:54.10,1:06:56.86,Default,,0,0,0,,拉尔夫  快点  别磨蹭  \N{\fs36}Ralph, come on. Move your molasses.
+Dialogue: 0,1:06:56.88,1:06:57.60,Default,,0,0,0,,呃... \N{\fs36} Um...
+Dialogue: 0,1:06:58.52,1:07:00.76,Default,,0,0,0,,-我一直在想... -你也会思考啊 \N{\fs36} -I've been thinking... -That's dangerous.
+Dialogue: 0,1:07:00.76,1:07:04.10,Default,,0,0,0,,谁会在乎这个破比赛啊  对不对? \N{\fs36} Who cares about this stupid race anyway? Right?
+Dialogue: 0,1:07:04.10,1:07:06.66,Default,,0,0,0,,这么说可就没意思了  拉尔夫 \N{\fs36} That's not very funny, Ralph.
+Dialogue: 0,1:07:06.66,1:07:08.78,Default,,0,0,0,,不 我是认真的 和你一起造车什么的  \N{\fs36}No, I'm serious, and it was really fun
+Dialogue: 0,1:07:08.78,1:07:10.12,Default,,0,0,0,,确实很有意思... \N{\fs36} to build the car and everything...
+Dialogue: 0,1:07:10.12,1:07:12.92,Default,,0,0,0,,不过也许你不该参加比赛 \N{\fs36} But maybe you shouldn't do it.
+Dialogue: 0,1:07:12.92,1:07:15.82,Default,,0,0,0,,喂? 拉尔夫在吗?  \N{\fs36}Hello? Is Ralph in there?
+Dialogue: 0,1:07:15.82,1:07:17.41,Default,,0,0,0,,我找他有事 \N{\fs36} I'd like to speak to him, please.
+Dialogue: 0,1:07:17.43,1:07:19.58,Default,,0,0,0,,听着  我的意思是你不能成为一名车手 \N{\fs36} Look, what I'm saying is you can't be a racer.
+Dialogue: 0,1:07:19.93,1:07:20.92,Default,,0,0,0,,什么? \N{\fs36} What?
+Dialogue: 0,1:07:22.06,1:07:23.12,Default,,0,0,0,,你为什么... \N{\fs36} Why would you...
+Dialogue: 0,1:07:24.32,1:07:26.00,Default,,0,0,0,,等一下 \N{\fs36} Wait a minute.
+Dialogue: 0,1:07:26.89,1:07:27.65,Default,,0,0,0,,不  \N{\fs36}No!
+Dialogue: 0,1:07:27.87,1:07:29.25,Default,,0,0,0,,你从哪弄来的? \N{\fs36} Where did you get this?
+Dialogue: 0,1:07:30.05,1:07:32.38,Default,,0,0,0,,我不想瞒你  丫头 \N{\fs36} Look, I'm going to be straight with you, kid.
+Dialogue: 0,1:07:32.38,1:07:33.91,Default,,0,0,0,,我见过糖果国王了 \N{\fs36} I've been talking to King Candy.
+Dialogue: 0,1:07:33.91,1:07:35.54,Default,,0,0,0,,-糖果国王? -是的 \N{\fs36} -King Candy? -Yeah.
+Dialogue: 0,1:07:35.54,1:07:36.79,Default,,0,0,0,,你出卖我? \N{\fs36} You sold me out?
+Dialogue: 0,1:07:36.79,1:07:38.79,Default,,0,0,0,,不 我没有... 听我说 你不明白 \N{\fs36} No, I didn't... Listen. You don't understand.
+Dialogue: 0,1:07:38.79,1:07:41.22,Default,,0,0,0,,不 我明白得很 叛徒 \N{\fs36} No, I understand plenty. Traitor!
+Dialogue: 0,1:07:41.22,1:07:42.32,Default,,0,0,0,,我不是叛徒  听我说啊 \N{\fs36} I'm not a traitor. Listen.
+Dialogue: 0,1:07:42.32,1:07:43.28,Default,,0,0,0,,你这个卑鄙小人 \N{\fs36} You're a rat!
+Dialogue: 0,1:07:43.28,1:07:47.41,Default,,0,0,0,,没有你我一样可以 我自己也能赢下这场比赛 \N{\fs36} And I don't need you, and I can win the race on my own.
+Dialogue: 0,1:07:47.39,1:07:49.26,Default,,0,0,0,,可我是在救你的命啊 丫头 \N{\fs36} But I'm trying to save your skin, kid!
+Dialogue: 0,1:07:49.26,1:07:51.09,Default,,0,0,0,,放我下来 放我走 \N{\fs36} Put me down! Let me go!
+Dialogue: 0,1:07:51.09,1:07:52.33,Default,,0,0,0,,不 你听我说 \N{\fs36} No, you listen to me.
+Dialogue: 0,1:07:52.33,1:07:53.26,Default,,0,0,0,,你知道一旦玩家发现你的漏洞 \N{\fs36} Do you know what's going to happen
+Dialogue: 0,1:07:53.26,1:07:54.49,Default,,0,0,0,,会发生什么吗? \N{\fs36} when the players see you glitching?
+Dialogue: 0,1:07:54.48,1:07:55.83,Default,,0,0,0,,他们会认为游戏出了故障 \N{\fs36} They'll think the game's broken.
+Dialogue: 0,1:07:55.83,1:07:57.36,Default,,0,0,0,,我不在乎 你这个骗子  \N{\fs36}I don't care! You're a liar!
+Dialogue: 0,1:07:57.36,1:07:59.93,Default,,0,0,0,,你最好把话听进去  因为一旦游戏被淘汰 \N{\fs36} You better care, because if your game goes out of order,
+Dialogue: 0,1:07:59.92,1:08:00.32,Default,,0,0,0,,你也会...跟着完蛋的  小丫头 \N{\fs36} you go...down with the ship, little sister!
+Dialogue: 0,1:08:00.32,1:08:02.02,Default,,0,0,0,,-我不想听你讲话  -跟着完蛋的 小丫头\N{\fs36} I'm not listening to you!  -down with the ship, little sister!
+Dialogue: 0,1:08:02.02,1:08:05.09,Default,,0,0,0,,别挡道 我要去参赛 \N{\fs36} Get out of my way! I'm going to that race!
+Dialogue: 0,1:08:05.09,1:08:06.52,Default,,0,0,0,,不行 不许去 \N{\fs36} No, you're not!
+Dialogue: 0,1:08:08.12,1:08:10.80,Default,,0,0,0,,把我放下来 拉尔夫 马上 \N{\fs36} Take me down from here, Ralph, right now!
+Dialogue: 0,1:08:11.26,1:08:13.05,Default,,0,0,0,,不  我这么做是为了你好 \N{\fs36} No. I'm doing this for your own good!
+Dialogue: 0,1:08:15.66,1:08:17.05,Default,,0,0,0,,等等  等等  等等 \N{\fs36} Wait, wait, wait.
+Dialogue: 0,1:08:17.40,1:08:18.69,Default,,0,0,0,,不 不要 \N{\fs36} No. No.
+Dialogue: 0,1:08:19.34,1:08:20.74,Default,,0,0,0,,不要 不要 不要 不要 不要 \N{\fs36} No, no, no, no, no!
+Dialogue: 0,1:08:20.74,1:08:21.96,Default,,0,0,0,,求你了 拉尔夫  \N{\fs36}Please, Ralph!
+Dialogue: 0,1:08:21.96,1:08:23.06,Default,,0,0,0,,别这样 \N{\fs36} No!
+Dialogue: 0,1:08:23.06,1:08:27.51,Default,,0,0,0,,快停手 停手 不  \N{\fs36}Stop it! Stop it! No!
+Dialogue: 0,1:08:43.57,1:08:46.52,Default,,0,0,0,,你真是个坏蛋 \N{\fs36} You really are a bad guy.
+Dialogue: 0,1:09:21.31,1:09:24.76,Default,,0,0,0,,有人吗? 有人在家吗?  \N{\fs36}Hello? Anybody home?
+Dialogue: 0,1:09:25.15,1:09:27.53,Default,,0,0,0,,阿修? 玛丽?  \N{\fs36}Felix? Mary?
+Dialogue: 0,1:09:27.53,1:09:30.09,Default,,0,0,0,,你还真把奖牌拿到手了 \N{\fs36} Well, you actually went and did it.
+Dialogue: 0,1:09:30.30,1:09:33.18,Default,,0,0,0,,吉恩 大伙都去哪了? \N{\fs36} Gene. Where is everybody?
+Dialogue: 0,1:09:33.52,1:09:34.53,Default,,0,0,0,,他们都走了  \N{\fs36}They're gone.
+Dialogue: 0,1:09:34.94,1:09:38.21,Default,,0,0,0,,阿修去找你就再没回来... \N{\fs36} After Felix went to find you and then didn't come back...
+Dialogue: 0,1:09:38.61,1:09:40.55,Default,,0,0,0,,大家都很恐慌  各自逃命去了 \N{\fs36} Everyone panicked and abandoned ship.
+Dialogue: 0,1:09:40.98,1:09:43.06,Default,,0,0,0,,可我现在回来了 \N{\fs36} But I'm here now.
+Dialogue: 0,1:09:43.20,1:09:44.50,Default,,0,0,0,,太晚了  拉尔夫 \N{\fs36} It's too late, Ralph.
+Dialogue: 0,1:09:45.28,1:09:47.53,Default,,0,0,0,,利特瓦克明天一早就要来拔插头了  \N{\fs36}Litwak's pulling our plug in the morning.
+Dialogue: 0,1:09:59.49,1:10:02.81,Default,,0,0,0,,可我始终说话算话 \N{\fs36} But never let it be said that I'm not a man of my word.
+Dialogue: 0,1:10:02.81,1:10:06.21,Default,,0,0,0,,这里归你了  拉尔夫  玩得愉快 \N{\fs36} The place is yours, Ralph. Enjoy.
+Dialogue: 0,1:10:09.34,1:10:10.58,Default,,0,0,0,,吉恩  等等  等等 \N{\fs36} Gene, wait! Wait!
+Dialogue: 0,1:10:12.04,1:10:14.76,Default,,0,0,0,,这并不是我想要的  \N{\fs36}Listen, this is not what I wanted!
+Dialogue: 0,1:10:15.13,1:10:16.90,Default,,0,0,0,,那你到底想要什么 拉尔夫?  \N{\fs36}Well, what did you want, Ralph?
+Dialogue: 0,1:10:17.55,1:10:19.49,Default,,0,0,0,,不知道  我只是...  \N{\fs36}I don't know. I just...
+Dialogue: 0,1:10:22.57,1:10:25.35,Default,,0,0,0,,我只是受够了一个人在垃圾堆里生活  \N{\fs36}I was just tired of living alone in the garbage.
+Dialogue: 0,1:10:26.89,1:10:29.44,Default,,0,0,0,,现在你可以一个人在公寓里生活了 \N{\fs36} Well, now you can live alone in the penthouse.
+Dialogue: 0,1:11:15.78,1:11:18.06,Default,,0,0,0,,{\fscx78\fscy71\pos(796,414)\frz344.5\frx344\fry4}{\c&HFFFFFF&}{\fn李旭科书法 v1.4\fs112\b0\c&H6EA9BC&\3c&H6F6F74&}你是我的\N英雄{\c&H93D0DA&}
+Dialogue: 0,1:11:36.74,1:11:38.20,Default,,0,0,0,,嘿  止咳糖 \N{\fs36} Hey, cough drop.
+Dialogue: 0,1:11:38.48,1:11:40.22,Default,,0,0,0,,给我解释一下 \N{\fs36} Explain something to me.
+Dialogue: 0,1:11:40.22,1:11:42.67,Default,,0,0,0,,既然云妮洛普的存在是个错误 \N{\fs36} If Vanellope was never meant to exist,
+Dialogue: 0,1:11:42.76,1:11:45.58,Default,,0,0,0,,那为什么游戏控制台上有她的海报? \N{\fs36} then why is her picture on the side of the game console?
+Dialogue: 0,1:11:45.58,1:11:47.10,Default,,0,0,0,,呃...  \N{\fs36}Uh...
+Dialogue: 0,1:11:50.35,1:11:51.16,Default,,0,0,0,,你这块黑心糖 \N{\fs36} What's going on
+Dialogue: 0,1:11:51.17,1:11:53.10,Default,,0,0,0,,到底知道些什么? \N{\fs36} in this candy-coated heart of darkness?
+Dialogue: 0,1:11:53.10,1:11:53.82,Default,,0,0,0,,什么都不知道 \N{\fs36} Nothing.
+Dialogue: 0,1:11:53.82,1:11:55.07,Default,,0,0,0,,-快说  -不说 \N{\fs36} -Talk! -No.
+Dialogue: 0,1:11:55.07,1:11:56.70,Default,,0,0,0,,-我可舔你啦  -你才不会呢 \N{\fs36} -I'll lick you. -You wouldn't.
+Dialogue: 0,1:11:56.70,1:11:57.83,Default,,0,0,0,,哦  是吗?  \N{\fs36}Oh, yeah?
+Dialogue: 0,1:11:57.83,1:12:00.35,Default,,0,0,0,,哦  感觉像砂纸  \N{\fs36}Oh! That's like sandpaper!
+Dialogue: 0,1:12:00.35,1:12:02.98,Default,,0,0,0,,嗯  真好奇要把你吃完 \N{\fs36} Mmm. Wonder how many licks it will take
+Dialogue: 0,1:12:02.98,1:12:04.14,Default,,0,0,0,,需要舔多少下  \N{\fs36}to get to your center.
+Dialogue: 0,1:12:04.14,1:12:06.22,Default,,0,0,0,,我死也不说 \N{\fs36} I'll take it to my grave!
+Dialogue: 0,1:12:06.22,1:12:06.72,Default,,0,0,0,,那好啊 \N{\fs36} Fair enough.
+Dialogue: 0,1:12:11.24,1:12:12.94,Default,,0,0,0,,怪不得大家都叫你酸豆比尔 \N{\fs36} They call you Sour Bill for a reason.
+Dialogue: 0,1:12:12.94,1:12:17.25,Default,,0,0,0,,-还想再来一次吗? -好吧  我说  我说 \N{\fs36} -Had enough yet? -Okay, I'll talk, I'll talk!
+Dialogue: 0,1:12:17.25,1:12:18.74,Default,,0,0,0,,云妮洛普本来是车手的  \N{\fs36}Vanellope was a racer
+Dialogue: 0,1:12:18.74,1:12:21.59,Default,,0,0,0,,可糖果国王删除了她的数据 \N{\fs36} until King Candy tried to delete her code!
+Dialogue: 0,1:12:21.59,1:12:23.36,Default,,0,0,0,,删除她的数据? \N{\fs36} Tried to delete her code?
+Dialogue: 0,1:12:23.70,1:12:27.02,Default,,0,0,0,,所以她才成了漏洞  他为什么这么对她? \N{\fs36} So that's why she's a glitch! Why is he doing this to her?
+Dialogue: 0,1:12:27.02,1:12:28.23,Default,,0,0,0,,我不知道 \N{\fs36} I don't know!
+Dialogue: 0,1:12:28.23,1:12:28.99,Default,,0,0,0,,不说是吧  随便你  \N{\fs36}Suit yourself.
+Dialogue: 0,1:12:29.12,1:12:32.01,Default,,0,0,0,,别  别  别  我发誓我真不知道 \N{\fs36} No, no, no! I swear I don't know!
+Dialogue: 0,1:12:32.09,1:12:34.37,Default,,0,0,0,,他把我们的记忆封存了 \N{\fs36} He literally locked up our memories
+Dialogue: 0,1:12:34.37,1:12:35.74,Default,,0,0,0,,我记不得了 \N{\fs36} and I cannot remember!
+Dialogue: 0,1:12:35.74,1:12:37.29,Default,,0,0,0,,大家都失去了记忆 \N{\fs36} Nobody can!
+Dialogue: 0,1:12:37.29,1:12:38.82,Default,,0,0,0,,可我知道一件事 \N{\fs36} But I do know this.
+Dialogue: 0,1:12:38.82,1:12:40.82,Default,,0,0,0,,他会想尽一切办法阻止她参赛 \N{\fs36} He'll do anything to keep her from racing.
+Dialogue: 0,1:12:40.97,1:12:43.27,Default,,0,0,0,,因为只要她越过终点线 \N{\fs36} Because if she crosses the finish line,
+Dialogue: 0,1:12:43.27,1:12:46.57,Default,,0,0,0,,游戏就会重置  她就再也不是漏洞了 \N{\fs36} the game will reset and she won't be a glitch any more!
+Dialogue: 0,1:12:46.60,1:12:47.36,Default,,0,0,0,,她现在在哪? \N{\fs36} Where is she now?
+Dialogue: 0,1:12:47.69,1:12:49.26,Default,,0,0,0,,和快手阿修在地牢里 \N{\fs36} In the fungeon with Fix-It Felix.
+Dialogue: 0,1:12:49.26,1:12:49.72,Default,,0,0,0,,阿修? \N{\fs36} Felix?
+Dialogue: 0,1:12:49.72,1:12:52.27,Default,,0,0,0,,对不起  我只知道这些  我发誓  \N{\fs36}I'm sorry! That's all I know, I swear!
+Dialogue: 0,1:12:52.27,1:12:56.55,Default,,0,0,0,,求你了  别再把我放进你的臭嘴里  \N{\fs36}Now, please, don't put me back in your filthy mouth again!
+Dialogue: 0,1:12:58.58,1:12:59.67,Default,,0,0,0,,呆着别动  \N{\fs36}Stick around.
+Dialogue: 0,1:12:59.67,1:13:03.21,Default,,0,0,0,,好  好的  我不动  不动  多谢 \N{\fs36} Yes, okay, I will. I will. Thank you!
+Dialogue: 0,1:13:06.56,1:13:08.59,Default,,0,0,0,,来啊  我知道你在这  \N{\fs36}Come on. I know you're out there.
+Dialogue: 0,1:13:10.24,1:13:12.98,Default,,0,0,0,,糖度饱和  糟糕 \N{\fs36} Saccharine-saturated nightmare!
+Dialogue: 0,1:13:15.51,1:13:17.88,Default,,0,0,0,,可是...  在哪? \N{\fs36}But... Where?
+Dialogue: 0,1:13:34.62,1:13:39.21,Default,,0,0,0,,真是世界末日遇上了绝世天劫  倒霉透了  \N{\fs36}Doomsday and Armageddon just had a baby and it is ugly!
+Dialogue: 0,1:13:41.40,1:13:43.58,Default,,0,0,0,,有人吗? 有人吗? \N{\fs36} Hello? Hello?
+Dialogue: 0,1:13:44.36,1:13:48.03,Default,,0,0,0,,来人啊  来人  放我出去  \N{\fs36}Somebody! Anybody! Please let me out!
+Dialogue: 0,1:13:49.97,1:13:51.27,Default,,0,0,0,,他是咋说的来着? \N{\fs36} What's he say?
+Dialogue: 0,1:13:51.45,1:13:53.64,Default,,0,0,0,,我要毁掉它 \N{\fs36} I'm gonna wreck it!
+Dialogue: 0,1:13:56.38,1:14:00.39,Default,,0,0,0,,为什么我碰啥修啥呢? \N{\fs36} Why do I fix everything I touch?
+Dialogue: 0,1:14:02.50,1:14:04.04,Default,,0,0,0,,砰 \N{\fs36} Bam!
+Dialogue: 0,1:14:04.21,1:14:06.30,Default,,0,0,0,,-阿修  -拉尔夫 \N{\fs36} -Felix! -Ralph!
+Dialogue: 0,1:14:06.30,1:14:08.49,Default,,0,0,0,,见到你可真高兴 \N{\fs36} I'm so glad to see you!
+Dialogue: 0,1:14:08.49,1:14:12.34,Default,,0,0,0,,等等 不 一点都不高兴 你有什么要解释的吗? \N{\fs36} Wait. No, I'm not. What do you have to say for yourself?
+Dialogue: 0,1:14:12.34,1:14:15.42,Default,,0,0,0,,别说  我不想听  我不想跟你说话 \N{\fs36} Wait! I don't want to hear it. I'm not talking to you!
+Dialogue: 0,1:14:15.42,1:14:17.24,Default,,0,0,0,,那好  没关系  不说就不说 \N{\fs36} Okay, don't talk. That's fine.
+Dialogue: 0,1:14:17.24,1:14:19.27,Default,,0,0,0,,可你得赶紧帮我把赛车修好\N{\fs36} But you have to fix this go-cart for me pronto.
+Dialogue: 0,1:14:19.27,1:14:22.17,Default,,0,0,0,,我才不要修什么狗屁车 说脏话了 请原谅  \N{\fs36}I don't have to do boo! Forgive my potty mouth.
+Dialogue: 0,1:14:22.61,1:14:25.64,Default,,0,0,0,,我实在太  太生你气了 \N{\fs36} I'm just so, so cross with you!
+Dialogue: 0,1:14:25.87,1:14:27.77,Default,,0,0,0,,你知道因为你我倒了多大霉吗? \N{\fs36} Do you have any idea what you put me through?
+Dialogue: 0,1:14:27.98,1:14:31.44,Default,,0,0,0,,我把整个世界都跑遍了  就为了找你 \N{\fs36} I ran higgledy-piggledy all over creation looking for you.
+Dialogue: 0,1:14:31.44,1:14:33.60,Default,,0,0,0,,我差点淹死在巧克力奶昔里 \N{\fs36} I almost drowned in chocolate milk-mix!
+Dialogue: 0,1:14:33.80,1:14:37.52,Default,,0,0,0,,之后...  我遇到了一个极好的姑娘 \N{\fs36} And then... I met the most dynamite gal.
+Dialogue: 0,1:14:37.52,1:14:41.21,Default,,0,0,0,,哦  她脸上泛着让我招架不住的红晕  \N{\fs36}Oh! She gives me the honey glow something awful.
+Dialogue: 0,1:14:41.62,1:14:44.36,Default,,0,0,0,,可她拒绝了我的爱意 \N{\fs36} But she rebuffed my affections.
+Dialogue: 0,1:14:44.36,1:14:46.77,Default,,0,0,0,,然后我就被关进牢里了 \N{\fs36} And then I got thrown in jail!
+Dialogue: 0,1:14:46.77,1:14:48.45,Default,,0,0,0,,阿修  振作点 \N{\fs36} Felix, pull yourself together.
+Dialogue: 0,1:14:48.45,1:14:52.42,Default,,0,0,0,,不  你根本不知道无人理睬  \N{\fs36}No! You don't know what it's like to be rejected
+Dialogue: 0,1:14:52.42,1:14:53.88,Default,,0,0,0,,被当作犯人对待是什么感觉  \N{\fs36}and treated like a criminal!
+Dialogue: 0,1:14:54.23,1:14:57.10,Default,,0,0,0,,我知道  我每天都是那么过的 \N{\fs36} Yes, I do. That's every day of my life.
+Dialogue: 0,1:14:57.92,1:14:58.92,Default,,0,0,0,,是吗? \N{\fs36} It is?
+Dialogue: 0,1:14:59.00,1:15:03.05,Default,,0,0,0,,这就是我想去做一个好人的原因  可我没能做到 \N{\fs36} Which is why I ran off and tried to be a good guy, but I'm not!
+Dialogue: 0,1:15:03.05,1:15:05.59,Default,,0,0,0,,我就是个坏蛋  我需要你的帮助 \N{\fs36} I'm just a bad guy, and I need your help.
+Dialogue: 0,1:15:05.89,1:15:08.18,Default,,0,0,0,,这辆车是一个小女孩的全部希望 \N{\fs36} There's a little girl whose only hope is this cart.
+Dialogue: 0,1:15:08.18,1:15:09.84,Default,,0,0,0,,拜托了  阿修  把它修好 \N{\fs36} Please, Felix, fix it.
+Dialogue: 0,1:15:10.34,1:15:13.65,Default,,0,0,0,,我发誓我再也不会努力做好人了 \N{\fs36} And I promise I will never try to be good again.
+Dialogue: 0,1:15:37.22,1:15:40.03,Default,,0,0,0,,我知道  我知道  我是个傻瓜 \N{\fs36} I know, I know, I'm an idiot.
+Dialogue: 0,1:15:40.58,1:15:43.38,Default,,0,0,0,,-还有呢? -是个木鱼脑袋  \N{\fs36} --And?And a real numskull.
+Dialogue: 0,1:15:43.43,1:15:46.42,Default,,0,0,0,,-还有呢? -是个自私的幼稚鬼 \N{\fs36} -And? -A selfish diaper baby.
+Dialogue: 0,1:15:46.42,1:15:47.65,Default,,0,0,0,,还有呢? \N{\fs36} And?
+Dialogue: 0,1:15:50.08,1:15:51.61,Default,,0,0,0,,是个脑残? \N{\fs36} A stinkbrain?
+Dialogue: 0,1:15:51.76,1:15:54.41,Default,,0,0,0,,头号脑残  \N{\fs36}The stinkiest brain ever.
+Dialogue: 0,1:16:08.08,1:16:09.25,Default,,0,0,0,,{\fn华康海报体W12\c&H4690FF&\fscx175\fscy147\move(960,794,874,776,22,1148)}彩虹啦啦队
+Dialogue: 0,1:16:09.97,1:16:11.88,Default,,0,0,0,,{\fn华康海报体W12\c&H8DC3ED&\move(1136,782,838,766,8,1885)}还有{ fs120\c&H782EFF&}坚{\c&HAEE257&}果{\c&HE258B4&}粉{\c&H86F1FE&}丝
+Dialogue: 0,1:16:16.99,1:16:18.34,Default,,0,0,0,,亲爱的子民们  \N{\fs36}My sweet subjects,
+Dialogue: 0,1:16:18.34,1:16:22.47,Default,,0,0,0,,我毫不犹豫地向你们保证 \N{\fs36} I can without a pinch of hesitation assure you
+Dialogue: 0,1:16:22.47,1:16:25.37,Default,,0,0,0,,这是我人生中最高兴的一天  \N{\fs36}that I have never been so happy in all my life
+Dialogue: 0,1:16:25.37,1:16:27.61,Default,,0,0,0,,我宣布 \N{\fs36} to say the following words,
+Dialogue: 0,1:16:27.61,1:16:31.51,Default,,0,0,0,,自由阵容比赛现在开始 \N{\fs36} let the Random Roster Race commence!
+Dialogue: 0,1:16:33.80,1:16:34.74,Default,,0,0,0,,出发 \N{\fs36} Go!
+Dialogue: 0,1:16:48.34,1:16:51.48,Default,,0,0,0,,好 记住 你不是非得赢  \N{\fs36}Okay, remember, you don't have to win.
+Dialogue: 0,1:16:51.48,1:16:54.31,Default,,0,0,0,,冲过终点线就行  那样你就是真正的赛车手了 \N{\fs36} Just cross that finish line, and you'll be a real racer.
+Dialogue: 0,1:16:54.31,1:16:55.76,Default,,0,0,0,,我已经是个真正的赛车手了 \N{\fs36} I'm already a real racer.
+Dialogue: 0,1:16:58.89,1:16:59.94,Default,,0,0,0,,我要赢  \N{\fs36}And I'm going to win.
+Dialogue: 0,1:17:24.14,1:17:25.28,Default,,0,0,0,, {\c&H87DCFC&\fn微软雅黑\fs72}加大火力 \N{\fs36} Power up!
+Dialogue: 0,1:17:31.97,1:17:33.21,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}哇哦 \N{\fs36} Whoa!
+Dialogue: 0,1:17:33.21,1:17:34.67,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}哦  冰淇淋大餐 \N{\fs36} Oh! Ala-mode!
+Dialogue: 0,1:17:39.22,1:17:41.20,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}糖球导弹 \N{\fs36} Sweet seekers!
+Dialogue: 0,1:17:41.21,1:17:42.92,Default,,0,0,0,,尝点甜头吧 \N{\fs36} Have some candy.
+Dialogue: 0,1:18:00.77,1:18:02.36,Default,,0,0,0,,小心后面哦 \N{\fs36} Behind you!
+Dialogue: 0,1:18:03.29,1:18:04.88,Default,,0,0,0,,在你前面喽 \N{\fs36} In front of you!
+Dialogue: 0,1:18:12.67,1:18:15.11,Default,,0,0,0,,-是漏洞  -漏洞? \N{\fs36} -It's the Glitch! -The Glitch?
+Dialogue: 0,1:18:15.66,1:18:17.85,Default,,0,0,0,,点火  蜡烛头 \N{\fs36} Light them up, Candlehead.
+Dialogue: 0,1:18:21.08,1:18:23.91,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}这是什么? 樱桃炸弹 \N{\fs36} What's this? Cherry bombs!
+Dialogue: 0,1:18:30.60,1:18:34.02,Default,,0,0,0,,告诉过你嘛  早晚会出事的 \N{\fs36} I told you. You're just an accident waiting to happen.
+Dialogue: 0,1:18:51.32,1:18:52.36,Default,,0,0,0,,我的蜡烛 \N{\fs36} My candle!
+Dialogue: 0,1:18:54.00,1:18:56.78,Default,,0,0,0,,很好  必须控制住  \N{\fs36}All right. Gotta keep it under control.
+Dialogue: 0,1:18:56.78,1:18:58.78,Default,,0,0,0,,不能再短路了 \N{\fs36} No more glitching.
+Dialogue: 0,1:18:58.78,1:19:01.28,Default,,0,0,0,,加油 丫头 拿下这场比赛 \N{\fs36} Okay, kid. Let's finish this thing
+Dialogue: 0,1:19:01.28,1:19:02.65,Default,,0,0,0,,别再出什么意外了 \N{\fs36} without any more surprises.
+Dialogue: 0,1:19:04.72,1:19:06.28,Default,,0,0,0,,这样你就高兴了吗  混蛋 \N{\fs36} Hope you're happy, junkpile.
+Dialogue: 0,1:19:06.28,1:19:09.38,Default,,0,0,0,,这个游戏就要完蛋了  都是你的错  \N{\fs36}This game is going down, and it's all your fault.
+Dialogue: 0,1:19:09.38,1:19:11.11,Default,,0,0,0,,我的姑娘 你回来了 \N{\fs36} My lady, you came back.
+Dialogue: 0,1:19:11.11,1:19:12.22,Default,,0,0,0,,住口 阿修  \N{\fs36}Can it, Fix-It!
+Dialogue: 0,1:19:12.22,1:19:15.31,Default,,0,0,0,,你带来的星际甲虫繁殖了 \N{\fs36} That cy-bug you brought with you multiplied.
+Dialogue: 0,1:19:15.31,1:19:19.16,Default,,0,0,0,,不可能 它在太妃糖沼泽里淹死了 相信我 我 \N{\fs36} No. It died in the taffy swamp. Believe me, I...
+Dialogue: 0,1:19:21.06,1:19:22.76,Default,,0,0,0,,胡扯 \N{\fs36} Bullroar.
+Dialogue: 0,1:19:29.48,1:19:33.22,Default,,0,0,0,,听着 大家伙 现在去游戏中央车站 \N{\fs36} Listen up, people. Head to Game Central Station now!
+Dialogue: 0,1:19:33.22,1:19:35.70,Default,,0,0,0,,出发 快 快  \N{\fs36}Move it! Let's go! Let's go!
+Dialogue: 0,1:19:35.70,1:19:38.08,Default,,0,0,0,,快 快 快 \N{\fs36} Go! Go! Go!
+Dialogue: 0,1:19:45.72,1:19:46.59,Default,,0,0,0,,不 \N{\fs36} No!
+Dialogue: 0,1:19:56.44,1:19:57.83,Default,,0,0,0,,什么！\N{\fs36} What!
+Dialogue: 0,1:20:27.92,1:20:30.25,Default,,0,0,0,,别挡我的路 \N{\fs36} Get off of my track!
+Dialogue: 0,1:20:30.25,1:20:33.37,Default,,0,0,0,,干什么? 你疯了吗? \N{\fs36} What? Are you crazy?
+Dialogue: 0,1:20:33.37,1:20:38.75,Default,,0,0,0,,我不会让你越过终点线的 \N{\fs36} I forbid you to cross that finish line!
+Dialogue: 0,1:20:39.84,1:20:41.21,Default,,0,0,0,,住手  \N{\fs36}Knock it off!
+Dialogue: 0,1:20:43.88,1:20:45.30,Default,,0,0,0,,快看  拉尔夫 \N{\fs36} Ralph, look!
+Dialogue: 0,1:20:45.89,1:20:46.96,Default,,0,0,0,,孩子 \N{\fs36} Kid!
+Dialogue: 0,1:20:50.02,1:20:51.35,Default,,0,0,0,,住手 \N{\fs36} Stop it!
+Dialogue: 0,1:20:51.35,1:20:54.78,Default,,0,0,0,,不 我不会让你毁了我大计的 \N{\fs36}No. I'm not letting you undo all my hard work!
+Dialogue: 0,1:20:56.77,1:20:57.86,Default,,0,0,0,,他是...  \N{\fs36} Is that...
+Dialogue: 0,1:21:00.88,1:21:02.54,Default,,0,0,0,,不会吧  \N{\fs36}No way!
+Dialogue: 0,1:21:03.80,1:21:06.22,Default,,0,0,0,,到底...  你是谁? \N{\fs36} What the... Who are you?
+Dialogue: 0,1:21:06.22,1:21:09.98,Default,,0,0,0,,我是有史以来最伟大的赛车手沃伦 \N{\fs36} I'm Turbo, the greatest racer ever!
+Dialogue: 0,1:21:10.30,1:21:13.47,Default,,0,0,0,,我重新编程这个游戏不是为了让你  \N{\fs36}And I did not reprogram this world to let you
+Dialogue: 0,1:21:13.47,1:21:16.32,Default,,0,0,0,,和那个满嘴口臭的疣猪  \N{\fs36}and that halitosis-riddled warthog
+Dialogue: 0,1:21:16.32,1:21:17.82,Default,,0,0,0,,将胜利带走  \N{\fs36}take it away from me!
+Dialogue: 0,1:21:19.41,1:21:20.88,Default,,0,0,0,,最棒的沃伦 \N{\fs36} Turbo-tastic.
+Dialogue: 0,1:21:22.06,1:21:24.30,Default,,0,0,0,,路到头了  漏洞  \N{\fs36}End of the line, Glitch!
+Dialogue: 0,1:21:25.14,1:21:27.54,Default,,0,0,0,,漏洞  就用它  \N{\fs36}Glitch. That's it.
+Dialogue: 0,1:21:27.54,1:21:29.34,Default,,0,0,0,,给点力  云妮洛普  \N{\fs36}Come on, Vanellope.
+Dialogue: 0,1:21:29.38,1:21:31.20,Default,,0,0,0,,我知道你说过你不会再用一次  \N{\fs36}I know you said you wouldn't do it again
+Dialogue: 0,1:21:31.20,1:21:33.20,Default,,0,0,0,,但是你需要再用一次 \N{\fs36} but you're going to do it one more time.
+Dialogue: 0,1:21:33.20,1:21:36.11,Default,,0,0,0,,集中注意力  \N{\fs36}Just focus and concentrate
+Dialogue: 0,1:21:36.12,1:21:39.12,Default,,0,0,0,,闪  \N{\fs36}and glitch!
+Dialogue: 0,1:21:39.79,1:21:41.05,Default,,0,0,0,, 不\N{\fs36} No！
+Dialogue: 0,1:21:42.53,1:21:46.33,Default,,0,0,0,,哈哈！ 真是太爽了  成功了 \N{\fs36}haw-haw！ Sweet mother of monkey milk! I did it!
+Dialogue: 0,1:21:47.84,1:21:49.25,Default,,0,0,0,,不 \N{\fs36} No!
+Dialogue: 0,1:21:55.48,1:21:58.66,Default,,0,0,0,,孩子  加油  就要到了终点了 \N{\fs36} Bring it home, kid! The finish line is wide open!
+Dialogue: 0,1:22:13.14,1:22:14.05,Default,,0,0,0,,不 \N{\fs36} No!
+Dialogue: 0,1:22:15.83,1:22:17.75,Default,,0,0,0,,孩子 孩子 你没事吧?  \N{\fs36}Kid! Kid!Are you okay?
+Dialogue: 0,1:22:17.75,1:22:20.19,Default,,0,0,0,,我没事 我没事 我们完成比赛吧 \N{\fs36} I'm fine. I'm fine. Let's finish this race!
+Dialogue: 0,1:22:24.18,1:22:25.98,Default,,0,0,0,,噢  我的土地爷爷啊 \N{\fs36} Oh, my land.
+Dialogue: 0,1:22:25.98,1:22:27.62,Default,,0,0,0,,快  我们需要离开这  \N{\fs36}All right. Come on. We gotta get out of here.
+Dialogue: 0,1:22:27.62,1:22:29.55,Default,,0,0,0,,但是我还没越过终点线呢  \N{\fs36}But I didn't cross the finish line!
+Dialogue: 0,1:22:29.55,1:22:31.30,Default,,0,0,0,,终点线现在没了 \N{\fs36} There is no finish line!
+Dialogue: 0,1:22:32.15,1:22:35.20,Default,,0,0,0,,动起来 大家伙 都到后面去 \N{\fs36} Move it or lose it, people. Everybody, out. Now!
+Dialogue: 0,1:22:37.11,1:22:38.81,Default,,0,0,0,,拉尔夫,  这样没用 \N{\fs36} Ralph, it's not going to work!
+Dialogue: 0,1:22:38.81,1:22:39.87,Default,,0,0,0,,我们得试试 \N{\fs36} We got to try!
+Dialogue: 0,1:22:42.76,1:22:43.88,Default,,0,0,0,,孩子 \N{\fs36} Kid!
+Dialogue: 0,1:22:43.88,1:22:46.68,Default,,0,0,0,,拉尔夫,  我告诉过你我不能离开这游戏 \N{\fs36} Ralph, I told you I can't leave the game.
+Dialogue: 0,1:22:47.13,1:22:49.24,Default,,0,0,0,,-快啊   -拉尔夫  停下来 \N{\fs36} -Come on. -Ralph! Stop!
+Dialogue: 0,1:22:49.24,1:22:51.19,Default,,0,0,0,,-啊疼 -肯定能行的  \N{\fs36} -Ouch.  It's got to work!
+Dialogue: 0,1:22:51.19,1:22:53.40,Default,,0,0,0,,-啊疼 停下来 这没用  \N{\fs36}-Ouch. Stop, it's no use.
+Dialogue: 0,1:23:02.27,1:23:03.52,Default,,0,0,0,,没关系  拉尔夫  \N{\fs36}It's okay, Ralph.
+Dialogue: 0,1:23:05.49,1:23:06.92,Default,,0,0,0,,阿修  \N{\fs36}All right, Fix-It.
+Dialogue: 0,1:23:06.92,1:23:09.60,Default,,0,0,0,,没人了  现在我们必须炸掉这个出口  \N{\fs36}That's everyone. Now, we've got to blow up this exit.
+Dialogue: 0,1:23:11.82,1:23:14.42,Default,,0,0,0,,走吧  不用管我 \N{\fs36} Just go. Go without me.
+Dialogue: 0,1:23:15.06,1:23:18.17,Default,,0,0,0,,-那游戏怎么办? -我们无能为力  \N{\fs36}-But what about this game? -Nothing we can do about it.
+Dialogue: 0,1:23:18.17,1:23:21.63,Default,,0,0,0,,没有一座峰火台根本无法阻止这些怪兽  \N{\fs36}Without a beacon, there's no way to stop these monsters.
+Dialogue: 0,1:23:24.94,1:23:26.01,Default,,0,0,0,,峰火台? \N{\fs36} Beacon?
+Dialogue: 0,1:23:27.06,1:23:28.55,Default,,0,0,0,,和阿修呆在一起 \N{\fs36} Stay with Felix.
+Dialogue: 0,1:23:28.55,1:23:30.21,Default,,0,0,0,,让我借我用一下 小姐 \N{\fs36} Let me borrow that thing, lady.
+Dialogue: 0,1:23:30.21,1:23:33.38,Default,,0,0,0,,-拉尔夫 你去哪? -我去搞点破坏  \N{\fs36}-Ralph! Where are you going? -I got some wrecking to do!
+Dialogue: 0,1:23:34.12,1:23:35.61,Default,,0,0,0,,终点线见  \N{\fs36}I'll meet you at the finish line!
+Dialogue: 0,1:23:35.61,1:23:36.66,Default,,0,0,0,,不行  等等  \N{\fs36}No! Wait!
+Dialogue: 0,1:23:36.66,1:23:38.36,Default,,0,0,0,,阿修  到我后面来 \N{\fs36} Fix-It, get behind me!
+Dialogue: 0,1:23:52.84,1:23:54.64,Default,,0,0,0,,快 \N{\fs36} Come on!
+Dialogue: 0,1:23:58.41,1:24:00.58,Default,,0,0,0,,再来一下  一下... \N{\fs36} One more! One...
+Dialogue: 0,1:24:01.26,1:24:04.87,Default,,0,0,0,,欢迎来到最后一关 \N{\fs36} Welcome to the boss level!
+Dialogue: 0,1:24:04.87,1:24:06.05,Default,,0,0,0,,沃伦 \N{\fs36} Turbo.
+Dialogue: 0,1:24:06.94,1:24:08.88,Default,,0,0,0,,多亏有你  拉尔夫 \N{\fs36} Because of you, Ralph,
+Dialogue: 0,1:24:08.89,1:24:13.40,Default,,0,0,0,,我现在是游戏厅里最强悍的病毒 \N{\fs36} I'm now the most powerful virus in the arcade!
+Dialogue: 0,1:24:13.88,1:24:16.02,Default,,0,0,0,,只要我想要  我就能赢下任何比赛 \N{\fs36} I can take over any game I want.
+Dialogue: 0,1:24:16.02,1:24:17.72,Default,,0,0,0,,我应该谢谢你 \N{\fs36} I should thank you
+Dialogue: 0,1:24:17.79,1:24:20.33,Default,,0,0,0,,但杀你更有意思  \N{\fs36}but it would be more fun to kill you.
+Dialogue: 0,1:24:22.38,1:24:24.89,Default,,0,0,0,,回这来  小家伙 \N{\fs36} Get back here, little guy!
+Dialogue: 0,1:24:29.58,1:24:31.67,Default,,0,0,0,,来点糖果吧  \N{\fs36}Have some candy!
+Dialogue: 0,1:24:32.79,1:24:35.38,Default,,0,0,0,,你要跑到哪去? \N{\fs36} Where do you think you're going?
+Dialogue: 0,1:24:39.49,1:24:42.98,Default,,0,0,0,,我们还没结束呢  向上走喽 \N{\fs36} I'm not through with you yet. Up we go!
+Dialogue: 0,1:24:42.98,1:24:43.97,Default,,0,0,0,,不要 \N{\fs36} No!
+Dialogue: 0,1:24:45.20,1:24:46.20,Default,,0,0,0,,拉尔夫  \N{\fs36}Ralph!
+Dialogue: 0,1:24:50.50,1:24:51.56,Default,,0,0,0,,退后  \N{\fs36}Fall back.
+Dialogue: 0,1:24:53.69,1:24:54.83,Default,,0,0,0,,孩子  \N{\fs36}Kid!
+Dialogue: 0,1:25:00.28,1:25:01.58,Default,,0,0,0,,云妮洛普 \N{\fs36} Vanellope!
+Dialogue: 0,1:25:01.96,1:25:04.66,Default,,0,0,0,,噢  看那你那小不点朋友 \N{\fs36} Oh, look at that. It's your little friend.
+Dialogue: 0,1:25:04.66,1:25:08.19,Default,,0,0,0,,我们一起看她死  好吗? \N{\fs36} Let's watch her die together, shall we?
+Dialogue: 0,1:25:08.19,1:25:09.31,Default,,0,0,0,,不要  \N{\fs36}No!
+Dialogue: 0,1:25:11.41,1:25:14.22,Default,,0,0,0,,你们俩玩完了 \N{\fs36} It's game over for both of you.
+Dialogue: 0,1:25:14.41,1:25:17.76,Default,,0,0,0,,不  只有我  \N{\fs36}No. Just for me!
+Dialogue: 0,1:25:17.76,1:25:22.63,Default,,0,0,0,,-拉尔夫  -云妮洛普 \N{\fs36} -Ralph! -Vanellope!
+Dialogue: 0,1:25:26.77,1:25:30.31,Default,,0,0,0,,我很坏  很对 \N{\fs36} I'm bad, and that's good.
+Dialogue: 0,1:25:30.67,1:25:33.54,Default,,0,0,0,,我永远成不了好人  也不错 \N{\fs36} I will never be good, and that's not bad.
+Dialogue: 0,1:25:35.44,1:25:37.60,Default,,0,0,0,,{\frz338.9\pos(1460,670)\fn李旭科书法 v1.4\c&H95AAC1&\3c&H616040&\3a&H10&\frx6\fry354}你是我的 \N英雄
+Dialogue: 0,1:25:35.94,1:25:38.19,Default,,0,0,0,,我不愿做任何人... \N{\fs36} There's no one I'd rather be...
+Dialogue: 0,1:25:40.02,1:25:41.36,Default,,0,0,0,,除了我自己 \N{\fs36} than me.
+Dialogue: 0,1:26:09.75,1:26:10.65,Default,,0,0,0,,孩子  \N{\fs36}Kid!
+Dialogue: 0,1:26:10.65,1:26:13.68,Default,,0,0,0,,别担心  在我掌握 \N{\fs36} Don't worry. I got it under control.
+Dialogue: 0,1:26:38.26,1:26:41.95,Default,,0,0,0,,你们这些傻瓜  为什么都往光里走... \N{\fs36} You fools! Why are you going into the ligh...
+Dialogue: 0,1:26:44.30,1:26:47.32,Default,,0,0,0,,不  不  不  不  对... \N{\fs36} No! No, no, no. Yes...
+Dialogue: 0,1:26:47.39,1:26:50.26,Default,,0,0,0,,不  对...不 \N{\fs36} No! Yes... No!
+Dialogue: 0,1:26:51.27,1:26:53.90,Default,,0,0,0,,  飞蛾扑火 \N{\fs36} Go into the light!
+Dialogue: 0,1:27:01.20,1:27:02.37,Default,,0,0,0,,巧克力? \N{\fs36} Chocolate?
+Dialogue: 0,1:27:03.95,1:27:06.12,Default,,0,0,0,,这是巧克力  我喜欢巧克力 \N{\fs36} It's chocolate! I love chocolate!
+Dialogue: 0,1:27:07.11,1:27:08.88,Default,,0,0,0,,噢  巧克力好极了 \N{\fs36} Oh, beautiful chocolate!
+Dialogue: 0,1:27:08.88,1:27:10.30,Default,,0,0,0,,耶 \N{\fs36} Yeah!
+Dialogue: 0,1:27:10.30,1:27:14.72,Default,,0,0,0,,你做到了  拉尔夫  就该这么做  老兄 \N{\fs36} You did it, Ralph! Way to go, brother!
+Dialogue: 0,1:27:19.16,1:27:22.74,Default,,0,0,0,,呃...我不是...  抱歉... \N{\fs36} Uh... I did... excuse...
+Dialogue: 0,1:27:29.10,1:27:30.67,Default,,0,0,0,,全部修完 \N{\fs36} All fixed.
+Dialogue: 0,1:27:30.90,1:27:34.26,Default,,0,0,0,,-你准备好了吗? -我一直准备着 \N{\fs36} -You ready for this? -As ready as I'll ever be.
+Dialogue: 0,1:27:43.18,1:27:45.63,Default,,0,0,0,,这些魔力火花是怎么回事? \N{\fs36} What's with all the magic sparkles?
+Dialogue: 0,1:27:45.71,1:27:47.63,Default,,0,0,0,,{\c&HFDFFF0&\frz359.1\org(946,614)\pos(926,688)\frx358\fry358}云妮洛普\N凡 {\c&HFFFFFF&}史威兹
+Dialogue: 0,1:28:11.96,1:28:13.63,Default,,0,0,0,,{\pos(598,448)}车手记忆
+Dialogue: 0,1:28:11.96,1:28:13.63,Default,,0,0,0,,{\pos(1306,450)}市民记忆
+Dialogue: 0,1:28:14.94,1:28:16.32,Default,,0,0,0,,云妮洛普公主?  \N{\fs36}Princess Vanellope?
+Dialogue: 0,1:28:16.32,1:28:18.08,Default,,0,0,0,,现在我记起来了  \N{\fs36}Now I remember.
+Dialogue: 0,1:28:19.32,1:28:23.86,Default,,0,0,0,,甜蜜冲刺游戏的公主陛下... \N{\fs36} All hail the rightful ruler of Sugar Rush...
+Dialogue: 0,1:28:23.86,1:28:25.62,Default,,0,0,0,,云妮洛普公主 \N{\fs36} Princess Vanellope.
+Dialogue: 0,1:28:25.62,1:28:26.80,Default,,0,0,0,,噢  \N{\fs36}Oh!
+Dialogue: 0,1:28:27.00,1:28:28.62,Default,,0,0,0,,我记起来了  她是我们的公主 \N{\fs36} I remember. She's our princess!
+Dialogue: 0,1:28:28.62,1:28:30.01,Default,,0,0,0,,噢  没错  \N{\fs36}Oh, that's right!
+Dialogue: 0,1:28:30.01,1:28:32.06,Default,,0,0,0,,很抱歉以前那么对你 \N{\fs36} We are so sorry about the way we treated you.
+Dialogue: 0,1:28:32.06,1:28:33.59,Default,,0,0,0,,对 那些都是玩笑  \N{\fs36}Yeah, those were jokes!
+Dialogue: 0,1:28:33.59,1:28:36.90,Default,,0,0,0,,是泰菲塔让我那么做的 \N{\fs36} I was just doing what Taffyta told me to do!
+Dialogue: 0,1:28:37.21,1:28:38.11,Default,,0,0,0,,啧啧 \N{\fs36} Tut-tut.
+Dialogue: 0,1:28:38.11,1:28:42.16,Default,,0,0,0,,作为你们仁慈的公主 我特此命令 \N{\fs36} As your merciful princess, I hereby decree
+Dialogue: 0,1:28:42.16,1:28:45.70,Default,,0,0,0,,所有卑鄙待我的应当 \N{\fs36} that everyone who was ever mean to me shall be
+Dialogue: 0,1:28:46.97,1:28:48.20,Default,,0,0,0,,处死  \N{\fs36}executed.
+Dialogue: 0,1:28:48.20,1:28:50.76,Default,,0,0,0,,什么? 不 不 求求你 求求你\N{\fs36} What? No, no. please! please!
+Dialogue: 0,1:28:50.76,1:28:52.01,Default,,0,0,0,,噢  我的土地爷爷  \N{\fs36}Oh, my land.
+Dialogue: 0,1:28:52.01,1:28:54.18,Default,,0,0,0,,噢  这个地方有意思  \N{\fs36}Oh! This place just got interesting.
+Dialogue: 0,1:28:54.38,1:28:56.56,Default,,0,0,0,,哦... 我不想死 \N{\fs36}Oh... I don't want to die!
+Dialogue: 0,1:28:56.56,1:29:00.34,Default,,0,0,0,,我只是开个玩笑  别哭了  泰菲塔 \N{\fs36} I'm just kidding. Stop crying, Taffyta.
+Dialogue: 0,1:29:00.34,1:29:02.34,Default,,0,0,0,,我想停  但是止不住 \N{\fs36} I'm trying, but it won't stop.
+Dialogue: 0,1:29:05.06,1:29:08.26,Default,,0,0,0,,看来这才是真正的你  公主  \N{\fs36}So this is the real you. Princess.
+Dialogue: 0,1:29:08.26,1:29:12.43,Default,,0,0,0,,噢  拉尔夫  你疯了吗? 拜托  这才不是我呢 \N{\fs36} Aw, Ralph, what are you, nuts? Come on. This isn't me.
+Dialogue: 0,1:29:13.86,1:29:15.83,Default,,0,0,0,,这才是我  \N{\fs36}This is me.
+Dialogue: 0,1:29:16.98,1:29:19.18,Default,,0,0,0,,听着  程序也许设定我是公主 \N{\fs36} Look, the code may say I'm a princess
+Dialogue: 0,1:29:19.18,1:29:21.00,Default,,0,0,0,,但我知道实际上我是谁  拉尔夫 \N{\fs36} but I know who I really am, Ralph,
+Dialogue: 0,1:29:21.00,1:29:24.00,Default,,0,0,0,,我是有史以来最具统治力的赛车手  \N{\fs36}I'm a racer with the greatest superpower ever.
+Dialogue: 0,1:29:24.00,1:29:25.62,Default,,0,0,0,,我在这  我在那 \N{\fs36} I was here, I was there.
+Dialogue: 0,1:29:25.62,1:29:27.51,Default,,0,0,0,,穿越墙壁 \N{\fs36} I was glitching through the walls.
+Dialogue: 0,1:29:27.51,1:29:29.11,Default,,0,0,0,,小菜一碟 \N{\fs36} I'm not giving that up.
+Dialogue: 0,1:29:29.60,1:29:30.87,Default,,0,0,0,,嗯  冒昧问一句 \N{\fs36} Um, pardon me for asking,
+Dialogue: 0,1:29:30.87,1:29:34.19,Default,,0,0,0,,没有公主  谁将领导我们呢? \N{\fs36} but without a princess, who's going to lead us?
+Dialogue: 0,1:29:34.19,1:29:35.36,Default,,0,0,0,,是啊 谁?  \N{\fs36}Yeah. Who?
+Dialogue: 0,1:29:35.36,1:29:39.26,Default,,0,0,0,,嗯  我  我在考虑实施  \N{\fs36}Uh, me. I'm thinking more along the lines of
+Dialogue: 0,1:29:39.26,1:29:41.40,Default,,0,0,0,,立宪民主 \N{\fs36} a constitutional democracy.
+Dialogue: 0,1:29:41.40,1:29:44.87,Default,,0,0,0,,云妮洛普·凡·史威兹总统 \N{\fs36} President Vanellope von Schweetz.
+Dialogue: 0,1:29:45.04,1:29:46.91,Default,,0,0,0,,听起来确实不赖吧 \N{\fs36}? Has a nice ring to it, don't you think?
+Dialogue: 0,1:29:48.08,1:29:50.85,Default,,0,0,0,,修东西的 破坏东西的 游戏厅快要营业了 \N{\fs36} Fix-It, Wreck-It, the arcade's about to open.
+Dialogue: 0,1:29:50.92,1:29:52.34,Default,,0,0,0,,我们走吧 \N{\fs36} Let's move 'em out.
+Dialogue: 0,1:29:59.48,1:30:02.78,Default,,0,0,0,,你可以留下住在城堡里 \N{\fs36} You could just stay here and live in the castle.
+Dialogue: 0,1:30:03.24,1:30:04.24,Default,,0,0,0,,你会有个大房子 \N{\fs36} You'd have your own wing
+Dialogue: 0,1:30:04.24,1:30:06.57,Default,,0,0,0,,没有人再对你嗤之以鼻 \N{\fs36} where no one would ever complain about your stench
+Dialogue: 0,1:30:06.57,1:30:08.34,Default,,0,0,0,,不会对你恶言相加 \N{\fs36} or treat you bad ever again.
+Dialogue: 0,1:30:08.34,1:30:10.27,Default,,0,0,0,,你会很开心的 \N{\fs36} You could be happy.
+Dialogue: 0,1:30:10.97,1:30:12.73,Default,,0,0,0,,我已经很开心了 \N{\fs36} I'm already happy.
+Dialogue: 0,1:30:13.23,1:30:15.44,Default,,0,0,0,,我有世界上子最棒的朋友 \N{\fs36} I've got the coolest friend in the world.
+Dialogue: 0,1:30:16.54,1:30:18.77,Default,,0,0,0,,另外  我还有工作 \N{\fs36} And besides, I've got a job to do, too.
+Dialogue: 0,1:30:19.11,1:30:21.87,Default,,0,0,0,,也许不如当总统那么好 \N{\fs36} It may not be as fancy as being president
+Dialogue: 0,1:30:22.36,1:30:23.67,Default,,0,0,0,,但那是我的责任 \N{\fs36} but it's my duty.
+Dialogue: 0,1:30:23.80,1:30:25.31,Default,,0,0,0,,非常重大的责任 \N{\fs36} And it's a big duty!
+Dialogue: 0,1:30:26.82,1:30:28.53,Default,,0,0,0,,拉尔夫  你走吗 老兄? \N{\fs36}   Ralph, are you coming, brother?
+Dialogue: 0,1:30:30.21,1:30:32.99,Default,,0,0,0,,再见  扯淡总统 \N{\fs36} See you later, President Fart Feathers.
+Dialogue: 0,1:30:32.99,1:30:36.15,Default,,0,0,0,,告辞  裤衩大将军  \N{\fs36}Au revoir, Admiral Underpants.
+Dialogue: 0,1:30:36.43,1:30:39.58,Default,,0,0,0,,再会  鼻涕伯爵  \N{\fs36}And farewell, Baroness Boogerface.
+Dialogue: 0,1:30:39.58,1:30:42.09,Default,,0,0,0,,拜拜  臭烘烘少校\N{\fs36} Goodbye, Major Body Odor!
+Dialogue: 0,1:30:42.09,1:30:44.44,Default,,0,0,0,,-后会有期 你...  -拉尔夫\N{\fs36}  -Hasta la vista, you... -Ralph!
+Dialogue: 0,1:30:44.44,1:30:46.99,Default,,0,0,0,,-好吧 以后继续  -一定  \N{\fs36}-All right. To be continued. -Yeah!
+Dialogue: 0,1:30:46.99,1:30:48.99,Default,,0,0,0,,万岁  \N{\fs36}Hooray!
+Dialogue: 0,1:31:01.13,1:31:02.44,Default,,0,0,0,,让我来毁掉它  \N{\fs36}I'm gonna wreck it!
+Dialogue: 0,1:31:04.47,1:31:07.47,Default,,0,0,0,,嘿  拉尔夫回来了  太棒了 \N{\fs36} Hey! Ralph's back! Isn't that great!
+Dialogue: 0,1:31:07.94,1:31:10.05,Default,,0,0,0,,小家伙们都回来了  \N{\fs36}The gang's all here!
+Dialogue: 0,1:31:10.05,1:31:13.93,Default,,0,0,0,,我很高兴给大家宣布  正合你们所愿 \N{\fs36} So, I'm happy to report, and you'll be happy to hear,
+Dialogue: 0,1:31:14.18,1:31:16.18,Default,,0,0,0,,我决定这辈子就呆在这个游戏里了 \N{\fs36} I'm taking life one game at a time.
+Dialogue: 0,1:31:16.18,1:31:18.47,Default,,0,0,0,,很棒  耶  拉尔夫 \N{\fs36} All right! Yeah, Ralph!
+Dialogue: 0,1:31:18.47,1:31:20.20,Default,,0,0,0,,当然  还是同样的工作  \N{\fs36}Of course, the job hasn't changed.
+Dialogue: 0,1:31:20.65,1:31:24.92,Default,,0,0,0,,但是  不同的是好人公寓的居民们开始关照我了 \N{\fs36} But, news flash, the Nicelanders are being nice to me!
+Dialogue: 0,1:31:24.92,1:31:29.17,Default,,0,0,0,,这使我对那些还没有游戏角色的家伙心生怜悯 \N{\fs36} And that got me thinking about those poor guys left without a game.
+Dialogue: 0,1:31:29.17,1:31:31.94,Default,,0,0,0,,-所以我们做了一些改变  -让我来毁掉它 \N{\fs36} -So here's what we did. -We're gonna wreck it!
+Dialogue: 0,1:31:31.94,1:31:34.18,Default,,0,0,0,,我让他们加入了我们的奖励关卡来增加难度 \N{\fs36} We asked them to help us out on the bonus levels.
+Dialogue: 0,1:31:34.97,1:31:36.49,Default,,0,0,0,,我来修好它  \N{\fs36}We can fix it!
+Dialogue: 0,1:31:37.19,1:31:38.18,Default,,0,0,0,,说实话  朋友 \N{\fs36} I'm telling you, guys,
+Dialogue: 0,1:31:38.18,1:31:39.87,Default,,0,0,0,,我们很久没那么受到欢迎了 \N{\fs36} we haven't been this popular in years.
+Dialogue: 0,1:31:39.87,1:31:41.87,Default,,0,0,0,,-太不可思议了  -哇 \N{\fs36} -It's crazy. -Wow!
+Dialogue: 0,1:31:41.87,1:31:43.87,Default,,0,0,0,,玩家说我们"复古"  \N{\fs36}The gamers say we're "retro,"
+Dialogue: 0,1:31:43.87,1:31:47.28,Default,,0,0,0,,意思是是"年代久远但却很酷 \N{\fs36}" which I think means "old but cool."
+Dialogue: 0,1:31:47.28,1:31:48.76,Default,,0,0,0,,我们以前怎么没注意到这款游戏呢? \N{\fs36} How come we never noticed this game?
+Dialogue: 0,1:31:48.76,1:31:50.70,Default,,0,0,0,,我感觉住在垃圾场  \N{\fs36}Oh, and I decided that living in the dump
+Dialogue: 0,1:31:50.70,1:31:52.21,Default,,0,0,0,,没有那么爽了 \N{\fs36} wasn't making me feel very good,
+Dialogue: 0,1:31:52.21,1:31:55.06,Default,,0,0,0,,所以我清扫干净  给我自己盖了一个小屋  \N{\fs36}so I cleaned it up, built myself a little shack
+Dialogue: 0,1:31:55.06,1:31:56.58,Default,,0,0,0,,新来的也有  \N{\fs36}and a couple for the new guys, too.
+Dialogue: 0,1:31:57.75,1:32:01.11,Default,,0,0,0,,好吧  从阿修那借了一点点力  噢 \N{\fs36} Well, with a little help from Felix. Oh!
+Dialogue: 0,1:32:01.11,1:32:04.01,Default,,0,0,0,,猜猜谁在他和卡尔霍恩婚礼上当伴郎? \N{\fs36} And guess who was the best man at his and Calhoun's wedding.
+Dialogue: 0,1:32:04.01,1:32:07.02,Default,,0,0,0,,没错  是我的朋友  我自己喽 \N{\fs36} That's right, my friends, old Ham Hands himself.
+Dialogue: 0,1:32:07.20,1:32:09.58,Default,,0,0,0,,非常优雅的婚礼  不亲临现场确实可惜 \N{\fs36} Very elegant affair. You should've seen it.
+Dialogue: 0,1:32:09.58,1:32:10.62,Default,,0,0,0,,庄严高贵  \N{\fs36}Lot of grandeur.
+Dialogue: 0,1:32:10.62,1:32:12.39,Default,,0,0,0,,没有一个虫子 \N{\fs36} And not a single bug.
+Dialogue: 0,1:32:16.18,1:32:19.94,Default,,0,0,0,,这么说吧  我哭了 \N{\fs36} Let's just say, some tears were shed.
+Dialogue: 0,1:32:21.70,1:32:25.13,Default,,0,0,0,,但是我必须说  我生活中最快乐 \N{\fs36} But I got to say, the best part of my day
+Dialogue: 0,1:32:25.13,1:32:27.13,Default,,0,0,0,,就是当我被扔下屋顶的时候 \N{\fs36} is when I get thrown off the roof.
+Dialogue: 0,1:32:29.06,1:32:30.94,Default,,0,0,0,,因为当好人公寓的居民把我举过头顶 \N{\fs36} Because when the Nicelanders lift me up,
+Dialogue: 0,1:32:32.08,1:32:34.33,Default,,0,0,0,,我恰好能看到人们玩甜蜜冲刺 \N{\fs36} I get a perfect view of Sugar Rush.
+Dialogue: 0,1:32:34.63,1:32:36.75,Default,,0,0,0,,我看见云妮洛普正在比赛 \N{\fs36} And I can see Vanellope racing.
+Dialogue: 0,1:32:39.20,1:32:40.32,Default,,0,0,0,,完美 \N{\fs36} Yes!
+Dialogue: 0,1:32:41.14,1:32:42.56,Default,,0,0,0,,那孩子是个奇才 \N{\fs36} The kid's a natural.
+Dialogue: 0,1:32:43.54,1:32:45.93,Default,,0,0,0,,玩家都喜欢她  不管她是程序漏洞还是什么 \N{\fs36} And the players love her, glitch and all.
+Dialogue: 0,1:32:46.48,1:32:47.76,Default,,0,0,0,,我一直那么认为  \N{\fs36}Just like I knew they would.
+Dialogue: 0,1:32:49.61,1:32:52.70,Default,,0,0,0,,原来我不需要一块勋章来证明我是一个好人 \N{\fs36} Turns out I don't need a medal to tell me I'm a good guy.
+Dialogue: 0,1:32:54.14,1:32:56.26,Default,,0,0,0,,因为那个小孩都喜欢我... ' \N{\fs36}Cause if that little kid likes me...
+Dialogue: 0,1:33:00.06,1:33:01.30,Default,,0,0,0,,我能坏到哪去呢?  \N{\fs36}How bad can I be?
+Dialogue: 0,1:33:07.72,1:33:08.02,Default,,0,0,0,,{\c&H0006D0&\fs120\pos(966,610)\1a&H08&}请按开始
+Dialogue: 0,1:33:08.51,1:33:08.82,Default,,0,0,0,,{\c&H0006D0&\fs120\pos(966,610)\1a&H08&}请按开始
+Dialogue: 0,1:33:09.34,1:33:09.64,Default,,0,0,0,,{\c&H0006D0&\fs120\pos(966,610)\1a&H08&}请按开始
+Dialogue: 0,1:33:10.12,1:33:10.42,Default,,0,0,0,,{\c&H0006D0&\fs120\pos(966,610)\1a&H08&}请按开始
+Dialogue: 0,1:33:11.00,1:33:11.32,Default,,0,0,0,,{\c&H0006D0&\fs120\pos(966,610)\1a&H08&}请按开始
+Dialogue: 0,1:33:10.67,1:33:12.82,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:33:12.83,1:33:14.72,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:33:14.72,1:33:17.07,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:33:18.24,1:33:22.20,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪打开天幕 星星在为你闪耀♪\N {\fs36}♪Switch on the sky and the stars glow for you♪
+Dialogue: 0,1:33:22.20,1:33:25.93,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 看看这个世界吧 因为它焕然一新了 ♪\N {\fs36}♪ Go see the world ’cause it’s all so brand new ♪
+Dialogue: 0,1:33:25.93,1:33:29.66,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 不要闭上眼睛 因为你的未来将是一片光明 ♪\N {\fs36}♪ Don’t close your eyes ’cause your futures’s ready to shine ♪
+Dialogue: 0,1:33:29.66,1:33:34.74,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们学会飞翔 仅仅是时间问题 ♪\N {\fs36}♪ It's just a matter of time, before we learn how to fly ♪
+Dialogue: 0,1:33:34.76,1:33:38.34,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 欢迎来到夜晚的旋律中 ♪\N {\fs36}♪ Welcome to the rhythm of the night ♪
+Dialogue: 0,1:33:38.34,1:33:43.01,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 空中有一些有趣的东西让你欲罢不能 ♪\N {\fs36}♪There's something in the air you can't deny ♪
+Dialogue: 0,1:33:46.73,1:33:50.28,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 这很的确有趣 但现在我要走了 ♪\N {\fs36}♪It's been fun but now I've got to go ♪
+Dialogue: 0,1:33:50.28,1:33:53.65,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 人生实在太过短暂，你都无法放慢脚步 ♪\N {\fs36}♪ Life is way too short to take it slow ♪
+Dialogue: 0,1:33:53.65,1:33:58.28,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 但在我离开踏向人生道路前 ♪\N {\fs36}♪ But before I go and hit the road ♪
+Dialogue: 0,1:33:58.28,1:34:01.58,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 在此之前，我想知道 ♪\N {\fs36}♪ I gotta know, 'til then ♪
+Dialogue: 0,1:34:01.58,1:34:03.48,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:34:03.49,1:34:05.29,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:34:05.29,1:34:07.35,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你♪\N {\fs36}♪ When can I see you again?♪
+Dialogue: 0,1:34:07.39,1:34:09.12,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:34:09.12,1:34:11.00,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:34:11.00,1:34:13.30,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:34:13.30,1:34:15.22,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我想知道 ♪\N {\fs36}♪ I gotta know ♪
+Dialogue: 0,1:34:15.22,1:34:19.78,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:34:19.78,1:34:22.26,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ (我何时才能再次见到你) ♪\N {\fs36}♪ (When can I see you again?) ♪
+Dialogue: 0,1:34:22.26,1:34:25.97,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 好知己，你的伙伴需要你 ♪\N {\fs36}♪ Joined at the hip, yeah your sidekick needs you ♪
+Dialogue: 0,1:34:25.97,1:34:29.73,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 生活像是旅行，你沿着路前进 ♪\N {\fs36}♪ Life is a trip down the road that leads you ♪
+Dialogue: 0,1:34:29.73,1:34:33.51,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 看看周围你没有攀登过的山 ♪\N {\fs36}♪ Look all around at all the mountains you haven't climbed ♪
+Dialogue: 0,1:34:33.51,1:34:38.61,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们学会飞翔 仅仅是时间问题 ♪\N {\fs36}♪ It's just a matter of time, before we learn how to fly ♪
+Dialogue: 0,1:34:38.61,1:34:42.15,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 欢迎来到夜晚的旋律中 ♪\N {\fs36}♪ Welcome to the rhythm of the night ♪
+Dialogue: 0,1:34:42.15,1:34:46.98,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 空中有一些有趣的东西让你欲罢不能 ♪\N {\fs36}♪ There's something in the air you can't deny ♪
+Dialogue: 0,1:34:50.66,1:34:53.67,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 这很的确有趣但现 在我要走了 ♪\N {\fs36}♪ It's been fun but now I've got to go ♪
+Dialogue: 0,1:34:53.67,1:34:57.37,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 人生实在太过短暂，你都无法放慢脚步 ♪\N {\fs36}♪ Life is way too short to take it slow ♪
+Dialogue: 0,1:34:57.37,1:35:01.64,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 但在我离开踏向人生道路前 ♪\N {\fs36}♪ But before I go and hit the road ♪
+Dialogue: 0,1:35:02.53,1:35:05.39,Default,,0,0,0,,\N\N\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 在此之前，我想知道 ♪\N {\fs36}♪ I gotta know, 'til then ♪
+Dialogue: 0,1:35:05.39,1:35:07.54,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ when can we do this again? ♪
+Dialogue: 0,1:35:07.54,1:35:09.09,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:35:09.10,1:35:11.28,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:35:11.28,1:35:12.92,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:35:12.92,1:35:14.81,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:35:14.81,1:35:17.09,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:35:17.09,1:35:19.09,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我想知道 ♪\N {\fs36}♪ I gotta know ♪
+Dialogue: 0,1:35:19.96,1:35:22.65,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:35:29.79,1:35:33.58,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 不要闭上眼睛 因为你的未来将是一片光明 ♪\N {\fs36}♪ Don't close your eyes 'cause your future's ready to shine ♪
+Dialogue: 0,1:35:33.58,1:35:38.74,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们学会飞翔 仅仅是时间问题 ♪\N {\fs36}♪ It's just a matter of time, before we learn how to fly ♪
+Dialogue: 0,1:35:38.74,1:35:42.03,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 欢迎来到夜晚的旋律中 ♪\N {\fs36}♪ Welcome to the rhythm of the night ♪
+Dialogue: 0,1:35:42.03,1:35:45.79,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 空中有一些有趣的东西让你欲罢不能 ♪\N {\fs36}♪ There's something in the air you can't deny ♪
+Dialogue: 0,1:35:45.79,1:35:49.97,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 所以让我在告别前知道 ♪\N {\fs36}♪ So let me know before I wave goodbye ♪
+Dialogue: 0,1:35:49.97,1:35:52.51,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:35:52.51,1:35:54.21,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:35:54.21,1:35:56.21,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:35:56.21,1:35:57.94,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:35:57.94,1:35:59.94,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:35:59.94,1:36:01.67,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh♪
+Dialogue: 0,1:36:01.67,1:36:03.61,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我们何时才能再次聚在一起 ♪\N {\fs36}♪ When can we do this again? ♪
+Dialogue: 0,1:36:03.66,1:36:05.46,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 哦 哦 哦 哦 ♪\N {\fs36}♪ Oh oh oh oh ♪
+Dialogue: 0,1:36:05.46,1:36:09.24,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 这很的确有趣 但现在 我要走了 ♪\N {\fs36}♪ Yeah, it's been fun but now I've got to go ♪\N
+Dialogue: 0,1:36:09.24,1:36:12.45,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 人生实在太过短暂，你都无法放慢脚步 ♪\N {\fs36}♪ Life is way too short to take it slow ♪
+Dialogue: 0,1:36:12.97,1:36:17.21,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 但在我离开踏向人生道路前 ♪\N {\fs36}♪ But before I go and hit the road ♪
+Dialogue: 0,1:36:17.21,1:36:20.02,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 告诉我我何时 ♪\N {\fs36}♪ Tell me when ♪
+Dialogue: 0,1:36:20.02,1:36:23.09,Default,,0,0,0,,\N\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 我何时才能再次见到你 ♪\N {\fs36}♪ When can I see you again? ♪
+Dialogue: 0,1:36:22.81,1:36:26.07,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪我何时才能再次见到你♪\N {\fs36}♪When can I see you again?♪
+Dialogue: 0,1:36:26.54,1:36:27.92,Default,,0,0,0,,{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪ 何时 ♪\N {\fs36}♪ when ♪
+Dialogue: 0,1:36:27.92,1:36:32.88,Default,,0,0,0,,\N{\c&H87DCFC&\fn微软雅黑\fs72}{\pos(951,136)}♪我何时才能再次见到你♪\N {\fs36}♪When can I see you again?♪
+Dialogue: 0,1:36:31.37,1:36:33.26,Default,,0,0,0,,
 
 
 */};
