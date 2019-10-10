@@ -15,38 +15,54 @@ document.body.appendChild(js1);
 // after script has been loaded, run test code
 window.onload = function() {
 
-var rotate = function(matrix) {
-	var size = matrix.length;
-	var i = 0;
-	while (size - i - i > 1) {
-		rotateLayer(matrix, i, i, size - i - i - 1);
-		i++;
+var multiply = function(num1, num2) {
+    var hashmap = {};
+    var digits = {};
+    var i, j, k;
+    var len = num1.length;
+    var l = num2.length;
+
+    for (i = 0; i < 10; i++) {
+    	for (j = 0; j < 10; j++) {
+    		hashmap[i + '' + j] = i * j;
+    		if (i !== j) {
+    			hashmap[j + '' + i] = hashmap[i + '' + j];
+    		}
+    	}
+    }
+
+    function mul(char1, char2, pos) {
+    	var rs = hashmap[char1 + char2];
+    	var r1 = rs % 10;
+
+    	if (digits[pos] === undefined) {
+    		digits[pos] = [r1];
+    	} else {
+    		digits[pos].push(r1);
+    	}
+    	if (rs > 10) {
+    		var r2 = Math.floor(rs / 10);
+    		var npos = pos + 1;
+    		if (digits[npos] === undefined) {
+	    		digits[npos] = [r2];
+	    	} else {
+	    		digits[npos].push(r2);
+	    	}
+    	}
 	}
+
+    for (i = 0; i < len; i++) {
+    	for (j = 0; j < l; j++) {
+    		mul(num1[i], num2[j], len + l - i - j - 2);
+    	}
+    }
+
+    console.log(digits);
 };
 
-function rotateLayer(matrix, x, y, step) {
-	var tmp;
-
-	for (var i = 0; i < step - x; i++) {
-		tmp = matrix[y][x + i];
-		matrix[y][x + i] = matrix[y + step - i][x];
-		matrix[y + step - i][x] = matrix[y + step][x + step - i];
-		matrix[y + step][x + step - i] = matrix[y + i][x + step];
-		matrix[y + i][x + step] = tmp;
-	}
-}
-var r =[
-  [7,4,1],
-  [8,5,2],
-  [9,6,3]
-];
-// var r = [
-//   [ 5, 1, 9,11],
-//   [ 2, 4, 8,10],
-//   [13, 3, 6, 7],
-//   [15,14,12,16]
-// ];
-rotate(r);
+var num1 = "12", num2 = "98";
+// var num1 = "123456789", num2 = "987654321";
+var r = multiply(num1, num2);
 console.log(r);
 
 };
