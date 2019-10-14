@@ -27,7 +27,7 @@ var rotate = function(matrix) {
 function rotateLayer(matrix, x, y, step) {
 	var tmp;
 
-	for (var i = 0; i < step - x; i++) {
+	for (var i = 0; i < step; i++) {
 		tmp = matrix[y][x + i];
 		matrix[y][x + i] = matrix[y + step - i][x];
 		matrix[y + step - i][x] = matrix[y + step][x + step - i];
@@ -36,16 +36,12 @@ function rotateLayer(matrix, x, y, step) {
 	}
 }
 var r =[
-  [7,4,1],
-  [8,5,2],
-  [9,6,3]
+  [ 5, 1, 9,11],
+  [ 2, 4, 8,10],
+  [13, 3, 6, 7],
+  [15,14,12,16]
 ];
-// var r = [
-//   [ 5, 1, 9,11],
-//   [ 2, 4, 8,10],
-//   [13, 3, 6, 7],
-//   [15,14,12,16]
-// ];
+
 rotate(r);
 console.log(r);
 
