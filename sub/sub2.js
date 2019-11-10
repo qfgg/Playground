@@ -1,6662 +1,5068 @@
 var text = function() {/*
 
 1
-00:00:02,300 --> 00:00:07,300
-{\fn华文楷体\fs16\1c&H3CF1F3&\b0}--==本影片由 {\1c&HFF8000&\b1}CMCT 团队{\fn华文楷体\1c&H3CF1F3&\b0} 荣誉出品==--
-更多精彩影视 请访问 {\fnCronos Pro Subhead\1c&HFF00FF&\b1}http://cmct.cc
+00:02:12,757 --> 00:02:15,635
+爸 爸
+{\fs12}Dad! Dad! Dad!
 
 2
-00:00:08,300 --> 00:00:11,300
-{\fn华文楷体\fs16\1c&H3CF1F3&\b0}影片压制: 九洲客 　字幕调校: 子贺居士　招募Q号: 76846146
+00:02:15,718 --> 00:02:16,803
+好烫！
+{\fs12}It burns! Aah!
 
 3
-00:03:01,460 --> 00:03:04,330
-面试
+00:02:19,097 --> 00:02:20,849
+不！
+{\fs12}Dad! No!
 
 4
-00:03:12,740 --> 00:03:15,070
-你好 我和尤尔曼先生有约
-Hi. I've got an appointment with Mr. Ullman.
+00:02:25,937 --> 00:02:26,771
+伊莱？
+{\fs12}Eli?
 
 5
-00:03:15,320 --> 00:03:17,160
-我的名字是杰克·特朗斯
-My name is Jack Torrance.
+00:02:32,569 --> 00:02:33,444
+伊莱？
+{\fs12}Eli?
 
 6
-00:03:17,410 --> 00:03:19,950
-他的办公室在一楼的左边
-His office is the first door on the left.
+00:02:35,488 --> 00:02:36,322
+你还好吗？
+{\fs12}Are you okay?
 
 7
-00:03:20,200 --> 00:03:21,330
-谢谢
-Thank you.
+00:02:39,450 --> 00:02:40,493
+做了同样的梦
+{\fs12}Had the same dream.
 
 8
-00:03:38,730 --> 00:03:39,520
-尤尔曼先生?
-Mr. Ullman?
+00:02:41,744 --> 00:02:43,371
+你以为你已经痊愈的梦？
+{\fs12}The one where you thought you were cured?
 
 9
-00:03:39,810 --> 00:03:41,020
-我是杰克·特朗斯
-I'm Jack Torrance.
+00:02:45,748 --> 00:02:46,583
+对
+{\fs12}Yeah.
 
 10
-00:03:41,270 --> 00:03:43,230
-快进来 杰克
-Come on in, Jack.
+00:02:47,834 --> 00:02:48,668
+你会的，宝贝
+{\fs12}You will be, honey. 
 
 11
-00:03:44,280 --> 00:03:46,820
-- 非常高兴见到你 - 我也是
-- Very nice to meet you. - Nice to meet you.
+00:02:49,544 --> 00:02:50,879
+所以我们才要这样做
+{\fs12}That's why we're doing this.
 
 12
-00:03:47,070 --> 00:03:48,610
-这是我的秘书 苏西
-This is my secretary, Susie.
+00:02:51,754 --> 00:02:53,798
+只要再开一段路就到了，好吗？
+{\fs12}Just one more drive to go, okay?
 
 13
-00:03:48,990 --> 00:03:51,490
-- 苏西 你好 - 我们这儿很难找吧?
-- Susie, how do you do? - Any trouble finding us?
+00:02:55,925 --> 00:02:57,719
+你保证？ -我保证
+{\fs12}Promise? -Promise.
 
 14
-00:03:51,740 --> 00:03:54,490
-不难找 到这儿我才花了三个半小时
-No problem at all. I made the trip in 3 1/2 hours.
+00:02:58,928 --> 00:03:00,430
+我们在太阳下山前就会到了
+{\fs12}We'll be there before sunset.
 
 15
-00:03:54,700 --> 00:03:56,660
-算是非常顺利了
-That's very good time.
+00:03:01,431 --> 00:03:02,765
+我说的是痊愈
+{\fs12}I mean about being cured.
 
 16
-00:03:57,040 --> 00:03:58,580
-请稍坐一会 杰克
-Sit down a minute, Jack.
+00:03:04,100 --> 00:03:05,268
+我对天发誓
+{\fs12}Cross my heart.
 
 17
-00:03:58,830 --> 00:04:00,590
-随意 不要拘束
-Just make yourself at home.
+00:03:08,646 --> 00:03:10,190
+你知道我爱你，对吧？
+{\fs12}You know I love you, right?
 
 18
-00:04:00,840 --> 00:04:02,000
-要来点咖啡吗?
-Like some coffee?
+00:03:13,526 --> 00:03:14,360
+我知道
+{\fs12}I know.
 
 19
-00:04:02,300 --> 00:04:04,760
-方便的话 我想尝一尝 谢谢
-If you're having some, I wouldn't mind. Thanks.
+00:03:55,860 --> 00:03:57,612
+（夜莺汽车旅馆）
 
 20
-00:04:05,010 --> 00:04:05,880
-- 苏西 - 好的 先生
-- Susie. - Sure.
+00:04:05,620 --> 00:04:06,746
+还是刷不过？
+{\fs12}Also declined.
 
 21
-00:04:06,180 --> 00:04:07,840
-顺便请比尔·华生过来
-And ask Bill Watson to join us.
+00:04:07,538 --> 00:04:08,498
+什么？
+{\fs12}What's that?
 
 22
-00:04:08,090 --> 00:04:09,600
-好的
-Yes, I will.
+00:04:08,581 --> 00:04:09,415
+刷不过
+{\fs12}Declined.
 
 23
-00:04:20,400 --> 00:04:21,570
-妈妈
-Mom?
+00:04:15,505 --> 00:04:16,756
+我只有这些
+{\fs12}That's all I got.
 
 24
-00:04:22,360 --> 00:04:23,570
-什么?
-Yeah?
+00:04:21,427 --> 00:04:23,263
+三个人，住两晚？
+{\fs12}Three people, two nights? 
 
 25
-00:04:23,950 --> 00:04:27,570
-你真打算 整个冬天都住那个旅馆吗?
-Do you really want to go and live in that hotel for the winter?
+00:04:23,346 --> 00:04:24,389
+那要240元
+{\fs12}That's 240.
 
 26
-00:04:28,240 --> 00:04:29,540
-当然我愿意
-Sure I do.
+00:04:25,139 --> 00:04:26,599
+我们住一个晚上而已
+{\fs12}We stayed one night.
 
 27
-00:04:29,790 --> 00:04:31,700
-那一定会很有趣
-It'll be lots of fun.
+00:04:26,683 --> 00:04:29,894
+（退房规定 超过早上9点退房，加收一晚费用）
 
 28
-00:04:33,620 --> 00:04:35,710
-嗯 我也这么认为
-Yeah. I guess so.
+00:04:33,815 --> 00:04:34,691
+手表挺不错的
+{\fs12}Nice watch.
 
 29
-00:04:35,920 --> 00:04:40,090
-不过 那儿恐怕没有人可以陪我玩
-Anyway, there's hardly anybody to play with around here.
+00:04:36,985 --> 00:04:37,819
+我们走
+{\fs12}Let's go. 
 
 30
-00:04:40,880 --> 00:04:45,530
-我知道 交新朋友总要花些时间的
-I know. lt always takes a little time to make new friends.
+00:04:38,236 --> 00:04:39,362
+阳光很强
+{\fs12}Burning daylight.
 
 31
-00:04:45,970 --> 00:04:48,270
-嗯 恐怕是
-Yeah, I guess so.
+00:04:39,445 --> 00:04:40,321
+我们准备好了
+{\fs12}We're ready.
 
 32
-00:04:49,060 --> 00:04:50,020
-托尼怎样想呢?
-What about Tony?
+00:04:42,407 --> 00:04:43,241
+来吧，宝贝
+{\fs12}Come on, honey.
 
 33
-00:04:50,310 --> 00:04:52,560
-他很期待去住那个旅馆 我敢打赌
-He's looking forward to the hotel, I bet.
+00:04:49,539 --> 00:04:51,207
+哇靠，看看那个
+{\fs12}Holy shit, dude. Check that out.
 
 34
-00:04:53,230 --> 00:04:55,610
-错 我并不期待 特朗斯太太
-No, I ain't, Mrs. Torrance.
+00:04:51,874 --> 00:04:54,043
+那是什么玩意啊？
+{\fs12}What the fresh fuck is that? -Ha ha ha ha ha.
 
 35
-00:04:55,980 --> 00:04:58,320
-好了 托尼 不要淘气
-Now, come on, Tony. Don't be silly.
+00:04:54,836 --> 00:04:56,921
+休士顿，我们有麻烦了
+{\fs12}Houston, we have a problem.
 
 36
-00:04:58,820 --> 00:05:00,740
-我不想去那个地方
-I don't want to go there.
+00:04:57,880 --> 00:04:58,923
+嘿，外星人
+{\fs12}Hey, spaceman,
 
 37
-00:05:01,280 --> 00:05:03,280
-你为什么不想去呢?
-How come you don't want to go?
+00:04:59,299 --> 00:05:00,758
+你哪个星球的？天王星？
+{\fs12}what planet are you from--Uranus?
 
 38
-00:05:03,530 --> 00:05:05,450
-只是不想而已
-I just don't.
+00:05:01,759 --> 00:05:02,593
+天王星
+{\fs12}Uranus.
 
 39
-00:05:05,450 --> 00:05:08,180
-那我们走着瞧
-Let's just wait and see.
+00:05:04,971 --> 00:05:05,805
+伊莱！
+{\fs12}Eli.
 
 40
-00:05:08,450 --> 00:05:11,150
-我相信我们会有个愉快的冬天
-We're all going to have a real good time.
+00:05:08,683 --> 00:05:09,517
+是我
+{\fs12}Come here... honey. Ah. It's me.
 
 41
-00:05:13,030 --> 00:05:15,490
-比尔 这位是杰克·特朗斯
-Bill, I'd like you to meet Jack Torrance.
+00:05:10,560 --> 00:05:11,644
+没事，是我
+{\fs12}It's okay.
 
 42
-00:05:15,700 --> 00:05:17,130
-你好 比尔
-How do you do, Bill?
+00:05:12,228 --> 00:05:15,106
+妈，衣服破了…
+{\fs12}Mom. Mom, it's ripped. Mom, it's--
 
 43
-00:05:17,330 --> 00:05:19,300
-- 非常高兴认识你 - 很荣幸
-- Nice to meet you. - Pleasure to meet you.
+00:05:15,189 --> 00:05:17,358
+衣服破了，快拿胶带
+{\fs12}It's ripped. Get the tape.
 
 44
-00:05:19,500 --> 00:05:21,430
-找个位子坐 比尔 我们开始吧
-Grab a chair, Bill. Join in.
+00:05:17,442 --> 00:05:19,569
+没事，我来处理 -他会晕厥的
+{\fs12} It's okay. I got him - He's gonna pass out.
 
 45
-00:05:21,630 --> 00:05:25,770
-杰克准备为我们 在这个冬天照顾遥望旅馆
-Jack is going to take care of the Overlook for us this winter.
+00:05:21,821 --> 00:05:23,740
+伊莱，你没事了，交给我
+{\fs12}Eli, you're okay. I got it.
 
 46
-00:05:26,010 --> 00:05:28,980
-等我们这边告个段落 你就带他去逛逛
-I'd like you to take him around soon as we're through.
+00:05:23,823 --> 00:05:25,241
+深呼吸，伊莱
+{\fs12}Breathe, Eli.
 
 47
-00:05:29,180 --> 00:05:30,110
-好的
-Fine.
+00:05:26,117 --> 00:05:27,910
+我很抱歉 -伊莱，冷静
+{\fs12}I'm sorry. -Eli, calm down. 
 
 48
-00:05:30,750 --> 00:05:32,650
-杰克是位老师
-Jack is a schoolteacher.
+00:05:27,994 --> 00:05:28,870
+他需要呼吸
+{\fs12}Take it easy.
 
 49
-00:05:32,920 --> 00:05:34,880
-以前是位老师
-Formerly a schoolteacher.
+00:05:29,245 --> 00:05:30,079
+呼吸，宝贝
+{\fs12}Breathe, honey. 
 
 50
-00:05:35,080 --> 00:05:36,780
-那你现在干什么?
-What line of work are you in now?
+00:05:30,371 --> 00:05:32,707
+伊莱，看着我，我在这里
+{\fs12}Eli, look at me. I'm right here.
 
 51
-00:05:36,990 --> 00:05:38,580
-写作
-I'm a writer.
+00:05:35,084 --> 00:05:38,296
+很行嘛，混蛋，欺负生病的孩子
+{\fs12}Real tough, assholes, picking on a sick kid.
 
 52
-00:05:38,820 --> 00:05:42,450
-光靠教书 收支还是平衡不了
-Teaching's been more or less a way of making ends meet.
+00:05:38,546 --> 00:05:41,049
+别看他们，这里只有你和我，好吗？
+{\fs12}Don't look at them. It's just you and me, okay?
 
 53
-00:05:42,660 --> 00:05:44,630
-对你而言 这是很大的转变吧?
-This ought to be quite a change for you.
+00:05:41,924 --> 00:05:44,260
+别看他们，看着我，好吗？
+{\fs12}Hey, don't look at them. Look at me, okay? 
 
 54
-00:05:45,560 --> 00:05:47,360
-我正是在寻求转变
-I'm looking for a change.
+00:05:44,635 --> 00:05:45,595
+呼吸
+{\fs12}Breathe.
 
 55
-00:05:47,570 --> 00:05:51,160
-我们在丹佛的人都强烈推荐杰克 而且我立刻就...
-Our people in Denver recommended Jack very highly, and for once...
+00:05:45,803 --> 00:05:47,263
+成熟点吧 -呼吸，宝贝
+{\fs12} Go grow up. - Breathe, honey.
 
 56
-00:05:51,370 --> 00:05:52,960
-赞成了他们的意见
-...I agree with them.
+00:05:47,889 --> 00:05:50,016
+你能闻到刚出炉的生日蛋糕吗？
+{\fs12}Can you smell that birthday cake fresh from the oven?
 
 57
-00:05:53,610 --> 00:05:55,400
-那好 我们讲到哪里了?
-Let's see, where were we?
+00:05:51,225 --> 00:05:52,852
+好，深呼吸，闻到了吗？
+{\fs12}All right, breathe in. Smell it?
 
 58
-00:05:55,610 --> 00:05:58,200
-我正打算解说...
-I was about to explain...
+00:05:53,936 --> 00:05:55,104
+吹蜡烛
+{\fs12}Blow out those candles.
 
 59
-00:05:58,440 --> 00:06:02,810
-我们是在5月15号到10月30号营业
-...that our season here runs from May 15th to October 30th.
+00:05:55,646 --> 00:05:56,606
+抿着唇
+{\fs12}Purse your lips.
 
 60
-00:06:02,820 --> 00:06:06,270
-然后我们会歇业 直到下个5月来临
-Then we close down completely until the following May.
+00:05:58,232 --> 00:05:59,400
+就是这样，很好
+{\fs12}That's it. Good.
 
 61
-00:06:06,490 --> 00:06:09,290
-我可以问问是为什么吗?
-Do you mind if I ask why you do that?
+00:06:00,151 --> 00:06:02,445
+还有几枝蜡烛，通通吹熄
+{\fs12}There's a couple more left. Blow 'em out.
 
 62
-00:06:09,490 --> 00:06:12,950
-就我所见 在这边滑雪将是非常美妙的事
-It seems to me that the skiing up here would be fantastic.
+00:06:04,697 --> 00:06:05,531
+很好
+{\fs12}That's good.
 
 63
-00:06:13,160 --> 00:06:15,760
-那是肯定的 但是 问题在于庞大的开销...
-It would be. The problem is the enormous cost...
+00:06:09,118 --> 00:06:10,203
+现在许个愿
+{\fs12}Now make a wish.
 
 64
-00:06:15,960 --> 00:06:18,530
-为此我们必须保持道路通畅
-...it would be to keep the road to Sidewinder open.
+00:06:15,792 --> 00:06:16,918
+你许了什么愿？
+{\fs12}What did you wish for?
 
 65
-00:06:19,170 --> 00:06:20,900
-而道路绵延25英哩
-It's a 25-mile stretch of road.
+00:06:19,045 --> 00:06:21,214
+我希望可以痛打他们一顿
+{\fs12}I wish I could beat the crap out of them.
 
 66
-00:06:21,100 --> 00:06:24,270
-到了冬天 积雪会厚达20英尺
-It gets 20 feet of snow during the winter.
+00:06:24,050 --> 00:06:25,051
+许别的愿望
+{\fs12}Make another wish.
 
 67
-00:06:24,270 --> 00:06:26,910
-要保持道路通畅的话...
-There's just no way to make it economically feasible...
+00:06:26,677 --> 00:06:28,304
+洪恩医生能治好我
+{\fs12}That Dr. Horn can fix me.
 
 68
-00:06:27,110 --> 00:06:29,050
-实在是没有什么经济效益
-...to keep it clear.
+00:06:35,269 --> 00:06:36,270
+我们离开这里吧？
+{\fs12}Should we get out of here?
 
 69
-00:06:29,250 --> 00:06:31,810
-自1907年这个地方被修建以来...
-When the place was built in 1907...
+00:06:38,689 --> 00:06:40,066
+走吧 -再见，老弟
+{\fs12}Come on. -See ya, man.
 
 70
-00:06:31,820 --> 00:06:34,380
-很少有人对这儿的冬季运动感兴趣的
-...there was very little interest in winter sports.
+00:06:40,149 --> 00:06:41,776
+发射喽！ -好耶！
+{\fs12}Blast off. -Yeah.
 
 71
-00:06:34,590 --> 00:06:39,460
-这个地方是因为它的 与世俗隔绝和风光明媚而闻名
-This site was chosen for its seclusion and scenic beauty.
+00:06:43,069 --> 00:06:44,529
+再见！
+{\fs12}Bye.
 
 72
-00:06:39,690 --> 00:06:42,220
-当然 不只如此而已
-It's certainly got plenty of that.
+00:06:48,825 --> 00:06:50,118
+可恶！
+{\fs12}Shit.
 
 73
-00:06:42,430 --> 00:06:43,620
-不错
-That's right.
+00:06:51,536 --> 00:06:52,412
+混蛋！
+{\fs12}Asshole.
 
 74
-00:06:43,900 --> 00:06:46,860
-丹佛的人有没有告诉过你...
-Did they give you any idea in Denver...
+00:07:27,071 --> 00:07:28,656
+烂货
+{\fs12}Piece of shit. 
 
 75
-00:06:46,910 --> 00:06:48,530
-关于这个工作的负担?
-...about what the job entails?
+00:07:29,198 --> 00:07:30,241
+之前的车就不会这样
+{\fs12}The old car never did that.
 
 76
-00:06:48,790 --> 00:06:51,070
-只说了个大概
-Only in a very general way.
+00:07:30,324 --> 00:07:32,452
+我不是在说车子，我是在说你
+{\fs12}I wasn't talking about the car. I was talking about you.
 
 77
-00:06:53,380 --> 00:06:56,050
-冬季总是难以想像的酷寒
-The winters can be fantastically cruel.
+00:07:32,535 --> 00:07:33,369
+保罗！
+{\fs12}Paul.
 
 78
-00:06:56,300 --> 00:06:59,640
-工作内容是维修工作 防止带来重大损失...
-The basic idea is to cope with the very costly damage...
+00:07:36,998 --> 00:07:38,249
+怎么？他知道我在开玩笑
+{\fs12}What? He knows I'm kidding.
 
 79
-00:06:59,930 --> 00:07:01,850
-和其它一些相关的事
-...and depreciation which can occur.
+00:07:39,333 --> 00:07:42,420
+但我们确实要勒紧裤带 才能带你去看这个医生，小子
+{\fs12}But we did need to tighten our belts to get you to this doctor, pal.
 
 80
-00:07:02,100 --> 00:07:04,520
-其实主要就是要照顾锅炉...
-This consists mainly of running the boiler...
+00:07:44,130 --> 00:07:45,131
+我知道
+{\fs12}I know.
 
 81
-00:07:04,770 --> 00:07:08,690
-每天都要加热 保持旅馆各个角落的温暖...
-...heating different parts of the hotel on a daily rotating basis...
+00:07:45,214 --> 00:07:48,426
+她值得我们花的每一分钱
+{\fs12}Well, she's gonna be worth every penny.
 
 82
-00:07:08,940 --> 00:07:11,570
-如果有损坏发生就要修复...
-...repairing damage as it occurs...
+00:07:49,051 --> 00:07:50,052
+她简直是神医
+{\fs12}She's a miracle worker. 
 
 83
-00:07:11,860 --> 00:07:14,660
-持续维护使损坏无法产生
-...and doing repairs so the elements can't get a foothold.
+00:07:51,387 --> 00:07:52,221
+对吧？
+{\fs12}Right?
 
 84
-00:07:15,740 --> 00:07:17,990
-这对我而言是没有问题的
-That sounds fine to me.
+00:07:56,851 --> 00:07:58,478
+你要不要拿我的牌给我看？
+{\fs12}Are you gonna show me my card or not? -Oh.
 
 85
-00:07:18,370 --> 00:07:21,290
-其实上这工作 真的没有什么太高的要求
-Physically, it's not a very demanding job.
+00:08:01,522 --> 00:08:02,356
+这是
+{\fs12}Is...
 
 86
-00:07:21,500 --> 00:07:24,630
-在这里 冬季唯一真正要克服的...
-The only thing that can get a bit trying here during the winter...
+00:08:03,149 --> 00:08:03,983
+你的牌吗？
+{\fs12}this your card?
 
 87
-00:07:24,920 --> 00:07:27,510
-是巨大的被隔离感
-...is a tremendous sense of isolation.
+00:08:06,152 --> 00:08:07,236
+那是我的牌
+{\fs12}That is my card.
 
 88
-00:07:28,670 --> 00:07:33,260
-那正好是我要寻求的东西
-That just happens to be exactly what I'm looking for.
+00:08:08,446 --> 00:08:09,280
+你怎么做到的？
+{\fs12}How'd you do that?
 
 89
-00:07:33,640 --> 00:07:36,770
-我正构思一部新的作品
-I'm outlining a new writing project.
+00:08:10,031 --> 00:08:11,073
+这不是你的牌
+{\fs12}It's not your card. 
 
 90
-00:07:37,140 --> 00:07:40,440
-五个月的安静生活 正符合我所需
-Five months of peace is just what I want.
+00:08:11,157 --> 00:08:13,075
+你只是骗我，想让我好过一点
+{\fs12}You're lying to me to make me feel better.
 
 91
-00:07:41,230 --> 00:07:42,980
-很好 杰克
-That's very good, Jack.
+00:08:13,159 --> 00:08:15,703
+冷静，宝贝，我不会骗你的
+{\fs12}Calm down. I wouldn't lie to you, baby. 
 
 92
-00:07:43,270 --> 00:07:46,400
-你知道 对某些人...
-Because, for some people...
+00:08:16,204 --> 00:08:17,038
+对吧？保罗
+{\fs12}Right, Paul?
 
 93
-00:07:46,610 --> 00:07:48,360
-...孤独...
-...solitude...
+00:08:18,331 --> 00:08:19,874
+他很紧张 -对
+{\fs12}He's nervous. -I know.
 
 94
-00:07:48,610 --> 00:07:50,160
-...和隔离...
-...and isolation...
+00:08:24,420 --> 00:08:25,546
+我真想念华盛顿特区
+{\fs12}I miss DC.
 
 95
-00:07:51,070 --> 00:07:53,290
-...会是一个很大的问题
-...can, of itself, become a problem.
+00:09:03,751 --> 00:09:05,419
+这是我们要住的地方？
+{\fs12}Is this where we're staying?
 
 96
-00:07:54,120 --> 00:07:55,790
-对我而言不是
-Not for me.
+00:09:05,503 --> 00:09:06,921
+是的，小子 -对
+{\fs12}It is, buddy. -Yep.
 
 97
-00:07:56,290 --> 00:07:59,460
-那你的妻子和儿子呢? 你认为他们没问题吧?
-How about your wife and son? Do you think they'll take to it?
+00:09:07,672 --> 00:09:08,881
+只住一阵子
+{\fs12}Just for a little while.
 
 98
-00:08:01,290 --> 00:08:02,380
-他们会喜欢的
-They'll love it.
+00:09:28,943 --> 00:09:30,361
+拿好你的东西，我们走
+{\fs12}Hey, get your stuff. Let's go.
 
 99
-00:08:02,670 --> 00:08:03,880
-很好
-Great.
+00:09:49,338 --> 00:09:50,381
+门铃呢？
+{\fs12}Where's the doorbell?
 
 100
-00:08:06,800 --> 00:08:09,970
-在我把你交给比尔以前...
-Before I turn you over to Bill...
+00:09:50,881 --> 00:09:51,757
+我不知道
+{\fs12}I don't know.
 
 101
-00:08:10,260 --> 00:08:13,640
-我想我还有一件事 不得不和你讲
-...there's one other thing I think we should talk about.
+00:10:00,766 --> 00:10:03,352
+欢迎，米勒一家，我是洪恩医生
+{\fs12}Welcome, Miller family. This is Dr. Horn.
 
 102
-00:08:13,940 --> 00:08:15,350
-不是吓唬人...
-Not to sound melodramatic...
+00:10:04,020 --> 00:10:06,480
+为了保护屋子的完整性
+{\fs12}In order to protect the integrity of the house,
 
 103
-00:08:15,600 --> 00:08:18,110
-不过 这的确会让某些人
-...but it's been known to give a few people...
+00:10:06,856 --> 00:10:10,985
+进出只能经过消毒室
+{\fs12}the decontamination chamber is our only way in or out.
 
 104
-00:08:18,310 --> 00:08:20,520
-重新考虑能否接受这个工作
-...second thoughts about the job.
+00:10:11,527 --> 00:10:14,989
+伊莱，你可以自己先进来吗？
+{\fs12}Eli, will you please enter first by yourself?
 
 105
-00:08:21,230 --> 00:08:22,860
-我很感兴趣
-I'm intrigued.
+00:10:15,740 --> 00:10:17,074
+我们跟着就来
+{\fs12}We'll be right behind you.
 
 106
-00:08:23,070 --> 00:08:25,410
-我认为 丹佛的人一定没有提到这个...
-I don't suppose they said anything in Denver...
+00:10:18,242 --> 00:10:19,118
+你不会有事的
+{\fs12} You're okay.
 
 107
-00:08:25,610 --> 00:08:29,580
-1970年在这儿发生的悲剧
-...about the tragedy we had up here during the winter of 1970.
+00:10:19,660 --> 00:10:20,578
+你可以的
+{\fs12}You got this.
 
 108
-00:08:30,200 --> 00:08:32,160
-他们的确没有
-I don't believe they did.
+00:10:47,813 --> 00:10:49,148
+请举起双臂
+{\fs12} Raise your arms, please.
 
 109
-00:08:34,790 --> 00:08:36,460
-我的前任...
-My predecessor in this job...
+00:11:05,289 --> 00:11:06,415
+（净化完成）
 
 110
-00:08:37,250 --> 00:08:40,470
-雇佣了一个叫查尔斯·格瑞第 担任冬季看管员的工作
-...hired a man named Charles Grady as the winter caretaker.
+00:11:21,555 --> 00:11:22,390
+你好，伊莱
+{\fs12}Hello, Eli. 
 
 111
-00:08:40,720 --> 00:08:44,140
-他带着妻子和两个女儿 一个8一个10岁左右
-He came up with his wife and 2 little girls of about 8 and 10.
+00:11:22,473 --> 00:11:23,307
+我是洪恩医生
+{\fs12}I'm Dr. Horn.
 
 112
-00:08:44,390 --> 00:08:47,390
-他有着良好的工作记录和介绍人
-He had a good employment record, good references.
+00:11:26,852 --> 00:11:27,687
+你好
+{\fs12}Hello.
 
 113
-00:08:47,640 --> 00:08:49,850
-就我刚才所言 他似乎...
-And from what I've been told, he seemed...
+00:11:34,819 --> 00:11:35,778
+萝丝
+{\fs12}Rose.
 
 114
-00:08:50,100 --> 00:08:52,730
-就像一个安全正常的人一样
-...like a completely normal individual.
+00:11:37,321 --> 00:11:38,155
+保罗
+{\fs12}Paul.
 
 115
-00:08:53,020 --> 00:08:55,320
-但是冬季的某天...
-But at some point during the winter...
+00:11:38,239 --> 00:11:40,449
+总算见到本人了 -洪恩医生
+{\fs12} Nice to meet you in the flesh finally. - Dr. Horn.
 
 116
-00:08:55,570 --> 00:08:59,200
-他肯定受到了巨大的精神折磨
-...he must have suffered some kind of a complete mental breakdown.
+00:11:41,617 --> 00:11:43,828
+我的护士，芭芭拉和玛丽瑟拉
+{\fs12} These are my nurses--Barbara, Maricela. 
 
 117
-00:08:59,450 --> 00:09:01,740
-然后疯狂地...
-He ran amuck...
+00:11:43,911 --> 00:11:44,954
+幸会
+{\fs12}Pleased to meet you.
 
 118
-00:09:05,160 --> 00:09:08,530
-用斧头 杀了全家人
-...and killed his family with an ax.
+00:11:45,037 --> 00:11:46,247
+这地方还好找吧？
+{\fs12}Did you find the place okay?
 
 119
-00:09:08,670 --> 00:09:13,250
-尸体全堆到西翼的一个房间里...
-Stacked them neatly in a room in the west wing, and then...
+00:11:46,455 --> 00:11:48,833
+你们好，米勒先生太太 -叫我萝丝就好
+{\fs12} Hello, Mr. and Mrs. Miller. - Call me Rose.
 
 120
-00:09:14,090 --> 00:09:17,760
-来福枪装了两发子弹 含在嘴里击发
-...he put both barrels of his shotgun in his mouth.
+00:11:48,916 --> 00:11:51,877
+我们很高兴你们前来 你们会受到很好的照顾
+{\fs12}We're so happy to have you out here. You're in good hands.
 
 121
-00:09:19,050 --> 00:09:20,800
-警察认为...
-The police thought...
+00:11:51,961 --> 00:11:53,504
+我知道 -这里真不错
+{\fs12}I know. -It's so lovely here.
 
 122
-00:09:21,050 --> 00:09:25,060
-那就是以前所谓的幽闭恐慌症
-...that it was what the old-timers used to call cabin fever.
+00:11:53,587 --> 00:11:55,673
+我认为隔离对灵魂很好
+{\fs12}I find the isolation is good for the soul.
 
 123
-00:09:25,310 --> 00:09:28,310
-一种幽闭式的反应 发生在...
-A kind of claustrophobic reaction which can occur...
+00:11:56,716 --> 00:11:57,925
+失陪一下
+{\fs12}Excuse me.
 
 124
-00:09:28,560 --> 00:09:32,690
-人被封闭在一起 经过一段相当长时间后
-...when people are shut in together over long periods of time.
+00:12:03,222 --> 00:12:04,598
+你可以脱掉防护衣了
+{\fs12}You can take your suit off now.
 
 125
-00:09:37,780 --> 00:09:39,120
-这个故事...
-That is...
+00:12:05,933 --> 00:12:06,767
+你很安全
+{\fs12}You're safe.
 
 126
-00:09:39,370 --> 00:09:40,870
-实在很刺激
-...quite a story.
+00:12:07,351 --> 00:12:08,561
+如果这里有污染呢？
+{\fs12}What if there are contaminates? 
 
 127
-00:09:42,200 --> 00:09:43,660
-是的
-Yeah, it is.
+00:12:08,644 --> 00:12:09,770
+这里没有，宝贝
+{\fs12}There aren't any.
 
 128
-00:09:44,750 --> 00:09:48,130
-到现在我还是无法相信 它就发生在这个地方 就是这儿
-It's still hard for me to believe it actually happened here.
+00:12:10,646 --> 00:12:11,981
+这是净化屋
+{\fs12}This is a clean house.
 
 129
-00:09:48,420 --> 00:09:50,090
-但是 它的确是
-But it did.
+00:12:18,028 --> 00:12:19,697
+他有点害羞 -不急
+{\fs12}He's a little shy. -There's no rush.
 
 130
-00:09:51,880 --> 00:09:55,890
-我相信你能理解 我为什么要告诉你这些
-I think you can appreciate why I wanted to tell you about it.
+00:12:20,322 --> 00:12:21,949
+你必须先相信自己
+{\fs12}You have to trust yourself first. 
 
 131
-00:09:56,470 --> 00:09:58,930
-我当然可以
-I certainly can.
+00:12:22,366 --> 00:12:23,701
+去拿米勒家的行李吧？
+{\fs12}Will you fetch the Millers' luggage?
 
 132
-00:09:59,430 --> 00:10:02,020
-我还可以理解 为什么丹佛的人...
-I also understand why your people in Denver...
+00:12:23,784 --> 00:12:24,827
+好的 -当然
+{\fs12}Right away. -Absolutely.
 
 133
-00:10:02,270 --> 00:10:04,480
-留着这件事 让你来告诉我
-...left it for you to tell me.
+00:12:25,286 --> 00:12:27,580
+请跟我来，我带你们去房间
+{\fs12}Please, follow me. I'll show you your room.
 
 134
-00:10:05,690 --> 00:10:08,360
-显然 一些人会退缩...
-Obviously, some people can be put off...
+00:12:29,540 --> 00:12:31,125
+要多久时间？ -治疗吗？
+{\fs12} How long will it take? The treatment? 
 
 135
-00:10:08,610 --> 00:10:12,660
-不愿意待在发生过这种事的地方
-...from staying in a place where something like that happened.
+00:12:31,459 --> 00:12:32,835
+我们分三阶段进行
+{\fs12}We do it in three stages.
 
 136
-00:10:12,910 --> 00:10:17,740
-你可以放心 这不会发生在我身上
-You can rest assured that's not going to happen with me.
+00:12:32,918 --> 00:12:34,795
+这叫病毒基因疗法
+{\fs12}It's called Viral Gene Therapy.
 
 137
-00:10:18,000 --> 00:10:21,630
-至于我的妻子...
-And as far as my wife is concerned...
+00:12:35,087 --> 00:12:38,799
+你的免疫系统 制造太多坏的免疫球蛋白…
+{\fs12}You see, your immune system produces too many bad immunoglobulin--
 
 138
-00:10:21,880 --> 00:10:25,710
-我确定告诉她以后 她一定会很着迷
-...I'm sure she'll be absolutely fascinated when I tell her.
+00:12:38,883 --> 00:12:41,218
+我身体的重组活化基因有缺陷
+{\fs12}My body carries a defective RAG1-RAG2 gene.
 
 139
-00:10:25,960 --> 00:10:28,720
-她是个忠实的鬼故事迷...
-She's a confirmed ghost story...
+00:12:41,927 --> 00:12:44,096
+我们可以用编码病毒来矫正缺陷
+{\fs12}Which we can correct using an encoded virus.
 
 140
-00:10:29,010 --> 00:10:31,340
-...和恐怖片迷
-...and horror film addict.
+00:12:44,346 --> 00:12:45,556
+你真的很懂你的身体
+{\fs12}You really know your stuff. 
 
 141
-00:10:36,430 --> 00:10:40,140
-托尼 你认为爸爸会得到那份工作吗?
-Tony, do you think Dad'll get the job?
+00:12:45,639 --> 00:12:46,474
+我做了研究
+{\fs12}I read.
 
 142
-00:10:41,560 --> 00:10:43,770
-他已经得到了
-He already did.
+00:12:46,932 --> 00:12:48,601
+萝丝和保罗，你们住这一层楼
+{\fs12}Rose and Paul, you'll be on this floor,
 
 143
-00:10:44,190 --> 00:10:47,900
-他马上就会打电话告诉温蒂
-He's going to phone Wendy up in a few minutes to tell her.
+00:12:48,684 --> 00:12:50,186
+但我们要先去伊莱的房间
+{\fs12}but we're gonna go to Eli's room first.
 
 144
-00:11:02,620 --> 00:11:05,290
-- 嗨 宝贝 - 嗨 亲爱的 事情进行得怎样?
-- Hi, babe. - Hi, hon. How's it going?
+00:12:50,394 --> 00:12:51,854
+他不能和我们一起睡吗？
+{\fs12}Can't he sleep with us?
 
 145
-00:11:05,540 --> 00:11:09,050
-很好 我还在旅馆里 而且还有许多地方还没去看过
-Great. I'm at the hotel and I still have a lot to do.
+00:12:51,937 --> 00:12:55,024
+很遗憾，我们的病患 必须在自己的房间接受治疗
+{\fs12}Unfortunately, our patients must be in their own rooms for treatment.
 
 146
-00:11:09,340 --> 00:11:12,380
-我认为9点或10点前 我可能到不了家
-I don't think I can get home before 9 or 10.
+00:12:55,608 --> 00:12:57,109
+你当医生多久了？
+{\fs12}How long have you been a doctor? 
 
 147
-00:11:12,640 --> 00:11:14,090
-听起来你得到这份工作了
-Sounds like you got the job.
+00:12:57,193 --> 00:12:58,819
+我成为免疫学者有25年了
+{\fs12}I've been an immunologist for 25 years,
 
 148
-00:11:14,300 --> 00:11:17,020
-嗯 这儿真是个漂亮的地方
-Right. It's a beautiful place.
+00:12:58,903 --> 00:13:00,863
+但这间净化屋是三年前成立的
+{\fs12}but I started this clean house three years ago.
 
 149
-00:11:17,270 --> 00:11:19,350
-你和丹尼会喜欢上它的
-You and Danny are going to love it.
+00:13:01,280 --> 00:13:02,990
+你治疗过几个病人？
+{\fs12}How many patients have you treated?
 
 150
-00:11:20,850 --> 00:11:23,770
-托尼 你为什么不想去那个旅馆?
-Tony, why don't you want to go to the hotel?
+00:13:03,324 --> 00:13:04,283
+相当多
+{\fs12}Quite a few.
 
 151
-00:11:24,020 --> 00:11:25,730
-我不知道
-I don't know.
+00:13:04,617 --> 00:13:05,910
+他们都被你治愈了？
+{\fs12}And you've cured all of them?
 
 152
-00:11:26,780 --> 00:11:30,360
-你知道的 好了 告诉我吧
-You do too know. Now come on, tell me.
+00:13:10,247 --> 00:13:11,874
+你治好他们了？
+{\fs12}And you've cured all of them?
 
 153
-00:11:30,950 --> 00:11:33,030
-不要 我不想告诉你
-I don't want to.
+00:13:11,957 --> 00:13:15,419
+伊莱，我知道你很紧张 但你不用紧张
+{\fs12}Eli, I know you're nervous, but you don't need to be.
 
 154
-00:11:33,740 --> 00:11:34,990
-求求你
-Please.
+00:13:15,920 --> 00:13:17,671
+我会让你好起来
+{\fs12}I will make you better.
 
 155
-00:11:36,160 --> 00:11:37,330
-不要
-No.
+00:13:21,634 --> 00:13:22,885
+别担心
+{\fs12}Don't worry about that. 
 
 156
-00:11:37,620 --> 00:11:39,750
-好了 托尼 告诉我吧
-Now, Tony, tell me.
+00:13:22,968 --> 00:13:24,887
+那是空气过滤机的声音
+{\fs12}That's the sound of the air filtration.
 
 157
-00:12:09,310 --> 00:12:12,040
-现在睁开眼睛 我来检查
-Now, hold your eyes still so I can see.
+00:13:25,095 --> 00:13:27,181
+老旧管线有时会因此震动
+{\fs12}Sometimes it makes the old piping vibrate.
 
 158
-00:12:16,520 --> 00:12:18,750
-很好 另一只眼睛
-That's good. Now the other one.
+00:13:27,515 --> 00:13:28,891
+这是一间老房子了
+{\fs12}This is an old house.
 
 159
-00:12:20,160 --> 00:12:21,620
-乖孩子
-Good boy.
+00:13:29,683 --> 00:13:32,144
+在我买下之前 这间屋子不知道废弃多久了
+{\fs12}It had been abandoned for God knows how long before I bought it. 
 
 160
-00:12:28,970 --> 00:12:30,330
-好的 丹尼...
-Now, Danny...
+00:13:32,228 --> 00:13:33,103
+我们走吧？
+{\fs12}Shall we?
 
 161
-00:12:30,800 --> 00:12:32,830
-在你刷牙的时候
-...when you were brushing your teeth...
+00:13:35,731 --> 00:13:36,607
+那下面是什么？
+{\fs12}What's down there?
 
 162
-00:12:33,040 --> 00:12:36,030
-你记得你闻到一些怪味
-...do you remember if you smelled anything funny...
+00:13:37,566 --> 00:13:40,736
+这间屋子不是所有区域 都改造成净化的环境
+{\fs12}Not all of the house had been retrofitted to be a clean environment.
 
 163
-00:12:36,240 --> 00:12:41,010
-或者看见闪光 和其它一些怪东西吗?
-...or saw any bright, flashing lights or anything at all strange?
+00:13:41,654 --> 00:13:42,530
+但是别担心
+{\fs12}But don't worry. 
 
 164
-00:12:43,850 --> 00:12:45,010
-没有
-No.
+00:13:42,655 --> 00:13:43,864
+这些区域都气密隔离了
+{\fs12}These seals are airtight.
 
 165
-00:12:46,090 --> 00:12:48,580
-那你记得你在刷牙么?
-Do you remember when you were brushing your teeth?
+00:13:46,283 --> 00:13:47,201
+我们继续好吗？
+{\fs12}Shall we continue?
 
 166
-00:12:49,160 --> 00:12:50,460
-是的
-Yes.
+00:13:52,414 --> 00:13:53,290
+伊莱
+{\fs12}Eli.
 
 167
-00:12:51,590 --> 00:12:55,220
-那么 刷牙之后呢? 你记得发生过什么事情吗?
-What's the next thing you remember after you were brushing your teeth?
+00:13:58,254 --> 00:13:59,380
+这是你的房间，伊莱
+{\fs12}This is your room, Eli.
 
 168
-00:12:59,440 --> 00:13:02,070
-妈妈对我说 "醒醒 丹尼 醒醒"
-My mom was saying, "Wake up. Wake up, Danny, wake up."
+00:14:25,948 --> 00:14:27,741
+我知道你需要时间适应
+{\fs12}I know it's a lot to get used to,
 
 169
-00:13:06,280 --> 00:13:08,510
-那你能否记得在刷牙前...
-Can you remember what you were doing...
+00:14:27,825 --> 00:14:30,411
+但我希望你不要把这里想成医疗机构
+{\fs12}but I hope you don't think of this as a medical facility.
 
 170
-00:13:08,710 --> 00:13:11,650
-你在做些什么吗?
-...just before you started brushing your teeth?
+00:14:31,328 --> 00:14:33,956
+对我来说，这里就是家 现在也是你的家了
+{\fs12}To me it's a home, and for now, it's your home.
 
 171
-00:13:14,150 --> 00:13:15,920
-和托尼说话
-Talking to Tony.
+00:14:37,126 --> 00:14:38,294
+水安全吗？
+{\fs12}Is the water safe?
 
 172
-00:13:16,590 --> 00:13:18,960
-托尼是你的宠物之一吗?
-Is Tony one of your animals?
+00:14:43,048 --> 00:14:45,175
+这里的水彻底过滤了
+{\fs12}The water here is completely filtered, 
 
 173
-00:13:19,830 --> 00:13:22,760
-不是 他是住在我嘴里的小男孩
-No. He's a little boy that lives in my mouth.
+00:14:45,259 --> 00:14:46,385
+比瓶装水更洁净
+{\fs12}purer than bottled water.
 
 174
-00:13:23,060 --> 00:13:25,460
-托尼是他想像中的朋友
-Tony's his imaginary friend.
+00:14:47,261 --> 00:14:49,263
+你可能很久没有淋浴了
+{\fs12}Probably a long time since you've had a shower.
 
 175
-00:13:28,400 --> 00:13:31,800
-假如你现在张开嘴 我能看见托尼吗?
-If you were to open your mouth now, could I see Tony?
+00:14:52,433 --> 00:14:54,268
+宝贝，你可以信任洪恩医生
+{\fs12}You can trust Dr. Horn, honey.
 
 176
-00:13:34,480 --> 00:13:35,710
-为什么不行?
-Why not?
+00:15:36,602 --> 00:15:37,436
+呼吸
+{\fs12}Breathe.
 
 177
-00:13:36,980 --> 00:13:38,810
-因为他藏起来了
-Because he hides.
+00:15:38,520 --> 00:15:39,521
+没事的，呼吸
+{\fs12}It's okay to breathe.
 
 178
-00:13:39,550 --> 00:13:41,210
-他藏在什么地方?
-Where does he go?
+00:15:40,981 --> 00:15:41,815
+没事的
+{\fs12}It's okay.
 
 179
-00:13:42,320 --> 00:13:44,120
-我的胃里面
-To my stomach.
+00:15:45,110 --> 00:15:46,153
+就是这样
+{\fs12}That's it.
 
 180
-00:13:46,160 --> 00:13:49,060
-托尼有要你去做过什么吗?
-Does Tony ever tell you to do things?
+00:16:04,171 --> 00:16:05,005
+好久没抱你了
+{\fs12}Oh, it's been so long.
 
 181
-00:13:53,130 --> 00:13:55,790
-我不想再谈论托尼了
-I don't want to talk about Tony anymore.
+00:16:07,174 --> 00:16:08,050
+我爱你
+{\fs12}I love you.
 
 182
-00:13:58,440 --> 00:13:59,870
-好的
-That's fine.
+00:16:09,093 --> 00:16:09,927
+我知道
+{\fs12}I know.
 
 183
-00:14:00,640 --> 00:14:02,440
-好的 丹尼
-All right, Danny.
+00:16:51,635 --> 00:16:52,511
+这是哪来的？
+{\fs12}Where'd you get that?
 
 184
-00:14:03,240 --> 00:14:06,040
-我要请你帮我个忙...
-I'm going to ask you to do me a favor...
+00:16:52,720 --> 00:16:55,389
+这是回家时要给他穿的，你喜欢吗？
+{\fs12}It's for him to wear when we go home. Do you like it?
 
 185
-00:14:06,250 --> 00:14:09,620
-今天都乖乖地待在床上 好吗?
-...and stay quietly in bed for the rest of the day. Okay?
+00:16:59,101 --> 00:17:01,895
+当他脱下防护衣 你看到他的脸了吗？
+{\fs12}Did you see his face when he took off the suit?
 
 186
-00:14:09,820 --> 00:14:10,940
-一定要这样吗?
-Do I have to?
+00:17:03,230 --> 00:17:04,815
+他好快乐
+{\fs12}He was so happy.
 
 187
-00:14:11,150 --> 00:14:13,420
-是的 我希望你这样
-Yes. I'd like you to.
+00:17:06,025 --> 00:17:06,984
+你记得吗？
+{\fs12}You remember?
 
 188
-00:14:13,620 --> 00:14:16,390
-我们要去另外的房间说几句话
-We're going in the other room for a few minutes and talk.
+00:17:08,235 --> 00:17:09,069
+快乐？
+{\fs12}Happy? Hmm?
 
 189
-00:14:16,590 --> 00:14:18,720
-之后我会来看你的
-I'll come back and check on you.
+00:17:11,155 --> 00:17:12,698
+我只是心里还有很多事
+{\fs12}I just got a lot on my mind. 
 
 190
-00:14:27,240 --> 00:14:29,640
-- 我们去客厅吗? - 是的
-- Shall we go into the living room? - Yes.
+00:17:12,781 --> 00:17:13,615
+我知道
+{\fs12}I know.
 
 191
-00:14:33,350 --> 00:14:35,210
-- 请坐 - 谢谢
-- Please. - Thank you.
+00:17:14,908 --> 00:17:16,160
+但是这会成功的
+{\fs12}But this is gonna work.
 
 192
-00:14:39,090 --> 00:14:43,460
-特朗斯太太 我认为你没有什么好担心的
-Mrs. Torrance, I don't think you have anything to worry about.
+00:17:19,079 --> 00:17:20,497
+这就是我们期待的
+{\fs12}Everything we hoped for.
 
 193
-00:14:43,660 --> 00:14:47,690
-我确信丹尼身体健康
-I'm quite sure there's nothing physically wrong with Danny.
+00:17:22,124 --> 00:17:24,209
+我祈求的一切就在这里
+{\fs12}Everything I prayed for is right here.
 
 194
-00:14:52,440 --> 00:14:55,560
-他现在看起来非常好
-He seems absolutely fine now.
+00:17:28,255 --> 00:17:29,381
+他会好起来的
+{\fs12}He's gonna get better.
 
 195
-00:14:55,770 --> 00:14:56,760
-但是你还是应该检查一下
-But you should've seen him.
+00:17:30,591 --> 00:17:31,842
+我们要有信心
+{\fs12}We just gotta have faith.
 
 196
-00:14:57,440 --> 00:14:58,470
-我知道
-I know.
+00:17:34,386 --> 00:17:35,262
+我有信心
+{\fs12}I do.
 
 197
-00:14:58,680 --> 00:15:00,370
-孩子往往会吓着你
-Kids can scare you to death.
+00:17:36,764 --> 00:17:38,891
+我向来信得过
+{\fs12}I've always been a faithful man.
 
 198
-00:15:00,580 --> 00:15:03,450
-但是相信我 那些并不算反常
-But believe me, these episodes are not at all uncommon.
+00:18:27,731 --> 00:18:28,565
+嗨
+{\fs12}Hi.
 
 199
-00:15:03,650 --> 00:15:06,210
-他们往往比表面看起来要好很多
-And they look much worse than they are.
+00:18:30,943 --> 00:18:31,944
+你要进来吗？
+{\fs12}Do you want to come in?
 
 200
-00:15:06,750 --> 00:15:09,410
-但是 他到底是怎么了?
-But what was the matter with him?
+00:19:09,148 --> 00:19:09,982
+伊莱？
+{\fs12}Eli?
 
 201
-00:15:09,620 --> 00:15:13,720
-大多数时候 发生在小孩子身上 某些事情是无法依常理解释的
-Most of the time, these episodes with kids are never explained.
+00:19:15,988 --> 00:19:17,990
+天啊，你在发抖
+{\fs12}My God, you're shaking.
 
 202
-00:15:13,930 --> 00:15:18,800
-只是一些情绪上的原因 而且基本上很少再发生
-They're brought on by emotional factors and rarely occur again.
+00:19:19,783 --> 00:19:21,076
+今晚我可以和你们睡吗？
+{\fs12}Can I sleep in your bed tonight?
 
 203
-00:15:19,600 --> 00:15:22,570
-和自我催眠很相似...
-They're more akin to autohypnosis...
+00:19:49,521 --> 00:19:50,480
+早安，伊莱
+{\fs12}Good morning, Eli. 
 
 204
-00:15:22,770 --> 00:15:25,740
-一种自我诱导的恍惚状态
-...a kind of self-induced trance.
+00:19:50,731 --> 00:19:51,815
+你觉得如何？
+{\fs12}How are you feeling?
 
 205
-00:15:25,940 --> 00:15:27,930
-但是 假如再发生的话 我认为...
-If it reoccurs, which I doubt...
+00:19:52,733 --> 00:19:53,567
+还好
+{\fs12} Okay. 
 
 206
-00:15:28,810 --> 00:15:31,910
-我们可以试着做些检查
-...we can always think about having some tests done.
+00:19:53,650 --> 00:19:55,152
+听说你昨晚没睡好
+{\fs12}I heard you didn't sleep well.
 
 207
-00:15:34,520 --> 00:15:36,780
-我确信你是对的
-I'm sure you're right.
+00:19:59,448 --> 00:20:00,824
+我的房间有别的东西
+{\fs12}There was something in my room.
 
 208
-00:15:38,420 --> 00:15:41,120
-你住在博得很久了吗?
-Have you been in Boulder long?
+00:20:01,533 --> 00:20:02,367
+是什么？
+{\fs12}What was it? 
 
 209
-00:15:41,930 --> 00:15:43,220
-只有三个月左右
-Only about three months.
+00:20:02,451 --> 00:20:03,285
+我不知道
+{\fs12}I don't know.
 
 210
-00:15:43,430 --> 00:15:46,800
-我们是佛蒙得州来的 我丈夫以前在那边的学校教书
-We're from Vermont. My husband was teaching school there.
+00:20:03,911 --> 00:20:04,745
+好像是…
+{\fs12}Like... 
 
 211
-00:15:48,800 --> 00:15:52,600
-丹尼想像中的朋友出现在...
-Did the appearance of Danny's imaginary friend....
+00:20:05,621 --> 00:20:07,372
+有人对着窗户呵气？
+{\fs12}breathing on the window?
 
 212
-00:15:53,040 --> 00:15:53,870
-托尼
-Tony.
+00:20:09,374 --> 00:20:10,751
+你当时在睡觉还是醒着？
+{\fs12}Were you asleep or awake?
 
 213
-00:15:54,070 --> 00:15:58,030
-那么 托尼的情况 最早发生在你们到这儿的时候吗?
-Did Tony's first appearance happen to coincide with your arrival here?
+00:20:11,793 --> 00:20:12,711
+醒着
+{\fs12}Awake.
 
 214
-00:16:01,150 --> 00:16:02,480
-我想想...
-Let's see....
+00:20:13,670 --> 00:20:14,546
+应该是吧
+{\fs12}I think.
 
 215
-00:16:03,190 --> 00:16:05,750
-丹尼和托尼说话...
-I guess Danny started talking to Tony...
+00:20:15,756 --> 00:20:18,967
+你服用的免疫抑制剂 副作用是会做恶梦
+{\fs12}Bad dreams are a side effect of the immunosuppressants you're taking.
 
 216
-00:16:05,950 --> 00:16:08,650
-是在我们送他去幼儿园时开始的
-...about the time we put him in nursery school.
+00:20:19,384 --> 00:20:22,179
+以前有些病患还出现幻觉，这很正常
+{\fs12}I've even had some patients hallucinate. It's perfectly normal.
 
 217
-00:16:09,060 --> 00:16:11,360
-他适应学校生活吗?
-Did he adjust well to school?
+00:20:23,555 --> 00:20:24,431
+我们开始吧？
+{\fs12}Shall we begin?
 
 218
-00:16:13,560 --> 00:16:15,500
-他最开始并不喜欢学校
-He didn't like it too much at first.
+00:20:45,035 --> 00:20:45,869
+你们不一起来？
+{\fs12}You're not coming?
 
 219
-00:16:15,700 --> 00:16:19,000
-但是 之后他受了伤 然后我们就把他留在家里一段时间...
-Then he had an injury, so we kept him out for a while and....
+00:20:48,914 --> 00:20:49,748
+妈？
+{\fs12}Mom?
 
 220
-00:16:20,400 --> 00:16:24,310
-这就是我最早 注意到他和托尼交谈的时候
-I guess that's about when I first noticed he was talking to Tony.
+00:20:50,249 --> 00:20:54,169
+我们必须待在这里，宝贝 -我们不会离开的，我保证
+{\fs12}We have to stay here, honey? We won't move from this spot. Promise.
 
 221
-00:16:25,310 --> 00:16:27,710
-他受了什么样的伤?
-What sort of injury did he have?
+00:20:59,383 --> 00:21:00,259
+伊莱
+{\fs12}Eli.
 
 222
-00:16:28,380 --> 00:16:30,540
-肩膀脱臼
-He dislocated his shoulder.
+00:21:02,052 --> 00:21:03,428
+你何不许个愿？
+{\fs12}Why don't you make a wish?
 
 223
-00:16:31,020 --> 00:16:33,280
-他怎么会受这样的伤?
-How did he manage to do that?
+00:21:11,311 --> 00:21:12,354
+你许了什么愿？
+{\fs12}What'd you wish for?
 
 224
-00:16:36,720 --> 00:16:39,780
-这只是 嗯 那样的一些事 你知道的
-It was just one of those things, you know.
+00:21:14,731 --> 00:21:15,691
+希望我很勇敢
+{\fs12}That I was brave.
 
 225
-00:16:39,990 --> 00:16:41,990
-完全是意外事故
-Purely an accident.
+00:21:18,026 --> 00:21:19,236
+你已经很勇敢了
+{\fs12}You already are.
 
 226
-00:16:42,970 --> 00:16:45,760
-我丈夫喝醉...
-My husband had been drinking...
+00:21:36,086 --> 00:21:36,920
+这边请
+{\fs12}Just this way.
 
 227
-00:16:45,970 --> 00:16:49,300
-然后比往常迟三个小时回到家
-...and he came home about three hours late.
+00:21:51,643 --> 00:21:52,519
+站在那边
+{\fs12}Stand there.
 
 228
-00:16:49,610 --> 00:16:54,170
-他那天晚上 心情不太好
-So he wasn't exactly in the greatest mood that night.
+00:21:54,021 --> 00:21:55,063
+站在那边
+{\fs12}Stand there.
 
 229
-00:16:54,910 --> 00:16:59,680
-然后丹尼把他一些教学用试卷 扔到满屋都是...
-And Danny had scattered some of his school papers all over the room...
+00:21:56,690 --> 00:21:57,691
+双手举高
+{\fs12}Hands in the air.
 
 230
-00:16:59,880 --> 00:17:04,180
-于是我丈夫就拉住他的肩膀 想让他离开那些试卷
-...and my husband grabbed his arm to pull him away from them.
+00:22:03,030 --> 00:22:05,615
+6…66
+{\fs12}Seis, sesenta y seis.
 
 231
-00:17:04,390 --> 00:17:07,450
-就是这样一些行为 你起码对孩子做过上百次...
-It's just the sort of thing you do 100 times with a child...
+00:22:06,325 --> 00:22:07,159
+手臂张开
+{\fs12}Arms out.
 
 232
-00:17:07,660 --> 00:17:09,680
-你知道的 平常在公园或者街道上
-...you know, in a park or in the street.
+00:22:09,328 --> 00:22:10,245
+转身
+{\fs12}Turn around.
 
 233
-00:17:10,800 --> 00:17:13,430
-但是当时有点失控...
-But on this particular occasion...
+00:22:11,830 --> 00:22:12,664
+等等
+{\fs12}Wait.
 
 234
-00:17:13,630 --> 00:17:16,260
-我丈夫用力过猛
-...my husband just used too much strength...
+00:22:19,588 --> 00:22:21,965
+转身，伊莱，面向这边
+{\fs12}Vírese, Eli. Face this way.
 
 235
-00:17:16,470 --> 00:17:19,060
-然后他伤着了丹尼的肩膀
-...and he injured Danny's arm.
+00:22:24,343 --> 00:22:25,844
+为何要拍我的照片？
+{\fs12}Why are you taking my picture?
 
 236
-00:17:22,110 --> 00:17:26,640
-无论如何 负面的事也有一些正面意义 因为他说...
-Anyway, something good did come out of it all because he said...
+00:22:26,845 --> 00:22:27,679
+拍好了
+{\fs12}Listo.
 
 237
-00:17:26,880 --> 00:17:29,440
-"温蒂 我绝对不会再犯同样的傻事
-..."Wendy, I'm never going to touch another drop.
+00:22:28,347 --> 00:22:29,264
+你是哪里人？
+{\fs12}Where are you from?
 
 238
-00:17:29,650 --> 00:17:31,590
-假如再发生的话 你可以离开我"
-And if I do, you can leave me."
+00:22:32,017 --> 00:22:35,187
+你知道问太多问的男孩怎么了吗？
+{\fs12}Do you know what happened to the boy who asked too many questions?
 
 239
-00:17:31,790 --> 00:17:33,120
-然后 他的确做到了
-And he didn't.
+00:22:37,064 --> 00:22:37,898
+他得到答案了？
+{\fs12}He got answers?
 
 240
-00:17:33,320 --> 00:17:37,820
-他五个月没再沾过一点酒精
-He hasn't had any alcohol in 5 months.
+00:22:46,448 --> 00:22:47,282
+上手术台
+{\fs12}Stations.
 
 241
-00:17:38,640 --> 00:17:41,430
-旅馆歇业日
+00:23:11,515 --> 00:23:12,766
+伊莱，这是何时开始的？
+{\fs12}So when did this all start, Eli?
 
 242
-00:18:04,870 --> 00:18:09,040
-我们肯定到了很高的地方 空气都不太一样了
-We must really be high up. The air feels so different.
+00:23:13,934 --> 00:23:15,185
+大概四年前
+{\fs12}About four years ago.
 
 243
-00:18:14,680 --> 00:18:15,880
-爸爸?
-Dad?
+00:23:16,436 --> 00:23:17,604
+但现在情况更糟了
+{\fs12}But it's much worse now.
 
 244
-00:18:18,720 --> 00:18:20,430
-我饿了
-I'm hungry.
+00:23:18,730 --> 00:23:20,649
+我的病患都像你一样
+{\fs12}My patients are all just like you.
 
 245
-00:18:22,230 --> 00:18:24,980
-你应该吃了早餐的
-You should've eaten your breakfast.
+00:23:21,233 --> 00:23:22,651
+免疫系统都出了问题
+{\fs12}All with failing immune systems.
 
 246
-00:18:25,810 --> 00:18:28,690
-等我们到了旅馆就给你找些吃的
-We'll get you something as soon as we get to the hotel.
+00:23:23,735 --> 00:23:26,279
+病症潜伏到你这个年龄才发作
+{\fs12}The condition remains dormant until around your age.
 
 247
-00:18:28,940 --> 00:18:30,570
-好的 妈妈
-Okay, Mom.
+00:23:28,615 --> 00:23:30,659
+你认为让你生病的因素是什么？
+{\fs12}What do you think is making you sick?
 
 248
-00:18:32,030 --> 00:18:36,160
-就是在这附近 多纳组织被雪给困住的吧?
-Wasn't it around here that the Donner party got snowbound?
+00:23:30,742 --> 00:23:31,743
+针筒
+{\fs12}Needle.
 
 249
-00:18:37,870 --> 00:18:41,410
-我认为是在更西边的地方 在山脊地带
-I think that was farther west, in the Sierras.
+00:23:33,745 --> 00:23:34,704
+很多
+{\fs12}Lots of things.
 
 250
-00:18:42,830 --> 00:18:45,290
-什么是多纳组织?
-What was the Donner party?
+00:23:35,622 --> 00:23:37,457
+空气、水
+{\fs12}The air, water.
 
 251
-00:18:47,170 --> 00:18:51,470
-他们是一个蓬车时代的殖民组织
-They were a party of settlers in covered wagon times.
+00:23:39,960 --> 00:23:40,877
+灰尘
+{\fs12}Dust. 
 
 252
-00:18:51,720 --> 00:18:54,930
-某个冬天他们被雪困在山里头
-They got snowbound one winter in the mountains.
+00:23:40,961 --> 00:23:42,379
+有可能是那些东西
+{\fs12}Could be those things.
 
 253
-00:18:55,140 --> 00:18:59,390
-导致后来他们相互残杀当作食物 为的是让自己能够生存下来
-They had to resort to cannibalism in order to stay alive.
+00:23:43,380 --> 00:23:44,339
+也可能是别的因素
+{\fs12}Could be something else.
 
 254
-00:19:00,480 --> 00:19:03,400
-你的意思是他们相互吃掉别人?
-You mean they ate each other up?
+00:23:45,841 --> 00:23:48,385
+因为自体免疫症候群的核心是什么？
+{\fs12}Because what is an autoimmune syndrome at its core?
 
 255
-00:19:03,610 --> 00:19:06,690
-为了活命 他们不得不这样做
-They had to, in order to survive.
+00:23:52,347 --> 00:23:54,224
+是身体本身会奋战，对吗？
+{\fs12}It's the body fighting itself, right?
 
 256
-00:19:06,940 --> 00:19:08,150
-杰克
-Jack.
+00:23:55,350 --> 00:23:56,852
+在正常、健康的身体
+{\fs12}In a normal, healthy body,
 
 257
-00:19:08,400 --> 00:19:09,450
-不要担心 妈妈
-Don't worry, Mom.
+00:23:56,935 --> 00:23:59,479
+骨髓里的干细胞会产生抗体
+{\fs12}antibodies are produced by stem cells in the marrow.
 
 258
-00:19:09,700 --> 00:19:13,910
-我知道人吃人的 在电视上看过
-I know all about cannibalism. I saw it on TV.
+00:24:00,147 --> 00:24:02,274
+但是你身体中的基因受损
+{\fs12}But in your body, that gene is impaired,
 
 259
-00:19:14,160 --> 00:19:16,830
-看 我说没什么吧
-See, it's okay.
+00:24:02,816 --> 00:24:04,776
+所以我要把这种特别修正过的病毒
+{\fs12}so I'm gonna take this modified virus 
 
 260
-00:19:17,040 --> 00:19:19,460
-他在电视上都看过了
-He saw it on the television.
+00:24:04,860 --> 00:24:06,695
+注射到你的骨髓中
+{\fs12}and inject it into the marrow.
 
 261
-00:19:50,200 --> 00:19:52,000
-- 飞机什么时候起飞? - 8点30分
-- What time does the plane leave? - 8:30.
+00:24:06,778 --> 00:24:11,074
+病毒会修补你的基因 重启你的整个免疫系统
+{\fs12}This virus is gonna repair that gene and reset your entire immune system.
 
 262
-00:19:52,250 --> 00:19:54,960
-这样我们就有充足的时间 可以仔细检查每样东西
-That gives us plenty of time to go over everything.
+00:24:12,701 --> 00:24:13,827
+就像变魔术一样
+{\fs12}Poof. Like a magic trick.
 
 263
-00:19:55,210 --> 00:19:57,130
-- 再见 尤尔曼先生 - 再见
-- Goodbye, Mr. Ullman. - Bye.
+00:24:14,744 --> 00:24:15,662
+好吗？
+{\fs12}Right?
 
 264
-00:19:57,380 --> 00:20:00,460
-早安 希望没有让你等太久
-Good morning. I hope you haven't been waiting too long.
+00:24:37,726 --> 00:24:38,602
+手术刀
+{\fs12}Scalpel.
 
 265
-00:20:00,710 --> 00:20:03,300
-没关系 我们正好有足够的时间去找点吃的
-No problem. We had time to grab a bite to eat.
+00:24:45,650 --> 00:24:46,610
+骨干打洞器
+{\fs12}Bone punch.
 
 266
-00:20:03,550 --> 00:20:06,390
-很幸运 你能赶在他们关掉厨房前这样做
-Good. Glad you made it before they shut down the kitchen.
+00:24:51,323 --> 00:24:53,575
+我要你从100开始倒数
+{\fs12}So, I want you to count back from 100.
 
 267
-00:20:06,640 --> 00:20:08,310
-你的家人都有四处看看吗?
-Is your family having a look around?
+00:24:55,494 --> 00:24:56,328
+100…
+{\fs12}One hundred...
 
 268
-00:20:08,560 --> 00:20:11,900
-没有 因为我儿子发现了游戏室
-No, my son's discovered the games room.
+00:24:58,121 --> 00:24:58,955
+99…
+{\fs12}Ninety-nine...
 
 269
-00:20:12,150 --> 00:20:15,190
-- 你的行李都带来了吗? - 都在这儿
-- Has your luggage been brought in? - Right there.
+00:25:01,958 --> 00:25:02,876
+98…
+{\fs12}Ninety-eight...
 
 270
-00:20:15,770 --> 00:20:17,690
-预见到我们今天要做的一切...
-In view of all we have to cover today...
+00:25:04,628 --> 00:25:05,504
+继续数
+{\fs12}Keep counting.
 
 271
-00:20:17,940 --> 00:20:21,570
-我建议我们去看看你的住所 马上去
-...I suggest we have a quick look at your apartment and get started.
+00:25:07,380 --> 00:25:08,256
+97…
+{\fs12}Ninety-seven...
 
 272
-00:20:21,820 --> 00:20:24,580
-把特朗斯先生全家的行李 搬到他们的住所去
-Have the Torrances' things brought to their apartment.
+00:25:10,342 --> 00:25:11,176
+96…
+{\fs12}Ninety-six...
 
 273
-00:20:24,830 --> 00:20:27,540
-我最好先叫上我的家人
-I'd better collect my family first.
+00:25:13,512 --> 00:25:14,346
+95…
+{\fs12}Ninety-five...
 
 274
-00:20:35,630 --> 00:20:38,010
-这是我们的休闲室
-This is our Colorado Lounge.
+00:25:16,890 --> 00:25:17,807
+94…
+{\fs12}Ninety-four...
 
 275
-00:20:38,260 --> 00:20:40,640
-很漂亮
-It's beautiful.
+00:25:20,018 --> 00:25:21,770
+93…
+{\fs12}Ninety-three...
 
 276
-00:20:41,090 --> 00:20:42,890
-天!
-My God!
+00:25:24,356 --> 00:25:26,358
+92…
+{\fs12}Ninety-two...
 
 277
-00:20:43,140 --> 00:20:45,640
-这个地方实在太不可思议了 不是吗 亲爱的?
-This place is fantastic, isn't it, hon?
+00:25:33,532 --> 00:25:34,658
+什么…
+{\fs12}What-What...
 
 278
-00:20:45,890 --> 00:20:47,230
-的确是
-It sure is.
+00:25:52,342 --> 00:25:53,343
+洪恩医生？
+{\fs12}Dr. Horn? 
 
 279
-00:20:47,250 --> 00:20:50,050
-我从来没见过这样的东西
-I've never seen anything like this before.
+00:25:54,052 --> 00:25:55,220
+洪恩医生，让我走
+{\fs12}Dr. Horn, let me go.
 
 280
-00:20:51,690 --> 00:20:53,660
-那些全部是正统印地安风格吗?
-Are all these lndian designs authentic?
+00:25:55,512 --> 00:25:56,555
+我不能，伊莱
+{\fs12}I can't do that, Eli.
 
 281
-00:20:53,860 --> 00:20:55,290
-我相信它们是主要是...
-I believe they're based...
+00:25:58,223 --> 00:25:59,432
+洪恩医生，好烫！
+{\fs12}Dr. Horn, it burns.
 
 282
-00:20:55,490 --> 00:20:58,690
-基于纳瓦霍和阿帕契部族的风格
-...mainly on Navajo and Apache motifs.
+00:25:59,516 --> 00:26:01,434
+那是药物 -不！
+{\fs12}That's the medication. 
 
 283
-00:20:58,900 --> 00:21:00,860
-它们真是非常的华丽
-They're really gorgeous.
+00:26:01,768 --> 00:26:02,894
+不，真的很烫！
+{\fs12}No! No, it really burns.
 
 284
-00:21:01,070 --> 00:21:02,090
-事实上...
-As a matter of fact...
+00:26:02,978 --> 00:26:04,396
+那表示起作用了
+{\fs12}That means it's working.
 
 285
-00:21:02,300 --> 00:21:05,390
-这可能是我所见过的最华丽的旅馆了
-...this is probably the most gorgeous hotel I've ever seen.
+00:28:35,130 --> 00:28:36,297
+我不该那样做的
+{\fs12}Ah. I shouldn't have done that.
 
 286
-00:21:05,800 --> 00:21:08,770
-这个古老的地方有一个辉煌的过去
-This old place has had an illustrious past.
+00:28:36,923 --> 00:28:38,299
+毕竟你是病人
+{\fs12}What, with you being sick and all. 
 
 287
-00:21:08,970 --> 00:21:12,070
-在全盛时期 乘喷射机旅行的富豪 都当这里是重要观光景点
-In its heyday, it was a stopping place for the jet setters...
+00:28:38,967 --> 00:28:40,176
+你怎么知道我生病了？
+{\fs12}How do you know I'm sick?
 
 288
-00:21:12,280 --> 00:21:15,250
-甚至在喷射客机旅行流行以前
-...even before anybody knew what a jet set was.
+00:28:40,844 --> 00:28:42,220
+你来这里了，不是吗？
+{\fs12}Well, you're in there, aren't you?
 
 289
-00:21:15,450 --> 00:21:18,510
-这里曾经有四位总统呆过
-We had four presidents who stayed here.
+00:28:43,221 --> 00:28:44,556
+你们都是生病才来的
+{\fs12}That's where all of you stay.
 
 290
-00:21:18,790 --> 00:21:20,050
-很多的影视明星
-Lots of movie stars.
+00:28:44,639 --> 00:28:46,975
+他们说你对外界过敏，是吗？
+{\fs12}They say you're what, like, allergic to the world, right?
 
 291
-00:21:20,250 --> 00:21:21,810
-皇族呢?
-Royalty?
+00:28:48,935 --> 00:28:50,353
+你可以这样说
+{\fs12}I-I guess you could say that.
 
 292
-00:21:22,190 --> 00:21:23,590
-所有最出色的人
-All the best people.
+00:28:50,437 --> 00:28:52,063
+所以你不曾到外面玩？
+{\fs12}So you've never been outside?
 
 293
-00:22:17,380 --> 00:22:19,970
-这是旅馆职员的宿舍
-This is the staff wing of the hotel.
+00:28:52,355 --> 00:28:53,398
+不，我有
+{\fs12}No, I have. 
 
 294
-00:22:20,920 --> 00:22:24,260
-冬天里这里以外的房间都没有暖气
-None of the other bedrooms are heated during the winter.
+00:28:53,481 --> 00:28:55,316
+我不是生下来就这样的
+{\fs12}I mean, I wasn't born like this.
 
 295
-00:22:24,510 --> 00:22:27,390
-- 再见 尤尔曼先生 - 再见 姑娘们
-- Goodbye, Mr. Ullman. - Goodbye, girls.
+00:28:55,775 --> 00:28:57,694
+我妈告诉我，生我很辛苦
+{\fs12}My mom-My mom told me I was a tough birth.
 
 296
-00:22:27,640 --> 00:22:29,560
-这里便是你们的居室
-And here are your quarters.
+00:28:57,861 --> 00:28:59,571
+我怀孕时她病得很重
+{\fs12}She was sick a lot when I was pregnant. 
 
 297
-00:22:30,060 --> 00:22:32,610
-客厅 卧室 浴室
-Living room, bedroom, bathroom.
+00:28:59,821 --> 00:29:02,157
+应该说她怀孕时，但是…
+{\fs12}Er, um, when she was pregnant, but...
 
 298
-00:22:32,860 --> 00:22:35,400
-还有一间小房间 给你的儿子住
-And a small bedroom for your son.
+00:29:02,699 --> 00:29:05,201
+我最近才发病… -你对大家都长篇大论？
+{\fs12}I was fine until recently-- -You tell everybody your life story?
 
 299
-00:22:38,950 --> 00:22:40,990
-对孩子而言 这相当不错
-Perfect for a child.
+00:29:08,830 --> 00:29:09,789
+你真可爱
+{\fs12}You're cute. 
 
 300
-00:22:47,520 --> 00:22:50,980
-嗯 这里什么东西都很齐全
-Well, then. Place is very nicely self-contained.
+00:29:10,081 --> 00:29:10,915
+我是海莉
+{\fs12}I'm Haley.
 
 301
-00:22:51,190 --> 00:22:52,750
-比较好管理
-Easy to keep.
+00:29:11,291 --> 00:29:12,459
+我就住在附近
+{\fs12}I live down the road.
 
 302
-00:22:55,530 --> 00:22:56,590
-很舒适
-Cozy.
+00:29:13,334 --> 00:29:14,169
+我是伊莱
+{\fs12}I'm Eli. 
 
 303
-00:22:56,800 --> 00:22:59,060
-是的 对一个家庭而言 非常舒适
-Yes, very cozy for a family.
+00:29:14,627 --> 00:29:15,462
+你叫什么？
+{\fs12}You're what?
 
 304
-00:22:59,300 --> 00:23:00,960
-假如你们想继续的话...
-If you feel like spreading out...
+00:29:15,962 --> 00:29:18,089
+伊莱，我叫伊莱
+{\fs12}Eli. My name's Eli.
 
 305
-00:23:01,170 --> 00:23:03,830
-要知道 你们还得去看看其它的那些地方
-...you have the rest of the hotel to move around in.
+00:29:20,842 --> 00:29:21,843
+不，我不喜欢
+{\fs12}No, I don't like it. 
 
 306
-00:23:05,480 --> 00:23:07,970
-嗯 这里非常的...
-Well, it's very...
+00:29:22,135 --> 00:29:23,803
+我要叫你别的名字
+{\fs12}I want to call you something else.
 
 307
-00:23:08,510 --> 00:23:09,810
-有家的感觉
-...homey.
+00:29:24,637 --> 00:29:25,597
+你喜欢什么？
+{\fs12}What are you into?
 
 308
-00:23:12,720 --> 00:23:14,980
-这是我们著名的树篱迷宫
-This is our famous hedge maze.
+00:29:26,055 --> 00:29:27,140
+你喜欢做什么？
+{\fs12}What do you like to do?
 
 309
-00:23:15,190 --> 00:23:19,490
-这是非常有吸引力的所在 墙高是13英尺
-It's quite an attraction here. The walls are 13 feet high...
+00:29:28,183 --> 00:29:30,477
+我喜欢魔术，扑克牌魔术
+{\fs12}Um, I like magic--card tricks.
 
 310
-00:23:19,690 --> 00:23:21,990
-还有这些树篱 它们就像这个旅馆一样历史悠久
-...and the hedge is as old as the hotel itself.
+00:29:31,436 --> 00:29:32,270
+扑克牌魔术？
+{\fs12}Card tricks? 
 
 311
-00:23:22,200 --> 00:23:24,820
-非常有趣 不过 我绝对不想走进去...
-A lot of fun, but I wouldn't want to go in there...
+00:29:32,729 --> 00:29:33,605
+哇
+{\fs12}Wow.
 
 312
-00:23:25,030 --> 00:23:28,030
-除非我自己有把握 一个小时内能走出来
-...unless I had an hour to spare to find my way out.
+00:29:34,022 --> 00:29:34,898
+不
+{\fs12}No. 
 
 313
-00:23:29,440 --> 00:23:31,530
-遥望旅馆是什么时候修建的?
-When was the Overlook built?
+00:29:35,273 --> 00:29:36,107
+不，你看
+{\fs12}No, look.
 
 314
-00:23:32,540 --> 00:23:34,770
-1907年开始建造
-Construction started in 1907.
+00:29:38,443 --> 00:29:39,402
+等等
+{\fs12}Hold on a sec.
 
 315
-00:23:34,980 --> 00:23:36,950
-1909年竣工
-It was finished in 1909.
+00:29:43,364 --> 00:29:45,658
+你看，挑一张牌，随便一张
+{\fs12}Look. Pick a card, any card.
 
 316
-00:23:37,150 --> 00:23:39,810
-地基据说是印地安人的墓地
-The site's supposed to be on an lndian burial ground.
+00:29:47,786 --> 00:29:49,204
+等等，所以我挑一张牌
+{\fs12}Wait. So I pick a card and then-
 
 317
-00:23:40,020 --> 00:23:41,650
-这一度激怒了他们...
-They actually had to repel...
+00:29:49,954 --> 00:29:51,539
+然后你就会…
+{\fs12}and then what, you're gonna, like, guess what card I picked?
 
 318
-00:23:41,850 --> 00:23:44,750
-甚至在修建过程中 遭遇过印地安人的攻击
-...a few lndian attacks as they were building it.
+00:29:52,248 --> 00:29:53,416
+猜出我挑中的牌？
+{\fs12}Uh... -Hey, 
 
 319
-00:23:45,360 --> 00:23:47,260
-这是我们的雪地车
-That's our Snowcat.
+00:29:55,960 --> 00:29:57,420
+你要看真正的魔术吗？
+{\fs12}you want to see a real trick?
 
 320
-00:23:47,960 --> 00:23:49,990
-你们两个都会开吧?
-Can you both drive a car?
+00:29:59,547 --> 00:30:02,217
+我可以靠意志力让这段木片起火
+{\fs12}I can light this twig on fire with my mind.
 
 321
-00:23:50,530 --> 00:23:54,090
-很好 一般说来 开雪地车就跟开普通车辆没两样
-That's fine. Basically the Snowcat operates very much like a car.
+00:30:03,885 --> 00:30:05,345
+你不相信我？看好了
+{\fs12}Don't believe me? Watch.
 
 322
-00:23:54,300 --> 00:23:56,860
-你不会花太多时间来掌握它的
-It won't take you long to get the hang of it.
+00:30:10,433 --> 00:30:11,601
+你怕火吗？
+{\fs12}You scared of fire?
 
 323
-00:23:58,070 --> 00:24:01,440
-事实上 我们曾经从芝加哥找了个漆匠...
-As a matter of fact, we brought a decorator in from Chicago...
+00:30:14,395 --> 00:30:15,230
+不怕
+{\fs12}Uh... no.
 
 324
-00:24:01,640 --> 00:24:04,770
-就在去年 重新粉刷旅馆的这个部分
-...just last year to refurbish this part of the hotel.
+00:30:17,148 --> 00:30:19,067
+我以前很怕火
+{\fs12}I used to be scared of fire, 
 
 325
-00:24:04,980 --> 00:24:06,950
-他的确做的非常漂亮
-He sure did a beautiful job.
+00:30:19,150 --> 00:30:20,485
+然后我学会如何控制火
+{\fs12}then I learned how to master it.
 
 326
-00:24:07,150 --> 00:24:09,480
-粉红和金色是我最喜欢的色彩
-Pink and gold are my favorite colors.
+00:30:22,695 --> 00:30:23,530
+火柴在哪里？
+{\fs12}Where's the match?
 
 327
-00:24:10,290 --> 00:24:12,650
-这是我们的黄金舞厅
-This is our Gold Ballroom.
+00:30:25,448 --> 00:30:26,699
+什么火柴？
+{\fs12}What match?
 
 328
-00:24:14,220 --> 00:24:15,490
-哇塞!
-I'll say!
+00:30:26,783 --> 00:30:29,494
+少来，你转身就是在点燃火柴
+{\fs12}Come on. It's what you were doing when you turned around.
 
 329
-00:24:15,690 --> 00:24:19,460
-我们可以让300人在这里舒适地聚会
-We can accommodate up to 300 people here very comfortably.
+00:30:29,577 --> 00:30:31,412
+你藏在掌心，然后分散我的注意力
+{\fs12}You hid it in your palm and then distracted me.
 
 330
-00:24:20,000 --> 00:24:22,860
-哈 我们可以在这里开个精采的派对
-Boy, we could really have a good party in this room.
+00:30:31,496 --> 00:30:33,706
+好的魔术师不会透露她的秘密
+{\fs12}A good magician never reveals her secrets.
 
 331
-00:24:23,070 --> 00:24:26,870
-我恐怕 在你获得补给品之前 此处也不真能让你开个好派对
-I'm afraid you won't do too well here unless you brought supplies.
+00:30:33,790 --> 00:30:35,250
+拜托，告诉我
+{\fs12}Come on, tell me.
 
 332
-00:24:27,070 --> 00:24:30,130
-在关闭前 我们会把酒从柜台那边移走
-We remove the booze from the premises when we shut down.
+00:30:35,333 --> 00:30:36,501
+这样有什么好玩的？
+{\fs12}What's the fun in that?
 
 333
-00:24:30,340 --> 00:24:33,400
-这将减低我们的保险费用
-That reduces the insurance we normally have to carry.
+00:30:37,168 --> 00:30:39,504
+有些事你要靠自己去发掘
+{\fs12}Some things you just got to figure out on your own.
 
 334
-00:24:33,610 --> 00:24:34,580
-我们并不喝酒
-We don't drink.
+00:30:41,214 --> 00:30:42,090
+总之，我该走了
+{\fs12}Anyway, I got to go.
 
 335
-00:24:34,780 --> 00:24:36,220
-那么 你们非常幸运
-Then you're in luck.
+00:30:43,091 --> 00:30:43,925
+等等
+{\fs12}Wait.
 
 336
-00:24:36,420 --> 00:24:40,650
-迪克 过来跟特朗斯太太和先生问个好
-Dick, come on over and say hello to Mr. and Mrs. Torrance.
+00:30:44,843 --> 00:30:47,178
+我可以问问我爸妈，是否能让你进来
+{\fs12}I could ask my parents if you could come inside.
 
 337
-00:24:40,850 --> 00:24:42,980
-这是迪克·哈罗朗 我们的首席厨师
-This is Dick Hallorann, our head chef.
+00:30:48,388 --> 00:30:49,222
+进去里面？
+{\fs12}In there? 
 
 338
-00:24:43,190 --> 00:24:45,920
-哈罗朗先生 我是杰克 这是我的妻子 温妮芙瑞德
-Mr. Hallorann, I'm Jack. This is my wife, Winifred.
+00:30:49,931 --> 00:30:50,765
+不必了
+{\fs12}No, thanks.
 
 339
-00:24:46,130 --> 00:24:47,320
-很高兴认识你
-Glad to meet you.
+00:30:51,349 --> 00:30:52,183
+为什么？
+{\fs12}Why not?
 
 340
-00:24:47,530 --> 00:24:50,400
-特朗斯一家人 将在这个冬季照顾遥望旅馆
-The Torrances will take care of the Overlook this winter.
+00:30:55,353 --> 00:30:57,856
+听着，我不想吓到你
+{\fs12}Look, I don't mean to freak you out, but...
 
 341
-00:24:50,600 --> 00:24:54,330
-这很好啊 你们对我们的旅馆印象如何?
-That's just great. How do you folks like our hotel so far?
+00:30:58,648 --> 00:31:00,692
+但这里就是…怪怪的
+{\fs12}there's just something... 
 
 342
-00:24:54,540 --> 00:24:56,400
-非常棒的地方
-It's just wonderful.
+00:31:01,317 --> 00:31:02,318
+整个屋子都很怪
+{\fs12}off about the whole place.
 
 343
-00:24:56,610 --> 00:24:58,130
-嗨 丹尼!
-Hi, Danny!
+00:31:03,027 --> 00:31:04,028
+让我毛骨悚然
+{\fs12}Gives me the creeps.
 
 344
-00:24:59,040 --> 00:25:01,740
-我刚好在外面遇上他 他在找你们
-I found him outside looking for you.
+00:31:04,946 --> 00:31:07,657
+其实我根本不该过来的
+{\fs12}Actually, I'm not even supposed to be here.
 
 345
-00:25:02,950 --> 00:25:05,810
-你已经厌倦玩游戏了?
-Did you get tired of bombing the universe?
+00:31:08,449 --> 00:31:09,951
+经营这个地方的女人
+{\fs12}The woman that runs this place, 
 
 346
-00:25:07,220 --> 00:25:08,710
-到这边来
-Come on over here.
+00:31:10,535 --> 00:31:11,578
+她不喜欢我
+{\fs12}she doesn't like me.
 
 347
-00:25:08,920 --> 00:25:10,080
-谢谢你 苏西
-Thank you, Susie.
+00:31:12,537 --> 00:31:14,205
+我也不喜欢她，她这个人
+{\fs12}I don't like her either.
 
 348
-00:25:10,290 --> 00:25:14,280
-你应该带特朗斯太太去看一下厨房
-I think it'd be good if you could show Mrs. Torrance the kitchen...
+00:31:14,789 --> 00:31:15,623
+有些可疑
+{\fs12}She's... shifty.
 
 349
-00:25:14,500 --> 00:25:16,360
-我和杰克可以继续逛逛
-...while I continue on with Jack.
+00:31:16,332 --> 00:31:17,208
+可疑？
+{\fs12}Shifty?
 
 350
-00:25:16,560 --> 00:25:19,000
-那是我的荣幸 请这边走
-It would be a pleasure. Right this way.
+00:31:18,877 --> 00:31:21,004
+你不要乱说比较好
+{\fs12}It's just better if you don't say anything.
 
 351
-00:25:19,200 --> 00:25:20,760
-好的 一会见 亲爱的
-Great. See you later, honey.
+00:31:23,256 --> 00:31:24,465
+改天见，胡迪尼
+{\fs12}See you later, Houdini.
 
 352
-00:25:20,970 --> 00:25:22,330
-再见 亲爱的
-Bye, darling.
+00:32:44,253 --> 00:32:45,129
+你在做什么？
+{\fs12}What are you doing?
 
 353
-00:25:24,710 --> 00:25:28,040
-特朗斯太太 你丈夫介绍你说名字叫温妮芙瑞德
-Mrs. Torrance, your husband introduced you as Winifred.
+00:32:46,631 --> 00:32:49,217
+你不能自己在这里乱走
+{\fs12}You can't wander this place by yourself.
 
 354
-00:25:28,240 --> 00:25:30,770
-那么 是叫你"温妮"还是"芙瑞蒂"?
-Now, are you a "Winnie", or a "Freddie"?
+00:32:53,346 --> 00:32:54,597
+把这个插回你的手臂
+{\fs12}Put this back in your hand.
 
 355
-00:25:30,980 --> 00:25:32,240
-叫我温蒂
-I'm a Wendy.
+00:33:01,646 --> 00:33:02,772
+她去哪里了？
+{\fs12}Where did she go?
 
 356
-00:25:32,450 --> 00:25:35,650
-温蒂 不错 非常好的称呼
-Wendy. That's nice. That's the prettiest.
+00:33:03,064 --> 00:33:03,898
+谁？
+{\fs12}Who?
 
 357
-00:25:35,850 --> 00:25:37,480
-这里就是厨房吗?
-This is the kitchen, huh?
+00:33:10,154 --> 00:33:10,989
+亲爱的上帝
+{\fs12}Dear Lord...
 
 358
-00:25:37,690 --> 00:25:39,280
-是的
-This is it.
+00:33:12,156 --> 00:33:14,826
+谢谢祢赐予我们的一切
+{\fs12}we are thankful for everything that you have given us...
 
 359
-00:25:39,490 --> 00:25:42,430
-你喜欢这里吗 丹尼? 对你而言 这里够大了吗?
-How do you like it, Danny? is it big enough for you?
+00:33:15,827 --> 00:33:19,247
+赐予我们一家能够这样相聚
+{\fs12}and for this time that we get to spend together as a family.
 
 360
-00:25:43,260 --> 00:25:45,460
-这是我见过的最大的地方
-It's the biggest place I ever seen.
+00:33:21,124 --> 00:33:24,585
+特别是让我们找到洪恩医生
+{\fs12}And especially for placing Dr. Horn in our paths.
 
 361
-00:25:45,700 --> 00:25:48,030
-这整个地方就像个巨大的迷宫
-This whole place is such an enormous maze.
+00:33:24,669 --> 00:33:26,462
+以上帝之名，阿们
+{\fs12}In Jesus' name, amen.
 
 362
-00:25:48,230 --> 00:25:51,800
-我每次进来都得撒些面包屑做标记
-I'll have to leave a trail of breadcrumbs every time I come in.
+00:33:26,671 --> 00:33:27,505
+阿们
+{\fs12}Amen.
 
 363
-00:25:52,710 --> 00:25:54,570
-不要让它把你吓倒了
-Don't let it get you down.
+00:33:37,724 --> 00:33:39,058
+你有心事？
+{\fs12}Something on your mind, honey?
 
 364
-00:25:54,780 --> 00:25:57,270
-它是很大 不过无论怎样也只是间厨房而已
-It's big, but it ain't nothing but a kitchen.
+00:33:39,434 --> 00:33:41,436
+他不高兴，因为我吼了他
+{\fs12}He's upset because I yelled at him.
 
 365
-00:25:57,480 --> 00:25:59,670
-这里许多东西你都没必要去碰
-A lot of this stuff you'll never have to touch.
+00:33:42,353 --> 00:33:44,981
+我向他道歉了 但他必须把点滴插回手臂
+{\fs12}I said I was sorry, but he needs to put that drip back in his hand.
 
 366
-00:25:59,880 --> 00:26:02,110
-如果乱碰 我将很难收拾
-I wouldn't know what to do with it if I did.
+00:33:45,064 --> 00:33:47,442
+他不肯相信我在走廊看到一个人
+{\fs12}He won't believe me that I saw someone in the hallway.
 
 367
-00:26:02,320 --> 00:26:05,440
-有一件事是肯定的 你不要担心没有食物
-One thing for sure, you don't have to worry about food.
+00:33:47,525 --> 00:33:50,570
+屋里还有另一个小孩 -可能是其中一个护士
+{\fs12}There's another kid in this house. -Probably one of the nurses.
 
 368
-00:26:05,650 --> 00:26:10,320
-足够你们在这儿吃一年 而且保证每次的菜单都不一样
-You folks could eat here for a year and never have the same menu twice.
+00:33:50,653 --> 00:33:52,655
+那不是护士！
+{\fs12}It wasn't a nurse!
 
 369
-00:26:10,530 --> 00:26:13,620
-这里是我们的冷藏室
-Right here is our walk-in freezer.
+00:33:53,281 --> 00:33:54,115
+伊莱
+{\fs12}Eli.
 
 370
-00:26:14,760 --> 00:26:17,820
-我们在这里存放肉类
-This is where we keep all of our meat.
+00:33:54,824 --> 00:33:55,658
+宝贝
+{\fs12}Honey.
 
 371
-00:26:18,040 --> 00:26:20,030
-这里有15块烘干的排骨...
-You got 15 rib roasts...
+00:33:56,534 --> 00:33:57,410
+冷静点，好吗？
+{\fs12}Calm down, okay?
 
 372
-00:26:20,240 --> 00:26:22,360
-30袋汉堡 每袋10磅...
-...30 ten-pound bags of hamburger.
+00:33:58,453 --> 00:33:59,287
+冷静
+{\fs12}Calm down.
 
 373
-00:26:22,570 --> 00:26:25,630
-还有12只火鸡 大约40只鸡...
-We got 12 turkeys, about 40 chickens...
+00:34:00,955 --> 00:34:02,248
+那是另一个病人
+{\fs12}It was another patient.
 
 374
-00:26:25,840 --> 00:26:28,940
-50份牛排 2打猪排...
-...50 sirloin steaks, two dozen of pork roast...
+00:34:02,749 --> 00:34:04,000
+宝贝，我也害怕
+{\fs12}Honey, I'm scared, too.
 
 375
-00:26:29,150 --> 00:26:32,120
-还有20条羔羊腿 你喜欢羔羊吧 多克?
-...and 20 legs of lamb. Do you like lamb, Doc?
+00:34:04,667 --> 00:34:07,670
+对，我有时也害怕新地方、新的人
+{\fs12}I am. I get scared of new places, new people sometimes,
 
 376
-00:26:33,350 --> 00:26:35,720
-不喜欢? 那 你最喜欢的是什么食物呢?
-You don't? What's your favorite food, then?
+00:34:07,754 --> 00:34:10,798
+但是对你来说，肯定难以承受
+{\fs12}but for you, it must be so overwhelming.
 
 377
-00:26:35,920 --> 00:26:37,790
-法国油炸食物和调味酱
-French fries and ketchup.
+00:34:12,216 --> 00:34:13,676
+以你的身心状况来说
+{\fs12}On your body and your mind.
 
 378
-00:26:38,530 --> 00:26:40,520
-我想我们也能找到那个的 多克
-I think we can manage that too, Doc.
+00:34:14,635 --> 00:34:16,929
+但这里除了我们，没有别人
+{\fs12}But there is nobody else here except us. 
 
 379
-00:26:40,730 --> 00:26:42,460
-继续走 小心你们的脚下
-Come along, now. Watch your step.
+00:34:17,555 --> 00:34:18,681
+我保证
+{\fs12}I promise.
 
 380
-00:26:49,210 --> 00:26:50,760
-你怎么知道我们叫他多克?
-How'd you know we call him Doc?
+00:34:28,149 --> 00:34:28,983
+来，我帮你弄
+{\fs12}Here. I got it.
 
 381
-00:26:50,970 --> 00:26:55,000
-- 你什么意思? - 多克 你叫了丹尼两次"多克"
-- Beg your pardon? - Doc. You called Danny "Doc" twice.
+00:34:34,072 --> 00:34:34,906
+好
+{\fs12}Right.
 
 382
-00:26:55,210 --> 00:26:56,610
-我有吗?
-I did?
+00:34:35,907 --> 00:34:36,866
+吃饭吧
+{\fs12}Eat up.
 
 383
-00:26:57,420 --> 00:27:00,540
-我们有时叫他多克 就像卡通片 "疯狂的兔子" 里一样
-We call him Doc sometimes, like in the Bugs Bunny cartoons.
+00:34:42,497 --> 00:34:43,372
+看起来好像大便
+{\fs12}Looks like shit. 
 
 384
-00:27:00,750 --> 00:27:02,010
-但是 你是怎么知道的呢?
-But how did you know?
+00:34:43,915 --> 00:34:45,083
+吃起来也像大便
+{\fs12}Tastes like shit, too.
 
 385
-00:27:02,220 --> 00:27:04,750
-我想 我可能是听到你这么叫他了
-I guess I probably heard you call him that.
+00:34:58,554 --> 00:35:01,140
+（基础解锁）
 
 386
-00:27:04,960 --> 00:27:07,220
-有可能 但是我真的不记得...
-It's possible. But I honestly don't remember...
+00:35:01,307 --> 00:35:03,309
+（掌心火焰）
 
 387
-00:27:07,430 --> 00:27:09,620
-在我们见面后我有这么叫过他
-...calling him that since we've been with you.
+00:35:03,810 --> 00:35:04,685
+我就知道
+{\fs12}I knew it.
 
 388
-00:27:09,830 --> 00:27:12,020
-无论如何 他看起来就像是多克 不是么?
-Anyway, he looks like a Doc, doesn't he?
+00:35:06,729 --> 00:35:09,273
+“要达到最好效果，请在黑暗中练习”
+{\fs12}"For best results, practice in a dark place."
 
 389
-00:27:13,470 --> 00:27:14,900
-怎么了 多克?
-What's up, Doc?
+00:36:00,950 --> 00:36:01,784
+你是谁？
+{\fs12}Who are you?
 
 390
-00:27:16,740 --> 00:27:18,930
-嗯 这里是储藏室
-Now, this is the storeroom.
+00:36:40,239 --> 00:36:42,241
+（伊莱）
 
 391
-00:27:20,680 --> 00:27:22,510
-在这里我们存放...
-In here is where we keep...
+00:36:49,665 --> 00:36:51,334
+（谎）
 
 392
-00:27:22,710 --> 00:27:25,510
-所有的干料和罐头
-...all the dried goods and the canned goods.
+00:37:39,757 --> 00:37:42,551
+不！
+{\fs12}No! No, no! No! No!
 
 393
-00:27:25,710 --> 00:27:28,150
-我们有罐装的水果和蔬菜...
-We got canned fruits and vegetables...
+00:37:49,058 --> 00:37:50,726
+伊莱！听我说！
+{\fs12}Eli, Eli! Listen to me!
 
 394
-00:27:28,350 --> 00:27:32,150
-罐装的鱼和肉食 还有其它一些粮食
-...canned fish and meats, hot and cold cereals.
+00:37:51,519 --> 00:37:52,353
+不！
+{\fs12}Shh. -No!
 
 395
-00:27:32,360 --> 00:27:35,550
-比如面包片 薯片 甜点...
-Post Toasties, Corn Flakes, Sugar Puffs...
+00:37:52,436 --> 00:37:53,354
+是爸爸
+{\fs12}It's Dad. Shh. Shh. Shh.
 
 396
-00:27:35,760 --> 00:27:39,790
-爆米花 麦片 还有小麦油
-...Rice Krispies, oatmeal, Wheatena and Cream of Wheat.
+00:37:54,272 --> 00:37:56,065
+冷静！听我说
+{\fs12}Honey. -Hey, listen to me. Shh. Shh. Shh.
 
 397
-00:27:40,030 --> 00:27:42,470
-还有成打的黑枫糖...
-You got a dozen jugs of black molasses.
+00:37:57,817 --> 00:37:59,527
+嘿 -保罗，想想办法！
+{\fs12}Hey. -Paul, do something!
 
 398
-00:27:42,670 --> 00:27:45,860
-60箱牛奶...
-We got 60 boxes of dried milk...
+00:37:59,610 --> 00:38:02,446
+什么？ -不！
+{\fs12}Do what? -No! No! No!
 
 399
-00:27:53,510 --> 00:27:55,980
-你想要些冰淇淋吗 多克?
-How'd you like some ice cream, Doc?
+00:38:04,323 --> 00:38:07,702
+呼吸，深呼吸…
+{\fs12}Breathe. Breathe. Breathe. Just breathe. Just breathe. Just breathe. Just--
 
 400
-00:27:58,390 --> 00:28:00,380
-各种小吃 甜点...
-Sociables, finger rolls...
+00:38:24,593 --> 00:38:26,220
+是…药物的关系
+{\fs12}It's, uh, it's the medication.
 
 401
-00:28:00,590 --> 00:28:02,110
-你想要的每种食物
-...and 7 kinds of what have you.
+00:38:27,430 --> 00:38:29,890
+也许你可以减少剂量之类的
+{\fs12}Maybe you could lower the dosage or something.
 
 402
-00:28:02,320 --> 00:28:05,850
-嗯 我们有桃干 杏干...
-Now, we've got dried peaches, dried apricots...
+00:38:30,182 --> 00:38:32,268
+我是说，如果他看到东西…
+{\fs12}I mean, if he's seeing things, I mean...
 
 403
-00:28:06,060 --> 00:28:09,160
-...葡萄干和李干
-...dried raisins and dried prunes.
+00:38:32,351 --> 00:38:34,478
+我们付出一切来治疗 -我知道
+{\fs12}We put everything on the line for this. -I know.
 
 404
-00:28:09,360 --> 00:28:13,670
-你知道 如果你想快乐一点 你必须要保持秩序
-You know, you got to keep regular if you want to be happy.
+00:38:34,562 --> 00:38:35,396
+一切的一切
+{\fs12}Everything.
 
 405
-00:28:16,570 --> 00:28:18,200
-- 你们进行得怎样? - 很好
-- How're you getting on? - Fine.
+00:38:35,479 --> 00:38:38,149
+他吓坏了，保罗 -好，让她做她的事
+{\fs12}He was terrified, Paul. -Okay, let her do her job.
 
 406
-00:28:18,410 --> 00:28:21,970
-能借用一下特朗斯太太吗? 我们正打算去地下室
-Can we borrow Mrs. Torrance? We're on our way to the basement.
+00:38:38,232 --> 00:38:40,609
+我不打算美化此事
+{\fs12}I-I'm-I'm not gonna sugarcoat this.
 
 407
-00:28:22,180 --> 00:28:24,110
-我保证不会占用很长时间的
-I promise we won't keep her very long.
+00:38:40,693 --> 00:38:43,529
+我们进行的疗法 对伊莱的身体很辛苦
+{\fs12}What we're doing here is very hard on Eli's body,
 
 408
-00:28:24,320 --> 00:28:27,510
-好的 尤尔曼先生 我正打算去做冰淇淋的
-No problem, Mr.Ullman. I was just getting to the ice cream.
+00:38:44,030 --> 00:38:47,825
+他的病肯定会引发一些症状
+{\fs12}and some of the symptoms from his condition are bound to flare up,
 
 409
-00:28:27,720 --> 00:28:29,590
-你喜欢冰淇淋吧 多克?
-You like ice cream, Doc?
+00:38:48,075 --> 00:38:49,952
+但我们必须继续疗程
+{\fs12}but we need to stay the course of the medication,
 
 410
-00:28:30,460 --> 00:28:31,420
-我认为你喜欢呢
-I thought you did.
+00:38:50,411 --> 00:38:52,121
+特别是第二阶段
+{\fs12}especially with Procedure Two.
 
 411
-00:28:31,620 --> 00:28:34,680
-你们介意在等你们的这段时间 我给丹尼一些冰淇淋么?
-You folks mind if I give Danny some ice cream while we wait?
+00:38:52,413 --> 00:38:53,372
+什么意思？
+{\fs12}Why? What do you mean?
 
 412
-00:28:34,890 --> 00:28:36,730
-- 当然不会 - 我们不介意的
-- Not at all. - We don't mind.
+00:38:55,041 --> 00:38:57,501
+伊莱在康复前，状况会变得更糟
+{\fs12}Eli's gonna get worse before he gets better.
 
 413
-00:28:36,930 --> 00:28:39,130
-- 好的 - 听到这个你很高兴吧 多克?
-- Good. - Sound good to you, Doc?
+00:39:08,971 --> 00:39:09,805
+嘿
+{\fs12}Hey.
 
 414
-00:28:39,330 --> 00:28:41,390
-好吧 你们去做你们的
-Okay, you behave yourself.
+00:39:12,183 --> 00:39:13,434
+要坚强，宝贝
+{\fs12}Be strong, sweetheart.
 
 415
-00:28:44,410 --> 00:28:46,270
-你想要哪种冰淇淋呢?
-What kind of ice cream do you like?
+00:39:13,517 --> 00:39:14,602
+我们就在这里
+{\fs12}We're right here.
 
 416
-00:28:46,480 --> 00:28:47,370
-巧克力
-Chocolate.
+00:39:40,753 --> 00:39:41,837
+好消息，伊莱
+{\fs12}Good news, Eli. 
 
 417
-00:28:47,580 --> 00:28:50,550
-那就是巧克力的 来吧 孩子 过来
-Chocolate it shall be. Come on, son.
+00:39:42,129 --> 00:39:43,881
+我们整晚研究你的干细胞
+{\fs12}We spent the night working on your stem cells,
 
 418
-00:28:55,120 --> 00:28:57,110
-今天真是非常神奇的一天
-It's amazing, all this activity today.
+00:39:43,964 --> 00:39:46,300
+我们可以确定基因疗法的病毒
+{\fs12}and we can confirm that the gene therapy virus
 
 419
-00:28:57,320 --> 00:29:00,120
-客人和部分职员昨天就走了 但是...
-The guests and some staff left yesterday, but the...
+00:39:46,926 --> 00:39:48,177
+正在修正你的基因变异
+{\fs12}is correcting the mutation.
 
 420
-00:29:00,330 --> 00:29:01,760
-这最后一天仍然是令人兴奋的
-...last day's always hectic.
+00:39:52,139 --> 00:39:53,808
+这会有点烧灼
+{\fs12}This is gonna burn a little bit. 
 
 421
-00:29:01,960 --> 00:29:05,020
-每个人都想尽早上路
-Everybody wants to be on their way as early as possible.
+00:39:54,225 --> 00:39:55,101
+数到三
+{\fs12}On the count of three.
 
 422
-00:29:05,230 --> 00:29:09,260
-今晚5点后 就很难想像 这个地方有很多人在的样子
-By 5:00 tonight, you'll never know anybody was ever here.
+00:39:57,019 --> 00:39:58,521
+一、二…
+{\fs12}One, two...
 
 423
-00:29:09,470 --> 00:29:11,530
-就像艘鬼船一样 不是吗?
-Just like a ghost ship, huh?
+00:40:02,650 --> 00:40:04,235
+一下子就结束了
+{\fs12}It'll be over before you know it.
 
 424
-00:29:17,210 --> 00:29:20,180
-你晓得为什么 我知道你的名字叫多克吗?
-Do you know how I knew your name was Doc?
+00:40:04,652 --> 00:40:05,986
+保持冷静 -好烫
+{\fs12}Remain calm. -It burns.
 
 425
-00:29:26,760 --> 00:29:29,160
-你不明白我在说什么吧?
-You know what I'm talking about, don't you?
+00:40:07,029 --> 00:40:08,114
+好痛！
+{\fs12}It hurts!
 
 426
-00:29:36,130 --> 00:29:39,630
-我记得 在我还小的时候...
-I can remember when I was a little boy...
+00:40:11,909 --> 00:40:12,743
+好烫！
+{\fs12}Aah! Aah, it burns!
 
 427
-00:29:40,040 --> 00:29:42,560
-...我的祖母和我可以...
-...my grandmother and I could hold conversations...
+00:40:13,661 --> 00:40:14,495
+呼吸
+{\fs12}Breathe. 
 
 428
-00:29:42,770 --> 00:29:46,610
-...完全不开口进行交谈
-...entirely without ever opening our mouths.
+00:40:15,121 --> 00:40:16,455
+这是必经的过程
+{\fs12}This is supposed to happen.
 
 429
-00:29:47,680 --> 00:29:49,980
-她管这叫"闪灵"
-She called it "shining."
+00:40:21,544 --> 00:40:24,463
+很遗憾，要治好你的病毒
+{\fs12}Unfortunately, the virus that's gonna cure your affliction
 
 430
-00:29:51,480 --> 00:29:54,210
-一直以来 我都认为只有我和她...
-And for a long time I thought it was just the two of us...
+00:40:24,547 --> 00:40:26,632
+无法越过你的脑血管障壁
+{\fs12}is unable to cross the blood-brain barrier,
 
 431
-00:29:54,420 --> 00:29:57,050
-拥有"闪灵"
-...that had "the shine" to us.
+00:40:26,715 --> 00:40:28,050
+所以我们必须穿透
+{\fs12}so we have to penetrate.
 
 432
-00:29:57,660 --> 00:30:00,650
-就像你也可能 一直认为自己有独特天赋一样
-Just like you probably thought you was the only one.
+00:40:28,968 --> 00:40:29,802
+钻子
+{\fs12}Drill.
 
 433
-00:30:01,330 --> 00:30:03,200
-但是 还有其他人也是一样的...
-But there are other folks...
+00:40:31,303 --> 00:40:32,138
+放轻松
+{\fs12}Relax.
 
 434
-00:30:03,400 --> 00:30:07,130
-虽然他们大多数都没有体会到 甚至不相信
-...though mostly they don't know it, or don't believe it.
+00:40:32,847 --> 00:40:34,932
+紧张只会加重你的症状
+{\fs12}Stress will make your symptoms worse.
 
 435
-00:30:11,810 --> 00:30:14,240
-你能这样已经多久了?
-How long have you been able to do it?
+00:40:44,024 --> 00:40:47,987
+你不会有事的，你会好起来的
+{\fs12}You're gonna be fine. You will be.
 
 436
-00:30:19,450 --> 00:30:21,850
-你为什么不想谈谈它呢?
-Why don't you want to talk about it?
+00:40:48,070 --> 00:40:50,072
+看我儿子
+{\fs12}Jesus, look over my son...
 
 437
-00:30:27,090 --> 00:30:29,150
-我不该那样
-I'm not supposed to.
+00:40:52,116 --> 00:40:54,118
+…度过难关的力量
+{\fs12}give him the strength to get through this.
 
 438
-00:30:30,730 --> 00:30:33,260
-谁说你不该那样?
-Who says you ain't supposed to?
+00:40:54,743 --> 00:40:57,121
+你真的以为祈祷能帮助我们？
+{\fs12}You really think praying's gonna help us?
 
 439
-00:30:36,700 --> 00:30:38,100
-托尼
-Tony.
+00:41:02,918 --> 00:41:03,794
+他怎么样了？
+{\fs12}How is he? 
 
 440
-00:30:40,070 --> 00:30:41,740
-谁是托尼?
-Who's Tony?
+00:41:04,128 --> 00:41:05,880
+他今天产生一些反应
+{\fs12}He had a bit of a reaction today.
 
 441
-00:30:44,210 --> 00:30:47,610
-托尼是住在我嘴里的小男孩
-Tony's the little boy that lives in my mouth.
+00:41:06,255 --> 00:41:07,381
+反应？
+{\fs12}A reaction?
 
 442
-00:30:49,550 --> 00:30:51,580
-托尼就是那个...
-Is Tony the one that...
+00:41:07,465 --> 00:41:08,924
+对，这很正常
+{\fs12}Yes. It's quite common.
 
 443
-00:30:51,790 --> 00:30:53,350
-告诉你古怪事情的人?
-...tells you things?
+00:41:09,008 --> 00:41:12,511
+他的身体会排斥新的细胞 就像其他移植手术一样，好吗？
+{\fs12}His body's gonna reject the new cells just like any transplant. Okay?
 
 444
-00:30:57,900 --> 00:31:00,260
-他怎样告诉你的?
-How does he tell you things?
+00:41:12,595 --> 00:41:13,554
+我可以看看他吗？
+{\fs12}Can I see him?
 
 445
-00:31:02,100 --> 00:31:06,400
-我就像是睡着了一样 然后 他就给我看一些东西
-It's like I go to sleep, and he shows me things.
+00:41:15,431 --> 00:41:16,807
+先让他休息一下
+{\fs12}After he's had some rest.
 
 446
-00:31:06,610 --> 00:31:10,700
-但是 当我醒来后 我就记不起来发生了什么
-But when I wake up, I can't remember everything.
+00:41:24,523 --> 00:41:25,357
+谢谢
+{\fs12}Thank you.
 
 447
-00:31:12,550 --> 00:31:16,240
-你父母知道托尼的事吗?
-Does your mom and dad know about Tony?
+00:41:33,657 --> 00:41:35,242
+洪恩医生告诉我，你非常坚强…
+{\fs12}Dr. Horn told me how strong you were--
 
 448
-00:31:17,750 --> 00:31:22,110
-- 他们知道 - 托尼有告诉你奇怪的事情吗?
-- Yes. - Do they know he tells you things?
+00:41:35,326 --> 00:41:37,286
+她有些可疑 -可疑？
+{\fs12}There's something shifty about her. -Shifty?
 
 449
-00:31:22,990 --> 00:31:25,930
-不知道 托尼叫我绝对不要和他们说
-No, Tony told me never to tell them.
+00:41:37,369 --> 00:41:38,245
+什么？
+{\fs12}What?
 
 450
-00:31:28,060 --> 00:31:31,430
-托尼有告诉过你这个地方的事吗?
-Has Tony ever told you anything about this place?
+00:41:39,830 --> 00:41:41,207
+我认为她让我病得更重了
+{\fs12}I think she's making me sicker. 
 
 451
-00:31:31,630 --> 00:31:34,190
-关于遥望旅馆?
-About the Overlook Hotel?
+00:41:41,290 --> 00:41:42,666
+不，她没有，伊莱
+{\fs12}No, she's not, Eli. It's the medication--
 
 452
-00:31:37,470 --> 00:31:39,030
-我不知道
-I don't know.
+00:41:42,750 --> 00:41:44,960
+是药物的关系… -我知道我看到什么，妈
+{\fs12}I know what I saw, Mom,
 
 453
-00:31:39,940 --> 00:31:42,740
-仔细想想 多克
-Now think real hard, Doc.
+00:41:45,044 --> 00:41:46,504
+不是药物
+{\fs12}and it's not the medication.
 
 454
-00:31:42,950 --> 00:31:43,970
-想想
-Think.
+00:41:46,837 --> 00:41:49,006
+就算是药物，为何我会觉得更糟糕？
+{\fs12}And if it was, then why do I feel worse?
 
 455
-00:31:47,090 --> 00:31:49,820
-他似乎有给我看过一些东西
-Maybe he showed me something.
+00:41:49,089 --> 00:41:50,591
+因为发挥作用了
+{\fs12}Because it's working.
 
 456
-00:31:50,760 --> 00:31:53,390
-那 仔细想想是什么
-Try to think of what it was.
+00:41:52,551 --> 00:41:54,595
+好的细胞在对抗坏细胞
+{\fs12}The good cells are fighting the bad stuff. 
 
 457
-00:31:56,400 --> 00:31:59,700
-哈罗朗先生 你害怕这个地方吗?
-Mr. Hallorann, are you scared of this place?
+00:41:54,678 --> 00:41:55,971
+你自然会觉得虚弱
+{\fs12}You're bound to feel weak.
 
 458
-00:32:01,800 --> 00:32:05,030
-不怕 并不害怕
-No, Scared of nothing here.
+00:41:58,015 --> 00:41:58,849
+我想离开
+{\fs12}I wanna leave.
 
 459
-00:32:05,510 --> 00:32:07,000
-只是...
-It's just that...
+00:42:00,434 --> 00:42:01,393
+你要离开？
+{\fs12}You want to leave?
 
 460
-00:32:07,740 --> 00:32:10,580
-你知道的 一些地方 似乎就像人一样
-...you know, some places are like people.
+00:42:02,770 --> 00:42:03,604
+好
+{\fs12}Okay.
 
 461
-00:32:11,410 --> 00:32:13,110
-有的很特别...
-Some shine...
+00:42:04,730 --> 00:42:06,815
+我们走，来吧
+{\fs12}Let's go. Come on.
 
 462
-00:32:13,320 --> 00:32:14,720
-但 有的却相反
-...and some don't.
+00:42:07,691 --> 00:42:09,151
+医生说你的病在好转了
+{\fs12}Doctor says you're getting better.
 
 463
-00:32:15,950 --> 00:32:18,080
-我想遥望旅馆...
-I guess you could say the Overlook Hotel...
+00:42:10,653 --> 00:42:12,696
+你想离开，永远这么病下去
+{\fs12}You want to leave and stay sick forever, 
 
 464
-00:32:18,290 --> 00:32:21,590
-它有些东西 很特别 就像闪灵一样
-...has something about it that's like shining.
+00:42:12,780 --> 00:42:14,782
+还是你要留下来治好
+{\fs12}or do you want to stay and get better?
 
 465
-00:32:24,630 --> 00:32:27,030
-这里有发生过不好的事吗?
-Is there something bad here?
+00:42:14,865 --> 00:42:15,950
+你要哪一种？
+{\fs12}What's it gonna be?
 
 466
-00:32:38,650 --> 00:32:41,080
-你知道 多克 一些事发生后...
-You know, Doc, when something happens...
+00:42:20,871 --> 00:42:21,872
+留下来治好
+{\fs12}Stay and get better.
 
 467
-00:32:41,280 --> 00:32:44,910
-它总会留下一些痕迹
-...it can leave a trace of itself behind.
+00:42:55,531 --> 00:42:56,365
+是谁？
+{\fs12}Who's there?
 
 468
-00:32:45,690 --> 00:32:47,250
-嗯 就像...
-Say, like...
+00:43:44,538 --> 00:43:46,040
+那不是真的
+{\fs12}That's not real.
 
 469
-00:32:47,460 --> 00:32:50,520
-大胡子会在胡须上留下面包屑
-...if someone burns toast.
+00:43:46,123 --> 00:43:47,041
+伊莱
+{\fs12} Eli. 
 
 470
-00:32:52,630 --> 00:32:57,290
-但是 某些事情却留下不一样的痕迹
-Maybe things that happen leave other kind of traces behind.
+00:43:47,124 --> 00:43:49,126
+那不是真的，不是
+{\fs12}That's not real. It's not real.
 
 471
-00:32:58,470 --> 00:33:01,910
-不是所有人都可以注意到的那种痕迹
-Not things that anyone can notice.
+00:44:04,892 --> 00:44:06,060
+让我出去！
+{\fs12}Let me out!
 
 472
-00:33:02,110 --> 00:33:06,910
-但是 拥有闪灵的人可以看到
-But things that people who shine can see.
+00:44:07,978 --> 00:44:08,812
+拜托！
+{\fs12}Please!
 
 473
-00:33:08,010 --> 00:33:11,310
-就像他们能看到还没发生的事一样...
-Just like they can see things that haven't happened yet...
+00:44:20,366 --> 00:44:21,367
+不！
+{\fs12}No!
 
 474
-00:33:13,590 --> 00:33:17,750
-在某些时候 他们能看到许久以前发生的一些事
-...sometimes they can see things that happened a long time ago.
+00:44:21,784 --> 00:44:23,577
+不，拜托停止！
+{\fs12}No. Please stop!
 
 475
-00:33:19,290 --> 00:33:22,160
-我想 这里曾经发生过许多事...
-I think a lot of things happened right here...
+00:44:27,581 --> 00:44:28,666
+妈！
+{\fs12}Mom! 
 
 476
-00:33:22,360 --> 00:33:26,060
-在这所特别的旅馆的悠久历史里
-...in this particular hotel over the years.
+00:44:28,749 --> 00:44:30,584
+妈、爸，不要！
+{\fs12}Mom, Dad, help!
 
 477
-00:33:26,600 --> 00:33:29,000
-这些事 并不全都是好事
-And not all of them was good.
+00:45:12,084 --> 00:45:16,046
+（伊莱谎谎谎）
 
 478
-00:33:32,310 --> 00:33:34,940
-那么 237房发生过什么?
-What about room 237?
+00:45:20,592 --> 00:45:25,556
+（谎）
 
 479
-00:33:38,280 --> 00:33:40,480
-237房?
-Room 237?
+00:45:31,645 --> 00:45:32,479
+你做了什么？
+{\fs12}What did you do?
 
 480
-00:33:41,790 --> 00:33:44,880
-你害怕237房 不是吗?
-You're scared of room 237, ain't you?
+00:45:37,735 --> 00:45:39,069
+不是我
+{\fs12}It wasn't me!
 
 481
-00:33:46,660 --> 00:33:48,130
-不怕 我不害怕
-No, I ain't.
+00:45:39,153 --> 00:45:41,822
+伊莱，你就站在衣橱门前面
+{\fs12}Eli, you were standing in front of the closet door.
 
 482
-00:33:49,630 --> 00:33:53,460
-哈罗朗先生 237房里面到底有些什么?
-Mr. Hallorann, what is in room 237?
+00:45:41,905 --> 00:45:43,365
+因为我一直躲在那里
+{\fs12}'Cause I'd been hiding in there. 
 
 483
-00:33:54,800 --> 00:33:56,170
-什么也没有
-Nothing.
+00:45:43,449 --> 00:45:44,783
+用玻璃碎片？
+{\fs12}With shards of glass?
 
 484
-00:33:56,600 --> 00:33:59,840
-237房里面没有什么 根本没有!
-There ain't nothing in room 237.
+00:45:44,950 --> 00:45:46,535
+他们也在我的窗户写字
+{\fs12}They wrote it on my window, too.
 
 485
-00:34:00,040 --> 00:34:03,270
-而且 你也没有必要去那个地方
-But you ain't got no business going in there anyway.
+00:45:46,618 --> 00:45:49,246
+写你的名字？ -不，“谎”
+{\fs12}Your name? -No. "Lie."
 
 486
-00:34:03,480 --> 00:34:05,610
-所以 不要靠近它
-So stay out.
+00:45:49,329 --> 00:45:50,914
+你可能弄伤自己的，宝贝
+{\fs12}You could've hurt yourself, honey.
 
 487
-00:34:05,810 --> 00:34:08,310
-明白了吗? 不要靠近它!
-You understand? Stay out!
+00:45:52,040 --> 00:45:52,875
+伊莱
+{\fs12}Eli,
 
 488
-00:34:10,160 --> 00:34:13,490
-一个月后
+00:45:53,417 --> 00:45:56,170
+我没有其他病人提过见鬼
+{\fs12}none of my other patients have ever mentioned ghosts.
 
 489
-00:35:47,700 --> 00:35:49,430
-早晨 亲爱的
-Good morning, hon.
+00:45:58,672 --> 00:45:59,798
+嘿！ -不
+{\fs12} Hey. - No.
 
 490
-00:35:51,440 --> 00:35:53,200
-你的早餐已经做好了
-Your breakfast is ready.
+00:46:00,174 --> 00:46:02,301
+没有人相信我！
+{\fs12}No one believes me!
 
 491
-00:35:53,970 --> 00:35:55,600
-现在几点?
-What time is it?
+00:46:18,108 --> 00:46:19,693
+你现在才决定现身
+{\fs12}Oh, now you decide to show up.
 
 492
-00:35:55,810 --> 00:35:57,670
-大概11点30分
-It's about 11:30.
+00:46:20,944 --> 00:46:22,196
+昨晚发生什么事？
+{\fs12}What happened last night?
 
 493
-00:35:59,580 --> 00:36:01,170
-天啊
-Jesus.
+00:46:22,821 --> 00:46:24,072
+我给你惹麻烦了？
+{\fs12}Did I get you in trouble?
 
 494
-00:36:02,120 --> 00:36:04,550
-我想我们实在是睡得太晚
-I guess we've been staying up too late.
+00:46:28,827 --> 00:46:29,703
+你看起来真糟
+{\fs12}You look terrible.
 
 495
-00:36:04,850 --> 00:36:06,290
-我知道
-I know it.
+00:46:30,829 --> 00:46:32,372
+我也觉得很糟
+{\fs12}I feel terrible, too.
 
 496
-00:36:07,590 --> 00:36:10,460
-都按你喜欢的口味做的 尝尝吧
-I made them just the way you like them, sunny-side up.
+00:46:33,540 --> 00:46:34,500
+发生什么事？
+{\fs12}What happened?
 
 497
-00:36:10,760 --> 00:36:12,320
-很好
-Nice.
+00:46:36,919 --> 00:46:38,837
+如果我告诉你，你要保证不笑我
+{\fs12}If I tell you, you have to promise not to laugh.
 
 498
-00:36:14,600 --> 00:36:16,400
-外面的风景真的很美
-It's really pretty outside.
+00:46:39,421 --> 00:46:40,255
+快说吧
+{\fs12}Just spill it.
 
 499
-00:36:16,600 --> 00:36:19,830
-吃完早餐后 我们可以出去散步么?
-How about taking me for a walk after you finish your breakfast?
+00:46:45,219 --> 00:46:46,595
+我觉得这栋房子闹鬼
+{\fs12}I think this house is haunted.
 
 500
-00:36:20,440 --> 00:36:24,770
-我想我得先写些东西
-I suppose I ought to try to do some writing first.
+00:46:48,180 --> 00:46:49,681
+我认为这里发生过可怕的事
+{\fs12}I think something bad happened here.
 
 501
-00:36:26,210 --> 00:36:27,870
-有什么构思了吗?
-Any ideas yet?
+00:46:51,308 --> 00:46:53,393
+真好，现在你也觉得我疯了
+{\fs12}Great. Now you think I'm crazy, too.
 
 502
-00:36:28,880 --> 00:36:30,540
-太多的构思
-Lots of ideas.
+00:46:54,019 --> 00:46:55,604
+不，我没有这么想
+{\fs12}No, I don't think you're crazy.
 
 503
-00:36:30,750 --> 00:36:32,270
-但是都没有好的
-No good ones.
+00:46:55,687 --> 00:46:56,772
+那你在笑什么？
+{\fs12}Then why'd you laugh?
 
 504
-00:36:32,750 --> 00:36:35,220
-好创意总会有的
-Something will come.
+00:46:58,440 --> 00:46:59,358
+因为佩利
+{\fs12}Because Perry,
 
 505
-00:36:35,720 --> 00:36:39,660
-关键是要养成每天都得写作的习惯
-It's just a matter of settling into the habit of writing every day.
+00:47:00,192 --> 00:47:03,237
+在你之前住在这里的孩子 他也说过同样的话
+{\fs12}the kid who stayed here before you, he said the same thing.
 
 506
-00:36:41,230 --> 00:36:42,920
-就是这样而已
-That's all it is.
+00:47:06,573 --> 00:47:07,866
+他也说过？ -对
+{\fs12}He did? -Yep.
 
 507
-00:36:45,030 --> 00:36:47,330
-到这个地方来真是不错啊 不是吗?
-It's really nice up here, isn't it?
+00:47:08,408 --> 00:47:10,577
+我和他聊得没有你多
+{\fs12}Well, I don't talk to him as much as I talk to you,
 
 508
-00:36:47,740 --> 00:36:49,170
-我喜欢这儿
-I love it.
+00:47:10,661 --> 00:47:12,788
+但他说他看到鬼
+{\fs12}but he said that he was seeing ghosts.
 
 509
-00:36:49,670 --> 00:36:51,260
-真的喜欢
-I really do.
+00:47:13,914 --> 00:47:16,667
+洪恩医生说她的其他病人都没看过鬼
+{\fs12}Dr. Horn said none of her patients ever saw ghosts.
 
 510
-00:36:52,180 --> 00:36:55,200
-我从来没有在别的地方 感觉有这么舒适和快活
-I've never been this happy or comfortable anywhere.
+00:47:17,251 --> 00:47:18,210
+你相信她啊？
+{\fs12}And you believe her?
 
 511
-00:36:55,410 --> 00:36:59,180
-你这么快就能适应这样一个大地方 真是让人惊讶
-It's amazing how fast you get used to such a big place.
+00:47:20,754 --> 00:47:21,922
+爸妈说要相信她
+{\fs12}Mom and Dad said to trust her.
 
 512
-00:36:59,380 --> 00:37:02,280
-老实说 我们刚来的时候...
-I tell you, when we first came up here...
+00:47:22,881 --> 00:47:25,217
+我相信你的爸妈总是告诉你实话
+{\fs12}Oh, and I'm sure your parents always tell you the truth.
 
 513
-00:37:02,490 --> 00:37:04,550
-我认为这里会非常可怕
-...I thought it was kind of scary.
+00:47:27,845 --> 00:47:29,346
+佩利说他在这里待得越久
+{\fs12}Perry said the longer he was in there,
 
 514
-00:37:04,990 --> 00:37:07,550
-但是我立刻就喜欢上了这儿
-I fell in love with it right away.
+00:47:29,429 --> 00:47:32,558
+鬼魂就看得越清楚 他告诉洪恩医生了
+{\fs12}the more clearly he saw them, and he told Dr. Horn that.
 
 515
-00:37:08,230 --> 00:37:11,020
-当我来这里应聘的时候...
-When I came up here for my interview...
+00:47:33,267 --> 00:47:34,726
+她怎么说？
+{\fs12}Well, what did she say?
 
 516
-00:37:11,400 --> 00:37:15,230
-就感到 我似乎曾经来过这儿
-...it was as though I'd been here before.
+00:47:35,310 --> 00:47:36,144
+我不知道
+{\fs12}I don't know.
 
 517
-00:37:15,440 --> 00:37:18,060
-我的意思是 我们总会有些似曾相识的感觉...
-I mean, we all have moments of deja vu...
+00:47:36,937 --> 00:47:38,605
+他说他要进行第三阶段
+{\fs12}He said he was about to get Procedure Three.
 
 518
-00:37:18,270 --> 00:37:20,470
-但是这次有些不一样
-...but this was ridiculous.
+00:47:40,524 --> 00:47:41,984
+那是我最后一次见到他
+{\fs12}And that was the last time I saw him.
 
 519
-00:37:21,210 --> 00:37:23,870
-我几乎能知道...
-It was almost as though I knew...
+00:47:47,364 --> 00:47:48,657
+我必须离开这里
+{\fs12}I need to get out of here. 
 
 520
-00:37:23,880 --> 00:37:27,010
-每个角落会有些什么东西存在
-...what was going to be around every corner.
+00:47:49,032 --> 00:47:50,450
+那就穿上你的防护衣离开
+{\fs12}So get your hazmat and go.
 
 521
-00:38:00,150 --> 00:38:03,350
-输了的人就要打扫整个美国 怎样?
-The loser has to keep America clean. How's that?
+00:47:50,534 --> 00:47:51,493
+我不能
+{\fs12}I can't. 
 
 522
-00:38:03,560 --> 00:38:06,120
-- 好的 - 你已经要输了
-- All right. - And you're going to lose.
+00:47:51,869 --> 00:47:53,787
+没有爸妈，我在外面无法存活
+{\fs12}I wouldn't survive outside without my parents.
 
 523
-00:38:06,330 --> 00:38:09,460
-我要来抓你了 你最好跑快点!
-And I'm going to get you. You'd better run fast!
+00:48:01,128 --> 00:48:02,045
+你在这里等着
+{\fs12}Wait here a sec.
 
 524
-00:38:14,470 --> 00:38:15,600
-注意了!
-Look out!
+00:48:30,198 --> 00:48:31,241
+不！
+{\fs12}No!
 
 525
-00:38:15,810 --> 00:38:17,670
-我快抓到你了
-I'm coming in close.
+00:48:31,617 --> 00:48:33,577
+不，放开我！
+{\fs12}No! Let go of me!
 
 526
-00:38:17,880 --> 00:38:20,370
-输家要打扫整个美国哦
-Loser has to keep America clean.
+00:48:37,205 --> 00:48:38,332
+不！
+{\fs12}No!
 
 527
-00:38:20,610 --> 00:38:22,240
-我要打扫整个美国
-Keep America clean.
+00:48:55,599 --> 00:48:57,142
+放开我！
+{\fs12}No! Let me go!
 
 528
-00:38:23,250 --> 00:38:24,720
-丹尼 你赢了
-Danny, you win.
+00:48:57,726 --> 00:48:59,895
+不！放开我！
+{\fs12}No! Let go of me!
 
 529
-00:38:25,050 --> 00:38:27,380
-我们休息会吧 走走
-Let's take the rest of this walking.
+00:49:09,696 --> 00:49:11,531
+不！
+{\fs12}No. No. No!
 
 530
-00:38:29,920 --> 00:38:31,320
-把手给我
-Give me your hand.
+00:49:12,532 --> 00:49:14,910
+放我出去！
+{\fs12}Let me out! Let me out!
 
 531
-00:38:33,960 --> 00:38:35,760
-这里很漂亮吧?
-Isn't it beautiful?
+00:49:20,374 --> 00:49:22,918
+不！
+{\fs12}No. No. No!
 
 532
-00:38:53,520 --> 00:38:54,880
-死胡同
-Dead end.
+00:49:24,711 --> 00:49:25,587
+不
+{\fs12}No.
 
 533
-00:39:52,350 --> 00:39:53,980
-我们到了
-We made it.
+00:49:26,088 --> 00:49:26,964
+不，住手！
+{\fs12}No, stop!
 
 534
-00:39:54,490 --> 00:39:55,720
-很漂亮吧?
-Isn't it beautiful?
+00:49:28,340 --> 00:49:29,216
+不！
+{\fs12}No!
 
 535
-00:40:17,420 --> 00:40:19,250
-非常漂亮
-It's so pretty.
+00:49:48,694 --> 00:49:49,528
+呼吸
+{\fs12}Eli, breathe.
 
 536
-00:40:23,820 --> 00:40:26,790
-我没有想到它居然这么大 你呢?
-I didn't think it was going to be this big. Did you?
+00:49:50,529 --> 00:49:51,655
+伊莱，呼吸
+{\fs12}Eli, breathe.
 
 537
-00:40:27,030 --> 00:40:28,700
-没有
-No.
+00:49:52,280 --> 00:49:53,240
+呼吸
+{\fs12}Breathe.
 
 538
-00:40:30,730 --> 00:40:33,390
-星期二
+00:49:53,323 --> 00:49:54,408
+呼吸 -伊莱？
+{\fs12} Breathe. - Eli?
 
 539
-00:40:38,370 --> 00:40:40,770
-卢瑟福在追查一起...
-Rutherford was serving a life sentence...
+00:49:55,492 --> 00:49:56,326
+伊莱？
+{\fs12}Eli?
 
 540
-00:40:40,970 --> 00:40:42,740
-在1968年执行枪决的命案
-...for a 1968 shooting.
+00:49:57,077 --> 00:49:58,036
+怎么回事？
+{\fs12}What's going on?
 
 541
-00:40:42,940 --> 00:40:46,810
-对在阿斯本失踪妇女的搜索 仍然持续进行着
-And the search continues for that missing Aspen woman.
+00:49:58,120 --> 00:50:00,914
+我…我听到尖叫，他想离开这间屋子
+{\fs12}I-I heard screams. He was trying to leave the house.
 
 542
-00:40:47,020 --> 00:40:50,380
-苏珊·罗伯逊 24岁 已经失踪10天了
-24-year-old Susan Robertson has been missing 10 days.
+00:50:01,999 --> 00:50:03,208
+他们打开大门
+{\fs12}They opened the door.
 
 543
-00:40:50,590 --> 00:40:53,320
-她在和丈夫一起的打猎途中走失
-She disappeared on a hunting trip with her husband.
+00:50:04,751 --> 00:50:05,836
+氟派醇，20毫升！
+{\fs12}Haldol, 20 ccs!
 
 544
-00:40:53,520 --> 00:40:56,320
-他们也许不得不取消搜索...
-They may have to call off the search...
+00:50:06,420 --> 00:50:08,005
+我以为你说这里绝对安全
+{\fs12}I thought you said this place was secure.
 
 545
-00:40:56,530 --> 00:40:59,050
-假如预测的暴风雪明天果真来临
-...if a predicted snowstorm moves in tomorrow.
+00:50:08,088 --> 00:50:09,673
+肯定是电线短路
+{\fs12}Must have been an electrical short circuit.
 
 546
-00:40:59,260 --> 00:41:01,130
-丹佛今天风和日丽...
-It's so beautiful in Denver today...
+00:50:11,883 --> 00:50:13,135
+你知道鬼魂的事
+{\fs12}You know about the ghosts.
 
 547
-00:41:01,330 --> 00:41:03,460
-很难想像一场暴风雪就要来临
-...it's hard to believe a snowstorm could be close.
+00:50:13,218 --> 00:50:14,761
+伊莱，你必须停止
+{\fs12}Eli, you have to stop it.
 
 548
-00:41:03,670 --> 00:41:05,900
-我甚至想出去沐浴阳光...
-I want to go outside and lie in the sun...
+00:50:14,845 --> 00:50:15,887
+快点！
+{\fs12}Hurry, hurry!
 
 549
-00:41:06,100 --> 00:41:10,230
-在我们的北方和西方 天气仍然很冷 下着雪
-...yet to our north, to our west, it is snowing and cold.
+00:50:15,971 --> 00:50:17,264
+我知道佩利的事！
+{\fs12}I know about Perry!
 
 550
-00:41:10,440 --> 00:41:11,640
-而且冷空气在移动...
-And it's moving...
+00:50:19,516 --> 00:50:20,684
+谁…佩利是谁？
+{\fs12}Who-Who's Perry?
 
 551
-00:41:11,840 --> 00:41:15,010
-这同时 它正移向科罗拉多州 难以置信...
-...right here towards Colorado as we talk. It's incredible.
+00:50:21,518 --> 00:50:23,770
+我不知道你在说什么 -说谎
+{\fs12}I-I don't know what you're talking about. -Lie.
 
 552
-00:43:43,560 --> 00:43:44,990
-嗨 亲爱的
-Hi, honey.
+00:50:23,854 --> 00:50:24,730
+佩利是谁？
+{\fs12}Who's Perry?
 
 553
-00:43:48,590 --> 00:43:49,990
-工作进行得怎样?
-How's it going?
+00:50:26,231 --> 00:50:27,149
+说谎！
+{\fs12}Lie! 
 
 554
-00:43:52,570 --> 00:43:53,730
-还行
-Fine.
+00:50:27,983 --> 00:50:28,984
+你说谎！
+{\fs12}You're a liar!
 
 555
-00:43:55,840 --> 00:43:57,390
-今天写了很多吗?
-Get a lot written today?
+00:50:30,152 --> 00:50:32,029
+告诉我这里的真实情况
+{\fs12}Someone tell me what's actually going on.
 
 556
-00:44:00,100 --> 00:44:01,000
-是的
-Yes.
+00:50:32,112 --> 00:50:33,363
+伊莱，我在这里
+{\fs12}Eli, I'm right here. 
 
 557
-00:44:04,450 --> 00:44:07,010
-天气预报说 今晚会开始下雪
-The weather forecast said it's going to snow tonight.
+00:50:33,780 --> 00:50:35,032
+看着我，我就在这里
+{\fs12}Look at me. I'm right here.
 
 558
-00:44:12,220 --> 00:44:14,550
-那又怎样? 你想我怎样?
-What do you want me to do about it?
+00:50:35,449 --> 00:50:36,992
+好吗？深呼吸
+{\fs12}Okay? Breathe. Breathe.
 
 559
-00:44:16,690 --> 00:44:18,850
-好了 亲爱的
-Come on, honey.
+00:50:37,409 --> 00:50:38,285
+我们来许愿
+{\fs12}Let's make our wish.
 
 560
-00:44:19,200 --> 00:44:21,220
-不用这么不高兴吧
-Don't be so grouchy.
+00:50:38,368 --> 00:50:40,203
+我不要许什么鬼愿！
+{\fs12}I don't want to make a fucking wish!
 
 561
-00:44:21,630 --> 00:44:22,960
-我并没有...
-I'm not...
+00:50:50,380 --> 00:50:51,256
+妈？
+{\fs12}Mom?
 
 562
-00:44:23,330 --> 00:44:24,530
-不高兴
-...being grouchy.
+00:51:00,474 --> 00:51:01,475
+{\fs12}He's...
 
 563
-00:44:24,740 --> 00:44:27,530
-我只是想完成我的工作
-I just want to finish my work.
+00:51:07,022 --> 00:51:10,233
+{\fs12}He's just not-- he's not accepting treatment.
 
 564
-00:44:31,040 --> 00:44:33,440
-好的 我明白了
-Okay. I understand.
+00:51:14,654 --> 00:51:18,408
+{\fs12}He's just not accepting it. No, he's not.
 
 565
-00:44:33,680 --> 00:44:36,270
-一会儿我给你带点三明治来
-I'll come back later with a couple of sandwiches.
+00:51:20,243 --> 00:51:23,330
+{\fs12}I think we have to prepare for the decision. We're just going to do it.
 
 566
-00:44:36,480 --> 00:44:38,950
-到那时候 你也许能让我看看 你已经写了些什么
-Maybe you'll let me read something then.
+00:51:25,665 --> 00:51:27,334
+{\fs12}He's not accepting treatment.
 
 567
-00:44:42,160 --> 00:44:43,250
-温蒂...
-Wendy...
+00:51:27,459 --> 00:51:29,503
+目前没有其他办法
+{\fs12}So there's no other choice at this point.
 
 568
-00:44:43,460 --> 00:44:46,050
-...让我告诉你一件事
-...let me explain something to you.
+00:51:29,586 --> 00:51:30,420
+对
+{\fs12}Yeah.
 
 569
-00:44:46,960 --> 00:44:50,830
-当你进来打断我的时候 意味着你破坏了我的集中力
-When you come in and interrupt, you're breaking my concentration.
+00:51:32,923 --> 00:51:37,094
+我只是说，我不敢相信他真的想跑走
+{\fs12}I was just saying that I can't believe that he actually tried to leave.
 
 570
-00:44:51,030 --> 00:44:52,470
-你把我的注意力转移开了...
-You're distracting me...
+00:51:39,221 --> 00:51:41,264
+最后的治疗不如预期
+{\fs12}The last treatment didn't go as I'd hoped.
 
 571
-00:44:52,670 --> 00:44:56,110
-我得费力气 再把注意力摆回工作上去
-...and it will then take me time to get back to where I was.
+00:51:41,348 --> 00:51:43,975
+伊莱的大脑正在发动战争对抗血清
+{\fs12}Eli's brain is waging a war against the serum.
 
 572
-00:44:56,310 --> 00:44:57,740
-明白了吗?
-Understand?
+00:51:44,935 --> 00:51:47,270
+所以他感觉病得很重，还出现幻觉
+{\fs12}That's why he's feeling so sick and delusional.
 
 573
-00:44:59,630 --> 00:45:00,700
-明白
-Yeah.
+00:51:48,355 --> 00:51:50,190
+我要施用烦宁
+{\fs12}I'm going to administer diazepam
 
 574
-00:45:01,010 --> 00:45:02,170
-好的
-Fine.
+00:51:50,273 --> 00:51:53,193
+让他能休息到天亮
+{\fs12}to enable him to rest until dawn,
 
 575
-00:45:03,350 --> 00:45:05,080
-我们得定个新规矩:
-We're going to make a new rule:
+00:51:53,652 --> 00:51:55,237
+然后再开始最后的疗程
+{\fs12}and then we'll begin the final procedure.
 
 576
-00:45:05,280 --> 00:45:06,720
-无论什么时候 只要我在这里...
-Whenever I'm in here...
+00:51:57,114 --> 00:51:57,989
+等等
+{\fs12}Wait.
 
 577
-00:45:06,920 --> 00:45:09,180
-你有听到我打字的声音...
-...and you hear me typing...
+00:51:59,241 --> 00:52:01,660
+我认为该由我喂他吃药
+{\fs12}I think I should be the one that gives it to him.
 
 578
-00:45:10,990 --> 00:45:13,930
-或者 无论你听到我在这里干什么
-...or whatever the fuck you hear me doing in here...
+00:52:04,037 --> 00:52:05,497
+我让他吃药，他比较能接受
+{\fs12}He'll take it better coming from me.
 
 579
-00:45:14,130 --> 00:45:16,430
-只要我呆在这儿 就意味着我在工作
-...when I'm in here, that means I am working.
+00:52:36,069 --> 00:52:37,487
+我没有疯，妈妈
+{\fs12}I'm not crazy, Mom.
 
 580
-00:45:16,630 --> 00:45:18,860
-也就是说 那时不能进来打扰我
-That means don't come in.
+00:52:39,239 --> 00:52:40,657
+我知道你没有
+{\fs12}I know you're not.
 
 581
-00:45:19,070 --> 00:45:21,330
-好了 你现在明白了吗?
-Now, do you think you can handle that?
+00:52:42,742 --> 00:52:43,910
+爸爸认为我疯了
+{\fs12}Dad thinks I am.
 
 582
-00:45:24,580 --> 00:45:27,100
-- 嗯 - 好
-- Yeah. - Fine.
+00:52:44,786 --> 00:52:46,413
+不，他没有
+{\fs12}No, he doesn't.
 
 583
-00:45:28,140 --> 00:45:31,440
-那你怎么还不行动 给我滚出这个地方?
-Why don't you start right now and get the fuck out of here?
+00:52:47,664 --> 00:52:49,583
+他没有 -他有
+{\fs12}He doesn't. -Yes, he does.
 
 584
-00:45:35,820 --> 00:45:36,820
-好
-Okay.
+00:52:51,877 --> 00:52:53,837
+他看着我，一副不相信我的样子
+{\fs12}He looks at me like he doesn't believe me.
 
 585
-00:46:01,730 --> 00:46:05,020
-星期四
+00:52:55,338 --> 00:52:57,591
+就像你现在看着我的样子？
+{\fs12}You mean the same way you're looking at me right now?
 
 586
-00:46:07,390 --> 00:46:08,750
-你好了吧!
-All right, you!
+00:53:03,555 --> 00:53:04,890
+你知道，这对他来说很痛苦
+{\fs12}You know, this is hard for him.
 
 587
-00:46:10,190 --> 00:46:11,990
-你知道你手里面还有
-I know you've got more.
+00:53:06,016 --> 00:53:07,475
+看着你经历这些
+{\fs12}Watching you go through this.
 
 588
-00:46:14,100 --> 00:46:15,160
-没打中!
-Missed!
+00:53:09,227 --> 00:53:11,229
+洪恩医生是他找到的
+{\fs12}He was the one that found Dr. Horn.
 
 589
-00:46:20,740 --> 00:46:21,570
-现在没了!
-Don't have!
+00:53:11,438 --> 00:53:13,773
+他到处找医生来帮你
+{\fs12}He looked everywhere for a doctor to help you.
 
 590
-00:46:21,810 --> 00:46:23,530
-那不怕你了
-No fair anymore.
+00:53:14,816 --> 00:53:16,401
+如果不带你来这里
+{\fs12}We would never have brought you here
 
 591
-00:46:52,400 --> 00:46:57,130
-星期六
+00:53:16,484 --> 00:53:19,070
+我们认为你无法撑下去 也无法过正常的生活
+{\fs12}if we didn't think you could go on and live a normal life.
 
 592
-00:47:31,720 --> 00:47:33,020
-我应该早想到
-I knew it.
+00:53:22,949 --> 00:53:24,326
+但你说你相信我的
+{\fs12}But you said you believed me.
 
 593
-00:48:03,290 --> 00:48:06,780
-这是KDK 12在呼叫KDK 1
-This is KDK 12 calling KDK 1.
+00:53:24,409 --> 00:53:26,536
+对，我相信你看到东西
+{\fs12}I do. I believe that you saw things.
 
 594
-00:48:09,300 --> 00:48:13,000
-KDK 12 呼叫 KDK 1
-KDK 12 to KDK 1.
+00:53:26,620 --> 00:53:27,495
+我只是…
+{\fs12}I just...
 
 595
-00:48:13,200 --> 00:48:16,330
-这边是KDK 1 我们收到你的呼叫了 完毕
-This is KDK 1. We're receiving you. Over.
+00:53:28,747 --> 00:53:31,166
+我只是不相信你看到的东西是真实的
+{\fs12}I just don't believe the things you saw are real.
 
 596
-00:48:16,710 --> 00:48:19,830
-嗨 我是遥望旅馆的温蒂·特朗斯
-Hi, this is Wendy Torrance at the Overlook Hotel.
+00:53:37,464 --> 00:53:38,298
+嘿
+{\fs12}Hey.
 
 597
-00:48:20,410 --> 00:48:23,210
-嗨 你们在上头过得如何? 完毕
-Hi, how are you folks getting on up there? Over.
+00:53:39,758 --> 00:53:40,592
+相信我
+{\fs12}Trust me.
 
 598
-00:48:23,480 --> 00:48:24,810
-我们过得很好
-We're just fine.
+00:53:41,343 --> 00:53:43,929
+我知道药效会如何扰乱心智
+{\fs12}I know the effects medication can have on the mind.
 
 599
-00:48:25,020 --> 00:48:27,480
-但是我们的电话 似乎有点问题
-But our telephones aren't doing too well.
+00:53:44,012 --> 00:53:46,306
+你看到一些事，你发誓那是真的
+{\fs12}You see something, and you swear it was real.
 
 600
-00:48:27,690 --> 00:48:30,710
-是线路断了吗? 完毕
-Are the lines down, by any chance? Over.
+00:53:46,848 --> 00:53:47,891
+但不是
+{\fs12}But it's not.
 
 601
-00:48:31,360 --> 00:48:35,160
-是的 因为暴风雪的关系 一部分线路出问题了 完毕
-Yes, quite a few of them are down due to the storm. Over.
+00:53:51,478 --> 00:53:53,480
+我知道你很难接受
+{\fs12}I know how hard this is for you.
 
 602
-00:48:35,460 --> 00:48:38,660
-有可能尽快修好吗? 完毕
-Any chance of them being repaired soon? Over.
+00:53:56,024 --> 00:53:57,400
+但一切就快结束了
+{\fs12}But it's almost over.
 
 603
-00:48:38,870 --> 00:48:40,030
-嗯 我恐怕不行
-Well, I wouldn't like to say.
+00:53:58,401 --> 00:53:59,986
+你只需好好睡个觉
+{\fs12}You just need to get some sleep.
 
 604
-00:48:40,230 --> 00:48:43,670
-可能整个冬天都只能这样 得等到春天才会修理 完毕
-Most winters they stay that way until spring. Over.
+00:54:02,364 --> 00:54:03,198
+那是什么？
+{\fs12}What's that? 
 
 605
-00:48:44,170 --> 00:48:47,570
-伙计 这暴风雪可真是厉害 不是吗? 完毕
-Boy, this storm is really something, isn't it? Over.
+00:54:03,490 --> 00:54:04,324
+什么？
+{\fs12}What?
 
 606
-00:48:48,040 --> 00:48:50,940
-是的 真是如此
-Yes. It's one of the worst we've had for years.
+00:54:06,409 --> 00:54:07,244
+什么？
+{\fs12}What?
 
 607
-00:48:51,510 --> 00:48:54,710
-我们还能为你做点其它的什么吗? 特朗斯太太 完毕
-Is there anything else we can do for you, Mrs. Torrance?
+00:54:10,747 --> 00:54:12,958
+我不像某人那么会变魔术
+{\fs12}I'm not as good at tricks as some people.
 
 608
-00:48:55,190 --> 00:48:57,350
-我想 没什么了 完毕
-I suppose not. Over.
+00:54:14,751 --> 00:54:15,585
+来
+{\fs12}Here.
 
 609
-00:48:57,950 --> 00:49:01,250
-假如你们遇到什么麻烦 就呼叫我们
-If you folks have any problems up there, just give us a call.
+00:54:18,838 --> 00:54:20,966
+这是什么？ -可以帮助你睡觉的药
+{\fs12}What is it? -It's just something to help you sleep.
 
 610
-00:49:01,460 --> 00:49:02,760
-还有 特朗斯太太...
-And, Mrs. Torrance?
+00:54:32,435 --> 00:54:33,270
+让我看看
+{\fs12}Show me.
 
 611
-00:49:02,960 --> 00:49:07,160
-你们最好一直都开着无线通话装置
-It might be a good idea if you leave your radio on all the time.
+00:54:36,856 --> 00:54:38,233
+好
+{\fs12}Good.
 
 612
-00:49:08,000 --> 00:49:09,490
-好的 我们会这样做的
-Okay. We'll do that.
+00:54:40,902 --> 00:54:41,778
+过来
+{\fs12}Come here.
 
 613
-00:49:09,700 --> 00:49:11,760
-很高兴能和你交谈
-It was real nice talking to you.
+00:54:44,739 --> 00:54:46,366
+你知道我爱你，对吧？
+{\fs12}You know I love you, right?
 
 614
-00:49:11,970 --> 00:49:14,600
-再见 挂断
-Bye. Over and out.
+00:54:47,701 --> 00:54:48,535
+我知道
+{\fs12}I know.
 
 615
-00:49:49,520 --> 00:49:51,710
-你好 丹尼
-Hello, Danny.
+00:54:59,713 --> 00:55:01,589
+317
+{\fs12}Three-one-seven--
 
 616
-00:49:56,990 --> 00:49:59,420
-来和我们一起玩吧
-Come and play with us.
+00:55:01,673 --> 00:55:02,507
+什么？
+{\fs12}What?
 
 617
-00:50:04,300 --> 00:50:07,060
-和我们一起玩吧 丹尼
-Come and play with us, Danny.
+00:55:06,052 --> 00:55:06,886
+来，躺好
+{\fs12}Okay, lie down.
 
 618
-00:50:08,900 --> 00:50:10,770
-永远...
-Forever...
+00:55:14,185 --> 00:55:15,020
+祝好梦
+{\fs12}Sweet dreams.
 
 619
-00:50:12,540 --> 00:50:14,310
-永远...
-...and ever...
+00:56:22,295 --> 00:56:23,338
+海莉
+{\fs12}Haley.
 
 620
-00:50:15,250 --> 00:50:17,270
-永远
-...and ever.
+00:56:31,179 --> 00:56:32,055
+讨厌
+{\fs12}Bitch. Unh.
 
 621
-00:50:48,750 --> 00:50:50,380
-托尼...
-Tony...
+00:56:33,973 --> 00:56:35,141
+还活着啊？
+{\fs12}Still alive, huh?
 
 622
-00:50:51,390 --> 00:50:53,410
-我很害怕
-...I'm scared.
+00:56:35,725 --> 00:56:36,559
+听着
+{\fs12}Listen.
 
 623
-00:50:58,900 --> 00:51:02,460
-记住哈罗朗先生说过的话
-Remember what Mr. Hallorann said.
+00:56:37,102 --> 00:56:40,271
+佩利有没有说 鬼魂是想伤害他，还是帮他？
+{\fs12}Did Perry ever say if the ghost was trying to hurt him or help him?
 
 624
-00:51:04,070 --> 00:51:07,970
-那就像是书里的插画一样 没什么好怕的 丹尼
-It's just like pictures in a book, Danny.
+00:56:40,814 --> 00:56:41,981
+他没有说，为什么？
+{\fs12}He didn't say. Why?
 
 625
-00:51:08,170 --> 00:51:10,330
-那并不是真实的东西
-It isn't real.
+00:56:43,066 --> 00:56:44,859
+因为他们想把我拖离那间屋子
+{\fs12}Because they tried to drag me out of the house,
 
 626
-00:51:16,270 --> 00:51:20,430
-星期一
+00:56:44,943 --> 00:56:48,530
+我不确定他们是想杀我 还是想救我离开
+{\fs12}and I'm not sure if they wanted to kill me or get me to leave.
 
 627
-00:51:21,510 --> 00:51:23,340
-请让我给你些钱
-Please let me give you some money.
+00:56:48,905 --> 00:56:50,907
+听起来像是他们想杀你
+{\fs12}It kind of sounds like they wanted to kill you.
 
 628
-00:51:23,540 --> 00:51:25,560
-不要 我想我不能接受
-I wouldn't think of it.
+00:56:51,241 --> 00:56:52,700
+你为何觉得是想救你？
+{\fs12}Why would you think otherwise?
 
 629
-00:51:25,810 --> 00:51:27,070
-好的 那你要我怎样报答你?
-Well, how can I repay you?
+00:57:00,125 --> 00:57:00,959
+“谎”？
+{\fs12}"Lie"?
 
 630
-00:51:28,040 --> 00:51:29,950
-不用了 真的
-It's okay. Really.
+00:57:01,334 --> 00:57:02,168
+他们写的
+{\fs12}They wrote that. 
 
 631
-00:51:30,580 --> 00:51:32,680
-嗯 我想喝些咖啡
-Well, I'm going to have some coffee.
+00:57:02,836 --> 00:57:04,295
+写在我的窗户，还有衣柜门
+{\fs12}On my window and on my closet door.
 
 632
-00:51:32,880 --> 00:51:34,410
-你也喝点好吗?
-Would you like some?
+00:57:05,755 --> 00:57:07,298
+但如果倒过来看…
+{\fs12}But if you turn it upside down...
 
 633
-00:51:36,150 --> 00:51:37,210
-好吧
-Sure.
+00:57:10,051 --> 00:57:11,177
+317
+{\fs12}Three-one-seven.
 
 634
-00:51:37,420 --> 00:51:39,290
-很好 请坐
-Great. Sit down.
+00:57:11,261 --> 00:57:12,429
+那是什么意思？
+{\fs12}What does that mean?
 
 635
-00:51:49,200 --> 00:51:51,830
-神奇炸圈饼 你自己拿罢
-Marvelous doughnuts. Help yourself.
+00:57:12,512 --> 00:57:15,098
+这是他们一直想告诉我的
+{\fs12}This is what they've been trying to tell me the entire time.
 
 636
-00:51:53,480 --> 00:51:55,910
-- 咖啡马上就好 - 妈妈
-- Coffee will be ready in a few minutes. - Mom.
+00:57:17,016 --> 00:57:19,060
+好像是暗门的密码
+{\fs12}Ooh. Oh, like a secret code to a secret door.
 
 637
-00:51:57,960 --> 00:51:59,190
-什么?
-Yes.
+00:57:19,144 --> 00:57:20,353
+我又没说是门
+{\fs12}I never said it was a door.
 
 638
-00:51:59,680 --> 00:52:03,020
-我能去我的房间拿我的消防车吗?
-Can I go up to my room and get my fire engine?
+00:57:22,355 --> 00:57:23,982
+别一副疑神疑鬼的样子
+{\fs12}Don't give me that suspicious look.
 
 639
-00:52:04,450 --> 00:52:07,180
-现在不行 爸爸正在睡觉呢
-Not right now. Daddy's asleep.
+00:57:24,065 --> 00:57:26,067
+这只是我想到的第一个可能
+{\fs12}It was just the first thing that entered my head.
 
 640
-00:52:08,160 --> 00:52:10,320
-我会小心不出声的
-I won't make any noise.
+00:57:26,151 --> 00:57:27,861
+你不会也是鬼吧？
+{\fs12}You're not a ghost, too, are you?
 
 641
-00:52:11,730 --> 00:52:13,630
-嗯 多克
-Now come on, Doc.
+00:57:28,820 --> 00:57:30,613
+他们现在给你吃什么药？
+{\fs12}What kind of drugs do they got you on now? 
 
 642
-00:52:13,830 --> 00:52:15,530
-你爸爸才睡了一会儿
-He only went to bed a few hours ago.
+00:57:30,697 --> 00:57:31,739
+我看起来像鬼吗？
+{\fs12}Do I look like a ghost?
 
 643
-00:52:15,740 --> 00:52:17,530
-你不能再等等么?
-Can't you wait till later?
+00:57:34,409 --> 00:57:35,785
+我认为是开门的密码
+{\fs12}I think it is a code to a door...
 
 644
-00:52:17,740 --> 00:52:20,870
-我不会弄出声响的 我保证 我会掂脚尖走进去
-I won't make a sound. I promise I'll tiptoe.
+00:57:36,453 --> 00:57:37,495
+通往医疗部的侧翼
+{\fs12}to the medical wing.
 
 645
-00:52:24,080 --> 00:52:25,370
-好吧
-All right.
+00:57:37,579 --> 00:57:39,122
+里面有什么？ -答案
+{\fs12}What's in there? -Answers.
 
 646
-00:52:25,580 --> 00:52:27,980
-但是真的不要弄出声音
-But really don't make a sound.
+00:57:39,205 --> 00:57:40,707
+什么的答案？ -她为何说谎
+{\fs12}To what? -To why she's lying.
 
 647
-00:52:28,180 --> 00:52:29,670
-我不会的 妈妈
-I won't, Mom.
+00:57:42,125 --> 00:57:43,293
+你要去查吗？
+{\fs12}Are you gonna do it?
 
 648
-00:52:30,480 --> 00:52:32,210
-拿到就马上回来...
-Make sure you come right back...
+00:57:43,835 --> 00:57:45,128
+如果被抓到了呢？
+{\fs12}What if you get caught?
 
 649
-00:52:32,420 --> 00:52:34,410
-因为我得马上去做午饭了
-...because I'm going to make lunch soon.
+00:57:47,964 --> 00:57:49,132
+每个人都要睡觉
+{\fs12}Everybody's gotta sleep.
 
 650
-00:52:36,560 --> 00:52:38,050
-好的 妈妈
-Okay, Mom.
+00:57:50,842 --> 00:57:51,676
+是吧？
+{\fs12}Right?
 
 651
-00:53:27,320 --> 00:53:30,480
-我能去我的房间拿我的消防车吗?
-Can I go to my room and get my fire engine?
+00:58:23,124 --> 00:58:25,126
+（门已上锁 输入密码）
 
 652
-00:53:34,230 --> 00:53:36,420
-到这边来
-Come here for a minute first.
+00:59:56,301 --> 00:59:57,385
+谎
+{\fs12}Lie.
 
 653
-00:54:13,440 --> 00:54:15,240
-感觉怎样呢 多克?
-How's it going, Doc?
+01:00:41,929 --> 01:00:44,098
+你和洪恩医生谈了什么？
+{\fs12}What were you and Dr. Horn talking about?
 
 654
-00:54:16,700 --> 00:54:19,140
-很好
-Okay.
+01:00:45,600 --> 01:00:46,559
+什么？
+{\fs12}What?
 
 655
-00:54:19,810 --> 00:54:21,610
-过得好吗?
-Having a good time?
+01:00:47,518 --> 01:00:49,687
+你和洪恩医生谈了什么？
+{\fs12}What were you and Dr. Horn talking about?
 
 656
-00:54:23,680 --> 00:54:25,150
-是的 爸爸
-Yes, Dad.
+01:00:50,938 --> 01:00:52,231
+在我过去之前
+{\fs12}Before I came along.
 
 657
-00:54:28,060 --> 00:54:29,280
-很好
-Good.
+01:00:57,320 --> 01:00:58,154
+告诉我
+{\fs12}Tell me.
 
 658
-00:54:31,490 --> 00:54:33,650
-我希望你能过得愉快
-I want you to have a good time.
+01:00:59,864 --> 01:01:02,700
+只是谈到需要做好心理准备
+{\fs12}Just talking about the need to be prepared...
 
 659
-00:54:34,360 --> 00:54:35,990
-我很愉快 爸爸
-I am, Dad.
+01:01:03,743 --> 01:01:05,161
+面对各种可能性
+{\fs12}for all possibilities.
 
 660
-00:54:42,540 --> 00:54:45,840
-- 爸爸 - 什么?
-- Dad. - yes?
+01:01:05,828 --> 01:01:07,914
+各种可能性？你是什么意思？
+{\fs12}All possibilities? What do you mean?
 
 661
-00:54:46,440 --> 00:54:48,240
-你感觉不好?
-Do you feel bad?
+01:01:19,634 --> 01:01:22,679
+听着，她说每一种疗程都有…
+{\fs12}Look, she said that with each procedure, there are...
 
 662
-00:54:51,390 --> 00:54:56,480
-不是 只是有些累
-No, I'm just a little bit tired.
+01:01:23,888 --> 01:01:25,306
+固有的风险
+{\fs12}inherent risks.
 
 663
-00:54:58,060 --> 00:55:00,620
-那 你为什么不睡会呢?
-Then why don't you go to sleep?
+01:01:27,350 --> 01:01:29,686
+上一次疗程他有不良的反应
+{\fs12}He had a bad reaction to the last one.
 
 664
-00:55:04,200 --> 00:55:05,760
-我不能睡
-I can't.
+01:01:32,647 --> 01:01:36,234
+虽然他有可能恢复健康，但是…
+{\fs12}And for every chance that he's gonna pull through, there's...
 
 665
-00:55:07,230 --> 00:55:09,530
-因为还有很多事得做
-I got too much to do.
+01:01:40,363 --> 01:01:42,198
+什么？ -他也可能熬不过去
+{\fs12}What? -There's a chance that he won't.
 
 666
-00:55:18,850 --> 00:55:21,110
-你喜欢这所旅馆吗?
-Do you like this hotel?
+01:01:46,703 --> 01:01:47,537
+她那样说？
+{\fs12}She said that?
 
 667
-00:55:27,120 --> 00:55:28,520
-嗯
-I do.
+01:01:48,871 --> 01:01:49,706
+她是那样说的
+{\fs12}It's what she said.
 
 668
-00:55:29,490 --> 00:55:30,830
-我喜欢它
-I love it.
+01:01:51,249 --> 01:01:53,292
+她觉得疗程不会成功？
+{\fs12}That she doesn't think it's gonna work?
 
 669
-00:55:33,030 --> 00:55:34,360
-难道你不是吗?
-Don't you?
+01:01:57,922 --> 01:01:59,298
+可是我不懂
+{\fs12}Then I don't understand.
 
 670
-00:55:36,740 --> 00:55:38,230
-我想 我也是
-I guess so.
+01:02:00,341 --> 01:02:02,969
+她治好每一个病人了
+{\fs12}She's cured every one of her patients. 
 
 671
-00:55:40,870 --> 00:55:42,070
-很好
-Good.
+01:02:03,052 --> 01:02:04,220
+你是这样告诉我的
+{\fs12}That's what you told me.
 
 672
-00:55:45,280 --> 00:55:47,610
-我希望你能喜欢这里
-I want you to like it here.
+01:02:08,015 --> 01:02:09,392
+我是这样告诉伊莱的
+{\fs12}That's what I told Eli.
 
 673
-00:55:51,590 --> 00:55:54,990
-我希望我们能永远待在这个地方...
-I wish we could stay here forever...
+01:02:18,234 --> 01:02:19,402
+你为何要骗我？
+{\fs12}Why would you lie to me?
 
 674
-00:55:55,190 --> 00:55:56,990
-永远...
-...and ever...
+01:02:21,946 --> 01:02:23,698
+这种事你怎能骗我？
+{\fs12}Why would you lie to me about that?
 
 675
-00:55:57,660 --> 00:55:58,990
-永远
-...and ever.
+01:02:25,366 --> 01:02:28,035
+我只是替伊莱着想
+{\fs12}Just tried to do what's best for Eli.
 
 676
-00:56:04,440 --> 00:56:05,460
-什么?
-What?
+01:02:29,162 --> 01:02:32,290
+萝丝，你知道总是有风险的
+{\fs12}You knew this was always a possibility, Rose.
 
 677
-00:56:06,740 --> 00:56:09,830
-你永远都不会伤害我和妈妈 对吗?
-You would never hurt Mommy or me, would you?
+01:02:32,623 --> 01:02:34,208
+他会有生命危险吗？
+{\fs12}Is his life in danger?
 
 678
-00:56:15,310 --> 00:56:16,800
-你什么意思?
-What do you mean?
+01:02:36,627 --> 01:02:37,462
+有吗？
+{\fs12}Is it?
 
 679
-00:56:21,920 --> 00:56:24,520
-你妈妈对你说过些什么?
-Did your mother ever say that to you?
+01:02:45,052 --> 01:02:46,471
+你怎么敢这样？
+{\fs12}How dare you?
 
 680
-00:56:25,190 --> 00:56:26,990
-说我会伤害你?
-That I would hurt you?
+01:02:47,054 --> 01:02:47,972
+我怎么敢？
+{\fs12}How dare I?
 
 681
-00:56:27,760 --> 00:56:29,130
-没有 爸爸
-No, Dad.
+01:02:48,055 --> 01:02:50,057
+我要离开 -我怎么敢？
+{\fs12}I'm leaving. -How dare I?!
 
 682
-00:56:31,300 --> 00:56:32,860
-你确定?
-You sure?
+01:02:50,141 --> 01:02:51,225
+我要带他走
+{\fs12}I'm taking him with me. 
 
 683
-00:56:33,400 --> 00:56:34,960
-是的 爸爸
-Yes, Dad.
+01:02:51,309 --> 01:02:52,727
+在你做了那件事之后？
+{\fs12}After what you did?
 
 684
-00:56:39,780 --> 00:56:41,800
-我爱你 丹尼
-I love you, Danny.
+01:02:53,478 --> 01:02:55,480
+是你不计一切要尝试的！
+{\fs12}You're the one that wanted to try anything!
 
 685
-00:56:43,010 --> 00:56:45,610
-我爱你 胜过一切...
-I love you more than anything else...
+01:02:57,857 --> 01:02:59,692
+{\fs12}And you're in denial.
 
 686
-00:56:45,820 --> 00:56:48,380
-胜过世上的任何东西...
-...in the whole world...
+01:02:59,776 --> 01:03:03,070
+{\fs12}We had one chance to do the right thing.
 
 687
-00:56:49,150 --> 00:56:52,210
-我永远不会伤害你的...
-...and I would never do anything to hurt you...
+01:03:03,154 --> 01:03:05,198
+{\fs12}Rose. Rose!
 
 688
-00:56:52,520 --> 00:56:53,750
-永远
-...never.
+01:03:24,467 --> 01:03:27,512
+伊莱
+{\fs12}Eli.
 
 689
-00:56:54,630 --> 00:56:56,690
-你知道的 不是吗?
-You know that, don't you?
+01:03:59,794 --> 01:04:01,671
+（伊莱米勒 男）
 
 690
-00:56:57,160 --> 00:56:58,720
-是的 爸爸
-Yes, Dad.
+01:04:07,718 --> 01:04:09,053
+（第一疗程）
 
 691
-00:56:59,670 --> 00:57:00,760
-很好
-Good.
+01:04:11,639 --> 01:04:12,598
+（佩利霍布斯）
 
 692
-00:57:01,490 --> 00:57:04,620
-星期三
+01:04:12,682 --> 01:04:14,600
+佩利，“疗程一”
+{\fs12}"Perry. Treatment 1."
 
 693
-00:57:42,500 --> 00:57:43,330
-妈妈
-Mom.
+01:04:18,771 --> 01:04:20,022
+“疗程二”
+{\fs12}"Treatment 2."
 
 694
-00:58:01,690 --> 00:58:02,710
-妈妈
-Mom.
+01:04:22,733 --> 01:04:23,776
+“疗程三”
+{\fs12}Treatment 3.
 
 695
-00:58:28,700 --> 00:58:30,470
-妈妈 你在吗?
-Mom, are you in there?
+01:04:29,115 --> 01:04:31,117
+“艾格妮丝，疗程一”
+{\fs12}"Agnes. Treatment 1."
 
 696
-00:59:49,730 --> 00:59:50,790
-怎么了?
-What happened?
+01:04:33,244 --> 01:04:34,370
+“疗程二”
+{\fs12}Treatment 2.
 
 697
-00:59:51,000 --> 00:59:52,230
-亲爱的...
-Honey...
+01:04:37,081 --> 01:04:38,040
+“疗程三”
+{\fs12}Treatment 3.
 
 698
-00:59:53,100 --> 00:59:54,500
-发生了什么事?
-...what's wrong?
+01:04:40,585 --> 01:04:42,461
+“路西斯，疗程一”
+{\fs12}"Lucius. Treatment 1."
 
 699
-01:00:02,680 --> 01:00:04,080
-我作梦了...
-I had the most...
+01:04:44,046 --> 01:04:45,339
+“疗程二”
+{\fs12}"Treatment 2."
 
 700
-01:00:04,280 --> 01:00:06,880
-作一个我一生中最可怕的梦
-...terrible nightmare I ever had.
+01:04:47,133 --> 01:04:48,509
+“疗程三”
+{\fs12}"Treatment 3."
 
 701
-01:00:08,820 --> 01:00:11,760
-- 最最可怕的 - 好了 好了 现在没事了
-- It was the most horrible dream. - It's okay, it's okay now.
+01:05:32,303 --> 01:05:33,304
+妈！
+{\fs12}Mom! 
 
 702
-01:00:12,960 --> 01:00:14,320
-真的?
-Really.
+01:05:33,638 --> 01:05:35,097
+爸，我们必须离开！
+{\fs12}Dad, we have to leave!
 
 703
-01:00:18,600 --> 01:00:20,190
-我梦见...
-I dreamed that I...
+01:05:55,159 --> 01:05:56,661
+深呼吸，萝丝
+{\fs12}Take a breath, Rose.
 
 704
-01:00:20,400 --> 01:00:22,830
-我杀了你和丹尼
-...that I killed you and Danny.
+01:05:56,953 --> 01:05:57,828
+开门！
+{\fs12}Open the door.
 
 705
-01:00:25,570 --> 01:00:27,800
-但是 我不仅仅是杀了你们
-But I didn't just kill you.
+01:05:58,120 --> 01:05:59,205
+打开这道门！
+{\fs12}Open this door!
 
 706
-01:00:29,110 --> 01:00:31,870
-我还把你们切成一片一片的
-I cut you up into little pieces.
+01:06:01,624 --> 01:06:02,625
+我要离开
+{\fs12}I am leaving, 
 
 707
-01:00:34,550 --> 01:00:36,070
-我的天
-My God.
+01:06:03,209 --> 01:06:04,460
+我要带他走
+{\fs12}and I'm taking him with me.
 
 708
-01:00:36,790 --> 01:00:39,350
-我一定是疯了
-I must be losing my mind.
+01:06:04,543 --> 01:06:05,795
+你要去哪里？ -哪里都行
+{\fs12}Where would you go? -Anywhere. 
 
 709
-01:00:41,620 --> 01:00:44,250
-一切都会没事的
-Everything's going to be all right.
+01:06:06,128 --> 01:06:07,505
+只要远离这里
+{\fs12}As far away as possible.
 
 710
-01:00:46,360 --> 01:00:49,060
-好的 让我们站起来
-Come on. Let's get up off the floor.
+01:06:07,713 --> 01:06:10,591
+把他藏在玻璃牢笼，远离这个世界？
+{\fs12}And keep him hidden in a glass cage away from the world?
 
 711
-01:00:56,910 --> 01:00:59,210
-坐下
-There. Now sit up.
+01:06:10,675 --> 01:06:11,842
+这算什么样的生活？
+{\fs12}What kind of life is that? 
 
 712
-01:00:59,850 --> 01:01:01,140
-好的
-It's okay.
+01:06:11,926 --> 01:06:13,886
+有人爱他的生活
+{\fs12}A life where he is loved.
 
 713
-01:01:02,250 --> 01:01:03,680
-放松
-It's okay.
+01:06:16,847 --> 01:06:18,265
+再多的爱
+{\fs12}No amount of love 
 
 714
-01:01:07,760 --> 01:01:08,950
-丹尼!
-Danny!
+01:06:18,349 --> 01:06:20,393
+也无法保护他免除这个情况
+{\fs12}can protect him from his condition.
 
 715
-01:01:09,260 --> 01:01:11,190
-没什么事
-Everything's okay!
+01:06:21,143 --> 01:06:22,103
+你知道的
+{\fs12}You know that. 
 
 716
-01:01:11,390 --> 01:01:14,560
-去你的房间玩会儿
-Just go play in your room for a while.
+01:06:22,853 --> 01:06:25,231
+你亲眼看到病况可能变得多糟
+{\fs12}You've seen with your own eyes how bad it can get.
 
 717
-01:01:14,900 --> 01:01:16,960
-你爸爸有些头痛
-Your dad's just got a headache.
+01:06:25,314 --> 01:06:26,857
+情况只会越来越糟
+{\fs12}It will only get worse, and by then, 
 
 718
-01:01:18,270 --> 01:01:21,290
-丹尼 听到我说什么了吗? 去你房间里玩
-Danny, mind what I say. Go play in your room.
+01:06:26,941 --> 01:06:28,526
+到时候就太迟了
+{\fs12}it's gonna be too late.
 
 719
-01:01:23,270 --> 01:01:26,210
-亲爱的 等我把他带走
-Honey, let me just go get him out of here.
+01:06:31,445 --> 01:06:33,489
+出去只有无尽的痛苦
+{\fs12}Out there, there's nothing but suffering.
 
 720
-01:01:26,410 --> 01:01:27,930
-我马上就回来
-I'll be right back.
+01:06:33,572 --> 01:06:35,950
+他在这里才是受苦
+{\fs12}There's only suffering for him in here.
 
 721
-01:01:29,850 --> 01:01:31,910
-你为什么不听我的话?
-Why don't you mind me?
+01:06:36,033 --> 01:06:38,327
+在这里，还有一丝机会
+{\fs12}In here, there's still a chance. 
 
 722
-01:01:38,520 --> 01:01:40,360
-哦 天啊
-Oh, my God.
+01:06:38,411 --> 01:06:39,245
+有吗？
+{\fs12}Is there?
 
 723
-01:01:41,560 --> 01:01:43,960
-你脖子上是怎么搞的?
-What happened to your neck?
+01:06:41,372 --> 01:06:43,290
+我需要知道你能救他
+{\fs12}I need to know that you can save him.
 
 724
-01:01:45,900 --> 01:01:48,030
-你脖子上到底是怎么回事?
-What happened to your neck?
+01:06:45,543 --> 01:06:47,503
+萝丝，有你站在我这边，我可以
+{\fs12}With you by my side, I can, Rose.
 
 725
-01:02:17,000 --> 01:02:18,970
-你对他这样的...
-You did this to him...
+01:06:54,927 --> 01:06:55,928
+妈！
+{\fs12}Mom!
 
 726
-01:02:19,400 --> 01:02:20,840
-不是你吗?
-...didn't you?!
+01:07:12,028 --> 01:07:13,320
+肯定是昨晚跑进来的
+{\fs12}Must have gotten in last night.
 
 727
-01:02:22,670 --> 01:02:24,730
-你这个狗娘养的
-You son of a bitch!
+01:07:14,530 --> 01:07:15,489
+爸
+{\fs12}Dad.
 
 728
-01:02:24,940 --> 01:02:26,810
-你居然这样对他!
-You did this to him!
+01:07:15,573 --> 01:07:18,034
+爸，妈妈在哪里，我们都得离开
+{\fs12}Dad,  where's Mom? We all need to leave right now.
 
 729
-01:02:27,010 --> 01:02:28,450
-你居然? !
-Didn't you?!
+01:07:18,659 --> 01:07:20,661
+她马上就回来了 -不
+{\fs12}She'll be back in a minute. -No.
 
 730
-01:02:29,780 --> 01:02:31,450
-你怎么可以这样? !
-How could you?!
+01:07:20,745 --> 01:07:22,496
+不，我们必须立刻走
+{\fs12}No, we have to leave right now.
 
 731
-01:02:31,690 --> 01:02:33,420
-你怎么忍心? !
-How could you?!
+01:07:22,580 --> 01:07:24,582
+爸，是她，是洪恩医生
+{\fs12}Dad, it's her. It's Dr. Horn.
 
 732
-01:04:03,290 --> 01:04:06,390
-我得来点喝的 无论要我付出什么代价
-God! I'd give anything for a drink.
+01:07:25,291 --> 01:07:26,959
+我看到她的档案了
+{\fs12}I saw her files.
 
 733
-01:04:09,030 --> 01:04:11,930
-即便付出我该死的灵魂...
-I'd give my goddamn soul...
+01:07:27,168 --> 01:07:29,879
+她的病患都没熬过第三疗程
+{\fs12}None of her patients made it past the third procedure.
 
 734
-01:04:12,140 --> 01:04:14,630
-能换来一杯啤酒
-...for just a glass of beer.
+01:07:30,212 --> 01:07:32,214
+爸，他们全死了
+{\fs12}Dad, they all died.
 
 735
-01:04:29,620 --> 01:04:31,110
-嗨 罗伊德
-Hi, Lloyd.
+01:07:37,344 --> 01:07:39,013
+你记得大草原吗？
+{\fs12}You remember the old meadow?
 
 736
-01:04:34,660 --> 01:04:37,060
-今晚似乎没什么人 不是吗?
-A little slow tonight, isn't it?
+01:07:40,931 --> 01:07:43,476
+我们带布朗森去过的 当时它还是小狗
+{\fs12}The one we took Bronson to when he was just a pup.
 
 737
-01:04:41,940 --> 01:04:44,200
-是的 特朗斯先生
-Yes it is, Mr. Torrance.
+01:07:46,145 --> 01:07:47,688
+昨晚我做了一个梦
+{\fs12}Last night, I had a dream 
 
 738
-01:04:46,280 --> 01:04:47,740
-想要点什么?
-What will it be?
+01:07:48,439 --> 01:07:51,275
+我们都在大草原上玩球
+{\fs12}that we were playing ball in the old meadow...
 
 739
-01:04:49,410 --> 01:04:52,380
-这个问题你问得好 罗伊德...
-I'm awfully glad you asked me that, Lloyd...
+01:07:52,693 --> 01:07:54,528
+布朗森在追球
+{\fs12}and Bronson was chasing the ball.
 
 740
-01:04:52,580 --> 01:04:55,920
-因为我正好有两张20块
-...because I just happen to have two twenties...
+01:07:54,612 --> 01:07:57,073
+它在攻击那颗球 还记得它以前常那样做吗？
+{\fs12}He was attacking it.  Remember how he used to do that?
 
 741
-01:04:56,120 --> 01:04:59,020
-和两张10块的钞票摆在我口袋里
-...and two tens right here in my wallet.
+01:07:58,240 --> 01:07:59,075
+爸
+{\fs12}Dad.
 
 742
-01:04:59,220 --> 01:05:02,490
-我正担心 它们会在口袋里待到下个春天呢
-I was afraid they were going to be there until next April.
+01:08:01,619 --> 01:08:02,745
+你吓到我了
+{\fs12}You're scaring me.
 
 743
-01:05:03,200 --> 01:05:05,030
-好 听着 我要的是:
-So here's what:
+01:08:04,872 --> 01:08:06,040
+不，过来
+{\fs12}No, no, no. Come here.
 
 744
-01:05:05,330 --> 01:05:07,630
-你给我一瓶波本...
-You slip me a bottle of bourbon...
+01:08:11,295 --> 01:08:13,589
+伊莱，你真是备受疼爱
+{\fs12}You are so loved, Eli.
 
 745
-01:05:07,840 --> 01:05:10,630
-和一个装了冰块的杯子
-...a little glass and some ice.
+01:08:14,924 --> 01:08:15,758
+你知道的
+{\fs12}You know that.
 
 746
-01:05:10,840 --> 01:05:12,860
-你能做到吧 不是吗 罗伊德?
-You can do that, can't you, Lloyd?
+01:08:18,344 --> 01:08:20,805
+有时候连我都吃你的醋 你妈会对你说…
+{\fs12}Sometimes I get jealous of you, the way Mom...
 
 747
-01:05:13,310 --> 01:05:15,680
-你并不很忙 是吧?
-You're not too busy, are you?
+01:08:22,139 --> 01:08:24,892
+“你知道我爱你，对吧？” 然后你回答
+{\fs12}says, "You know I love you, right?" And you say...
 
 748
-01:05:16,250 --> 01:05:18,740
-是的 先生 我一点都不忙
-No, sir. I'm not busy at all.
+01:08:25,434 --> 01:08:26,268
+我知道
+{\fs12}I know.
 
 749
-01:05:19,250 --> 01:05:20,810
-好伙计
-Good man.
+01:08:29,230 --> 01:08:30,606
+好像稀松平常
+{\fs12}Like it's nothing to you.
 
 750
-01:05:21,120 --> 01:05:22,210
-你把它们摆好...
-You set them up...
+01:08:33,651 --> 01:08:37,196
+我听了很高兴 你的口气仿佛那没什么
+{\fs12}That makes me happy, the way you say it like that, like it's nothing.
 
 751
-01:05:22,490 --> 01:05:25,350
-我会把它们各个击破
-...and I'll knock them back, one by one.
+01:08:38,531 --> 01:08:39,698
+爱很正常
+{\fs12}Love is normal.
 
 752
-01:05:26,490 --> 01:05:29,430
-白人的使命 罗伊德 我的伙计
-White man's burden, Lloyd, my man.
+01:08:40,533 --> 01:08:42,284
+你心中毫无怀疑
+{\fs12}There's just no doubt in your mind.
 
 753
-01:05:29,630 --> 01:05:31,790
-白人的使命 (暗指: 击退印地安人)
-White man's burden.
+01:08:44,620 --> 01:08:45,454
+伊莱
+{\fs12}Eli.
 
 754
-01:05:37,870 --> 01:05:39,000
-我说 罗伊德...
-Say, Lloyd...
+01:08:46,622 --> 01:08:49,542
+我很抱歉
+{\fs12}I'm so... sorry...
 
 755
-01:05:39,210 --> 01:05:41,970
-我好像一时有点轻飘飘了
-...it seems I'm temporarily light.
+01:08:50,835 --> 01:08:52,002
+对这一切都很抱歉
+{\fs12}for all this.
 
 756
-01:05:42,310 --> 01:05:44,740
-不管怎么说 我在这边信誉如何?
-How's my credit in this joint, anyway?
+01:08:55,548 --> 01:08:56,549
+过来
+{\fs12}Come here.
 
 757
-01:05:45,010 --> 01:05:47,380
-你的信誉很好 特朗斯先生
-Your credit's fine, Mr. Torrance.
+01:09:02,763 --> 01:09:03,764
+你为何要这样做？
+{\fs12}Why did you do that?
 
 758
-01:05:48,080 --> 01:05:49,710
-我可以发誓
-That's swell.
+01:09:05,099 --> 01:09:06,350
+带他去检验室
+{\fs12}Take him to the exam room.
 
 759
-01:05:49,920 --> 01:05:51,610
-我欣赏你 罗伊德
-I like you, Lloyd.
+01:09:09,270 --> 01:09:11,605
+放开我！你被她们洗脑了！
+{\fs12}Let go! She's brainwashed you!
 
 760
-01:05:51,820 --> 01:05:53,480
-我一直都欣赏你
-I always liked you.
+01:09:12,439 --> 01:09:13,649
+妈！爸！
+{\fs12}Mom! Dad! 
 
 761
-01:05:53,690 --> 01:05:56,020
-你是其中最优秀的
-You were always the best of them.
+01:09:13,732 --> 01:09:16,485
+你们要相信我！我看到档案了！
+{\fs12}You have to believe me! I saw the files!
 
 762
-01:05:56,230 --> 01:05:58,590
-好得不能再好的吧台招待...
-Best goddamned bartender...
+01:09:17,987 --> 01:09:19,029
+放手！
+{\fs12} Let go!
 
 763
-01:05:58,790 --> 01:06:01,730
-从蒂姆布克图到缅因州的波特兰
-...from Timbuktu to Portland, Maine.
+01:09:19,113 --> 01:09:21,115
+这是为了你好
+{\fs12}This is for your own good.
 
 764
-01:06:01,930 --> 01:06:04,160
-或是到俄勒冈州的波特兰 都是一样的
-Or Portland, Oregon, for that matter.
+01:09:21,574 --> 01:09:22,700
+不！
+{\fs12}No! 
 
 765
-01:06:04,430 --> 01:06:06,230
-谢谢夸奖
-Thank you for saying so.
+01:09:23,159 --> 01:09:24,702
+不，她会杀了我！
+{\fs12}No, she's gonna kill me!
 
 766
-01:06:08,540 --> 01:06:13,070
-在货车上过了备受煎熬的5个月...
-Here's to 5 miserable months on the wagon...
+01:09:25,161 --> 01:09:26,579
+就像她杀了其他人！
+{\fs12}Like she killed the others!
 
 767
-01:06:13,280 --> 01:06:17,340
-给我带来了永久的心灵创伤
-...and all the irreparable harm that it's caused me.
+01:09:26,954 --> 01:09:28,080
+放手！
+{\fs12} Let go! 
 
 768
-01:06:35,570 --> 01:06:38,040
-过得还顺利吧? 特朗斯先生
-How are things going, Mr. Torrance?
+01:09:28,164 --> 01:09:29,498
+为何镇静剂没发挥作用？
+{\fs12}Why isn't the sedation working?
 
 769
-01:06:39,380 --> 01:06:41,970
-情况会好转的
-Things could be better.
+01:09:29,790 --> 01:09:30,624
+妈！
+{\fs12}Mom! 
 
 770
-01:06:43,480 --> 01:06:46,240
-情况会整个彻底好转的
-Things could be a whole lot better.
+01:09:31,083 --> 01:09:33,169
+妈，拜托，你必须相信我！
+{\fs12}Mom, please, you have to believe me!
 
 771
-01:06:47,120 --> 01:06:49,450
-我希望没什么太大问题
-I hope it's nothing serious.
+01:09:33,669 --> 01:09:35,045
+她杀了她所有的…
+{\fs12}She killed all her--
 
 772
-01:06:52,460 --> 01:06:54,450
-没什么大问题啦
-Nothing serious.
+01:09:44,555 --> 01:09:45,514
+伊莱！
+{\fs12}Eli!
 
 773
-01:06:56,090 --> 01:07:01,990
-只是跟楼上的哪个老精子银行(注:温蒂) 有点小小问题
-Just a little problem with...the old sperm bank upstairs.
+01:09:45,848 --> 01:09:46,849
+伊莱！
+{\fs12}Eli!
 
 774
-01:07:02,200 --> 01:07:04,570
-但我完全可以掌握
-Nothing I can't handle, though.
+01:09:46,932 --> 01:09:47,808
+别跑！
+{\fs12}Stop!
 
 775
-01:07:04,770 --> 01:07:06,470
-谢谢
-Thanks.
+01:09:54,773 --> 01:09:56,734
+伊莱 -她移走档案了！
+{\fs12}Eli. -She moved them!
 
 776
-01:07:06,940 --> 01:07:07,930
-女人
-Women.
+01:09:56,817 --> 01:09:57,943
+她知道我发现了
+{\fs12} She knows I know. 
 
 777
-01:07:08,140 --> 01:07:09,670
-不能够和她们一起生活...
-Can't live with them...
+01:09:58,027 --> 01:09:58,861
+冷静下来
+{\fs12}Settle down.
 
 778
-01:07:09,880 --> 01:07:11,710
-离开她们又活不下去
-...can't live without them.
+01:09:58,944 --> 01:10:00,696
+你杀了你的病人，不是吗？
+{\fs12}You killed your patients, didn't you?
 
 779
-01:07:14,920 --> 01:07:16,480
-智慧金言 罗伊德
-Words of wisdom, Lloyd.
+01:10:01,488 --> 01:10:04,325
+你拿他们做实验，然后你杀了他们！
+{\fs12}You experimented on them, and then you murdered them!
 
 780
-01:07:16,690 --> 01:07:18,150
-智慧...
-Words of...
+01:10:04,867 --> 01:10:05,868
+但他们还在这里！
+{\fs12}But they're still here!
 
 781
-01:07:18,350 --> 01:07:19,880
-良言
-...wisdom.
+01:10:05,951 --> 01:10:07,953
+他们还在屋子里！
+{\fs12}They're still here in this house!
 
 782
-01:07:31,400 --> 01:07:34,630
-我绝没有碰他 妈的
-I never laid a hand on him, goddamn it.
+01:10:08,329 --> 01:10:09,747
+伊莱，呼吸 -退后！
+{\fs12}Eli, breathe. -Get back!
 
 783
-01:07:34,840 --> 01:07:36,470
-我没有
-I didn't.
+01:10:09,830 --> 01:10:12,124
+你不知道你病得多重 -离我远一点！
+{\fs12}You are sicker than you realize. -You get away from me!
 
 784
-01:07:38,510 --> 01:07:43,110
-连一根寒毛都没去碰
-I wouldn't touch one hair on his goddamn little head.
+01:10:12,208 --> 01:10:13,334
+你们通通退后！
+{\fs12}Get back, all of you!
 
 785
-01:07:43,720 --> 01:07:46,850
-我爱那个小王八蛋
-I love the little son of a bitch.
+01:10:14,793 --> 01:10:16,545
+我以为他们想伤害我
+{\fs12}I thought they were trying to hurt me,
 
 786
-01:07:48,460 --> 01:07:51,290
-我会为他做任何事
-I'd do anything for him.
+01:10:16,629 --> 01:10:18,047
+但他们没有伤害任何人
+{\fs12}but they never hurt anyone.
 
 787
-01:07:51,490 --> 01:07:54,290
-他妈的任何事情
-Any fucking thing for him.
+01:10:18,130 --> 01:10:19,298
+从头到尾都是你
+{\fs12}It was you the whole time. 
 
 788
-01:07:58,370 --> 01:08:00,930
-但那个婊子!
-But that bitch!
+01:10:19,381 --> 01:10:20,466
+伊莱，深呼吸
+{\fs12}Eli, take a breath.
 
 789
-01:08:01,940 --> 01:08:03,630
-只要我还活着...
-As long as I live...
+01:10:43,822 --> 01:10:46,158
+伊莱，我们只想帮助你
+{\fs12}Eli, we're all just trying to help you.
 
 790
-01:08:03,910 --> 01:08:07,310
-她就不会让我忘记发生过的事
-...she'll never let me forget what happened.
+01:10:46,825 --> 01:10:48,077
+开门
+{\fs12}Open the door.
 
 791
-01:08:16,920 --> 01:08:19,760
-我确实伤害过他一次 好不好?
-I did hurt him once, okay?
+01:10:48,702 --> 01:10:49,536
+伊莱
+{\fs12} Eli. 
 
 792
-01:08:20,130 --> 01:08:22,190
-单纯的意外
-It was an accident.
+01:10:49,620 --> 01:10:50,663
+伊莱！
+{\fs12} Eli. 
 
 793
-01:08:22,500 --> 01:08:25,090
-完全不算故意的
-Completely unintentional.
+01:10:51,455 --> 01:10:53,040
+好，我们从另一边进去
+{\fs12}Okay, we'll get in another way. 
 
 794
-01:08:26,370 --> 01:08:28,600
-任何人遇到那种事 都可能那样反应
-It could have happened to anybody.
+01:10:53,123 --> 01:10:53,999
+跟我来
+{\fs12}Come with me.
 
 795
-01:08:30,340 --> 01:08:33,800
-而且 他妈的 都过去三个年头了!
-And it was three goddamn years ago!
+01:12:20,794 --> 01:12:22,921
+爸、妈，我是对的，这地方不是…
+{\fs12}Mom, Dad, I was right. This place is not--
 
 796
-01:08:34,010 --> 01:08:36,840
-那小杂碎把我的稿纸扔满地
-The little fucker had thrown all my papers all over the floor.
+01:12:24,715 --> 01:12:25,591
+你在做什么？
+{\fs12}What are you doing? 
 
 797
-01:08:37,050 --> 01:08:39,520
-我只是想把他拉起来
-All I tried to do was pull him up.
+01:12:26,091 --> 01:12:27,343
+你在做什么？让我出去！
+{\fs12}What are you doing? Let me out!
 
 798
-01:08:42,290 --> 01:08:46,990
-一时肌肉动作失去协调
-A momentary loss of muscular coordination.
+01:12:27,509 --> 01:12:28,719
+让我走，我不能呼吸！
+{\fs12}Let me out. I can't breathe!
 
 799
-01:08:47,290 --> 01:08:48,520
-我是说...
-I mean...
+01:12:28,802 --> 01:12:30,179
+你不能把他留在那里
+{\fs12}You can't leave him in there.
 
 800
-01:08:49,060 --> 01:08:52,590
-力道多出几磅...
-...a few extra foot-pounds of energy...
+01:12:30,262 --> 01:12:31,180
+我无法呼吸！
+{\fs12}I can't breathe!
 
 801
-01:08:52,800 --> 01:08:55,630
-平均每秒 每秒才...
-...per second, per second.
+01:12:32,014 --> 01:12:33,015
+我们必须如此
+{\fs12}We have to. 
 
 802
-01:09:11,750 --> 01:09:13,650
-感谢上帝你在这里
-Thank God you're here.
+01:12:33,098 --> 01:12:34,141
+不！
+{\fs12}No!
 
 803
-01:09:16,890 --> 01:09:19,090
-旅馆里除了我们 还有另一个人在
-There's someone else in the hotel with us.
+01:12:34,683 --> 01:12:35,642
+他知道了
+{\fs12}He knows.
 
 804
-01:09:19,300 --> 01:09:21,820
-其中一间房子里有个疯女人
-There's a crazy woman in one of the rooms.
+01:12:58,332 --> 01:12:59,291
+伊莱
+{\fs12}Eli.
 
 805
-01:09:22,030 --> 01:09:24,590
-她想把丹尼掐死
-She tried to strangle Danny.
+01:13:13,972 --> 01:13:15,224
+我能呼吸
+{\fs12}I can breathe.
 
 806
-01:09:27,140 --> 01:09:29,540
-你他妈的神智不清了?
-Are you out of your fucking mind?
+01:13:19,103 --> 01:13:20,104
+我能呼吸
+{\fs12}I can breathe.
 
 807
-01:09:31,480 --> 01:09:33,500
-那是真的 真的!
-It's the truth! Really.
+01:13:20,729 --> 01:13:21,605
+我能呼吸
+{\fs12}I can breathe.
 
 808
-01:09:33,710 --> 01:09:35,700
-我发誓 丹尼告诉我的
-I swear it. Danny told me.
+01:13:31,323 --> 01:13:32,157
+妈！
+{\fs12}Mom! 
 
 809
-01:09:36,050 --> 01:09:37,910
-他上去 进入其中一间卧房
-He went up into one of the bedrooms.
+01:13:32,616 --> 01:13:34,118
+妈、爸，我的病好了！
+{\fs12}Mom, Dad, I'm not sick!
 
 810
-01:09:38,120 --> 01:09:41,580
-门是开着的 他看见这疯女人在浴缸里
-The door was open, and he saw this crazy woman in the bathtub.
+01:13:34,451 --> 01:13:35,744
+我可以呼吸了！
+{\fs12}I can breathe!
 
 811
-01:09:41,790 --> 01:09:44,120
-她想把他掐死!
-She tried to strangle him!
+01:13:40,749 --> 01:13:42,751
+为何你们说我生病了？
+{\fs12}Why did you tell me I was sick?
 
 812
-01:09:47,830 --> 01:09:49,590
-在哪个房间?
-Which room was it?
+01:13:45,045 --> 01:13:47,047
+为何你们说我会死？
+{\fs12}Why did you tell me I was gonna die?
 
 813
-01:09:57,240 --> 01:09:59,370
-来自迈阿密的10频道
-From Channel 10 in Miami...
+01:13:48,715 --> 01:13:49,716
+放我出去！
+{\fs12}Let me out! 
 
 814
-01:09:59,580 --> 01:10:01,940
-这里是新闻观察和格兰林克...
-...this is Newswatch with Glen Rinker...
+01:13:50,342 --> 01:13:51,343
+放我出去！
+{\fs12}Let me out!
 
 815
-01:10:02,150 --> 01:10:06,340
-安毕雪与广受好评的新闻观察小组
-...Ann Bishop, and the award- winning Newswatch team.
+01:13:53,679 --> 01:13:56,181
+拜托，妈，让我出去！ -萝丝
+{\fs12} Please, Mom, let me out! - Rose.
 
 816
-01:10:06,680 --> 01:10:09,120
-晚安 我是10频道新闻观察的格兰林克
-Good evening. I'm Glen Rinker, Newswatch Ten.
+01:13:56,557 --> 01:13:58,058
+放我出去！
+{\fs12}Let me out!
 
 817
-01:10:09,320 --> 01:10:12,450
-当迈阿密闷热的天气持续刷新记录 冬季的热浪...
-As Miami continues to swelter in a record winter heat wave...
+01:13:58,767 --> 01:13:59,601
+萝丝
+{\fs12}Rose.
 
 818
-01:10:12,660 --> 01:10:14,780
-带来超过华氏90度的高温...
-...bringing temperatures to the 90s...
+01:14:01,478 --> 01:14:03,522
+我知道他醒着，但我们快准备好了
+{\fs12}I know he's awake, but we're almost ready.
 
 819
-01:10:14,990 --> 01:10:18,120
-中部和山区的州区 却被埋在皑皑白雪之中
-...Central and Mountain states are buried in snow.
+01:14:03,605 --> 01:14:05,983
+我需要见他 -希望你别去，我们可以进行…
+{\fs12}I need to see him. -I wish you wouldn't. If we just proceed--
 
 820
-01:10:18,330 --> 01:10:22,320
-今晚光是科罗拉多 几个小时内就积了10英吋厚的雪
-In Colorado, 10 inches of snow fell injust a few hours tonight.
+01:14:06,066 --> 01:14:07,109
+我不是在求你
+{\fs12}I'm not asking.
 
 821
-01:10:22,540 --> 01:10:24,770
-几乎不可能在洛矶山脉从事旅游活动
-Travel in the Rockies is almost impossible.
+01:14:16,285 --> 01:14:17,119
+伊莱
+{\fs12}Eli.
 
 822
-01:10:24,970 --> 01:10:27,940
-机场被迫关闭 滞留了成千上万的旅客
-Airports are shut down, stranding thousands of passengers.
+01:14:18,454 --> 01:14:19,705
+伊莱，你听见我了吗？
+{\fs12}Eli, can you hear me?
 
 823
-01:10:28,140 --> 01:10:30,040
-高速公路被雪堆阻挡
-Highways are blocked by snowdrifts.
+01:14:23,333 --> 01:14:24,877
+很抱歉我骗了你
+{\fs12}I'm sorry I lied to you.
 
 824
-01:10:30,240 --> 01:10:32,010
-铁轨被冻住
-Railroad tracks are frozen.
+01:14:27,087 --> 01:14:29,214
+你对外界并没有过敏
+{\fs12}You were never allergic to the outside,
 
 825
-01:10:32,210 --> 01:10:34,240
-科罗拉多官方告知新闻观察...
-Officials in Colorado tell Newswatch...
+01:14:29,840 --> 01:14:33,093
+但我必须让你这样相信 才能保护你
+{\fs12}but I had to make you believe you were to protect you.
 
 826
-01:10:34,450 --> 01:10:38,010
-已经至少有三个人在寒风中被冻死
-...at least 3 have been killed by exposure to freezing winds.
+01:14:35,179 --> 01:14:36,889
+保护你远离外界
+{\fs12}Protect you from the world.
 
 827
-01:10:38,220 --> 01:10:40,520
-希望科罗拉多政府...
-The governor of Colorado is expected...
+01:14:45,481 --> 01:14:47,733
+我知道你肯定很困惑
+{\fs12}I know this must be so confusing...
 
 828
-01:10:40,720 --> 01:10:42,450
-宣布进入天气警戒状态
-...to declare a weather emergency.
+01:14:48,775 --> 01:14:50,068
+也很害怕
+{\fs12}and scary...
 
 829
-01:10:42,660 --> 01:10:44,490
-应动员全民进行防备...
-The National Guard might be called out...
+01:14:51,153 --> 01:14:52,946
+但没有人想伤害你，宝贝
+{\fs12}but no one's trying to hurt you, honey.
 
 830
-01:10:44,700 --> 01:10:45,890
-清除街道和公路积雪
-...to clear streets and roads.
+01:14:54,406 --> 01:14:56,408
+这一切都不是你的错
+{\fs12}And none of this is your fault.
 
 831
-01:10:46,100 --> 01:10:48,330
-天气预报 今晚到明天...
-Weather forecasters predict more snow...
+01:14:59,411 --> 01:15:00,454
+是我的错
+{\fs12}It's mine.
 
 832
-01:10:48,530 --> 01:10:50,520
-将有更多的降雪 并伴有强风...
-...and heavy winds tonight and tomorrow...
+01:15:03,999 --> 01:15:07,169
+可是宝贝，你必须完成最后疗程
+{\fs12}But, baby, you've got to see this last procedure through,
 
 833
-01:10:50,740 --> 01:10:53,360
-同时温度会降到0度以下
-...with temperatures dropping well below zero.
+01:15:07,836 --> 01:15:11,173
+然后我向你保证，我会解释一切的
+{\fs12}and then I promise you, I will explain everything.
 
 834
-01:10:53,570 --> 01:10:56,560
-回到佛罗里达 我们碰到了相反的问题
-Back here in Florida, we've got the opposite problem.
+01:15:14,259 --> 01:15:15,135
+伊莱
+{\fs12}Eli.
 
 835
-01:10:56,780 --> 01:10:59,010
-炎热和潮湿预计会更加恶化
-The heat and humidity are supposed to climb.
+01:15:17,095 --> 01:15:18,055
+伊莱！
+{\fs12}Eli.
 
 836
-01:10:59,210 --> 01:11:01,180
-应该封锁本地的沙滩
-Local beaches should bejammed.
+01:15:20,641 --> 01:15:21,475
+伊莱
+{\fs12}Eli.
 
 837
-01:11:01,380 --> 01:11:03,410
-我们的气象专家华特克朗斯...
-Our weather expert, Walter Cronice...
+01:15:34,112 --> 01:15:35,531
+那是伊莱 -那是伊莱！
+{\fs12} That was Eli. - Eli!
 
 838
-01:11:03,620 --> 01:11:06,880
-将在稍后的新闻观察里 为您播报本地天气预报
-...will have the local forecast later on Newswatch.
+01:15:36,240 --> 01:15:37,658
+伊莱！不！
+{\fs12}Eli! No!
 
 839
-01:16:38,570 --> 01:16:43,210
-对不起 您所拨的号码无法接通
-We're sorry. Your call cannot be completed as dialed.
+01:15:39,618 --> 01:15:40,702
+伊莱！
+{\fs12}Eli!
 
 840
-01:16:43,550 --> 01:16:46,680
-如果您需要帮助请拨叫接线员
-If you need assistance, please call the operator.
+01:15:58,720 --> 01:15:59,638
+伊莱！
+{\fs12}Eli!
 
 841
-01:17:02,640 --> 01:17:05,770
-- 杰克? - 是 是我
-- Jack? - Yes, it's me.
+01:15:59,972 --> 01:16:00,847
+开门！
+{\fs12}Open this door!
 
 842
-01:17:05,970 --> 01:17:07,410
-感谢上帝
-Thank God.
+01:16:02,182 --> 01:16:03,559
+开门！
+{\fs12}Open the door!
 
 843
-01:17:12,080 --> 01:17:13,840
-你找到什么了吗?
-Did you find anything?
+01:16:04,726 --> 01:16:05,561
+发生什么事？
+{\fs12}What's happening? 
 
 844
-01:17:14,050 --> 01:17:16,780
-没有 什么也没有
-No. Nothing at all.
+01:16:05,852 --> 01:16:07,229
+他们骗我！
+{\fs12}They lied to me!
 
 845
-01:17:17,390 --> 01:17:20,550
-我什么见鬼的东西都没看到
-I didn't see one goddamn thing.
+01:16:08,647 --> 01:16:09,898
+我没有生病！
+{\fs12}I'm not sick!
 
 846
-01:17:23,290 --> 01:17:26,790
-你去了丹尼说的那间房了吗? 去237?
-You went into the room Danny said? To 237?
+01:16:11,817 --> 01:16:13,068
+他们打算杀了我！
+{\fs12}They're gonna kill me!
 
 847
-01:17:27,000 --> 01:17:28,560
-是的 我去了
-Yes, I did.
+01:16:34,464 --> 01:16:35,549
+开门！
+{\fs12}Open this door!
 
 848
-01:17:29,030 --> 01:17:30,830
-你什么也没看到?
-And you didn't see anything at all?
+01:16:36,091 --> 01:16:38,093
+你不明白这是怎么回事！
+{\fs12}You don't understand what's happening here!
 
 849
-01:17:31,040 --> 01:17:33,030
-绝对没有
-Absolutely nothing.
+01:16:39,511 --> 01:16:40,345
+我办不到！
+{\fs12}I can't do it! 
 
 850
-01:17:33,240 --> 01:17:34,500
-他怎么样了?
-How is he?
+01:16:40,429 --> 01:16:41,430
+你可以的
+{\fs12}Yes, you can.
 
 851
-01:17:34,710 --> 01:17:36,500
-他还在睡
-He's still asleep.
+01:16:41,638 --> 01:16:43,557
+你比其他人坚强多了
+{\fs12}You're so much stronger than the others.
 
 852
-01:17:36,910 --> 01:17:38,040
-好
-Good.
+01:16:44,558 --> 01:16:45,434
+伊莱！
+{\fs12}Eli!
 
 853
-01:17:43,850 --> 01:17:46,940
-我肯定明天早上 他就会回过神来的
-I'm sure he'll be himself again in the morning.
+01:16:45,517 --> 01:16:46,643
+开门！
+{\fs12}Open this door!
 
 854
-01:17:51,430 --> 01:17:53,920
-你确定就是那个房间吗?
-Are you sure it was the right room?
+01:16:52,190 --> 01:16:53,358
+不要害怕
+{\fs12}Don't be afraid.
 
 855
-01:17:54,130 --> 01:17:57,290
-我是说 也许丹尼弄错了
-I mean, maybe Danny made a mistake.
+01:16:55,193 --> 01:16:56,236
+别怕，伊莱！
+{\fs12}Don't be afraid, Eli.
 
 856
-01:17:57,500 --> 01:17:59,870
-他一定就是进去那个房间
-He must have gone in that room.
+01:16:56,486 --> 01:16:58,488
+不！ -别怕
+{\fs12} No! - Don't be afraid.
 
 857
-01:18:00,070 --> 01:18:02,730
-门开着 灯也亮着
-The door was open, the lights were on.
+01:16:58,572 --> 01:16:59,406
+你
+{\fs12}You.
 
 858
-01:18:05,380 --> 01:18:07,710
-我只是弄不明白
-I just don't understand it.
+01:16:59,948 --> 01:17:01,783
+他们才该害怕！
+{\fs12}They're the ones who are afraid!
 
 859
-01:18:12,050 --> 01:18:15,080
-他脖子上的伤痕是怎么回事?
-What about those bruises on his neck?
+01:17:01,992 --> 01:17:04,536
+不不不
+{\fs12}No! No! No!
 
 860
-01:18:17,260 --> 01:18:19,590
-有人把他弄成那样的
-Somebody did that to him.
+01:17:40,405 --> 01:17:42,407
+不！放开我！
+{\fs12}No! Let go!
 
 861
-01:18:27,870 --> 01:18:29,300
-我想是...
-I think...
+01:17:48,038 --> 01:17:49,456
+不！ -把他的衣服脱掉
+{\fs12}No! -Get his shirt off.
 
 862
-01:18:30,970 --> 01:18:33,530
-他自己弄的
-...he did it to himself.
+01:17:50,207 --> 01:17:51,291
+把他的衣服脱掉
+{\fs12} No! - Get his shirt off.
 
 863
-01:18:39,550 --> 01:18:40,780
-不可能
-No.
+01:17:55,379 --> 01:17:56,213
+不！
+{\fs12}No! Unh.
 
 864
-01:18:41,450 --> 01:18:43,480
-那不可能
-That's not possible.
+01:17:57,047 --> 01:17:59,424
+爸！你为何要这样做？
+{\fs12Dad! }Why are you doing this?
 
 865
-01:18:48,790 --> 01:18:52,460
-一旦你排除他对所发生的事情的说法...
-Once you rule out his version of what happened...
+01:17:59,508 --> 01:18:00,342
+不！
+{\fs12}No!
 
 866
-01:18:52,700 --> 01:18:55,290
-就再没有其他解释了
-...there is no other explanation.
+01:18:01,927 --> 01:18:02,761
+不！
+{\fs12}No! No! 
 
 867
-01:18:55,770 --> 01:18:57,100
-有吗?
-Is there?
+01:18:03,387 --> 01:18:04,262
+不！
+{\fs12}No!
 
 868
-01:18:59,470 --> 01:19:02,370
-那和我们来这里前的那次事件...
-It wouldn't be that different from the episode...
+01:18:06,348 --> 01:18:07,265
+你在做什么？
+{\fs12}What are you doing?
 
 869
-01:19:02,580 --> 01:19:05,940
-没有什么不同的
-...that he had before we came up here.
+01:18:10,727 --> 01:18:11,561
+萝丝
+{\fs12}Rose. 
 
 870
-01:19:06,150 --> 01:19:07,370
-不是吗?
-Would it?
+01:18:12,229 --> 01:18:13,146
+你在做什么？
+{\fs12}What are you doing?
 
 871
-01:19:15,290 --> 01:19:18,280
-不管是什么原因...
-Whatever the explanation is...
+01:18:14,231 --> 01:18:15,148
+他说得对
+{\fs12}He was right.
 
 872
-01:19:21,730 --> 01:19:23,130
-我想我们...
-...I think we...
+01:18:17,109 --> 01:18:18,235
+她想杀了他
+{\fs12}She wants to kill him.
 
 873
-01:19:23,330 --> 01:19:26,060
-得带丹尼离开这里
-...have to get Danny out of here.
+01:18:19,736 --> 01:18:21,697
+我看到那些孩子的尸体了
+{\fs12}I saw the bodies of the children.
 
 874
-01:19:30,840 --> 01:19:32,670
-带他离开这里?
-Get him out of here?
+01:18:22,698 --> 01:18:24,491
+她把他们埋在下面
+{\fs12}She buried them down there.
 
 875
-01:19:36,850 --> 01:19:38,580
-你的意思是...
-You mean...
+01:18:27,035 --> 01:18:28,370
+她没有救他们
+{\fs12}She didn't save any of them.
 
 876
-01:19:39,620 --> 01:19:41,590
-离开这座旅馆?
-...just leave the hotel?
+01:18:30,330 --> 01:18:32,499
+为何你告诉我，你能救他？
+{\fs12}Why did you tell me you could save him?
 
 877
-01:19:50,570 --> 01:19:52,030
-制造一个像这样的问题...
-It is so...
+01:18:33,333 --> 01:18:34,918
+因为我可以
+{\fs12}Because I can.
 
 878
-01:19:52,230 --> 01:19:54,670
-这正是你的风格
-...typical of you to create a problem like this...
+01:18:35,001 --> 01:18:37,587
+我以为我可以治好伊莱 天知道我有多想救他
+{\fs12}I thought I could cure Eli. God knows I wanted to.
 
 879
-01:19:54,870 --> 01:19:57,400
-当我总算有机会完成什么的时候!
-...when I finally have a chance to accomplish something!
+01:18:38,046 --> 01:18:40,340
+要不是他这么强悍 基因疗法会有效的
+{\fs12}The gene therapy would've worked if he weren't so strong.
 
 880
-01:19:57,610 --> 01:20:00,170
-当我真正投入我的作品的时候!
-When I'm really into my work!
+01:18:41,091 --> 01:18:42,342
+他已经失控了
+{\fs12}He's too far gone, 
 
 881
-01:20:00,380 --> 01:20:04,340
-如果现在回去 我真的能写出自己的大作 不是吗?
-I could really write my own ticket if I went back now, couldn't I?
+01:18:42,801 --> 01:18:44,636
+但他还是能得救的
+{\fs12}but he could still be saved.
 
 882
-01:20:04,550 --> 01:20:08,280
-铲铲车道 洗洗车子
-Shoveling out driveways, work in a car wash.
+01:18:45,053 --> 01:18:46,346
+妈，她在说什么？
+{\fs12}Mom, what is she talking about? 
 
 883
-01:20:08,490 --> 01:20:10,580
-这类事情很吸引你?
-Any of that appeal to you?
+01:18:46,847 --> 01:18:48,849
+妈… -退后！
+{\fs12}Mom! -Get back! Get back!
 
 884
-01:20:11,790 --> 01:20:14,490
-到现在我一直让你糟蹋我的生活...
-I have let you fuck up my life so far...
+01:18:50,350 --> 01:18:51,601
+别碰我的儿子
+{\fs12}Don't you touch my son.
 
 885
-01:20:14,690 --> 01:20:18,320
-这次我不会再让你糟蹋了
-...but I am not going to let you fuck this up.
+01:18:52,686 --> 01:18:53,979
+我们必须救他出去
+{\fs12}We've got to get him out of here.
 
 886
-01:21:36,260 --> 01:21:38,550
-晚安 森林服务台
-Good evening. Forest Service.
+01:18:54,062 --> 01:18:56,523
+他不能离开这里，你知道的 他这个样子不行
+{\fs12}He cannot leave here. You know that. Not the way he is.
 
 887
-01:21:39,130 --> 01:21:40,560
-我叫迪克·霍洛朗
-My name is Dick Hallorann.
+01:18:56,606 --> 01:18:58,400
+我会救你出去，宝贝
+{\fs12}I'll get you out of here, honey. 
 
 888
-01:21:40,760 --> 01:21:43,190
-我是遥望旅馆的厨师长
-I'm the head chef at the Overlook Hotel.
+01:18:58,483 --> 01:18:59,568
+我们要离开
+{\fs12}We're gonna leave.
 
 889
-01:21:43,400 --> 01:21:45,520
-晚安 有什么我能为您效劳吗?
-Good evening. What can I do for you?
+01:19:00,026 --> 01:19:01,319
+宝贝，解开…
+{\fs12}Honey, get this...
 
 890
-01:21:45,730 --> 01:21:49,290
-我一直想打个电话到那上面去 很急...
-I've been trying to make an urgent phone call up there...
+01:19:02,404 --> 01:19:03,739
+放开我！ -萝丝
+{\fs12}Get off of me! Rose.
 
 891
-01:21:49,500 --> 01:21:52,800
-但接线员告诉我线路不通
-...but the operator said that the phone lines are down.
+01:19:03,822 --> 01:19:04,656
+萝丝
+{\fs12}Rose.
 
 892
-01:21:53,010 --> 01:21:56,600
-这周围的很多线路在暴风雪里都断掉了
-A lot of lines around here are down due to the storm.
+01:19:06,241 --> 01:19:07,367
+让我帮助你
+{\fs12}Let me help you.
 
 893
-01:21:56,810 --> 01:21:59,480
-我不想给您带来任何麻烦...
-I hate to put you through any trouble...
+01:19:08,452 --> 01:19:10,328
+你要帮助我，带他离开这里？
+{\fs12}You're gonna help me get him out of here.
 
 894
-01:21:59,680 --> 01:22:02,910
-但现在有一家人孤零零的在上头 还带着个小孩子
-...but there's a family up there all by themselves with a young kid.
+01:19:12,247 --> 01:19:13,123
+我会帮助你
+{\fs12}I'll help you.
 
 895
-01:22:03,120 --> 01:22:04,780
-又遇到了这场暴风雪 总之...
-And with this storm and everything...
+01:19:13,665 --> 01:19:14,791
+你保证？ -对
+{\fs12}Promise? -Yes.
 
 896
-01:22:04,990 --> 01:22:07,890
-如果您能用无线电联系上他们的话 我会非常感激的...
-...I'd appreciate it if you'd give them a call on your radio...
+01:19:16,042 --> 01:19:17,085
+解开他，拜托
+{\fs12}Untie him, please.
 
 897
-01:22:08,090 --> 01:22:10,080
-只是想看看是不是一切正常
-...just to see if everything's okay.
+01:19:23,049 --> 01:19:23,884
+救他
+{\fs12}Save him.
 
 898
-01:22:10,600 --> 01:22:11,890
-我很乐意这么做
-I'll be glad to do that.
+01:19:27,763 --> 01:19:28,597
+保罗
+{\fs12}Paul.
 
 899
-01:22:12,100 --> 01:22:14,900
-你为什么不20分钟后再打给我呢?
-Why don't you call me back in about 20 minutes?
+01:19:29,431 --> 01:19:30,682
+保罗，你在干嘛？ -不！
+{\fs12}Paul, what are you doing? -No!
 
 900
-01:22:15,100 --> 01:22:17,130
-非常感谢 我会那样做的
-Thank you very much. I'll do that.
+01:19:31,349 --> 01:19:32,517
+我可以拯救他的灵魂
+{\fs12}I can save his soul. 
 
 901
-01:22:17,340 --> 01:22:18,770
-好的 先生
-All right, sir.
+01:19:33,059 --> 01:19:34,227
+不，你在做什么？
+{\fs12}No. What are you doing?
 
 902
-01:22:39,090 --> 01:22:41,060
-晚安 特朗斯先生
-Good evening, Mr. Torrance.
+01:19:34,311 --> 01:19:36,188
+她会杀了他！ -不！
+{\fs12}She's gonna kill him! -No!
 
 903
-01:22:41,260 --> 01:22:42,730
-晚安
-Good evening.
+01:19:36,271 --> 01:19:37,814
+不！ -不！
+{\fs12}No! -No!
 
 904
-01:23:07,290 --> 01:23:08,760
-嗨 罗伊德
-Hi, Lloyd.
+01:19:37,898 --> 01:19:39,900
+不，放开我！
+{\fs12}Get off of me! No, get off me!
 
 905
-01:23:08,960 --> 01:23:10,830
-离开了一阵子 但现在我又回来了
-Been away, but now I'm back.
+01:19:40,108 --> 01:19:41,151
+不！ -爸！
+{\fs12}No! -Dad!
 
 906
-01:23:11,100 --> 01:23:12,830
-晚安 特朗斯先生
-Good evening, Mr. Torrance.
+01:19:41,985 --> 01:19:43,695
+萝丝！ -爸！
+{\fs12}Rose! -Dad!
 
 907
-01:23:13,500 --> 01:23:14,490
-见到你真好
-It's good to see you.
+01:19:43,779 --> 01:19:45,781
+你在做什么！
+{\fs12}What are you doing?
 
 908
-01:23:14,700 --> 01:23:17,370
-回来真不错 罗伊德
-It's good to be back, Lloyd.
+01:19:45,864 --> 01:19:48,408
+爸！你为何要这么做！
+{\fs12}Dad! Dad, why are you doing this?
 
 909
-01:23:18,010 --> 01:23:19,740
-来点什么呢 先生?
-What'll it be, sir?
+01:19:49,159 --> 01:19:50,619
+不！
+{\fs12}No! No!
 
 910
-01:23:20,540 --> 01:23:22,810
-那只咬过我的狗 它身上的毛 (注: 以毒攻毒之意)
-Hair of the dog that bit me.
+01:19:53,747 --> 01:19:54,581
+伊莱
+{\fs12}Eli...
 
 911
-01:23:24,210 --> 01:23:25,880
-加冰的波本酒
-Bourbon on the rocks.
+01:19:55,749 --> 01:19:58,335
+你被带来这里，是满怀爱与希望的
+{\fs12}you were brought here with love and hope.
 
 912
-01:23:26,720 --> 01:23:28,120
-就这么办
-That'll do her.
+01:19:58,418 --> 01:19:59,294
+不
+{\fs12}No!
 
 913
-01:23:41,640 --> 01:23:43,900
-不收您的钱 特朗斯先生
-No charge to you, Mr. Torrance.
+01:19:59,336 --> 01:20:02,506
+你的爸妈和我合作良久 远远超过你所知
+{\fs12}Your parents have been working with me for longer than you realized.
 
 914
-01:23:45,340 --> 01:23:47,310
-不收钱?
-No charge?
+01:20:02,589 --> 01:20:04,132
+不！
+{\fs12}No. No!
 
 915
-01:23:47,940 --> 01:23:49,930
-您的钱在这里用不上
-Your money's no good here.
+01:20:04,466 --> 01:20:06,384
+你的病…
+{\fs12}The sickness you have--
 
 916
-01:23:55,580 --> 01:23:57,310
-是房子的命令
-Orders from the house.
+01:20:06,468 --> 01:20:08,220
+我没有病，我能呼吸
+{\fs12}I'm not sick. I could breathe.
 
 917
-01:24:00,520 --> 01:24:03,020
-房子的命令
-Orders from the house.
+01:20:09,012 --> 01:20:10,055
+我可以呼吸
+{\fs12}I could breathe.
 
 918
-01:24:06,260 --> 01:24:08,250
-喝光吧 特朗斯先生
-Drink up, Mr. Torrance.
+01:20:12,057 --> 01:20:14,434
+你的病因不是来自外界
+{\fs12}The sickness you have doesn't come from outside.
 
 919
-01:24:10,470 --> 01:24:15,000
-我是那种喜欢知道 是谁在帮谁买酒的人 罗伊德
-I'm the kind of man likes to know who's buying their drinks, Lloyd.
+01:20:15,560 --> 01:20:16,686
+而是来自体内
+{\fs12}It comes from within.
 
 920
-01:24:17,310 --> 01:24:20,240
-那与你无关 特朗斯先生
-It's not a matter that concerns you, Mr. Torrance.
+01:20:17,437 --> 01:20:18,522
+我做了什么？
+{\fs12}What did I do?
 
 921
-01:24:20,450 --> 01:24:22,380
-至少 在这点上无关
-At least, not at this point.
+01:20:19,940 --> 01:20:20,774
+我做了什么？
+{\fs12}What did I do? 
 
 922
-01:24:27,190 --> 01:24:29,590
-随你怎么说 罗伊德
-Anything you say, Lloyd.
+01:20:21,024 --> 01:20:22,400
+你还没做错什么
+{\fs12}You didn't do anything wrong.
 
 923
-01:24:30,020 --> 01:24:32,020
-随你怎么说
-Anything you say.
+01:20:24,528 --> 01:20:25,445
+但是你将来会的
+{\fs12}But you will.
 
 924
-01:24:45,010 --> 01:24:47,480
-噢 天啊! 我真的很抱歉 先生
-Oh, dear! I'm so sorry, sir.
+01:20:29,699 --> 01:20:31,910
+妈！这是怎么回事？
+{\fs12}Mom! Mom, what's happening?
 
 925
-01:24:48,580 --> 01:24:50,050
-噢 我的天!
-Oh, dear. Oh, dear.
+01:20:34,454 --> 01:20:36,623
+以圣父、圣子和圣灵之名
+{\fs12}In the name of the Father, the Son, and the Holy Ghost.
 
 926
-01:24:50,250 --> 01:24:52,810
-我把您的夹克弄得一团糟 先生
-I've made an awful mess of your jacket, sir.
+01:20:37,207 --> 01:20:38,124
+阿们
+{\fs12}Amen.
 
 927
-01:24:54,050 --> 01:24:57,680
-没关系 我有很多的夹克
-That's all right. I've got plenty of jackets.
+01:20:45,549 --> 01:20:46,883
+圣米迦勒大天使
+{\fs12}Saint Michael the Archangel,
 
 928
-01:24:57,890 --> 01:25:00,690
-但这是蛋酒 先生 它常常会留下污点
-I'm afraid it's advocaat, sir. It tends to stain.
+01:20:47,259 --> 01:20:49,177
+天堂大军的杰出领袖
+{\fs12}illustrious leader of the heavenly army,
 
 929
-01:25:00,890 --> 01:25:02,020
-蛋酒 是吗?
-Advocaat, is it?
+01:20:49,261 --> 01:20:52,013
+为了保护我们 力战黑暗世界的统治者
+{\fs12}defend us in the battle against the rulers of the world of darkness,
 
 930
-01:25:02,230 --> 01:25:04,390
-是的 先生 我想最好的办法...
-Yes, sir. I think the best thing...
+01:20:52,097 --> 01:20:54,182
+以及居于高位的恶灵
+{\fs12}and in the spirit of wickedness in high places,
 
 931
-01:25:04,600 --> 01:25:06,790
-就是去男洗手间...
-...is to come along to the gentlemen's room...
+01:20:54,266 --> 01:20:57,060
+听从我的祈祷 -让祂听见我们的祈祷
+{\fs12}heed my prayer. -Let our prayers be heard by thee.
 
 932
-01:25:07,000 --> 01:25:09,530
-然后我们用水擦一下 先生
-...and we'll get some water to it, sir.
+01:20:58,019 --> 01:20:58,895
+上帝出现了
+{\fs12}God arises,
 
 933
-01:25:10,370 --> 01:25:13,670
-看起来好像你身上也沾了一点...
-Looks like you might have got a spot of it on yourself...
+01:20:59,521 --> 01:21:03,316
+祂的敌人溃散 痛恨祂的恶灵在祂面前四散奔逃
+{\fs12}his enemies scattered, and those who hate him flee before him.
 
 934
-01:25:13,880 --> 01:25:14,860
-杰佛西老伙计
-...Jeevesy old boy.
+01:21:08,530 --> 01:21:10,532
+被诅咒的恶魔兵团
+{\fs12}"Accursed diabolical legion,
 
 935
-01:25:15,080 --> 01:25:18,240
-那没关系 先生 您比较重要
-That doesn't matter, sir. You're the important one.
+01:21:10,615 --> 01:21:13,535
+我们放弃你 以永生、真实、神圣的上帝之名
+{\fs12}we abjure you by the living God, by the true God, by the holy God,
 
 936
-01:25:18,550 --> 01:25:20,950
-你这么说真是太好了
-Awfully nice of you to say.
+01:21:13,618 --> 01:21:17,122
+祂如此关爱这个世界 把唯一的圣子赐予我们
+{\fs12}who so loved the world that he gave us his only begotten son
 
 937
-01:25:21,380 --> 01:25:24,250
-当然 我想过在晚会前
-Of course, I intended to change my jacket this evening...
+01:21:17,205 --> 01:21:19,165
+好让祂的信徒不会灭亡
+{\fs12}so that those who believe in him may not perish 
 
 938
-01:25:24,460 --> 01:25:26,720
-换件夹克...
-...before the fish and goose soiree.
+01:21:19,249 --> 01:21:20,250
+而是得到永生
+{\fs12}but have everlasting life.
 
 939
-01:25:26,920 --> 01:25:28,950
-很明智 先生 非常明智
-Very wise, sir. Very wise.
+01:21:20,333 --> 01:21:22,627
+去吧，毒蛇、谎言之主！
+{\fs12}Begone, serpent, master of lies!
 
 940
-01:25:29,160 --> 01:25:30,490
-这儿 我帮你...
-Here. I'll just...
+01:21:23,420 --> 01:21:26,339
+以耶稣基督之名，救我们脱离邪恶！
+{\fs12}In the name of our Lord Jesus Christ, deliver us!
 
 941
-01:25:31,300 --> 01:25:33,560
-拿着这个 杰佛西
-...hold this for you there, Jeevesy.
+01:21:27,299 --> 01:21:28,133
+不！
+{\fs12}No! Aah! Aah!
 
 942
-01:25:33,770 --> 01:25:35,560
-先生 谢谢
-Thank you, sir. Thank you.
+01:21:33,972 --> 01:21:36,099
+愿圣水洁净你的皮肤
+{\fs12}May this holy water purify the skin.
 
 943
-01:25:36,600 --> 01:25:40,230
-看看沾点水是不是会好些 先生
-Let's see if we can improve this with a little water, sir.
+01:21:52,449 --> 01:21:54,451
+愿这把匕首
+{\fs12}May this dagger...
 
 944
-01:25:40,440 --> 01:25:41,700
-好吧 我把...
-All right. I'll just...
+01:21:55,368 --> 01:21:56,870
+净化你的灵魂
+{\fs12}purify the soul.
 
 945
-01:25:41,910 --> 01:25:46,110
-我的波本酒和蛋酒放在这儿
-...set my bourbon and advocaat down right there.
+01:22:04,419 --> 01:22:06,463
+愿你求得平静与原谅
+{\fs12}May you find peace and forgiveness
 
 946
-01:25:46,680 --> 01:25:48,110
-耽误不了您不多久时间
-Won't keep you a moment.
+01:22:06,922 --> 01:22:08,423
+重回上帝的怀抱，伊莱
+{\fs12}in the arms of the Lord, Eli.
 
 947
-01:25:48,320 --> 01:25:49,720
-好
-Fine.
+01:22:09,507 --> 01:22:10,592
+伊莱！
+{\fs12}Eli!
 
 948
-01:25:52,790 --> 01:25:54,450
-他们是怎么叫你的呢 杰佛西?
-What do they call you, Jeevesy?
+01:22:37,410 --> 01:22:38,411
+不！
+{\fs12}No!
 
 949
-01:25:54,660 --> 01:25:57,220
-格瑞第 先生 戴伯特·格瑞第
-Grady, sir. Delbert Grady.
+01:22:42,791 --> 01:22:43,708
+洪恩医生！
+{\fs12}Dr. Horn!
 
 950
-01:26:02,000 --> 01:26:02,830
-格瑞第?
-Grady?
+01:22:43,792 --> 01:22:45,502
+洪恩医生！ -我的上帝！
+{\fs12}Dr. Horn! -Dios mío!
 
 951
-01:26:03,030 --> 01:26:04,360
-是的 先生
-Yes, sir.
+01:22:45,585 --> 01:22:47,712
+洪恩医生！
+{\fs12}Dr. Horn. Dr. Horn!
 
 952
-01:26:05,540 --> 01:26:06,870
-戴伯特·格瑞第
-Delbert Grady.
+01:23:16,700 --> 01:23:20,370
+快点起来！我们必须离开这里！
+{\fs12}Come on, get up! We gotta get out of here!
 
 953
-01:26:07,070 --> 01:26:08,590
-对 先生
-That's right, sir.
+01:23:27,585 --> 01:23:28,920
+开门
+{\fs12}Open the door!
 
 954
-01:26:17,320 --> 01:26:18,750
-格瑞第先生...
-Mr. Grady...
+01:23:29,045 --> 01:23:31,089
+天啊！
+{\fs12}Oh, my God!
 
 955
-01:26:19,520 --> 01:26:21,610
-我该不会以前在哪儿见过你吧?
-...haven't I seen you somewhere before?
+01:23:35,051 --> 01:23:35,885
+看好了
+{\fs12}Watch.
 
 956
-01:26:21,820 --> 01:26:24,520
-为什么...? 不是 先生 我不这么认为
-Why, no, sir. I don't believe so.
+01:23:47,439 --> 01:23:48,314
+伊莱
+{\fs12}Eli.
 
 957
-01:26:31,570 --> 01:26:33,400
-擦掉了 先生
-It's coming off now, sir.
+01:23:52,235 --> 01:23:54,195
+她在我体内放了什么？
+{\fs12}What has she been putting inside me?
 
 958
-01:26:38,340 --> 01:26:39,900
-格瑞第先生...
-Mr. Grady...
+01:23:56,197 --> 01:23:57,032
+放她们走
+{\fs12}Let them go.
 
 959
-01:26:41,410 --> 01:26:43,880
-你不是曾经担任过这里的看管员吗?
-...weren't you once the caretaker here?
+01:23:58,033 --> 01:24:00,618
+你一直在我体内放了什么？
+{\fs12}What have you been putting inside me?
 
 960
-01:26:44,080 --> 01:26:46,880
-为什么...? 不是 先生 我不这么认为
-Why, no, sir. I don't believe so.
+01:24:03,079 --> 01:24:04,039
+药物
+{\fs12}Medicine...
 
 961
-01:26:49,920 --> 01:26:53,250
-你结婚了 是吗 格瑞第先生?
-You a married man, are you, Mr. Grady?
+01:24:05,457 --> 01:24:06,791
+让你觉得舒服一点
+{\fs12}to make you feel better.
 
 962
-01:26:53,460 --> 01:26:54,290
-是的 先生
-Yes, sir.
+01:24:06,875 --> 01:24:07,709
+谎话！
+{\fs12}Lie!
 
 963
-01:26:54,490 --> 01:26:57,760
-我有妻子和两个女儿 先生
-I have a wife and two daughters, sir.
+01:24:09,836 --> 01:24:10,795
+圣水
+{\fs12}Holy water.
 
 964
-01:26:58,800 --> 01:27:00,320
-那...
-And...
+01:24:12,630 --> 01:24:13,840
+只是圣水
+{\fs12}It's holy water.
 
 965
-01:27:02,000 --> 01:27:03,260
-她们现在在哪里?
-...where are they now?
+01:24:15,675 --> 01:24:17,635
+注射的药是谭尼斯根
+{\fs12}The injections were tannis roots.
 
 966
-01:27:03,470 --> 01:27:07,530
-她们就在附近的某个地方 我现在也不能确定
-They're somewhere around. I'm not quite sure at the moment.
+01:24:18,636 --> 01:24:21,639
+一种抑制的药剂 好让她修补你的基因
+{\fs12}Suppression medication while she worked on your genes.
 
 967
-01:27:15,720 --> 01:27:17,320
-格瑞第先生...
-Mr. Grady...
+01:24:28,188 --> 01:24:29,314
+我是什么？
+{\fs12}What am I?
 
 968
-01:27:18,220 --> 01:27:20,620
-你曾是这里的看管员
-You were the caretaker here.
+01:24:30,440 --> 01:24:31,733
+我到底是谁？
+{\fs12}What am I?!
 
 969
-01:27:22,090 --> 01:27:24,080
-我认出你了
-I recognize you.
+01:24:31,816 --> 01:24:32,901
+你是我们的儿子
+{\fs12}You're our son.
 
 970
-01:27:25,460 --> 01:27:28,520
-我在报纸上看到过你的照片
-I saw your picture in the newspapers.
+01:24:33,193 --> 01:24:34,444
+说谎！
+{\fs12}Lie!
 
 971
-01:27:28,970 --> 01:27:30,730
-你...
-You...
+01:24:38,490 --> 01:24:39,908
+你是我的儿子！
+{\fs12}You're my son!
 
 972
-01:27:31,200 --> 01:27:34,730
-把你的妻子和女儿剁成碎片
-...chopped your wife and daughter up into little bits.
+01:24:42,243 --> 01:24:43,119
+那我的父亲呢？
+{\fs12}And my father?
 
 973
-01:27:35,240 --> 01:27:36,640
-然后...
-And...
+01:24:46,122 --> 01:24:47,373
+我祈祷了，伊莱
+{\fs12}I prayed, Eli.
 
 974
-01:27:37,280 --> 01:27:39,210
-你把你自己的脑袋轰掉了
-...then you blew your brains out.
+01:24:48,625 --> 01:24:50,585
+我每天都祈祷
+{\fs12}I prayed every day.
 
 975
-01:27:49,120 --> 01:27:50,890
-那真奇怪 先生
-That's strange, sir.
+01:24:52,378 --> 01:24:53,588
+向谁祈祷？
+{\fs12}Prayed to who?
 
 976
-01:27:51,890 --> 01:27:54,620
-我对这个完全没有一点印象
-I don't have any recollection of that at all.
+01:24:58,968 --> 01:25:00,428
+向谁祈祷？
+{\fs12}Prayed to who?!
 
 977
-01:27:58,300 --> 01:28:00,170
-格瑞第先生...
-Mr. Grady...
+01:25:12,857 --> 01:25:14,317
+向谁祈祷？
+{\fs12}Prayed... to... who?
 
 978
-01:28:00,600 --> 01:28:03,940
-你曾是这里的看管员
-...you were the caretaker here.
+01:25:16,194 --> 01:25:17,695
+上帝没有回答我
+{\fs12}The Lord didn't answer me.
 
 979
-01:28:11,750 --> 01:28:14,510
-很抱歉我和你不一样 先生
-I'm sorry to differ with you, sir.
+01:25:20,657 --> 01:25:21,908
+但你的父亲回答了
+{\fs12}But your father did.
 
 980
-01:28:16,390 --> 01:28:18,120
-但是你...
-But you...
+01:25:23,701 --> 01:25:25,912
+他保证过你不会像他一样，伊莱
+{\fs12}He promised me you wouldn't be like him, Eli.
 
 981
-01:28:18,860 --> 01:28:20,690
-才是看管员
-...are the caretaker.
+01:25:27,956 --> 01:25:29,374
+但是他说谎
+{\fs12}But he lied.
 
 982
-01:28:22,960 --> 01:28:25,870
-你一直都是看管员
-You've always been the caretaker.
+01:25:34,504 --> 01:25:36,506
+恶魔总是说谎
+{\fs12}The Devil always lies.
 
 983
-01:28:28,770 --> 01:28:30,600
-我应该知道 先生
-I should know, sir.
+01:25:38,925 --> 01:25:39,926
+伊莱！
+{\fs12}Eli.
 
 984
-01:28:32,040 --> 01:28:34,630
-我一直都在这里
-I've always been here.
+01:25:59,237 --> 01:26:01,239
+我曾经那么迫切地想要你
+{\fs12}I wanted you so desperately.
 
 985
-01:28:52,860 --> 01:28:55,060
-你知道吗 特朗斯先生...
-Did you know, Mr. Torrance...
+01:26:10,665 --> 01:26:11,916
+原谅我
+{\fs12}Forgive me.
 
 986
-01:28:55,300 --> 01:28:57,060
-你的儿子...
-...that your son...
+01:26:37,192 --> 01:26:38,026
+伊莱
+{\fs12}Eli.
 
 987
-01:28:57,470 --> 01:29:00,170
-正试图带外面的一帮人...
-...is attempting to bring an outside party...
+01:28:02,026 --> 01:28:03,278
+嘿，胡迪尼
+{\fs12}Hey, Houdini.
 
 988
-01:29:00,370 --> 01:29:02,570
-加入到这里来?
-...into this situation?
+01:28:06,739 --> 01:28:08,783
+我就知道你比其他人更强大
+{\fs12}I knew you were stronger than the others.
 
 989
-01:29:05,150 --> 01:29:06,840
-你知道这个吗?
-Did you know that?
+01:28:10,535 --> 01:28:11,369
+其他人？
+{\fs12}The others?
 
 990
-01:29:13,090 --> 01:29:15,180
-他正是 特朗斯先生
-He is, Mr. Torrance.
+01:28:12,912 --> 01:28:13,788
+佩利？
+{\fs12}Perry?
 
 991
-01:29:17,530 --> 01:29:18,690
-谁?
-Who?
+01:28:14,122 --> 01:28:15,790
+路西斯和艾格妮丝
+{\fs12}And Lucius and Agnes,
 
 992
-01:29:20,930 --> 01:29:22,560
-一个黑鬼
-A nigger.
+01:28:16,416 --> 01:28:18,835
+你不幸死去的异母兄弟姐妹
+{\fs12}your sadly departed half-brother and sister.
 
 993
-01:29:26,640 --> 01:29:28,040
-一个黑鬼?
-A nigger?
+01:28:22,755 --> 01:28:23,589
+爸爸到处留种
+{\fs12}Dad gets around.
 
 994
-01:29:30,780 --> 01:29:32,210
-一个黑鬼...
-A nigger...
+01:28:24,882 --> 01:28:28,177
+如果你早就知道，可以直接告诉我的
+{\fs12}If you knew the whole time, you could've just told me.
 
 995
-01:29:32,410 --> 01:29:33,500
-厨子
-...cook.
+01:28:29,053 --> 01:28:30,638
+要是我说了，你会相信吗？
+{\fs12}Would you have believed me if I had?
 
 996
-01:29:40,020 --> 01:29:41,280
-怎么带法?
-How?
+01:28:31,472 --> 01:28:33,766
+有时你必须靠自己去经历
+{\fs12}Sometimes you just have to walk the path for yourself.
 
 997
-01:29:43,560 --> 01:29:45,320
-你的儿子...
-Your son...
+01:28:34,684 --> 01:28:37,103
+况且，我们不准释放对方
+{\fs12}Besides, we're not allowed to set each other free.
 
 998
-01:29:45,760 --> 01:29:48,560
-有一种非常好的天赋
-...has a very great talent.
+01:28:37,520 --> 01:28:38,354
+为什么不能？
+{\fs12}Why not?
 
 999
-01:29:49,530 --> 01:29:53,020
-我认为你都不知道那有多高
-I don't think you are aware how great it is.
+01:28:39,188 --> 01:28:41,399
+爸说你必须赢得你的地位
+{\fs12}Um, Dad says you got to earn your place.
 
 1000
-01:29:53,770 --> 01:29:57,000
-但他正在试图使用他的天赋...
-But he is attempting to use that very talent...
+01:28:42,859 --> 01:28:43,776
+我的爸爸
+{\fs12}My dad.
 
 1001
-01:29:57,210 --> 01:29:59,170
-用来反抗你的意旨
-...against your will.
+01:28:45,445 --> 01:28:46,946
+你要的话，我可以带你去找他
+{\fs12}I can take you to him if you want.
 
 1002
-01:30:07,720 --> 01:30:08,980
-好...
-Well...
+01:28:52,952 --> 01:28:53,870
+你还信任她吗？
+{\fs12}You still trust her?
 
 1003
-01:30:11,760 --> 01:30:14,820
-他是个很任性的孩子
-...he is a very willful boy.
+01:28:58,666 --> 01:29:00,126
+外面好冷
+{\fs12}It's cold outside.
 
 1004
-01:30:17,230 --> 01:30:19,630
-他的确是 特朗斯先生
-Indeed he is, Mr. Torrance.
+01:29:18,353 --> 01:29:19,562
+嘿，你
+{\fs12}Hey, you.
 
 1005
-01:30:19,830 --> 01:30:22,730
-一个非常任性的孩子
-A very willful boy.
+01:29:20,938 --> 01:29:21,856
+对，你要开车
+{\fs12}Yeah, you're driving.
 
 1006
-01:30:22,940 --> 01:30:24,270
-一个很...
-A rather...
+01:29:22,231 --> 01:29:24,025
+我们走，路还远着呢
+{\fs12}Let's go. We got a long road ahead.
 
 1007
-01:30:24,470 --> 01:30:26,000
-顽皮的孩子...
-...naughty boy...
+01:29:27,487 --> 01:29:28,571
+我开车？
+{\fs12}I'm driving?
 
 1008
-01:30:26,210 --> 01:30:29,410
-如果允许我大胆的说 先生
-...if I may be so bold, sir.
+01:29:47,256 --> 01:29:48,257
+天啊
+{\fs12}Oh, God.
 
 1009
-01:30:36,650 --> 01:30:38,420
-那是她妈妈
-It's his mother.
+01:29:58,893 --> 01:30:00,686
+妈，呼吸
+{\fs12}Mom, breathe. 
 
 1010
-01:30:40,560 --> 01:30:42,020
-她...
-She...
+01:30:01,187 --> 01:30:02,021
+呼吸
+{\fs12}Breathe.
 
 1011
-01:30:42,230 --> 01:30:44,220
-妨碍我
-...interferes.
+01:30:03,022 --> 01:30:04,273
+深呼吸
+{\fs12}Take a deep breath in.
 
 1012
-01:30:47,330 --> 01:30:50,430
-也许需要跟他们好好的...
-Perhaps they need a good...
+01:30:07,151 --> 01:30:08,569
+吹熄蜡烛
+{\fs12}Blow out all your candles.
 
 1013
-01:30:50,640 --> 01:30:52,230
-谈一谈
-...talking-to.
+01:30:15,034 --> 01:30:15,868
+许个愿
+{\fs12}Make a wish.
 
 1014
-01:30:52,670 --> 01:30:53,500
-如果...
-If...
+01:30:33,094 --> 01:30:33,928
+我们走
+{\fs12}Let's go. 
 
 1015
-01:30:53,710 --> 01:30:56,470
-你不介意我这么说的话
-...you don't mind my saying so.
+01:30:34,303 --> 01:30:35,179
+好
+{\fs12}Okay.
 
 1016
-01:30:57,280 --> 01:30:58,900
-也许...
-Perhaps...
+01:32:07,563 --> 01:32:09,565
+NETFLIX 出品
 
 1017
-01:30:59,450 --> 01:31:01,140
-光谈还不够
-...a bit more.
+01:37:20,835 --> 01:37:22,837
+字幕翻译：陈彬彬
 
-1018
-01:31:04,350 --> 01:31:05,580
-我的姑娘们 先生...
-My girls, sir...
 
-1019
-01:31:05,790 --> 01:31:09,590
-她们开始不喜欢遥望旅馆
-...they didn't care for the Overlook at first.
-
-1020
-01:31:10,260 --> 01:31:14,160
-其中一个最后偷了包火柴...
-One of them actually stole a pack of matches...
-
-1021
-01:31:14,360 --> 01:31:17,030
-想把旅馆烧了
-...and tried to burn it down.
-
-1022
-01:31:18,100 --> 01:31:19,760
-但是我...
-But I...
-
-1023
-01:31:19,970 --> 01:31:21,940
-纠正了她们 先生
-...corrected them, sir.
-
-1024
-01:31:23,270 --> 01:31:27,400
-当我的妻子阻止我 达成我的使命的时候...
-And when my wife tried to prevent me from doing my duty...
-
-1025
-01:31:27,610 --> 01:31:28,870
-我...
-...I...
-
-1026
-01:31:29,880 --> 01:31:31,970
-纠正了她
-...corrected her.
-
-1027
-01:31:46,230 --> 01:31:48,170
-我们有雪地车
-We have the Snowcat.
-
-1028
-01:31:51,570 --> 01:31:53,340
-如果天气稍微变好...
-If the weather breaks...
-
-1029
-01:31:53,540 --> 01:31:55,310
-我们就能...
-...we might just be able...
-
-1030
-01:31:55,510 --> 01:31:57,380
-下山去了
-...to get down the mountain.
-
-1031
-01:32:00,250 --> 01:32:03,220
-我可以先给林务员打电话...
-I could call the forest rangers first...
-
-1032
-01:32:03,420 --> 01:32:06,920
-告诉他们我们来了
-...and...tell them that we're coming...
-
-1033
-01:32:07,290 --> 01:32:08,450
-这样...
-....so that...
-
-1034
-01:32:08,660 --> 01:32:12,760
-如果我们后来没到达 他们就会来找我们
-...they could start searching for us in case we didn't make it.
-
-1035
-01:32:16,540 --> 01:32:18,700
-如果杰克不陪我们走的话...
-And if Jack won't come with us...
-
-1036
-01:32:21,170 --> 01:32:24,910
-我只有告诉他 我们自己走了
-...I'll just have to tell him that we're going by ourselves.
-
-1037
-01:32:25,110 --> 01:32:27,080
-就这么办了
-That's all there is to it.
-
-1038
-01:32:28,450 --> 01:32:29,940
-Redrum红酒 (注:谋杀-Murder的倒写)
-Redrum.
-
-1039
-01:32:30,920 --> 01:32:32,580
-Redrum红酒
-Redrum.
-
-1040
-01:32:43,830 --> 01:32:44,990
-怎么了 宝贝?
-What's the matter, hon?
-
-1041
-01:32:45,200 --> 01:32:46,100
-Redrum红酒!
-Redrum!
-
-1042
-01:32:46,300 --> 01:32:48,360
-你在做恶梦吗?
-Are you having a bad dream?
-
-1043
-01:32:54,310 --> 01:32:55,540
-宝贝?
-Hon?
-
-1044
-01:33:01,350 --> 01:33:05,260
-丹尼不在这儿 特朗斯太太
-Danny's not here, Mrs. Torrance.
-
-1045
-01:33:10,260 --> 01:33:11,790
-快点 宝贝
-Come on, honey.
-
-1046
-01:33:12,770 --> 01:33:14,200
-醒醒啊
-Wake up.
-
-1047
-01:33:15,140 --> 01:33:17,400
-你只是做了个恶梦
-You just had a bad dream.
-
-1048
-01:33:18,810 --> 01:33:20,940
-没事了
-Everything's okay.
-
-1049
-01:33:25,010 --> 01:33:28,880
-丹尼不能醒来了 特朗斯太太
-Danny can't wake up, Mrs. Torrance.
-
-1050
-01:33:38,360 --> 01:33:40,160
-醒醒!
-Wake up!
-
-1051
-01:33:41,330 --> 01:33:42,670
-快啊
-Come on.
-
-1052
-01:33:42,870 --> 01:33:44,390
-就现在
-Right now.
-
-1053
-01:33:44,870 --> 01:33:46,240
-醒醒!
-Wake up!
-
-1054
-01:33:50,280 --> 01:33:54,310
-丹尼离开了 特朗斯太太
-Danny's gone away, Mrs. Torrance.
-
-1055
-01:34:04,430 --> 01:34:07,300
-KDK 1 呼叫 KDK 12
-This is KDK 1 calling KDK 12.
-
-1056
-01:34:07,500 --> 01:34:10,430
-KDK 1 呼叫 KDK 12
-KDK 1 calling KDK 12.
-
-1057
-01:34:10,740 --> 01:34:12,500
-你有收到吗?
-Are you receiving me?
-
-1058
-01:34:15,710 --> 01:34:19,170
-KDK 1 呼叫 KDK 12
-This is KDK 1 calling KDK 12.
-
-1059
-01:34:19,510 --> 01:34:22,310
-KDK 1 呼叫 KDK 12
-KDK 1 calling KDK 12.
-
-1060
-01:34:22,520 --> 01:34:24,180
-听到我说话吗?
-Do you read me?
-
-1061
-01:34:28,560 --> 01:34:31,580
-KDK 1 呼叫 KDK 12
-This is KDK 1 calling KDK 12.
-
-1062
-01:34:31,790 --> 01:34:34,350
-KDK 1 呼叫 KDK 12
-KDK 1 calling KDK 12.
-
-1063
-01:34:34,560 --> 01:34:36,330
-你有收到吗?
-Are you receiving me?
-
-1064
-01:35:12,770 --> 01:35:14,640
-晚安 森林服务台
-Good evening. Forest service.
-
-1065
-01:35:14,840 --> 01:35:17,070
-我还是迪克·霍洛朗
-This is Dick Hallorann again.
-
-1066
-01:35:17,280 --> 01:35:20,370
-我刚才打了电话联系遥望旅馆的人
-I called a while ago about the folks at the Overlook Hotel.
-
-1067
-01:35:21,620 --> 01:35:25,420
-我们试图联系他们多次 但都没有回应
-We tried to contact them several times but they didn't answer.
-
-1068
-01:35:25,620 --> 01:35:29,220
-可能他们没有开无线电 也可能是没听到
-Maybe they got their radio turned off or they can't hear it.
-
-1069
-01:35:29,430 --> 01:35:32,330
-如果你觉得有必要 我待会儿再呼叫他们
-If you'd like, I'd be glad to try again later on.
-
-1070
-01:35:32,830 --> 01:35:34,960
-你人真好
-That's very nice of you.
-
-1071
-01:35:35,170 --> 01:35:36,930
-我一会儿再打给你
-I'll call you back later.
-
-1072
-01:35:37,140 --> 01:35:38,160
-再见
-Bye.
-
-1073
-01:36:25,260 --> 01:36:28,290
-对不起 小姐 我们什么时候才能到丹佛?
-Pardon me, miss. What time will we get to Denver?
-
-1074
-01:36:28,500 --> 01:36:30,660
-预计是8点20分到达 先生
-We're due to arrive at 8:20, sir.
-
-1075
-01:36:30,870 --> 01:36:32,460
-非常感谢
-Thank you very much.
-
-1076
-01:37:36,380 --> 01:37:37,310
-杜瑞凯的修车场
-Durkin's Garage.
-
-1077
-01:37:37,510 --> 01:37:38,640
-我找赖利
-Can I speak to Larry?
-
-1078
-01:37:38,850 --> 01:37:39,810
-请说
-Speaking.
-
-1079
-01:37:40,110 --> 01:37:42,600
-嗨 赖利 我是迪克 迪克·霍洛朗
-Hi, Larry. This is Dick. Dick Hallorann.
-
-1080
-01:37:42,880 --> 01:37:44,540
-迪克! 你好吗?
-Dick! How you doing?
-
-1081
-01:37:44,750 --> 01:37:46,120
-那边天气怎么样?
-How's the weather down there?
-
-1082
-01:37:46,320 --> 01:37:49,480
-我没在佛罗里达 我在斯塔普列顿机场给你打电话
-I'm not in Florida. I'm calling from Stapleton Airport.
-
-1083
-01:37:49,860 --> 01:37:51,450
-你在那儿干什么?
-What are you doing there?
-
-1084
-01:37:51,890 --> 01:37:55,330
-我刚从迈阿密来 我今天要去遥望旅馆
-I just got in from Miami. I got to get to the Overlook today.
-
-1085
-01:37:55,530 --> 01:37:57,160
-那里天气如何?
-What's the weather like there?
-
-1086
-01:37:57,800 --> 01:38:00,670
-扫雪机不断在运作 货物还是能运进城...
-The snowplows are keeping things moving in town...
-
-1087
-01:38:00,870 --> 01:38:02,810
-但是山路全被封死了
-...but the mountain roads are blocked.
-
-1088
-01:38:03,340 --> 01:38:06,040
-那我找辆雪地车上去
-Then I'm going to need a Snowcat to get up there.
-
-1089
-01:38:06,240 --> 01:38:08,080
-你能给我弄出一辆吗?
-Can you fix me up with one?
-
-1090
-01:38:08,280 --> 01:38:10,370
-出了什么大事 非得今天上那儿...?
-What's the big deal about getting there today...
-
-1091
-01:38:10,580 --> 01:38:12,140
-尤其是在这种天气?
-...especially in this weather?
-
-1092
-01:38:13,020 --> 01:38:16,480
-赖利 只在你我之间说说 我们遇上了很严重的问题...
-Larry, just between you and me, we got a very serious problem...
-
-1093
-01:38:16,690 --> 01:38:18,920
-关于看管那个地方的人
-...with the people taking care of the place.
-
-1094
-01:38:19,130 --> 01:38:23,000
-他们根本就在打混摸鱼
-They turned out to be completely unreliable assholes.
-
-1095
-01:38:23,200 --> 01:38:24,990
-尤尔曼先生昨晚给我打了电话
-Ullman phoned me last night.
-
-1096
-01:38:25,200 --> 01:38:28,570
-委派我去看看 是不是该把他们换掉! ?
-And I'm supposed to find out if they have to be replaced.
-
-1097
-01:38:30,040 --> 01:38:32,060
-要多久你才能到那里?
-How long will it take you to get here?
-
-1098
-01:38:32,410 --> 01:38:34,070
-大概五小时
-About five hours.
-
-1099
-01:38:34,280 --> 01:38:36,510
-我会在机场租辆车
-I'm going to rent a car here at the airport.
-
-1100
-01:38:37,010 --> 01:38:38,740
-好 雪地车我会想办法
-Okay, I'll take care of it.
-
-1101
-01:38:38,950 --> 01:38:41,780
-谢谢 赖利 我真的非常感激
-Thanks, Larry. I really appreciate that.
-
-1102
-01:38:41,990 --> 01:38:44,550
-就这样吧 开车小心些
-That's all right. Drive carefully.
-
-1103
-01:38:50,290 --> 01:38:53,560
-您正在收听的是丹佛63号电台 哈尔和查理为您播报
-You're with Hal and Charlie on Radio 63, KHOW, Denver.
-
-1104
-01:38:53,760 --> 01:38:56,330
-天气很糟
-And we have a bad day out there.
-
-1105
-01:38:56,540 --> 01:38:59,900
-丹佛市中区普降大雪
-Heavy snow throughout the Denver metro area.
-
-1106
-01:39:00,110 --> 01:39:01,600
-很多的入山关口...
-Many mountain passes...
-
-1107
-01:39:01,810 --> 01:39:04,680
-狼溪和红山的关口被关闭...
-... Wolf Creek and Red Mountain passes are closed...
-
-1108
-01:39:04,880 --> 01:39:08,180
-连带也影响了艾森豪威尔隧道
-...and the chain law is in effect at the Eisenhower Tunnel.
-
-1109
-01:39:08,380 --> 01:39:10,040
-我们从新闻部门获悉...
-We hear from the news department...
-
-1110
-01:39:10,250 --> 01:39:13,450
-只有少数几架飞机 降落在斯塔普列顿机场...
-...only a few flights are landing at Stapleton Airport...
-
-1111
-01:39:13,660 --> 01:39:15,250
-而且在这样的暴风雪天气...
-...and with storms like this...
-
-1112
-01:39:15,460 --> 01:39:19,590
-我想机场会在一个小时内 完全关闭
-...I guess the entire airport will be closed within the hour.
-
-1113
-01:39:19,760 --> 01:39:22,630
-暴风雪会持续一整天 气象局...
-The storm will continue through the day and the Weather Service...
-
-1114
-01:39:22,830 --> 01:39:25,300
-已发布了 针对所有丹佛城周边地区的...
-...has declared a stockman's and traveler's advisory...
-
-1115
-01:39:25,500 --> 01:39:28,300
-旅客和牧人的通告
-...for all areas outlying the Denver metro region.
-
-1116
-01:39:28,510 --> 01:39:29,870
-把乳牛关在棚里
-Get the cows in the barn.
-
-1117
-01:39:51,370 --> 01:39:52,420
-宝贝?
-Hon?
-
-1118
-01:39:57,410 --> 01:39:59,840
-听我说 就一分钟 好吗?
-Listen to me for a minute, will you?
-
-1119
-01:40:03,650 --> 01:40:07,350
-我要去和爸爸谈几分钟...
-I'm just going to go and talk to Daddy for a few minutes...
-
-1120
-01:40:07,550 --> 01:40:09,580
-我会很快回来
-...and I'll be right back.
-
-1121
-01:40:10,560 --> 01:40:13,080
-我要你就待在这儿...
-I want you to just stay here...
-
-1122
-01:40:13,290 --> 01:40:15,780
-看你的动画片 好吗?
-...and watch your cartoons, okay?
-
-1123
-01:40:18,900 --> 01:40:20,370
-好吗 宝贝?
-Okay, hon?
-
-1124
-01:40:23,670 --> 01:40:26,540
-好 特朗斯太太
-Yes, Mrs. Torrance.
-
-1125
-01:40:35,320 --> 01:40:36,510
-好
-All right.
-
-1126
-01:40:38,590 --> 01:40:41,490
-我大概只要五分钟就回来
-I'll be back in just about five minutes.
-
-1127
-01:40:42,290 --> 01:40:44,630
-我出去的时候会把门给锁上
-I'm going to lock the door behind me.
-
-1128
-01:42:32,550 --> 01:42:42,540
-只有工作 没有玩乐 杰克呆若木鸡!
-
-1129
-01:42:58,030 --> 01:43:04,020
-只有工作 没有玩乐 杰克呆若木鸡!
-
-1130
-01:44:11,000 --> 01:44:12,700
-你说好不好呢?
-How do you like it?
-
-1131
-01:44:19,310 --> 01:44:20,840
-好不好呢?
-How do you like it?
-
-1132
-01:44:30,790 --> 01:44:33,450
-你在这下面做什么?
-What are you doing down here?
-
-1133
-01:44:37,830 --> 01:44:40,170
-我只是...
-I just...
-
-1134
-01:44:40,640 --> 01:44:41,660
-想...
-...wanted...
-
-1135
-01:44:42,110 --> 01:44:43,830
-和你谈谈
-...to talk to you.
-
-1136
-01:44:46,210 --> 01:44:47,470
-好
-Okay.
-
-1137
-01:44:48,080 --> 01:44:49,550
-那我们就谈吧
-Let's talk.
-
-1138
-01:44:59,360 --> 01:45:01,350
-你想谈什么呢?
-What do you want to talk about?
-
-1139
-01:45:09,270 --> 01:45:12,430
-我真的是记不得了
-I can't really remember.
-
-1140
-01:45:13,240 --> 01:45:15,370
-你记不得了
-You can't remember.
-
-1141
-01:45:16,180 --> 01:45:17,510
-不行...
-No...
-
-1142
-01:45:17,880 --> 01:45:19,280
-我不能
-...I can't.
-
-1143
-01:45:24,590 --> 01:45:27,850
-也许是关于丹尼?
-Maybe it was about Danny?
-
-1144
-01:45:30,230 --> 01:45:32,930
-也许是关于他
-Maybe it was about him.
-
-1145
-01:45:36,570 --> 01:45:39,870
-我想我们该讨论一下丹尼
-I think we should discuss Danny.
-
-1146
-01:45:42,680 --> 01:45:44,470
-我想...
-I think...
-
-1147
-01:45:44,880 --> 01:45:48,650
-我们该讨论一下 应该拿他怎么办才好
-...we should discuss what should be done with him.
-
-1148
-01:45:53,350 --> 01:45:55,950
-应该拿他怎么办?
-What should be done with him?
-
-1149
-01:46:00,930 --> 01:46:02,730
-我不知道
-I don't know.
-
-1150
-01:46:03,230 --> 01:46:05,220
-我认为那不是真的
-I don't think that's true.
-
-1151
-01:46:05,440 --> 01:46:08,030
-我想你有一些很明确的想法...
-I think you have some very definite ideas...
-
-1152
-01:46:08,240 --> 01:46:09,930
-关于应该拿丹尼怎么办
-...about what should be done with Danny.
-
-1153
-01:46:10,140 --> 01:46:12,740
-我想知道究竟是些什么
-And I'd like to know what they are.
-
-1154
-01:46:14,650 --> 01:46:16,440
-嗯 我...
-Well, I...
-
-1155
-01:46:16,750 --> 01:46:21,150
-我想也许该带他去看医生
-...I think maybe he should be taken to a doctor.
-
-1156
-01:46:21,350 --> 01:46:24,650
-你认为"也许"该带他去看医生?
-You think "maybe" he should be taken to a doctor?
-
-1157
-01:46:26,890 --> 01:46:30,230
-你是什么时候开始想 "也许"该带他去看医生的?
-When do you think "maybe" he should be taken to a doctor?
-
-1158
-01:46:30,870 --> 01:46:32,230
-尽快?
-As soon as possible?
-
-1159
-01:46:32,830 --> 01:46:35,170
-"尽快? "
-"As soon as possible?"
-
-1160
-01:46:37,840 --> 01:46:39,270
-求求你
-Please.
-
-1161
-01:46:40,680 --> 01:46:43,940
-你相信他的健康有严重问题?
-You believe his health might be at stake.
-
-1162
-01:46:45,520 --> 01:46:47,040
-是
-Yes.
-
-1163
-01:46:48,390 --> 01:46:51,020
-而且你很关心他
-And you are concerned about him.
-
-1164
-01:46:53,590 --> 01:46:55,820
-那你关心我吗?
-And are you concerned about me?
-
-1165
-01:46:56,660 --> 01:46:57,820
-我当然关心
-Of course I am.
-
-1166
-01:46:58,030 --> 01:47:00,260
-你当然关心!
-Of course you are!
-
-1167
-01:47:00,470 --> 01:47:03,600
-你可曾想过我的责任吗?
-Have you ever thought about my responsibilities?
-
-1168
-01:47:03,800 --> 01:47:05,290
-你在说些什么?
-What are you talking about?
-
-1169
-01:47:05,510 --> 01:47:08,340
-你有没有想过 就一分钟...
-Have you ever had a single moment's...
-
-1170
-01:47:08,540 --> 01:47:10,600
-想过我的责任?
-...thought about my responsibilities?
-
-1171
-01:47:10,810 --> 01:47:13,080
-有没有片刻想过...
-Have you ever thought for a single moment...
-
-1172
-01:47:13,280 --> 01:47:16,080
-我对我的雇主的责任? !
-...about my responsibilities to my employers?!
-
-1173
-01:47:16,350 --> 01:47:18,180
-我已经同意...
-Has is ever occurred to you...
-
-1174
-01:47:18,390 --> 01:47:21,880
-看管这座旅馆直到5月1号?
-...that I have agreed to look after the hotel until May 1st?
-
-1175
-01:47:22,130 --> 01:47:24,150
-它跟你有关系吗...
-Does it matter to you at all...
-
-1176
-01:47:24,360 --> 01:47:27,460
-就是主人完全信任我...
-...that the owners have placed their complete confidence in me...
-
-1177
-01:47:27,670 --> 01:47:30,790
-就是我签了契约...
-...and that I have signed a letter of agreement...
-
-1178
-01:47:31,000 --> 01:47:33,600
-在那里面我接受了委任?
-...in which I've accepted that responsibility?
-
-1179
-01:47:34,070 --> 01:47:36,100
-你是否有哪怕是最卑微的一点理解...
-Do you have the slightest idea...
-
-1180
-01:47:36,310 --> 01:47:39,540
-关于什么是伦理道德的精髓? 你有吗?
-...what a moral and ethical principal is? Do you?!
-
-1181
-01:47:39,910 --> 01:47:43,010
-你可曾想过 会对我的前途产生什么影响...
-Has it ever occurred to you what would happen to my future...
-
-1182
-01:47:43,220 --> 01:47:45,620
-如果我不能带着我的责任快乐的生活?
-...if I fail to live up to my responsibilities?
-
-1183
-01:47:45,820 --> 01:47:48,120
-你可曾想过那样的事? 可曾想过? !
-Has it ever occurred to you? Has it?!
-
-1184
-01:47:48,320 --> 01:47:49,850
-走开!
-Stay away from me!
-
-1185
-01:47:50,730 --> 01:47:51,780
-为什么?
-Why?
-
-1186
-01:47:52,090 --> 01:47:55,060
-我想回我的房间了
-I just want to go back to my room.
-
-1187
-01:47:55,260 --> 01:47:56,530
-为什么?
-Why?
-
-1188
-01:47:57,170 --> 01:47:58,030
-嗯...
-Well...
-
-1189
-01:47:59,170 --> 01:48:01,190
-我很困惑
-...I'm very confused.
-
-1190
-01:48:02,340 --> 01:48:06,000
-我需要找个机会把事情想清楚
-And I just need a chance to think things over.
-
-1191
-01:48:07,040 --> 01:48:10,980
-你可以用他妈的一辈子时间 去把事情想清楚!
-You've had your whole fucking life to think things over!
-
-1192
-01:48:11,180 --> 01:48:13,950
-现在这几分钟又怎么够用?
-What good's a few minutes more going to do you now?
-
-1193
-01:48:14,920 --> 01:48:16,410
-走开!
-Stay away from me!
-
-1194
-01:48:16,760 --> 01:48:18,050
-求求你!
-Please!
-
-1195
-01:48:18,830 --> 01:48:19,880
-别伤害我
-Don't hurt me.
-
-1196
-01:48:20,090 --> 01:48:21,420
-我不会伤害你
-I'm not going to hurt you.
-
-1197
-01:48:21,630 --> 01:48:22,820
-走开!
-Stay away from me!
-
-1198
-01:48:23,030 --> 01:48:23,890
-走开!
-Stay away!
-
-1199
-01:48:24,100 --> 01:48:25,090
-亲爱的
-Darling.
-
-1200
-01:48:25,300 --> 01:48:26,860
-我生命的亮光
-Light of my life.
-
-1201
-01:48:27,300 --> 01:48:28,630
-我不会伤害你
-I'm not going to hurt you.
-
-1202
-01:48:28,840 --> 01:48:30,830
-你不让我说完
-You didn't let me finish my sentence.
-
-1203
-01:48:31,040 --> 01:48:33,240
-我说: "我不会伤害你"
-I said, "I'm not going to hurt you."
-
-1204
-01:48:33,440 --> 01:48:36,210
-我只想锤你的头
-I'm just going to bash your brains in.
-
-1205
-01:48:36,480 --> 01:48:39,450
-我只想一边办事一边重锤
-I'm going to bash them right the fuck in.
-
-1206
-01:48:40,520 --> 01:48:42,080
-走开!
-Stay away from me!
-
-1207
-01:48:42,590 --> 01:48:43,610
-走开!
-Stay away from me!
-
-1208
-01:48:43,820 --> 01:48:46,220
-我不会伤害你
-I'm not going to hurt you.
-
-1209
-01:48:46,490 --> 01:48:48,020
-走开!
-Stay away from me!
-
-1210
-01:48:48,260 --> 01:48:49,320
-走开!
-Stay away!
-
-1211
-01:48:50,190 --> 01:48:51,420
-求求你!
-Please!
-
-1212
-01:48:52,460 --> 01:48:54,230
-别挥那根球棒!
-Stop swinging the bat.
-
-1213
-01:48:54,430 --> 01:48:55,700
-走开
-Stay away from me.
-
-1214
-01:48:56,470 --> 01:48:57,770
-把那根球棒放下 温蒂
-Put that bat down, Wendy.
-
-1215
-01:48:57,970 --> 01:48:59,460
-停下来!
-Stop it!
-
-1216
-01:49:00,940 --> 01:49:02,070
-把球棒给我
-Give me the bat.
-
-1217
-01:49:02,280 --> 01:49:03,400
-求求你!
-Please!
-
-1218
-01:49:03,640 --> 01:49:05,840
-- 走开! - 把球棒给我
-- Stay away! - Give me the bat.
-
-1219
-01:49:06,050 --> 01:49:07,100
-停!
-Stop it!
-
-1220
-01:49:07,350 --> 01:49:08,780
-把球棒给我
-Give me the bat.
-
-1221
-01:49:09,120 --> 01:49:10,740
-- 走开 - 球棒别乱挥
-- Stay away from me. - Stop swinging the bat.
-
-1222
-01:49:10,950 --> 01:49:12,320
-求求你停下来
-Please stop!
-
-1223
-01:49:12,520 --> 01:49:13,720
-把球棒给我
-Give me the bat.
-
-1224
-01:49:13,920 --> 01:49:15,150
-走开
-Stay away from me.
-
-1225
-01:49:15,430 --> 01:49:17,790
-- 停下来! - 把球棒给我
-- Stop it! - Give me the bat.
-
-1226
-01:49:19,200 --> 01:49:20,220
-见鬼!
-Goddamn!
-
-1227
-01:50:35,520 --> 01:50:37,210
-你在干什么?
-What are you doing?
-
-1228
-01:50:40,020 --> 01:50:41,490
-等一下
-Wait a minute.
-
-1229
-01:50:42,890 --> 01:50:44,890
-你在干什么?
-What are you doing?
-
-1230
-01:50:47,730 --> 01:50:48,960
-你在干什么?
-What are you doing?
-
-1231
-01:51:02,850 --> 01:51:04,340
-等一下
-Wait a minute!
-
-1232
-01:51:06,720 --> 01:51:08,310
-你在干什么?
-What are you doing?
-
-1233
-01:51:08,560 --> 01:51:10,290
-开门
-Open the door!
-
-1234
-01:51:11,590 --> 01:51:12,620
-见鬼!
-Goddamn it!
-
-1235
-01:51:12,830 --> 01:51:16,390
-让我出去! 开门!
-Let me out of here! Open the goddamn door!
-
-1236
-01:51:20,100 --> 01:51:21,330
-温蒂 听着
-Wendy, listen.
-
-1237
-01:51:21,770 --> 01:51:24,710
-让我出去 我会把整件事忘掉
-Let me out and I'll forget the whole goddamn thing.
-
-1238
-01:51:24,910 --> 01:51:27,380
-就当什么也没有发生过
-It'll be just like nothing ever happened.
-
-1239
-01:51:42,060 --> 01:51:43,430
-宝贝
-Baby.
-
-1240
-01:51:44,630 --> 01:51:47,930
-我想你真的对我的头下了重手
-I think you hurt my head real bad.
-
-1241
-01:51:49,540 --> 01:51:51,200
-我头昏
-I'm dizzy.
-
-1242
-01:51:52,210 --> 01:51:54,400
-我需要个医生
-I need a doctor.
-
-1243
-01:52:01,280 --> 01:52:02,480
-甜心
-Honey.
-
-1244
-01:52:05,160 --> 01:52:07,490
-别把我留在这儿
-Don't leave me in here.
-
-1245
-01:52:16,100 --> 01:52:18,000
-我现在要走了
-I'm going to go now.
-
-1246
-01:52:21,070 --> 01:52:22,910
-我今天要...
-I'm going to try...
-
-1247
-01:52:23,110 --> 01:52:29,180
-用雪地车带丹尼下山...
-...to get Danny down the Sidewinder...in the Snowcat today.
-
-1248
-01:52:31,420 --> 01:52:33,250
-我会带个医生回来
-I'll bring back a doctor.
-
-1249
-01:52:35,050 --> 01:52:36,050
-温蒂
-Wendy.
-
-1250
-01:52:38,630 --> 01:52:40,490
-我现在要走了
-I'm going to go now.
-
-1251
-01:52:41,500 --> 01:52:46,800
-- 温蒂 - 干嘛?
-- Wendy. - yes?
-
-1252
-01:52:47,940 --> 01:52:51,740
-你会有个大惊喜
-You've got a big surprise coming to you.
-
-1253
-01:52:53,210 --> 01:52:55,810
-你哪儿都去不了
-You're not going anywhere.
-
-1254
-01:52:57,480 --> 01:53:01,610
-去看看雪地车吧 还有无线电 你会明白我的意思的
-Go check out the Snowcat and the radio, and you'll see what I mean.
-
-1255
-01:53:06,230 --> 01:53:07,920
-去看看
-Go check it out.
-
-1256
-01:53:10,060 --> 01:53:12,260
-去看看!
-Go check it out!
-
-1257
-01:53:15,640 --> 01:53:17,570
-去看看
-Go check it out.
-
-1258
-01:55:05,430 --> 01:55:07,830
-我是格瑞第 特朗斯先生
-It's Grady, Mr. Torrance.
-
-1259
-01:55:08,570 --> 01:55:10,540
-德尔伯特·格瑞第
-Delbert Grady.
-
-1260
-01:55:12,110 --> 01:55:13,700
-格瑞第?
-Grady?
-
-1261
-01:55:34,070 --> 01:55:35,900
-你好 格瑞第
-Hello, Grady.
-
-1262
-01:55:40,570 --> 01:55:42,370
-特朗斯先生...
-Mr. Torrance...
-
-1263
-01:55:44,310 --> 01:55:48,040
-我看你很难办好...
-...I see you can hardly have taken care of the...
-
-1264
-01:55:48,780 --> 01:55:51,270
-我们先前讨论的事
-...business we discussed.
-
-1265
-01:55:57,990 --> 01:56:00,930
-没有必要说第二遍 格瑞第先生
-No need to rub it in, Mr. Grady.
-
-1266
-01:56:01,800 --> 01:56:05,860
-只要我一出去 就会处理现在的情况
-I'll deal with that situation as soon as I get out of here.
-
-1267
-01:56:06,740 --> 01:56:09,470
-你确实会 特朗斯先生?
-Will you indeed, Mr. Torrance?
-
-1268
-01:56:09,970 --> 01:56:11,810
-我想知道
-I wonder.
-
-1269
-01:56:12,980 --> 01:56:15,070
-我有几个疑点
-I have my doubts.
-
-1270
-01:56:16,280 --> 01:56:20,520
-我 还有其他人 都相信...
-I, and others, have come to believe...
-
-1271
-01:56:20,720 --> 01:56:23,710
-你的心没在这里
-...that your heart is not in this.
-
-1272
-01:56:24,360 --> 01:56:26,880
-你对它没胃口
-That you haven't the belly for it.
-
-1273
-01:56:33,070 --> 01:56:37,370
-再给我个机会证明它 格瑞第先生
-Just give me one more chance to prove it, Mr. Grady.
-
-1274
-01:56:38,210 --> 01:56:40,140
-那是我全部的要求
-That's all I ask.
-
-1275
-01:56:41,680 --> 01:56:45,950
-你的妻子看来比我们想像要来得强 特朗斯先生
-Your wife appears to be stronger than we imagined, Mr. Torrance.
-
-1276
-01:56:46,150 --> 01:56:47,620
-要更...
-Somewhat more...
-
-1277
-01:56:47,820 --> 01:56:49,790
-机灵一点
-...resourceful.
-
-1278
-01:56:50,060 --> 01:56:52,820
-好像她胜过你
-She seems to have got the better of you.
-
-1279
-01:56:56,060 --> 01:56:58,720
-就这一会儿 格瑞第先生
-For the moment, Mr. Grady.
-
-1280
-01:56:59,470 --> 01:57:01,630
-就只这一会儿
-Only for the moment.
-
-1281
-01:57:03,540 --> 01:57:07,700
-我怕你得用一种最粗野的方式...
-I fear you will have to deal with this matter...
-
-1282
-01:57:07,980 --> 01:57:11,640
-来处理这件事 特朗斯先生
-...in the harshest possible way, Mr. Torrance.
-
-1283
-01:57:12,210 --> 01:57:13,770
-我怕...
-I fear...
-
-1284
-01:57:14,050 --> 01:57:16,610
-这是唯一可做的事了
-...that is the only thing to do.
-
-1285
-01:57:20,090 --> 01:57:22,180
-再没有比这...
-There's nothing I look forward to...
-
-1286
-01:57:22,390 --> 01:57:26,290
-更让人愉快的事 格瑞第先生
-...with greater pleasure, Mr. Grady.
-
-1287
-01:57:27,700 --> 01:57:30,430
-你保证 不是吗 特朗斯先生?
-You give your word on that, do you, Mr. Torrance?
-
-1288
-01:57:31,900 --> 01:57:33,930
-我向你保证
-I give you my word.
-
-1289
-01:58:46,060 --> 01:58:48,620
-Redrum红酒 (注:Murder谋杀的倒写)
-Redrum.
-
-1290
-01:58:49,560 --> 01:58:52,120
-Redrum红酒
-Redrum.
-
-1291
-02:01:00,110 --> 02:01:01,670
-丹尼 别这样!
-Danny, stop it!
-
-1292
-02:01:58,480 --> 02:01:59,950
-我回家了
-I'm home.
-
-1293
-02:02:37,290 --> 02:02:40,160
-出来 出来 不管你在哪儿
-Come out, come out, wherever you are.
-
-1294
-02:03:05,730 --> 02:03:07,590
-我出不去
-I can't get out.
-
-1295
-02:03:08,400 --> 02:03:09,520
-快跑!
-Run!
-
-1296
-02:03:10,360 --> 02:03:11,800
-快跑 躲起来!
-Run and hide!
-
-1297
-02:03:12,340 --> 02:03:13,460
-快跑!
-Run!
-
-1298
-02:03:13,670 --> 02:03:14,900
-快!
-Quick!
-
-1299
-02:03:16,610 --> 02:03:21,140
-小猪 小猪 让我进去
-Little pigs, little pigs, let me come in.
-
-1300
-02:03:26,880 --> 02:03:30,290
-不用你下巴上的毛?
-Not by the hair on your chinny-chin-chin?
-
-1301
-02:03:31,820 --> 02:03:33,880
-然后我要生气了...
-Then I'll huff...
-
-1302
-02:03:34,090 --> 02:03:35,990
-接着我要喘气了...
-...and I'll puff...
-
-1303
-02:03:36,200 --> 02:03:38,260
-然后我要毁了你的房子 冲进去!
-...and I'll blow your house in!
-
-1304
-02:03:53,180 --> 02:03:54,550
-求求你!
-Please!
-
-1305
-02:03:55,290 --> 02:03:57,050
-不要!
-Don't!
-
-1306
-02:03:57,720 --> 02:03:59,250
-不要!
-Don't!
-
-1307
-02:04:17,840 --> 02:04:19,070
-停下来!
-Stop it!
-
-1308
-02:04:23,320 --> 02:04:24,880
-强尼来了!
-Here's Johnny!
-
-1309
-02:07:06,840 --> 02:07:08,070
-喂?
-Hello?
-
-1310
-02:07:13,520 --> 02:07:15,280
-有人在吗?
-Anybody here?
-
-1311
-02:07:37,380 --> 02:07:38,940
-喂?
-Hello?
-
-1312
-02:07:51,260 --> 02:07:53,090
-有人在吗?
-Anybody here?
-
-1313
-02:08:23,060 --> 02:08:25,000
-有人在吗?
-Anybody here?
-
-1314
-02:09:06,010 --> 02:09:07,710
-丹尼男孩!
-Danny-boy!
-
-1315
-02:11:48,570 --> 02:11:50,500
-我来了!
-I'm coming!
-
-1316
-02:11:53,010 --> 02:11:54,940
-我来了 小丹!
-I'm coming, Dan!
-
-1317
-02:12:55,750 --> 02:12:58,150
-爽死人的宴会 不是吗?
-Great party, isn't it?
-
-1318
-02:13:15,800 --> 02:13:18,030
-我来了!
-I'm coming!
-
-1319
-02:13:20,610 --> 02:13:22,910
-你逃不掉的!
-You can't get away!
-
-1320
-02:13:26,780 --> 02:13:29,280
-我就在你后面!
-I'm right behind you!
-
-1321
-02:17:27,660 --> 02:17:29,690
-- 妈咪! - 丹尼 到这儿来!
-- Mommy! - Danny, come here!
-
-1322
-02:17:30,900 --> 02:17:32,630
-妈咪
-Mommy.
-
-1323
-02:17:40,980 --> 02:17:42,380
-你在哪...?
-Where...?
-
-1324
-02:18:37,260 --> 02:18:39,250
-温蒂!
-Wendy!
-
-1325
-02:18:39,750 --> 02:18:42,250
-等等!
-Wait!
-
-1326
-02:18:52,270 --> 02:18:53,770
-不要!
-No!
-
-1327
-02:18:54,270 --> 02:18:56,270
-救命!
-Help!
-
-1328
-02:19:06,760 --> 02:19:10,750
-温蒂!
-Wendy!
-
-1329
-02:19:11,750 --> 02:19:14,750
-救救我!
-Help!
-
-1330
-02:19:15,250 --> 02:19:17,240
-求你...
-Please...
-
-1331
-02:19:17,240 --> 02:19:19,310
-温蒂
-Wendy.
-
-1332
-02:19:20,810 --> 02:19:22,310
-救命
-Help.
-
-1333
-02:19:23,300 --> 02:19:24,800
-求求你
-Please.
-
-1334
-02:21:06,560 --> 02:21:14,960
-遥望旅馆1921年7月4日舞会
 
 
 */};
