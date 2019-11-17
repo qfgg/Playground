@@ -11,6 +11,9 @@
 // var js1 = document.createElement('script');
 // js1.src = 'quicksort.js';
 // document.body.appendChild(js1);
+var js1 = document.createElement('script');
+js1.src = 'list.js';
+document.body.appendChild(js1);
 
 // after script has been loaded, run test code
 window.onload = function() {
@@ -46,7 +49,6 @@ function threeProductSuggestions(numProducts, repository, customerQuery)
     
     return result;
 }
-
 
 var r = threeProductSuggestions(5,['bags', 'baggage', 'banner', 'box', 'cloths'], 'bags');
 console.log(r);
