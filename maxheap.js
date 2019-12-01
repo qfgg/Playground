@@ -39,38 +39,36 @@ function createHeap(nums, fn = function(a, b) { return a - b; }) {
     }
 }
 
-function goDown(nums, i, max, fn) {
-    var tmp, swapIdx;
-    var leftChild = 2 * i + 1;
-    var rightChild = 2 * i + 2;
+function goDown(heap, i, max, fn = function(a, b) { return a - b; }) {
+    var left = 2 * i + 1;
+    var right = left + 1;
+    var len = heap.length;
+    var target;
 
-    while (leftChild <= max) {
-        if (rightChild > max) {
-            if (fn(nums[leftChild], nums[i]) > 0) {
-                swapIdx = leftChild;
+    while (left < len) {
+        if (right < len && fn(heap[right], heap[i]) > 0) {
+            if (fn(heap[left], heap[right]) > 0) {
+                target = left;
+            } else {
+                target = right;
             }
+            swapHeap(heap, i, target);
+            i = target;
+        } else if (fn(heap[left], heap[i]) > 0) {
+            swapHeap(heap, i, left);
+            i = left
         } else {
-            if (fn(nums[leftChild], nums[i]) > 0 && fn(nums[rightChild], nums[i]) > 0) {
-                swapIdx = fn(nums[leftChild], nums[rightChild]) > 0 ?
-                    leftChild : rightChild;
-            } else if (fn(nums[leftChild], nums[i]) > 0) {
-                swapIdx = leftChild;
-            } else if(fn(nums[rightChild], nums[i]) > 0) {
-                swapIdx = rightChild;
-            }
-        }
-        if (swapIdx !== undefined) {
-            tmp = nums[swapIdx];
-            nums[swapIdx] = nums[i];
-            nums[i] = tmp;
-            i = swapIdx;
-            leftChild = 2 * i + 1;
-            rightChild = 2 * i + 2;
-            swapIdx = undefined;
-        } else  {
             break;
         }
+        left = 2 * i + 1;
+        right = left + 1;
     }
+}
+
+function swapHeap(heap, i, j) {
+    var tmp = heap[i];
+    heap[i] = heap[j];
+    heap[j] = tmp;
 }
 
 function heapSort(heap, fn = function(a, b) { return a - b; }) {
