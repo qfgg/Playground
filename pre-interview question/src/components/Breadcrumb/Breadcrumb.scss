@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+.breadcrumb {
+    margin: 0;
+    padding: 12px 16px;
+    list-style-type: none;
+    li {
+        display: inline-block;
+        font-size: 14px;
+        margin-right: 4px;
+        a {
+            font-family: "Human BBY", Arial, sans-serif;
+            color: #0046be;
+            text-decoration: none;
+            cursor: pointer;
+        }
+    }
+}
