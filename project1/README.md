@@ -1,5 +1,5 @@
 # web
-nfas web
+web
 
 # Frontend Development
 
