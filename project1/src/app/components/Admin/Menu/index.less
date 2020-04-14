@@ -1,0 +1,184 @@
+@border-color: #e7eaec;
+@btnblue: #49a3f1;
+@btncolor: #ffffff;
+@darken-font: #000000;
+@lighten-font: #999999;
+
+.ibox-content{
+  .menu-config{
+    min-height: 610px;
+    position: relative;
+    .menu-tree{
+      .tree-margin{
+        margin-top: 5px;
+        margin-bottom: 5px;
+      }
+      .right-btn{
+        float: right;
+        margin-right: 10px;
+      }
+      position: absolute;
+      height: 100%;
+      border-right: 1px solid @border-color;
+      width: 20%;
+      ul {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;
+        list-style-image: none;
+      }
+      h3 {
+        font-size: 15px;
+        margin-top: 0;
+      }
+      .tree-node{
+        margin: 0;
+        padding: 0;
+        white-space: nowrap;
+        min-height: 24px;
+        line-height: 24px;
+        min-width: 24px;
+        background-position: -292px -4px;
+        background-repeat: repeat-y;
+        background-image: url(../../../../images/32px.png);
+        position: relative;
+        .tree-icon{
+          display: inline-block;
+          text-decoration: none;
+          margin: 0;
+          padding: 0;
+          vertical-align: top;
+          text-align: center;
+          background-repeat: no-repeat;
+          background-color: transparent;
+          background-image: url(../../../../images/32px.png);
+          background-position: -100px -4px;
+          width: 24px;
+          height: 24px;
+          line-height: 24px;
+        }
+        .tree-ocl{
+          cursor: pointer;
+        }
+        .tree-icon.tree-leaf{
+          background-position: -68px -4px;
+          cursor: auto;
+        }
+        .tree-item{
+          display: inline-block;
+          white-space: nowrap;
+          padding: 0 4px 0 1px;
+          margin: 0;
+          vertical-align: top;
+          text-decoration: none;
+          background-color: transparent;
+          color: inherit;
+          -moz-user-select:none;
+          -webkit-user-select:none;
+          -ms-user-select:none;
+          -khtml-user-select:none;
+          user-select:none;
+
+          &:hover{
+            background: #e7f4f9;
+            border-radius: 2px;
+            box-shadow: inset 0 0 1px #ccc;
+          }
+        }
+        .tree-children{
+          margin-left: 24px;
+        }
+      }
+      .tree-node:last-child{
+        background: 0 0;
+      }
+      .tree-node.open>.tree-icon{
+        background-position: -132px -4px;
+      }
+      .tree-node.open>.tree-icon.tree-leaf{
+        background-position: -68px -4px;
+        cursor: auto;
+      }
+      .tree-node{
+        a.tree-clicked{
+          background: #beebff;
+          border-radius: 2px;
+          box-shadow: inset 0 0 1px #999;
+        }
+      }
+      .hide-subtree{
+        display: none;
+      }
+    }
+    .detail{
+      position: absolute;
+      height: 100%;
+      left: 20%;
+      right: 0;
+      .left-margin{
+        margin-left: 10px;
+      }
+      .menu-board{
+        margin-left: 10px;
+        .grid.table.table-content{
+          margin-bottom: 10px;
+        }
+        .table > tbody > tr > td.left-title {
+          width: 12%;
+          border: 1px solid @border-color;
+        }
+        input[type="text"].url{
+          width: 60%;
+          height: 21px;
+        }
+        input[type='text'].form-control.name{
+          width: 20%;
+          height: 21px;
+        } 
+        input[type='text'].form-control.order{
+          width: 10%;
+          height: 21px;
+        } 
+        .radio.radio-inline{
+          margin-right: 5px;
+          label{
+            padding-left: 0px;
+          }
+          label:before{
+            width: 13px;
+            height: 13px;
+            left: 2px;
+            top: 2px;
+          }
+          label:after{
+            width: 9px;
+            height: 9px;
+            left: 4px;
+            top: 4px;
+          }
+        }
+      }
+      .usergrp{
+        margin-left: 10px;
+        .grid.table.table-content{
+          margin-bottom: 10px;
+        }
+        .table > thead > tr > th.check,
+        .table > tbody > tr > td.check{
+          border: 1px solid @border-color;
+          width: 4%;
+        }
+        .table > thead > tr > th.name,
+        .table > tbody > tr > td.name{
+          border: 1px solid @border-color;
+        }
+      }
+      .btngrp{
+        .add-btn{
+          display: inline-block;
+          margin-right: 2px;
+        }
+      }
+    }
+  }
+}

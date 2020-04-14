@@ -1,0 +1,8 @@
+/node_modules/
+/static/
+*.iml
+.project
+src/tsconfig.json
+
+npm-debug.log
+.vscode/settings.json

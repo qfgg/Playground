@@ -1,0 +1,5 @@
+export const SET_DATA = 'INCOMPARE::SET_DATA';
+export const SET_INTERVAL = 'INCOMPARE::SET_INTERVAL';
+export const SET_TOP = 'INCOMPARE::SET_TOP';
+export const SET_AVG = 'INCOMPARE::SET_AVG';
+export const SET_METHOD = 'INCOMPARE::SET_METHOD';

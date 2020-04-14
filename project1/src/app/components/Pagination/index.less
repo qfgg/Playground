@@ -1,0 +1,44 @@
+@darkbg: #373F46;
+
+.pagination-wrap{
+  text-align: center;
+  margin: 20px 0 0 0;
+
+  .btn{
+    width: 24px;
+  }
+
+  em{
+    float: left;
+  }
+
+  input[type='text'].form-control{
+    float: left;
+    font-size: 13px;
+    border-style: solid;
+    height: 24px;
+    line-height: 24px;
+    width: 30px;
+    margin-left: 3px;
+    text-align: center;
+  }
+
+  .p-skip{
+    float: right;
+    vertical-align: middle;
+  }
+
+  @media only screen and (max-width: 800px) {
+    .p-skip {display: none;}
+  }
+
+  .btn-omit{
+    cursor: text;
+  }
+
+  .btn-ok{
+    margin-left: 5px;
+    width: 30px;
+    height: 24px;
+  }
+}

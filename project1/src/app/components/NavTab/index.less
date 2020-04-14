@@ -1,0 +1,29 @@
+@darkbg: #373F46;
+@hoverblue: #41C2F5;
+@border-color: #e7eaec;
+@gray: #f3f3f4;
+@dark-gray: #c2c2c2;
+
+
+.tab-custom.nav.nav-tabs{
+  display: inline-block;
+  margin-bottom: 5px;
+  li {
+    float: left !important;
+  }
+}
+
+.tab-custom.nav.nav-tabs > li > a{
+  padding: 5px 10px;
+  color: @darkbg;
+  border: 1px solid @gray;
+  margin-right: 1px;
+}
+
+.tab-custom.nav.nav-tabs > li.active > a,
+.tab-custom.nav.nav-tabs > li a:hover, 
+.tab-custom.nav.nav-tabs > li a:focus {
+  color: @hoverblue;
+  border-color: @border-color;
+  border-bottom-color: transparent;
+}
