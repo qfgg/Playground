@@ -3,27 +3,33 @@ function TreeNode(val) {
     this.left = this.right = null;
 }
 
-function createBinary(arr) {
-    var tmp = arr.map(function(item){
-        return item === null ? item : new TreeNode(item);
-    });
-    var max = arr.length - 1;
-    var i = 0;
-    var l = 2 * i + 1;
-    var r = l + 1;
-
-    while (l <= max) {
-        if (tmp[i]) {
-            tmp[i].left = tmp[l];
-            if (r <= max) {
-                tmp[i].right = tmp[r];
-            }
-        }
-        i++;
-        l = 2 * i + 1;
-        r = l + 1;
+function buildTree(arr) {
+    if (!arr) {
+        return null;
     }
-    return tmp[0];
+
+    var root = new TreeNode(arr[0]);
+    var nodeArr = [root];
+    var left;
+    var right;
+    for (var i = 0, len = arr.length; i < len; i++) {
+        if (nodeArr[i]) {
+            left = i * 2 + 1;
+            if (left >= len) {
+                break;
+            }
+            nodeArr[left] = arr[left] === null ? null : new TreeNode(arr[left]);
+            nodeArr[i].left = nodeArr[left];
+            right = left + 1;
+            if (right >= len) {
+                break;
+            }
+            nodeArr[right] = arr[right] === null ? null : new TreeNode(arr[right]);
+            nodeArr[i].right = nodeArr[right];
+        }
+    }
+
+    return root;
 }
 
-var tree = createBinary([10,5,15,null,null,6,20]);
+var tree = buildTree([10,5,15,null,null,6,20]);

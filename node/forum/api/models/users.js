@@ -1,8 +1,8 @@
 const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs');
 
 
 const userSchema = mongoose.Schema({
-    _id: mongoose.Schema.Types.ObjectId,
     username: {
         type: String,
         required: true,
@@ -13,6 +13,23 @@ const userSchema = mongoose.Schema({
         type: String,
         required: true,
         trim: true
+    }
+});
+
+userSchema.pre('save', function(next) {
+    const user = this;
+    if (!user.isModified || !user.isNew) {
+        next();
+    } else {
+        bcrypt.hash(user.password, 10, function(err, hash) {
+            if (err) {
+                console.log('Error hashing password', user.name);
+                next(err);
+            } else {
+                user.password = hash;
+                next();
+            }
+        });
     }
 });
 

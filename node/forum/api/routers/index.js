@@ -1,34 +1,16 @@
 const express = require('express');
-const bcrypt = require('bcryptjs');
-const User = require('../models/users.js');
-const Topic = require('../models/topics.js');
-const router = express.Router;
+const router = express.Router();
+const userController = require('../controller/user.js');
+const topicController = require('../controller/topic.js');
+const validateToken = require('../common/util.js').valitateToken;
 
 
-router.post('/addUser', (req, res) => {
-    let user = new User();
-    const { username, password } = req.body;
+router.post('/addUser', userController.addUser);
+router.post('/login', userController.login);
+router.get('/logout', userController.logout);
+router.get('/getUserInfo', validateToken, userController.getUserInfo);
 
-    if (!username || !password) {
-        return res.json({
-            success: false,
-            error: 'username or password is missing'
-        });
-    }
-    user.username = username;
-    user.password = password;
-
-    user.save((err) => {
-        if (err) {
-            return res.json({
-                success: false,
-                error: err
-            });
-        }
-        return res.json({
-            success: true
-        });
-    })
-});
+router.post('/addTopic', validateToken, topicController.addTopic);
+router.get('/getTopics', topicController.getTopics);
 
 module.exports = router;

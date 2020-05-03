@@ -1,5 +1,0 @@
-export const SET_DATA = 'EXCOMPARE::SET_DATA';
-export const SET_INTERVAL = 'EXCOMPARE::SET_INTERVAL';
-export const SET_TOP = 'EXCOMPARE::SET_TOP';
-export const SET_AVG = 'EXCOMPARE::SET_AVG';
-export const SET_METHOD = 'EXCOMPARE::SET_METHOD';

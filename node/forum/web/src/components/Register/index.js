@@ -1,4 +1,7 @@
 import React, { Component } from "react";
+import { Link, withRouter } from "react-router-dom";
+import axios from 'axios';
+import { BASE_URL } from '../../common/js/constants.js';
 import './index.scss';
 
 
@@ -26,35 +29,56 @@ class Register extends Component {
         });
     }
 
-    addUser() {}
+    addUser() {
+        const { username, password } = this.state;
+
+        axios.post(`${BASE_URL}/addUser`, {
+            username,
+            password
+        })
+            .then(res => {
+                console.log(res);
+                alert('registered successfully');
+                this.props.history.push('/login');
+            })
+            .catch(err => console.log(err));
+    }
 
     render() {
         const { username, password } = this.state;
 
         return (
-            <div className="register">
-                <div className="form-group userinfo">
-                    <label htmlFor="username">Username:</label>
-                    <input
-                        id="username"
-                        className="form-control"
-                        value={username}
-                        onChange={this.handleChangeUsername}
-                    />
-                    <label htmlFor="password">Password:</label>
-                    <input
-                        id="password"
-                        className="form-control"
-                        value={password}
-                        onChange={this.handleChangePassword}
-                    />
-                    <button className="btn btn-primary adduser-btn mt10" onClick={this.addUser}>
-                        Register
-                    </button>
+            <div>
+                <div className="navbar">
+                    <Link to="/">Home </Link>
+                </div>
+                <div className="register-main">
+                    <div className="form-group userinfo">
+                        <label htmlFor="username">Username:</label>
+                        <input
+                            id="username"
+                            className="form-control"
+                            value={username}
+                            onChange={this.handleChangeUsername}
+                        />
+                        <label htmlFor="password">Password:</label>
+                        <input
+                            id="password"
+                            className="form-control"
+                            value={password}
+                            onChange={this.handleChangePassword}
+                        />
+                        <button
+                            className="btn btn-primary adduser-btn mt10"
+                            onClick={this.addUser}
+                        >
+                            Register
+                        </button>
+                    </div>
                 </div>
             </div>
         );
     }
 }
 
-export default Register;
+export default withRouter(Register);
