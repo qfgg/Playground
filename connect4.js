@@ -19,7 +19,7 @@ function win(x, y) {
         }
     } else {
         hash[x + '-' + y] = hash[c[0][0] + '-' + c[0][1]];
-        newRoot = hash[c[0][0] + '-' + c[0][1]];
+        newRoot = root[hash[c[0][0] + '-' + c[0][1]]];
         
         for (var i = 1; i <c.length; i++) {
             if (root[hash[c[i][0] + '-' + c[i][1]]] === hash[c[i][0] + '-' + c[i][1]]) {
