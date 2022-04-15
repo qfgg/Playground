@@ -3,6 +3,7 @@ function Node(val) {
     this.children = null;
 }
 
+// method1: recursion
 function getTree(str, start, end) {
     let i = start;
     while (str[i] !== '(' && i < end) {
@@ -47,5 +48,53 @@ function fn(str) {
     return getTree(str, 0, str.length);
 }
 
+// method2: traverse 1 time, stack
+function addChild(parent, name) {
+    if (!name) {
+      return;
+    }
+    const child = new Node(name);
+    if (parent.children) {
+      parent.children.push(child);
+    } else {
+      parent.children = [child];
+    }
+    return child;
+}
+    
+function optimizedFn(str) {
+    let root = null;
+    let currentParent = null;
+    let parents = [];
+    const len = str.length;
+    let i = 0;
+    let name = '';
+    while (i < len) {
+      if (str[i] === '(') {
+        if (currentParent) {
+          currentParent = addChild(currentParent, name);
+        } else {
+          currentParent = new Node(name);
+          root = currentParent;
+        }
+        name = '';
+        parents.push(currentParent);
+      } else if (str[i] === ')') {
+        addChild(currentParent, name);
+        name = '';
+        parents.pop()
+        currentParent = parents[parents.length - 1];
+      } else if (str[i] === ',') {
+        addChild(currentParent, name);
+        name = '';
+      } else {
+        name += str[i];
+      }
+      i++;
+    }
+    return root;
+}
+
 const input = 'A(B,C(C1,C2(C21,C22),C3),D(D1,D2))';
-console.log(fn(input));
+const r = optimizedFn(input);
+console.log(r);
