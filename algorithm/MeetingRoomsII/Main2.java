@@ -21,22 +21,23 @@ class Main {
     public static int meetingRoom2(int[][] itv) {
         int count = 0;
         int num = 0;
-        int len = itv.length * 2;
-        int[] time = new int[len];
-        int i = 0;
+        List<Integer> time = new ArrayList<>();
+        int s, e;
         HashMap<Integer, Integer> start = new HashMap<>();
         HashMap<Integer, Integer> end = new HashMap<>();
         for (int[] it : itv) {
-            if (!start.containsKey(it[0])) {
-                start.put(it[0], 1);
+            s = start.containsKey(it[0]) ? start.get(it[0]) + 1 : 1;
+            start.put(it[0], s);
+            if (s == 1 && !end.containsKey(it[0])) {
+                time.add(it[0]);
             }
-            if (!end.containsKey(it[1])) {
-                end.put(it[1], 1);
+            e = end.containsKey(it[1]) ? end.get(it[1]) + 1 : 1;
+            end.put(it[1], e);
+            if (e == 1 && !start.containsKey(it[1])) {
+                time.add(it[1]);
             }
-            time[i++] = it[0];
-            time[i++] = it[1];
         }
-        Arrays.sort(time);
+        Collections.sort(time);
         for (int t : time) {
             if (start.containsKey((t))) {
                 count += start.get(t);
