@@ -16,32 +16,25 @@ class TreeNode {
 }
 
 public class Main {
-    public static TreeNode[] dfs(TreeNode root, TreeNode p, TreeNode[] ans) {
-        if (ans[0] != null) {
-            return null;
-        }
-        TreeNode[] lMinMax = null;
-        TreeNode[] rMinMax = null;
-        if (root.left != null) {
-            lMinMax = dfs(root.left, p, ans);
-        }
-        if (lMinMax != null && lMinMax[1] == p) {
-            ans[0] = root;
-        }
-        if (root.right != null) {
-            rMinMax = dfs(root.right, p, ans);
-        }
-        if (rMinMax != null && root == p) {
-            ans[0] = rMinMax[0];
-        }
-        TreeNode lMin = lMinMax == null ? root : lMinMax[0];
-        TreeNode rMax = rMinMax == null ? root : rMinMax[1];
-        return new TreeNode[]{lMin, rMax};
-    }
     public static TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
-        TreeNode[] ans = new TreeNode[1];
-        dfs(root, p, ans);
-        return ans[0];
+        if (p.right == null) {
+            TreeNode preRoot = null;
+            while (root != p && root != null) {
+                if (p.val > root.val) {
+                    root = root.right;
+                } else {
+                    preRoot = root;
+                    root = root.left;
+                }
+            }
+            return preRoot;
+        }
+
+        TreeNode cur = p.right;
+        while (cur.left != null) {
+            cur = cur.left;
+        }
+        return cur;
     }
     public static void main(String args[]) {
         TreeNode r = new TreeNode(6);
@@ -51,11 +44,14 @@ public class Main {
         r.left.left = new TreeNode(1);
         r.left.right = new TreeNode(4);
         r.left.right.left = new TreeNode(3);
-        r.left.right.right = new TreeNode(5);
+        TreeNode q = new TreeNode(5);
+        r.left.right.right = q;
         r.right.left = new TreeNode(8);
         r.right.left.left = new TreeNode(7);
         r.right.left.right = new TreeNode(9);
         TreeNode ans = inorderSuccessor(r, p);
+        System.out.println(ans == null ? ans : ans.val);
+        ans = inorderSuccessor(r, q);
         System.out.println(ans == null ? ans : ans.val);
     }
 }
