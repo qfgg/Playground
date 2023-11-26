@@ -38,7 +38,30 @@ public class Main {
         return false;
     }
     public static boolean exist(char[][] board, String word) {
-        char cur = word.charAt(0);
+        int wordLen = word.length();
+        if (wordLen > board.length * board[0].length) {
+            return false;
+        }
+        int[] lowermap = new int[26];
+        int[] uppermap = new int[26];
+        for (char[] row : board) {
+            for (char c : row) {
+                if (c >= 'a' && c <= 'z' && lowermap[c - 'a'] == 0) {
+                    lowermap[c - 'a'] = 1;
+                } else if (c >= 'A' && c <= 'Z' && uppermap[c - 'A'] == 0) {
+                    uppermap[c - 'A'] = 1;
+                }
+            }
+        }
+        char cur;
+        for (int i = 0; i < wordLen; i++) {
+            cur = word.charAt(i);
+            if ((cur >= 'a' && cur <= 'z' && lowermap[cur - 'a'] == 0) ||
+                    (cur >= 'A' && cur <= 'Z' && uppermap[cur - 'A'] == 0)) {
+                return false;
+            }
+        }
+        cur = word.charAt(0);
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[0].length; j++) {
                 if (board[i][j] == cur) {
