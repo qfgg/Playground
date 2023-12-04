@@ -1,10 +1,10 @@
 public class Main {
-    public static int knapsack01(int W, int n, int[] w, int[] v) {
+    public static int knapsack01(int W, int N, int[] w, int[] v) {
         int[] dp = new int[W + 1];
-        for (int i = 0; i < n; i++) {
-            for (int j = W; j >= 0; j--) {
-                if (j >= w[i]) {
-                    dp[j] = Math.max(dp[j], v[i] + dp[j - w[i]]);
+        for (int i = 0; i < N; i++) {
+            for (int j = W; j >= w[i]; j--) {
+                if (v[i] + dp[j - w[i]] > dp[j]) {
+                    dp[j] = v[i] + dp[j - w[i]];
                 }
             }
         }
