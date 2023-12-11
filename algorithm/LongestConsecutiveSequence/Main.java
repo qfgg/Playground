@@ -6,51 +6,37 @@ public class Main {
         if (nums.length == 0) {
             return 0;
         }
-        HashMap<Integer, Integer> cons = new HashMap<>();
-        int max = 1, leftEnd, rightEnd, len;
+        HashMap<Integer, Integer> lens = new HashMap<>();
+        int max = 1, ll, lr, len = 0;
         boolean hasLeft, hasRight;
         for (int num: nums) {
-            if (cons.containsKey(num)) {
+            if (lens.containsKey(num)) {
                 continue;
             }
-            hasLeft = cons.containsKey(num - 1);
-            hasRight = cons.containsKey(num + 1);
+            hasLeft = lens.containsKey(num - 1);
+            hasRight = lens.containsKey(num + 1);
             if (!hasLeft && !hasRight) {
-                if (!cons.containsKey(num)) {
-                    cons.put(num, num);
-                }
+                lens.put(num, 1);
+            } else if (hasLeft && hasRight) {
+                ll = lens.get(num - 1);
+                lr = lens.get(num + 1);
+                len = ll + lr + 1;
+                lens.put(num, len);
+                lens.put(num - ll, len);
+                lens.put(num + lr, len);
+            } else if (hasLeft) {
+                ll = lens.get(num - 1);
+                len = ll + 1;
+                lens.put(num, len);
+                lens.put(num - ll, len);
             } else {
-                len = 0;
-                if (hasLeft && !hasRight) {
-                    leftEnd = cons.get(num - 1);
-                    if (leftEnd < num) {
-                        cons.remove(num - 1);
-                        cons.put(leftEnd, num);
-                        cons.put(num, leftEnd);
-                        len = num - leftEnd + 1;
-                    }
-                } else if (!hasLeft) {
-                    rightEnd = cons.get(num + 1);
-                    if (rightEnd > num) {
-                        cons.remove(num + 1);
-                        cons.put(rightEnd, num);
-                        cons.put(num, rightEnd);
-                        len = rightEnd - num + 1;
-                    }
-                } else {
-                    leftEnd = cons.get(num - 1);
-                    rightEnd = cons.get(num + 1);
-                    if (leftEnd < num && rightEnd > num) {
-                        cons.remove(num - 1);
-                        cons.remove(num + 1);
-                        cons.put(leftEnd, rightEnd);
-                        cons.put(rightEnd, leftEnd);
-                        len = rightEnd - leftEnd + 1;
-                    }
-                }
-                if (len > max) {
-                    max = len;
-                }
+                lr = lens.get(num + 1);
+                len = lr + 1;
+                lens.put(num, len);
+                lens.put(num + lr, len);
+            }
+            if (len > max) {
+                max= len;
             }
         }
         return max;
