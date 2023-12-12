@@ -1,69 +1,66 @@
 import java.util.*;
 
-
+// 0b0000000000 represents vacancy of a row
 public class Main {
-//    availabilty state 0: 2-9, 1: 2-5, 2: 6-9, 3: 4-7, 4: 2-7, 5: 4-9
     public static int maxNumberOfFamilies(int n, int[][] reservedSeats) {
-        HashMap<Integer, Integer> rowLeftRight = new HashMap<>();
-        int ans = n * 2;
-        int state;
+        HashMap<Integer, Integer> seatState = new HashMap<>();
+        int ans = n * 2, curState;
         for (int[] rs : reservedSeats) {
-            state = rowLeftRight.containsKey(rs[0]) ?
-                    rowLeftRight.get(rs[0]) : 0;
-            if (state == 0) {
-                if (rs[1] == 2 || rs[1] == 3) {
-                    rowLeftRight.put(rs[0], 5);
+            if (rs[1] == 1 || rs[1] == 10) {
+                continue;
+            }
+            curState = seatState.getOrDefault(rs[0], 0);
+            if (curState == 0b0000000000) {
+                if (rs[1] < 4) {
+                    seatState.put(rs[0], 0b0110000000);
+                } else if (rs[1] < 6) {
+                    seatState.put(rs[0], 0b0111100000);
+                } else if (rs[1] < 8) {
+                    seatState.put(rs[0], 0b0000011110);
+                } else {
+                    seatState.put(rs[0], 0b0000000110);
+                }
+                ans--;
+            } else if (curState == 0b0000000110) {
+                if (rs[1] < 4) {
+                    seatState.put(rs[0], 0b0110000110);
+                } else if (rs[1] < 6) {
+                    seatState.put(rs[0], 0b0111111110);
                     ans--;
-                } else if (rs[1] == 4 || rs[1] == 5) {
-                    rowLeftRight.put(rs[0], 2);
+                } else if (rs[1] < 8) {
+                    seatState.put(rs[0], 0b0000011110);
+                }
+            } else if (curState == 0b0110000000) {
+                if (rs[1] > 7) {
+                    seatState.put(rs[0], 0b0110000110);
+                } else if (rs[1] > 5) {
+                    seatState.put(rs[0], 0b0111111110);
                     ans--;
-                } else if (rs[1] == 6 || rs[1] == 7) {
-                    rowLeftRight.put(rs[0], 1);
-                    ans--;
-                } else if (rs[1] == 8 || rs[1] == 9) {
-                    rowLeftRight.put(rs[0], 4);
+                } else if (rs[1] > 3) {
+                    seatState.put(rs[0], 0b0111100000);
+                }
+            } else if (curState == 0b0000011110) {
+                if (rs[1] < 6) {
+                    seatState.put(rs[0], 0b0111111110);
                     ans--;
                 }
-            } else if (state == 1) {
-                if (rs[1] >= 2 && rs[1] <= 5) {
-                    rowLeftRight.put(rs[0], -1);
+            } else if (curState == 0b0110000110) {
+                if (rs[1] > 3 && rs[1] < 8) {
+                    seatState.put(rs[0], 0b0111111110);
                     ans--;
                 }
-            } else if (state == 2) {
-                if (rs[1] >= 6 && rs[1] <= 9) {
-                    rowLeftRight.put(rs[0], -1);
+            } else if (curState == 0b0111100000) {
+                if (rs[1] > 5) {
+                    seatState.put(rs[0], 0b0111111110);
                     ans--;
-                }
-            } else if (state == 3) {
-                if (rs[1] >= 4 && rs[1] <= 7) {
-                    rowLeftRight.put(rs[0], -1);
-                    ans--;
-                }
-            } else if (state == 4) {
-                if (rs[1] == 2 || rs[1] == 3) {
-                    rowLeftRight.put(rs[0], 3);
-                } else if (rs[1] == 4 || rs[1] == 5) {
-                    rowLeftRight.put(rs[0], -1);
-                    ans--;
-                } else if (rs[1] == 6 || rs[1] == 7) {
-                    rowLeftRight.put(rs[0], 1);
-                }
-            } else if (state == 5) {
-                if (rs[1] == 4 || rs[1] == 5) {
-                    rowLeftRight.put(rs[0], 2);
-                } else if (rs[1] == 6 || rs[1] == 7) {
-                    rowLeftRight.put(rs[0], -1);
-                    ans--;
-                } else if (rs[1] == 8 || rs[1] == 9) {
-                    rowLeftRight.put(rs[0], 3);
                 }
             }
         }
         return ans;
     }
     public static void main(String[] args) {
-        int n = 4;
-        int[][] reservedSeats = new int[][]{{4,3},{1,4},{4,6},{1,7}};
+        int n = 3;
+        int[][] reservedSeats = new int[][]{{1,2},{1,3},{1,8},{2,6},{3,1},{3,10}};
         int ans = maxNumberOfFamilies(n, reservedSeats);
         System.out.println(ans);
     }
