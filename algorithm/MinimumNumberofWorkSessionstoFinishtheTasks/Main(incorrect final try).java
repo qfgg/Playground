@@ -1,5 +1,9 @@
 import java.util.*;
 
+// cannot pass case because 10 4 3 2 1, 01 knapsack cannot control every choice
+// (prefer 4,1 to 3,2, but 3,2 first done)
+// int[] tasks = new int[]{1, 2, 2, 3, 3, 3, 4, 4, 9, 9, 10, 10};
+// int sessionTime = 15;
 public class Main {
     public static void fillOne(int[] tasks, int sessionTime, int rest, int taken, int n, int[] min) {
         if (n >= min[0]) {
