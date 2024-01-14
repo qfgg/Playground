@@ -2,7 +2,7 @@ public class Main {
     public static int maxSubArray(int[] nums) {
         int len = nums.length;
         int[] dp = new int[len];
-        int max = 0;
+        int max = Integer.MIN_VALUE;
 
         dp[0] = nums[0];
         if (dp[0] > max) {

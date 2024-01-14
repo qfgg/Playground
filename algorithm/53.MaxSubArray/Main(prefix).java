@@ -3,7 +3,7 @@ public class Main {
         int len = nums.length;
         int[] prefixSum = new int[len];
         int minPrefixSum = 0;
-        int max = 0;
+        int max = Integer.MIN_VALUE;
 
         prefixSum[0] = nums[0];
         if (prefixSum[0] > max) {
