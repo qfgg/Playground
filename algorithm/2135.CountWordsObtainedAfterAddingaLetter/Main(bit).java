@@ -8,7 +8,7 @@ public class Main {
             l = sw.length();
             tmp = 0;
             for (i = 0; i < l; i++) {
-                tmp += (1 << (sw.charAt(i) - 'a'));
+                tmp |= (1 << (sw.charAt(i) - 'a'));
             }
             startSet.add(tmp);
         }
@@ -18,7 +18,7 @@ public class Main {
                 tmp = 0;
                 for (j = 0; j < l; j++) {
                     if (j != i) {
-                        tmp += (1 << (tw.charAt(j) - 'a'));
+                        tmp |= (1 << (tw.charAt(j) - 'a'));
                     }
                 }
                 if (startSet.contains(tmp)) {
