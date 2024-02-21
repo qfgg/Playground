@@ -37,12 +37,13 @@ public class Main {
         return dist[rn - 1][cn - 1];
     }
     public static void main(String[] args) {
-        int[][] heights = new int[][]{
-                {15, 16, 14, 11},
-                {16, 8, 19, 6},
-                {6, 12, 19, 8},
-                {3, 14, 11, 16},
-        };
+        int[][] heights = new int[100][100];
+        Random r = new Random();
+        for (int i = 0; i < 100; i++) {
+            for (int j = 0; j < 100; j++) {
+                heights[i][j] = r.nextInt(1000000) + 1;
+            }
+        }
         int res = minimumEffortPath(heights);
         System.out.println(res);
     }
