@@ -5,6 +5,7 @@ class Trie {
     Trie[] next;
     public Trie() {
         next = new Trie[26];
+        isEnd = false;
     }
 
     public void insert(String word) {
